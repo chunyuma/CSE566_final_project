@@ -76,6 +76,7 @@ sed -i.bk "s/samtools=/samtools=CAMISIM\//" ${working_folder}/CAMISIM/new_config
 sed -i.bk "s/size=0.1/size=1/" ${working_folder}/CAMISIM/new_config_settting_run/virus_run/mini_config.ini
 sed -i.bk "s/ncbi_taxdump=tools\/ncbi-taxonomy_20170222.tar.gz/ncbi_taxdump=~\/work\/CSE566finalproject\/data\/ncbi-new_taxonomy_20210411_fixed.tar.gz/" ${working_folder}/CAMISIM/new_config_settting_run/virus_run/mini_config.ini
 sed -i.bk "s/strain_simulation_template=/strain_simulation_template=CAMISIM\//" ${working_folder}/CAMISIM/new_config_settting_run/virus_run/mini_config.ini
+sed -i.bk "s/number_of_samples=10/number_of_samples=1/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
 sed -i.bk "s/metadata=defaults\/metadata.tsv/metadata=~\/work\/CSE566finalproject\/CAMISIM\/new_config_settting_run\/virus_run\/metadata.tsv/" ${working_folder}/CAMISIM/new_config_settting_run/virus_run/mini_config.ini
 sed -i.bk "s/id_to_genome_file=defaults\/genome_to_id.tsv/id_to_genome_file=~\/work\/CSE566finalproject\/CAMISIM\/new_config_settting_run\/virus_run\/genome_to_id_file.tsv/" ${working_folder}/CAMISIM/new_config_settting_run/virus_run/mini_config.ini
 sed -i.bk "s/genomes_total=24/genomes_total=${count_genomes}/" ${working_folder}/CAMISIM/new_config_settting_run/virus_run/mini_config.ini
@@ -96,6 +97,7 @@ sed -i.bk "s/samtools=/samtools=CAMISIM\//" ${working_folder}/CAMISIM/new_config
 sed -i.bk "s/size=0.1/size=1/" ${working_folder}/CAMISIM/new_config_settting_run/fungi_run/mini_config.ini
 sed -i.bk "s/ncbi_taxdump=tools\/ncbi-taxonomy_20170222.tar.gz/ncbi_taxdump=~\/work\/CSE566finalproject\/data\/ncbi-new_taxonomy_20210411_fixed.tar.gz/" ${working_folder}/CAMISIM/new_config_settting_run/fungi_run/mini_config.ini
 sed -i.bk "s/strain_simulation_template=/strain_simulation_template=CAMISIM\//" ${working_folder}/CAMISIM/new_config_settting_run/fungi_run/mini_config.ini
+sed -i.bk "s/number_of_samples=10/number_of_samples=1/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
 sed -i.bk "s/metadata=defaults\/metadata.tsv/metadata=~\/work\/CSE566finalproject\/CAMISIM\/new_config_settting_run\/fungi_run\/metadata.tsv/" ${working_folder}/CAMISIM/new_config_settting_run/fungi_run/mini_config.ini
 sed -i.bk "s/id_to_genome_file=defaults\/genome_to_id.tsv/id_to_genome_file=~\/work\/CSE566finalproject\/CAMISIM\/new_config_settting_run\/fungi_run\/genome_to_id_file.tsv/" ${working_folder}/CAMISIM/new_config_settting_run/fungi_run/mini_config.ini
 sed -i.bk "s/genomes_total=24/genomes_total=${count_genomes}/" ${working_folder}/CAMISIM/new_config_settting_run/fungi_run/mini_config.ini
@@ -212,6 +214,7 @@ sed -i.bk "s/samtools=/samtools=CAMISIM\//" ${working_folder}/CAMISIM/new_config
 sed -i.bk "s/size=0.1/size=1/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
 sed -i.bk "s/ncbi_taxdump=tools\/ncbi-taxonomy_20170222.tar.gz/ncbi_taxdump=~\/work\/CSE566finalproject\/data\/ncbi-new_taxonomy_20210411_fixed.tar.gz/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
 sed -i.bk "s/strain_simulation_template=/strain_simulation_template=CAMISIM\//" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+sed -i.bk "s/number_of_samples=10/number_of_samples=1/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
 sed -i.bk "s/metadata=defaults\/metadata.tsv/metadata=~\/work\/CSE566finalproject\/CAMISIM\/new_config_settting_run\/robustness_test\/virus_run\/metadata.tsv/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
 sed -i.bk "s/id_to_genome_file=defaults\/genome_to_id.tsv/id_to_genome_file=~\/work\/CSE566finalproject\/CAMISIM\/new_config_settting_run\/robustness_test\/virus_run\/genome_to_id_file.tsv/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
 sed -i.bk "s/genomes_total=24/genomes_total=${count_genomes}/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
@@ -232,6 +235,7 @@ sed -i.bk "s/samtools=/samtools=CAMISIM\//" ${working_folder}/CAMISIM/new_config
 sed -i.bk "s/size=0.1/size=1/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
 sed -i.bk "s/ncbi_taxdump=tools\/ncbi-taxonomy_20170222.tar.gz/ncbi_taxdump=~\/work\/CSE566finalproject\/data\/ncbi-new_taxonomy_20210411_fixed.tar.gz/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
 sed -i.bk "s/strain_simulation_template=/strain_simulation_template=CAMISIM\//" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+sed -i.bk "s/number_of_samples=10/number_of_samples=1/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
 sed -i.bk "s/metadata=defaults\/metadata.tsv/metadata=~\/work\/CSE566finalproject\/CAMISIM\/new_config_settting_run\/robustness_test\/fungi_run\/metadata.tsv/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
 sed -i.bk "s/id_to_genome_file=defaults\/genome_to_id.tsv/id_to_genome_file=~\/work\/CSE566finalproject\/CAMISIM\/new_config_settting_run\/robustness_test\/fungi_run\/genome_to_id_file.tsv/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
 sed -i.bk "s/genomes_total=24/genomes_total=${count_genomes}/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
