@@ -198,3 +198,43 @@ python ${working_folder}/github_repos/OPAL/opal.py -g ${working_folder}/data/sim
 ######## for mock community data
 python ${working_folder}/py_scripts/generate_gold_standard_cami_fmt_mock.py --tax_name_dump ${working_folder}/data/temp/names.dmp --tax_nodes_dump ${working_folder}/data/temp/nodes.dmp --taxonomy_path ${working_folder}/data/mock_data/virus/taxonomy.tsv --cami_file_path ${working_folder}/data/mock_data/virus/gold_standard_cami_fmt.profile --SampleID mock_viruses
 
+######## add new unknown genome for testing robustness 
+## for virus 
+python ${working_folder}/py_scripts/add_genome_fasta.py --path ${working_folder}/data/viruses_fungi_info/unknown_virus_taxon_ids.txt --new_n_species 30 --out_fasta ${working_folder}/data/simulated_data/robustness_test/fasta/viruses --out_camisim_input_files ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run
+count_genomes=`ls ${working_folder}/data/simulated_data/robustness_test/fasta/viruses | wc -l`
+cp ${working_folder}/CAMISIM/defaults/mini_config.ini ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/
+sed -i.bk "s/max_processors=8/max_processors=16/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+sed -i.bk "s/dataset_id=RL/dataset_id=virus_simulated_data/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+sed -i.bk "s/output_directory=out/output_directory=~\/work\/CSE566finalproject\/data\/simulated_data\/robustness_test\/camisim_out\/viruses/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+sed -i.bk "s/readsim=/readsim=CAMISIM\//" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+sed -i.bk "s/error_profiles=/error_profiles=CAMISIM\//" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+sed -i.bk "s/samtools=/samtools=CAMISIM\//" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+sed -i.bk "s/size=0.1/size=1/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+sed -i.bk "s/ncbi_taxdump=tools\/ncbi-taxonomy_20170222.tar.gz/ncbi_taxdump=~\/work\/CSE566finalproject\/data\/ncbi-new_taxonomy_20210411_fixed.tar.gz/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+sed -i.bk "s/strain_simulation_template=/strain_simulation_template=CAMISIM\//" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+sed -i.bk "s/metadata=defaults\/metadata.tsv/metadata=~\/work\/CSE566finalproject\/CAMISIM\/new_config_settting_run\/robustness_test\/virus_run\/metadata.tsv/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+sed -i.bk "s/id_to_genome_file=defaults\/genome_to_id.tsv/id_to_genome_file=~\/work\/CSE566finalproject\/CAMISIM\/new_config_settting_run\/robustness_test\/virus_run\/genome_to_id_file.tsv/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+sed -i.bk "s/genomes_total=24/genomes_total=${count_genomes}/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+sed -i.bk "s/genomes_real=24/genomes_real=${count_genomes}/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+
+python ${working_folder}/CAMISIM/metagenomesimulation.py ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/virus_run/mini_config.ini
+
+## for fungi 
+python ${working_folder}/py_scripts/add_genome_fasta.py --path ${working_folder}/data/viruses_fungi_info/unknown_fungi_taxon_ids.txt --new_n_species 30 --out_fasta ${working_folder}/data/simulated_data/robustness_test/fasta/fungi --out_camisim_input_files ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run
+count_genomes=`ls ${working_folder}/data/simulated_data/robustness_test/fasta/fungi | wc -l`
+cp ${working_folder}/CAMISIM/defaults/mini_config.ini ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/
+sed -i.bk "s/max_processors=8/max_processors=16/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+sed -i.bk "s/dataset_id=RL/dataset_id=virus_simulated_data/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+sed -i.bk "s/output_directory=out/output_directory=~\/work\/CSE566finalproject\/data\/simulated_data\/robustness_test\/camisim_out\/fungi/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+sed -i.bk "s/readsim=/readsim=CAMISIM\//" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+sed -i.bk "s/error_profiles=/error_profiles=CAMISIM\//" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+sed -i.bk "s/samtools=/samtools=CAMISIM\//" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+sed -i.bk "s/size=0.1/size=1/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+sed -i.bk "s/ncbi_taxdump=tools\/ncbi-taxonomy_20170222.tar.gz/ncbi_taxdump=~\/work\/CSE566finalproject\/data\/ncbi-new_taxonomy_20210411_fixed.tar.gz/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+sed -i.bk "s/strain_simulation_template=/strain_simulation_template=CAMISIM\//" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+sed -i.bk "s/metadata=defaults\/metadata.tsv/metadata=~\/work\/CSE566finalproject\/CAMISIM\/new_config_settting_run\/robustness_test\/fungi_run\/metadata.tsv/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+sed -i.bk "s/id_to_genome_file=defaults\/genome_to_id.tsv/id_to_genome_file=~\/work\/CSE566finalproject\/CAMISIM\/new_config_settting_run\/robustness_test\/fungi_run\/genome_to_id_file.tsv/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+sed -i.bk "s/genomes_total=24/genomes_total=${count_genomes}/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+sed -i.bk "s/genomes_real=24/genomes_real=${count_genomes}/" ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
+
+python ${working_folder}/CAMISIM/metagenomesimulation.py ${working_folder}/CAMISIM/new_config_settting_run/robustness_test/fungi_run/mini_config.ini
