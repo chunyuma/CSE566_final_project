@@ -1,0 +1,448 @@
+@SampleID:/home/ugrads/cqm5886/work/CSE566finalproject/data/simulated_data/camisim_out/viruses/2021.04.13_11.56.31_sample_0/reads/anonymous_reads.fq
+@Version:Metalign
+@Ranks: superkingdom|phylum|class|order|family|genus|species|strain
+
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE	_CAMI_genomeID	_CAMI_OTU
+10239	superkingdom	10239	Viruses	96.29004
+2	superkingdom	2	Bacteria	0.00638
+2759	superkingdom	2759	Eukaryota	0.00179
+1239	phylum	2|1239	Bacteria|Firmicutes	0.00578
+4890	phylum	2759|4890	Eukaryota|Ascomycota	0.0008
+1224	phylum	2|1224	Bacteria|Proteobacteria	0.0005
+6029	phylum	2759|6029	Eukaryota|Microsporidia	0.00034
+5794	phylum	2759|5794	Eukaryota|Apicomplexa	0.00015
+4761	phylum	2759|4761	Eukaryota|Chytridiomycota	0.00011
+186801	class	2|1239|186801	Bacteria|Firmicutes|Clostridia	0.00528
+4891	class	2759|4890|4891	Eukaryota|Ascomycota|Saccharomycetes	0.00046
+28211	class	2|1224|28211	Bacteria|Proteobacteria|Alphaproteobacteria	0.00044
+91061	class	2|1239|91061	Bacteria|Firmicutes|Bacilli	0.00042
+147550	class	2759|4890|147550	Eukaryota|Ascomycota|Sordariomycetes	0.00027
+422676	class	2759|5794|422676	Eukaryota|Apicomplexa|Aconoidasida	0.00015
+451455	class	2759|4761|451455	Eukaryota|Chytridiomycota|Neocallimastigomycetes	0.00011
+11157	order	10239|||11157	Viruses|||Mononegavirales	3.01397
+76804	order	10239|||76804	Viruses|||Nidovirales	2.0195
+1980410	order	10239|||1980410	Viruses|||Bunyavirales	0.7733
+464095	order	10239|||464095	Viruses|||Picornavirales	0.24836
+2169561	order	10239|||2169561	Viruses|||Ortervirales	0.04888
+675063	order	10239|||675063	Viruses|||Tymovirales	0.04087
+186802	order	2|1239|186801|186802	Bacteria|Firmicutes|Clostridia|Clostridiales	0.00528
+4892	order	2759|4890|4891|4892	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales	0.00046
+204441	order	2|1224|28211|204441	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodospirillales	0.00035
+1385	order	2|1239|91061|1385	Bacteria|Firmicutes|Bacilli|Bacillales	0.00035
+5125	order	2759|4890|147550|5125	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales	0.00019
+5819	order	2759|5794|422676|5819	Eukaryota|Apicomplexa|Aconoidasida|Haemosporida	0.00015
+5789	order	2759|||5789	Eukaryota|||Physariida	0.00015
+29006	order	2759|4761|451455|29006	Eukaryota|Chytridiomycota|Neocallimastigomycetes|Neocallimastigales	0.00011
+10486	family	10239||||10486	Viruses||||Iridoviridae	57.08466
+549779	family	10239||||549779	Viruses||||Mimiviridae	12.13852
+10880	family	10239||||10880	Viruses||||Reoviridae	7.22675
+11617	family	10239||||11617	Viruses||||Arenaviridae	6.54161
+151340	family	10239||||151340	Viruses||||Papillomaviridae	3.01615
+11270	family	10239|||11157|11270	Viruses|||Mononegavirales|Rhabdoviridae	2.04525
+76803	family	10239|||76804|76803	Viruses|||Nidovirales|Arteriviridae	1.8002
+10508	family	10239||||10508	Viruses||||Adenoviridae	1.07171
+11050	family	10239||||11050	Viruses||||Flaviviridae	0.86443
+10780	family	10239||||10780	Viruses||||Parvoviridae	0.59051
+11158	family	10239|||11157|11158	Viruses|||Mononegavirales|Paramyxoviridae	0.40905
+1980416	family	10239|||1980410|1980416	Viruses|||Bunyavirales|Peribunyaviridae	0.36312
+1980418	family	10239|||1980410|1980418	Viruses|||Bunyavirales|Phenuiviridae	0.33327
+151341	family	10239||||151341	Viruses||||Polyomaviridae	0.26222
+12058	family	10239|||464095|12058	Viruses|||Picornavirales|Picornaviridae	0.22686
+11118	family	10239|||76804|11118	Viruses|||Nidovirales|Coronaviridae	0.2193
+1980413	family	10239|||1980410|1980413	Viruses|||Bunyavirales|Hantaviridae	0.07158
+11974	family	10239||||11974	Viruses||||Caliciviridae	0.07017
+10811	family	10239||||10811	Viruses||||Geminiviridae	0.06588
+39729	family	10239||||39729	Viruses||||Potyviridae	0.0649
+11632	family	10239|||2169561|11632	Viruses|||Ortervirales|Retroviridae	0.04888
+675068	family	10239|||675063|675068	Viruses|||Tymovirales|Betaflexiviridae	0.04087
+178830	family	10239|||11157|178830	Viruses|||Mononegavirales|Bornaviridae	0.01819
+11308	family	10239||||11308	Viruses||||Orthomyxoviridae	0.01644
+39724	family	10239||||39724	Viruses||||Circoviridae	0.01272
+1910928	family	10239||||1910928	Viruses||||Genomoviridae	0.00887
+11989	family	10239||||11989	Viruses||||Leviviridae	0.00666
+1980415	family	10239|||1980410|1980415	Viruses|||Bunyavirales|Nairoviridae	0.00532
+541000	family	2|1239|186801|186802|541000	Bacteria|Firmicutes|Clostridia|Clostridiales|Ruminococcaceae	0.00528
+2169574	family	10239||||2169574	Viruses||||Smacoviridae	0.00275
+41295	family	2|1224|28211|204441|41295	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodospirillales|Rhodospirillaceae	0.00035
+103457	family	2759|6029|||103457	Eukaryota|Microsporidia|||Dubosqiidae	0.00034
+186823	family	2|1239|91061|1385|186823	Bacteria|Firmicutes|Bacilli|Bacillales|Alicyclobacillaceae	0.00029
+34397	family	2759|4890|147550|5125|34397	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales|Clavicipitaceae	0.00019
+766764	family	2759|4890|4891|4892|766764	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae	0.00017
+1115744	family	2759|||5789|1115744	Eukaryota|||Physariida|Physaraceae	0.00015
+1639121	family	2759|5794|422676|5819|1639121	Eukaryota|Apicomplexa|Aconoidasida|Haemosporida|Haemoproteidae	0.00015
+4893	family	2759|4890|4891|4892|4893	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae	0.00014
+29007	family	2759|4761|451455|29006|29007	Eukaryota|Chytridiomycota|Neocallimastigomycetes|Neocallimastigales|Neocallimastigaceae	0.00011
+10491	genus	10239||||10486|10491	Viruses||||Iridoviridae|Chloriridovirus	56.29529
+10892	genus	10239||||10880|10892	Viruses||||Reoviridae|Orbivirus	7.13175
+1653395	genus	10239||||11617|1653395	Viruses||||Arenaviridae|Reptarenavirus	6.54161
+315393	genus	10239||||549779|315393	Viruses||||Mimiviridae|Mimivirus	5.96193
+333750	genus	10239||||151340|333750	Viruses||||Papillomaviridae|Alphapapillomavirus	1.93083
+2003403	genus	10239|||76804|76803|2003403	Viruses|||Nidovirales|Arteriviridae|Simartevirus	1.8002
+10509	genus	10239||||10508|10509	Viruses||||Adenoviridae|Mastadenovirus	0.93261
+11051	genus	10239||||11050|11051	Viruses||||Flaviviridae|Flavivirus	0.86443
+10487	genus	10239||||10486|10487	Viruses||||Iridoviridae|Iridovirus	0.78925
+11271	genus	10239|||11157|11270|11271	Viruses|||Mononegavirales|Rhabdoviridae|Vesiculovirus	0.72952
+1308858	genus	10239|||11157|11270|1308858	Viruses|||Mononegavirales|Rhabdoviridae|Sigmavirus	0.72296
+934804	genus	10239||||151340|934804	Viruses||||Papillomaviridae|Dyoiotapapillomavirus	0.68632
+1884458	genus	10239|||11157||1884458	Viruses|||Mononegavirales||Crustavirus	0.35188
+186778	genus	10239|||11157|11270|186778	Viruses|||Mononegavirales|Rhabdoviridae|Novirhabdovirus	0.34139
+11584	genus	10239|||1980410|1980418|11584	Viruses|||Bunyavirales|Phenuiviridae|Phlebovirus	0.33327
+1891714	genus	10239||||151341|1891714	Viruses||||Polyomaviridae|Betapolyomavirus	0.26222
+260963	genus	10239|||11157|11158|260963	Viruses|||Mononegavirales|Paramyxoviridae|Avulavirus	0.25898
+694013	genus	10239|||76804|11118|694013	Viruses|||Nidovirales|Coronaviridae|Gammacoronavirus	0.2193
+10806	genus	10239||||10780|10806	Viruses||||Parvoviridae|Ambidensovirus	0.20967
+334211	genus	10239||||151340|334211	Viruses||||Papillomaviridae|Pipapillomavirus	0.19208
+1884456	genus	10239|||11157||1884456	Viruses|||Mononegavirales||Arlivirus	0.18959
+1513201	genus	10239||||10780|1513201	Viruses||||Parvoviridae|Hepandensovirus	0.17039
+10552	genus	10239||||10508|10552	Viruses||||Adenoviridae|Aviadenovirus	0.1391
+1511771	genus	10239|||464095|12058|1511771	Viruses|||Picornavirales|Picornaviridae|Avisivirus	0.13865
+11572	genus	10239|||1980410|1980416|11572	Viruses|||Bunyavirales|Peribunyaviridae|Orthobunyavirus	0.13731
+1507401	genus	10239||||10780|1507401	Viruses||||Parvoviridae|Bocaparvovirus	0.13148
+1972611	genus	10239|||11157|11270|1972611	Viruses|||Mononegavirales|Rhabdoviridae|Hapavirus	0.10676
+10912	genus	10239||||10880|10912	Viruses||||Reoviridae|Rotavirus	0.09416
+325462	genus	10239||||151340|325462	Viruses||||Papillomaviridae|Lambdapapillomavirus	0.09218
+39744	genus	10239|||11157|11158|39744	Viruses|||Mononegavirales|Paramyxoviridae|Rubulavirus	0.08761
+1972682	genus	10239|||11157|11270|1972682	Viruses|||Mononegavirales|Rhabdoviridae|Almendravirus	0.07412
+1980442	genus	10239|||1980410|1980413|1980442	Viruses|||Bunyavirales|Hantaviridae|Orthohantavirus	0.07158
+11305	genus	10239|||11157|11270|11305	Viruses|||Mononegavirales|Rhabdoviridae|Cytorhabdovirus	0.0705
+137757	genus	10239||||39729|137757	Viruses||||Potyviridae|Ipomovirus	0.0649
+10814	genus	10239||||10811|10814	Viruses||||Geminiviridae|Begomovirus	0.057
+12103	genus	10239|||464095|12058|12103	Viruses|||Picornavirales|Picornaviridae|Cardiovirus	0.04401
+333922	genus	10239||||151340|333922	Viruses||||Papillomaviridae|Betapapillomavirus	0.0425
+12163	genus	10239|||675063|675068|12163	Viruses|||Tymovirales|Betaflexiviridae|Carlavirus	0.04087
+95341	genus	10239||||11974|95341	Viruses||||Caliciviridae|Sapovirus	0.03766
+935635	genus	10239||||151340|935635	Viruses||||Papillomaviridae|Sigmapapillomavirus	0.03389
+142786	genus	10239||||11974|142786	Viruses||||Caliciviridae|Norovirus	0.03251
+691955	genus	10239|||464095|12058|691955	Viruses|||Picornavirales|Picornaviridae|Avihepatovirus	0.02973
+334202	genus	10239||||151340|334202	Viruses||||Papillomaviridae|Mupapillomavirus	0.02915
+1511888	genus	10239||||10780|1511888	Viruses||||Parvoviridae|Copiparvovirus	0.02575
+10803	genus	10239||||10780|10803	Viruses||||Parvoviridae|Dependoparvovirus	0.02533
+11646	genus	10239|||2169561|11632|11646	Viruses|||Ortervirales|Retroviridae|Lentivirus	0.02526
+186458	genus	10239|||11157|178830|186458	Viruses|||Mononegavirales|Bornaviridae|Orthobornavirus	0.01819
+197913	genus	10239||||11308|197913	Viruses||||Orthomyxoviridae|Gammainfluenzavirus	0.01644
+153057	genus	10239|||2169561|11632|153057	Viruses|||Ortervirales|Retroviridae|Alpharetrovirus	0.01582
+1506574	genus	10239||||10780|1506574	Viruses||||Parvoviridae|Protoparvovirus	0.01527
+194960	genus	10239|||464095|12058|194960	Viruses|||Picornavirales|Picornaviridae|Kobuvirus	0.01447
+742914	genus	10239||||39724|742914	Viruses||||Circoviridae|Cyclovirus	0.01272
+1511911	genus	10239||||10780|1511911	Viruses||||Parvoviridae|Tetraparvovirus	0.0121
+1513245	genus	10239||||151340|1513245	Viruses||||Papillomaviridae|Dyosigmapapillomavirus	0.0092
+10812	genus	10239||||10811|10812	Viruses||||Geminiviridae|Mastrevirus	0.00888
+153135	genus	10239|||2169561|11632|153135	Viruses|||Ortervirales|Retroviridae|Gammaretrovirus	0.00781
+1985370	genus	10239||||1910928|1985370	Viruses||||Genomoviridae|Gemyvongvirus	0.00753
+12008	genus	10239||||11989|12008	Viruses||||Leviviridae|Allolevivirus	0.00666
+1980517	genus	10239|||1980410|1980415|1980517	Viruses|||Bunyavirales|Nairoviridae|Orthonairovirus	0.00532
+1263	genus	2|1239|186801|186802|541000|1263	Bacteria|Firmicutes|Clostridia|Clostridiales|Ruminococcaceae|Ruminococcus	0.00528
+2169663	genus	10239||||2169574|2169663	Viruses||||Smacoviridae|Porprismacovirus	0.00275
+1542744	genus	10239||||1910928|1542744	Viruses||||Genomoviridae|Gemycircularvirus	0.00134
+699182	genus	10239||||10880|699182	Viruses||||Reoviridae|Mimoreovirus	0.00084
+2094720	genus	10239||||549779|2094720	Viruses||||Mimiviridae|Tupanvirus	0.00045
+1176354	genus	2759|6029|||103457|1176354	Eukaryota|Microsporidia|||Dubosqiidae|Hamiltosporidium	0.00034
+432330	genus	2|1239|91061|1385|186823|432330	Bacteria|Firmicutes|Bacilli|Bacillales|Alicyclobacillaceae|Tumebacillus	0.00029
+191	genus	2|1224|28211|204441|41295|191	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodospirillales|Rhodospirillaceae|Azospirillum	0.00028
+5110	genus	2759|4890|147550|5125|34397|5110	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales|Clavicipitaceae|Claviceps	0.00016
+766765	genus	2759|4890|4891|4892|766764|766765	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Yamadazyma	0.00015
+5790	genus	2759|||5789|1115744|5790	Eukaryota|||Physariida|Physaraceae|Physarum	0.00015
+77521	genus	2759|5794|422676|5819|1639121|77521	Eukaryota|Apicomplexa|Aconoidasida|Haemosporida|Haemoproteidae|Haemoproteus	0.00015
+105135	genus	2759|4761|451455|29006|29007|105135	Eukaryota|Chytridiomycota|Neocallimastigomycetes|Neocallimastigales|Neocallimastigaceae|Anaeromyces	0.00011
+345201	species	10239||||10486|10491|345201	Viruses||||Iridoviridae|Chloriridovirus|Invertebrate iridescent virus 3	56.29529
+204269	species	10239||||10880|10892|204269	Viruses||||Reoviridae|Orbivirus|Great Island virus	7.13175
+2170179	species	10239||||11617|1653395|2170179	Viruses||||Arenaviridae|Reptarenavirus|Rotterdam reptarenavirus	6.51341
+212035	species	10239||||549779|315393|212035	Viruses||||Mimiviridae|Mimivirus|Acanthamoeba polyphaga mimivirus	3.94652
+1899318	species	10239||||549779|315393|1899318	Viruses||||Mimiviridae|Mimivirus|Acanthamoeba castellanii mimivirus	2.01541
+337043	species	10239||||151340|333750|337043	Viruses||||Papillomaviridae|Alphapapillomavirus|Alphapapillomavirus 4	1.93083
+1766765	species	10239||||549779||1766765	Viruses||||Mimiviridae||Niemeyer virus	1.89062
+1420594	species	10239||||549779||1420594	Viruses||||Mimiviridae||Hirudovirus strain Sangsue	1.52592
+1658615	species	10239|||76804|76803|2003403|1658615	Viruses|||Nidovirales|Arteriviridae|Simartevirus|Pebjah virus	1.44765
+554168	species	10239||||549779||554168	Viruses||||Mimiviridae||Acanthamoeba castellanii mamavirus	1.43887
+1077221	species	10239||||549779||1077221	Viruses||||Mimiviridae||Acanthamoeba polyphaga lentillevirus	1.29257
+2015370	species	10239||||10508|10509|2015370	Viruses||||Adenoviridae|Mastadenovirus|Bat mastadenovirus C	0.87459
+643132	species	10239||||11050|11051|643132	Viruses||||Flaviviridae|Flavivirus|Quang Binh virus	0.86443
+1094373	species	10239|||11157|11270|1308858|1094373	Viruses|||Mononegavirales|Rhabdoviridae|Sigmavirus|Drosophila melanogaster sigmavirus	0.72296
+1233177	species	10239||||151340|934804|1233177	Viruses||||Papillomaviridae|Dyoiotapapillomavirus|Dyoiotapapillomavirus 1	0.68632
+1972574	species	10239|||11157|11270|11271|1972574	Viruses|||Mononegavirales|Rhabdoviridae|Vesiculovirus|Maraba vesiculovirus	0.62991
+1922884	species	10239||||||1922884	Viruses||||||Hubei diptera virus 3	0.50394
+1923772	species	10239||||||1923772	Viruses||||||Xinzhou nematode virus 4	0.48636
+345195	species	10239||||10486|10487|345195	Viruses||||Iridoviridae|Iridovirus|Invertebrate iridescent virus 9	0.41782
+345198	species	10239||||10486|10487|345198	Viruses||||Iridoviridae|Iridovirus|Invertebrate iridescent virus 22	0.3674
+1977105	species	10239|||11157||1884458|1977105	Viruses|||Mononegavirales||Crustavirus|Wenzhou crustavirus	0.35188
+1737586	species	10239|||76804|76803|2003403|1737586	Viruses|||Nidovirales|Arteriviridae|Simartevirus|Free State vervet virus	0.35146
+1980917	species	10239|||11157|11270|186778|1980917	Viruses|||Mononegavirales|Rhabdoviridae|Novirhabdovirus|Salmonid novirhabdovirus	0.34139
+1216928	species	10239|||1980410|1980418|11584|1216928	Viruses|||Bunyavirales|Phenuiviridae|Phlebovirus|Heartland virus	0.2679
+28274	species	10239|||11157|11158|260963|28274	Viruses|||Mononegavirales|Paramyxoviridae|Avulavirus|Avian avulavirus 4	0.25898
+1891762	species	10239||||151341|1891714|1891762	Viruses||||Polyomaviridae|Betapolyomavirus|Human polyomavirus 1	0.25098
+1608068	species	10239|||1980410|1980416||1608068	Viruses|||Bunyavirales|Peribunyaviridae||Shayang Spider Virus 1	0.22581
+694014	species	10239|||76804|11118|694013|694014	Viruses|||Nidovirales|Coronaviridae|Gammacoronavirus|Avian coronavirus	0.2193
+1513184	species	10239||||10780|10806|1513184	Viruses||||Parvoviridae|Ambidensovirus|Blattodean ambidensovirus 1	0.20967
+1176145	species	10239||||151340|334211|1176145	Viruses||||Papillomaviridae|Pipapillomavirus|Pipapillomavirus 2	0.19208
+1884461	species	10239|||11157||1884456|1884461	Viruses|||Mononegavirales||Arlivirus|Lishi arlivirus	0.18959
+1513202	species	10239||||10780|1513201|1513202	Viruses||||Parvoviridae|Hepandensovirus|Decapod hepandensovirus 1	0.17039
+1193420	species	10239||||10508|10552|1193420	Viruses||||Adenoviridae|Aviadenovirus|Goose aviadenovirus A	0.1391
+1985982	species	10239|||464095|12058|1511771|1985982	Viruses|||Picornavirales|Picornaviridae|Avisivirus|Avisivirus B	0.13865
+1511868	species	10239||||10780|1507401|1511868	Viruses||||Parvoviridae|Bocaparvovirus|Carnivore bocaparvovirus 3	0.12982
+1972617	species	10239|||11157|11270|1972611|1972617	Viruses|||Mononegavirales|Rhabdoviridae|Hapavirus|La Joya hapavirus	0.10162
+1972579	species	10239|||11157|11270|11271|1972579	Viruses|||Mononegavirales|Rhabdoviridae|Vesiculovirus|Alagoas vesiculovirus	0.09961
+335100	species	10239||||10880|10912|335100	Viruses||||Reoviridae|Rotavirus|Rotavirus D	0.09416
+1513272	species	10239||||151340|325462|1513272	Viruses||||Papillomaviridae|Lambdapapillomavirus|Lambdapapillomavirus 5	0.09218
+1933264	species	10239|||1980410|1980416|11572|1933264	Viruses|||Bunyavirales|Peribunyaviridae|Orthobunyavirus|California encephalitis orthobunyavirus	0.08927
+1923510	species	10239||||||1923510	Viruses||||||Wenling nido-like virus 1	0.08796
+1979171	species	10239|||11157|11158|39744|1979171	Viruses|||Mononegavirales|Paramyxoviridae|Rubulavirus|Tuhoko rubulavirus 2	0.08761
+1972686	species	10239|||11157|11270|1972682|1972686	Viruses|||Mononegavirales|Rhabdoviridae|Almendravirus|Puerto Almendras almendravirus	0.07412
+1980483	species	10239|||1980410|1980413|1980442|1980483	Viruses|||Bunyavirales|Hantaviridae|Orthohantavirus|Nova orthohantavirus	0.07158
+1985702	species	10239|||11157|11270|11305|1985702	Viruses|||Mononegavirales|Rhabdoviridae|Cytorhabdovirus|Lettuce necrotic yellows cytorhabdovirus	0.0705
+41459	species	10239||||39729|137757|41459	Viruses||||Potyviridae|Ipomovirus|Sweet potato mild mottle virus	0.0649
+322067	species	10239|||11157|11158||322067	Viruses|||Mononegavirales|Paramyxoviridae||J-virus	0.06246
+1926501	species	10239|||1980410|1980418|11584|1926501	Viruses|||Bunyavirales|Phenuiviridae|Phlebovirus|Tapara virus	0.05063
+1933304	species	10239|||1980410|1980416|11572|1933304	Viruses|||Bunyavirales|Peribunyaviridae|Orthobunyavirus|Manzanilla orthobunyavirus	0.04804
+1821750	species	10239|||464095|12058|12103|1821750	Viruses|||Picornavirales|Picornaviridae|Cardiovirus|Cardiovirus B	0.04401
+334207	species	10239||||151340|333922|334207	Viruses||||Papillomaviridae|Betapapillomavirus|Betapapillomavirus 3	0.0425
+157777	species	10239|||675063|675068|12163|157777	Viruses|||Tymovirales|Betaflexiviridae|Carlavirus|Pea streak virus	0.04087
+95342	species	10239||||11974|95341|95342	Viruses||||Caliciviridae|Sapovirus|Sapporo virus	0.03766
+449400	species	10239||||10811|10814|449400	Viruses||||Geminiviridae|Begomovirus|Kenaf leaf curl virus	0.03501
+1176147	species	10239||||151340|935635|1176147	Viruses||||Papillomaviridae|Sigmapapillomavirus|Sigmapapillomavirus 1	0.03389
+11983	species	10239||||11974|142786|11983	Viruses||||Caliciviridae|Norovirus|Norwalk virus	0.03251
+129950	species	10239||||10508|10509|129950	Viruses||||Adenoviridae|Mastadenovirus|Bovine mastadenovirus B	0.03225
+691956	species	10239|||464095|12058|691955|691956	Viruses|||Picornavirales|Picornaviridae|Avihepatovirus|Avihepatovirus A	0.02973
+334204	species	10239||||151340|334202|334204	Viruses||||Papillomaviridae|Mupapillomavirus|Mupapillomavirus 2	0.02915
+1511889	species	10239||||10780|1511888|1511889	Viruses||||Parvoviridae|Copiparvovirus|Ungulate copiparvovirus 1	0.02575
+2170177	species	10239||||11617|1653395|2170177	Viruses||||Arenaviridae|Reptarenavirus|Golden reptarenavirus	0.02543
+1511892	species	10239||||10780|10803|1511892	Viruses||||Parvoviridae|Dependoparvovirus|Adeno-associated dependoparvovirus B	0.02533
+11723	species	10239|||2169561|11632|11646|11723	Viruses|||Ortervirales|Retroviridae|Lentivirus|Simian immunodeficiency virus	0.02523
+130371	species	10239||||10508|10509|130371	Viruses||||Adenoviridae|Mastadenovirus|Porcine mastadenovirus C	0.02286
+1923187	species	10239||||||1923187	Viruses||||||Hubei rhabdo-like virus 3	0.02171
+439015	species	10239|||464095|||439015	Viruses|||Picornavirales|||Marine RNA virus JP-A	0.0215
+1548722	species	10239|||11157|178830|186458|1548722	Viruses|||Mononegavirales|Bornaviridae|Orthobornavirus|Waterbird 1 orthobornavirus	0.01819
+11552	species	10239||||11308|197913|11552	Viruses||||Orthomyxoviridae|Gammainfluenzavirus|Influenza C virus	0.01644
+11864	species	10239|||2169561|11632|153057|11864	Viruses|||Ortervirales|Retroviridae|Alpharetrovirus|Avian leukosis virus	0.01579
+1472911	species	10239||||10780|1506574|1472911	Viruses||||Parvoviridae|Protoparvovirus|Porcine parvovirus 6	0.01527
+1298633	species	10239|||464095|12058|194960|1298633	Viruses|||Picornavirales|Picornaviridae|Kobuvirus|Aichivirus C	0.01447
+1094892	species	10239||||549779||1094892	Viruses||||Mimiviridae||Megavirus chiliensis	0.01267
+904722	species	10239|||1980410|1980418|11584|904722	Viruses|||Bunyavirales|Phenuiviridae|Phlebovirus|Anhanga virus	0.01262
+1987735	species	10239||||39724|742914|1987735	Viruses||||Circoviridae|Cyclovirus|Bat associated cyclovirus 10	0.01249
+1511914	species	10239||||10780|1511911|1511914	Viruses||||Parvoviridae|Tetraparvovirus|Ungulate tetraparvovirus 1	0.0121
+1128135	species	10239||||549779||1128135	Viruses||||Mimiviridae||Megavirus courdo7	0.01156
+1513254	species	10239||||151340|1513245|1513254	Viruses||||Papillomaviridae|Dyosigmapapillomavirus|Dyosigmapapillomavirus 1	0.0092
+71548	species	10239||||10811|10812|71548	Viruses||||Geminiviridae|Mastrevirus|Sugarcane streak Egypt virus	0.00884
+2006158	species	10239||||151341|1891714|2006158	Viruses||||Polyomaviridae|Betapolyomavirus|Pan troglodytes polyomavirus 8	0.00848
+1985415	species	10239||||1910928|1985370|1985415	Viruses||||Genomoviridae|Gemyvongvirus|Human associated gemyvongvirus 1	0.00753
+11809	species	10239|||2169561|11632|153135|11809	Viruses|||Ortervirales|Retroviridae|Gammaretrovirus|Moloney murine sarcoma virus	0.00747
+39803	species	10239||||11989|12008|39803	Viruses||||Leviviridae|Allolevivirus|Escherichia virus Qbeta	0.00666
+1980523	species	10239|||1980410|1980415|1980517|1980523	Viruses|||Bunyavirales|Nairoviridae|Orthonairovirus|Hughes orthonairovirus	0.00532
+1095771	species	2|1239|186801|186802|541000|1263|1095771	Bacteria|Firmicutes|Clostridia|Clostridiales|Ruminococcaceae|Ruminococcus|Ruminococcus sp. JC304	0.00528
+1972625	species	10239|||11157|11270|1972611|1972625	Viruses|||Mononegavirales|Rhabdoviridae|Hapavirus|Parry Creek hapavirus	0.00515
+1301279	species	10239||||10486|10487|1301279	Viruses||||Iridoviridae|Iridovirus|Invertebrate iridovirus 22	0.0039
+985782	species	10239||||549779||985782	Viruses||||Mimiviridae||Moumouvirus	0.00389
+1653398	species	10239||||11617|1653395|1653398	Viruses||||Arenaviridae|Reptarenavirus|Alethinophid 2 reptarenavirus	0.00277
+1891763	species	10239||||151341|1891714|1891763	Viruses||||Polyomaviridae|Betapolyomavirus|Human polyomavirus 2	0.00276
+2170128	species	10239||||2169574|2169663|2170128	Viruses||||Smacoviridae|Porprismacovirus|Sheep associated porprismacovirus 2	0.00275
+676044	species	10239||||10811|10814|676044	Viruses||||Geminiviridae|Begomovirus|Malvastrum yellow vein Honghe virus	0.00235
+1933190	species	10239|||1980410|1980418|11584|1933190	Viruses|||Bunyavirales|Phenuiviridae|Phlebovirus|SFTS phlebovirus	0.00212
+938276	species	10239||||10811|10814|938276	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Ranchi virus	0.00183
+2169768	species	10239||||10780|1507401|2169768	Viruses||||Parvoviridae|Bocaparvovirus|Carnivore bocaparvovirus 5	0.00166
+1985372	species	10239||||1910928|1542744|1985372	Viruses||||Genomoviridae|Gemycircularvirus|Bovine associated gemycircularvirus 1	0.00134
+620894	species	10239||||10811|10814|620894	Viruses||||Geminiviridae|Begomovirus|Cotton leaf curl Burewala virus	0.00124
+227137	species	10239||||10811|10814|227137	Viruses||||Geminiviridae|Begomovirus|Okra yellow vein mosaic virus	0.00115
+508748	species	10239||||10811|10814|508748	Viruses||||Geminiviridae|Begomovirus|Mesta yellow vein mosaic Bahraich virus	0.00112
+674996	species	10239||||10811|10814|674996	Viruses||||Geminiviridae|Begomovirus|Cotton leaf curl Shadadpur virus	0.0011
+1965068	species	10239|||76804|76803|2003403|1965068	Viruses|||Nidovirales|Arteriviridae|Simartevirus|Simian hemorrhagic encephalitis virus	0.00109
+1165908	species	10239||||10508|10509|1165908	Viruses||||Adenoviridae|Mastadenovirus|Simian adenovirus B	0.00105
+53010	species	10239||||10811|10814|53010	Viruses||||Geminiviridae|Begomovirus|Cotton leaf curl virus	0.00097
+180526	species	10239||||10811|10814|180526	Viruses||||Geminiviridae|Begomovirus|Tobacco curly shoot virus	0.00095
+338781	species	10239||||10880|699182|338781	Viruses||||Reoviridae|Mimoreovirus|Micromonas pusilla reovirus	0.00084
+222464	species	10239||||10811|10814|222464	Viruses||||Geminiviridae|Begomovirus|Cotton leaf curl Kokhran virus	0.00082
+220608	species	10239||||10811|10814|220608	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Bangalore virus	0.00082
+1914900	species	10239||||10811|10814|1914900	Viruses||||Geminiviridae|Begomovirus|Synedrella yellow vein clearing virus	0.00079
+1485012	species	10239||||10811|10814|1485012	Viruses||||Geminiviridae|Begomovirus|Jatropha yellow mosaic virus	0.00074
+1962299	species	10239||||10508|10509|1962299	Viruses||||Adenoviridae|Mastadenovirus|Simian mastadenovirus B	0.00065
+309390	species	10239||||10811|10814|309390	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Joydebpur virus	0.00055
+1979758	species	10239||||10780||1979758	Viruses||||Parvoviridae||Orthopteran densovirus 1	0.00052
+498803	species	10239||||10811|10814|498803	Viruses||||Geminiviridae|Begomovirus|Emilia yellow vein virus	0.00052
+1678003	species	10239||||10811|10814|1678003	Viruses||||Geminiviridae|Begomovirus|Chilli leaf curl Ahmedabad virus-India [India/Ahmedabad/2014]	0.00052
+1986019	species	10239||||10508|10509|1986019	Viruses||||Adenoviridae|Mastadenovirus|Simian mastadenovirus F	0.00048
+208177	species	10239||||10811|10814|208177	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Vietnam virus	0.00047
+1088661	species	10239||||10811|10814|1088661	Viruses||||Geminiviridae|Begomovirus|Bhendi yellow vein Delhi virus	0.00042
+1774200	species	10239||||10811|10814|1774200	Viruses||||Geminiviridae|Begomovirus|Pepper yellow leaf curl Thailand virus	0.00041
+371401	species	10239||||10811|10814|371401	Viruses||||Geminiviridae|Begomovirus|Siegesbeckia yellow vein virus	0.00041
+379728	species	10239||||10811|10814|379728	Viruses||||Geminiviridae|Begomovirus|Siegesbeckia yellow vein Guangxi virus	0.00037
+1233675	species	10239||||10811|10814|1233675	Viruses||||Geminiviridae|Begomovirus|Honeysuckle yellow vein Kagoshima virus	0.00034
+1176355	species	2759|6029|||103457|1176354|1176355	Eukaryota|Microsporidia|||Dubosqiidae|Hamiltosporidium|Hamiltosporidium tvaerminnensis	0.00034
+1329381	species	10239||||10811|10814|1329381	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl China virus - OX2	0.00034
+971271	species	10239||||10811|10814|971271	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Hanoi virus	0.00032
+420253	species	10239||||10811|10814|420253	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Rajasthan virus	0.00031
+1157490	species	2|1239|91061|1385|186823|432330|1157490	Bacteria|Firmicutes|Bacilli|Bacillales|Alicyclobacillaceae|Tumebacillus|Tumebacillus flagellatus	0.00029
+1896972	species	2|1224|28211|204441|41295|191|1896972	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodospirillales|Rhodospirillaceae|Azospirillum|Azospirillum sp. 51_20	0.00028
+1632184	species	10239||||10811|10814|1632184	Viruses||||Geminiviridae|Begomovirus|Tomato enation leaf curl virus	0.00025
+2020881	species	10239||||10811|10814|2020881	Viruses||||Geminiviridae|Begomovirus|Emilia sonchifolia yellow vein Thailand virus	0.00025
+591160	species	10239||||10811|10814|591160	Viruses||||Geminiviridae|Begomovirus|Bhendi yellow vein Bhubhaneswar virus	0.00025
+55216	species	10239||||10811|10814|55216	Viruses||||Geminiviridae|Begomovirus|Tomato yellow vein streak virus	0.00024
+298334	species	10239||||10508|10509|298334	Viruses||||Adenoviridae|Mastadenovirus|Simian mastadenovirus A	0.00024
+1922527	species	10239||||||1922527	Viruses||||||Beihai picorna-like virus 1	0.00022
+297249	species	10239||||10811|10814|297249	Viruses||||Geminiviridae|Begomovirus|Tomato yellow leaf curl Guangdong virus	0.00021
+1884991	species	10239||||10811|10814|1884991	Viruses||||Geminiviridae|Begomovirus|Senna leaf curl virus	0.0002
+223334	species	10239||||10811|10814|223334	Viruses||||Geminiviridae|Begomovirus|Tobacco leaf curl Kochi virus	0.0002
+590745	species	10239|||2169561|11632|153135|590745	Viruses|||Ortervirales|Retroviridae|Gammaretrovirus|Mus musculus mobilized endogenous polytropic provirus	0.00019
+1384631	species	10239||||10811|10814|1384631	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Gandhinagar virus	0.00019
+223344	species	10239||||10811|10814|223344	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Bangladesh virus	0.00016
+40602	species	2759|4890|147550|5125|34397|5110|40602	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales|Clavicipitaceae|Claviceps|Claviceps fusiformis	0.00016
+45511	species	2759|4890|4891|4892|766764|766765|45511	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Yamadazyma|Yamadazyma scolyti	0.00015
+5791	species	2759|||5789|1115744|5790|5791	Eukaryota|||Physariida|Physaraceae|Physarum|Physarum polycephalum	0.00015
+707206	species	2759|5794|422676|5819|1639121|77521|707206	Eukaryota|Apicomplexa|Aconoidasida|Haemosporida|Haemoproteidae|Haemoproteus|Haemoproteus tartakovskyi	0.00015
+232380	species	10239||||10811|10814|232380	Viruses||||Geminiviridae|Begomovirus|Tomato yellow leaf curl Axarquia virus	0.00015
+130308	species	10239||||10508|10509|130308	Viruses||||Adenoviridae|Mastadenovirus|Human mastadenovirus E	0.00013
+1465751	species	10239||||10486||1465751	Viruses||||Iridoviridae||Anopheles minimus irodovirus	0.00013
+407837	species	10239||||10811|10814|407837	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Pune virus	0.00013
+176651	species	10239||||10486|10487|176651	Viruses||||Iridoviridae|Iridovirus|Invertebrate iridescent virus 1	0.00012
+1754192	species	2759|4761|451455|29006|29007|105135|1754192	Eukaryota|Chytridiomycota|Neocallimastigomycetes|Neocallimastigales|Neocallimastigaceae|Anaeromyces|Anaeromyces robustus	0.00011
+1986022	species	10239||||10508|10509|1986022	Viruses||||Adenoviridae|Mastadenovirus|Platyrrhini mastadenovirus A	0.0001
+99182	species	10239|||2169561|11632|153135|99182	Viruses|||Ortervirales|Retroviridae|Gammaretrovirus|Murine leukemia-related retroviruses	0.0001
+386586.1	strain	10239||||10486|10491|345201|386586.1	Viruses||||Iridoviridae|Chloriridovirus|Invertebrate iridescent virus 3|Aedes taeniorhynchus iridescent virus	56.29529	386586.1	386586
+204269.0	strain	10239||||10880|10892|204269|204269.0	Viruses||||Reoviridae|Orbivirus|Great Island virus|Great Island virus unknown strain	7.13175	204269.0	204269
+1303019.1	strain	10239||||11617|1653395|2170179|1303019.1	Viruses||||Arenaviridae|Reptarenavirus|Rotterdam reptarenavirus|ROUT virus	6.51341	1303019.1	1303019
+212035.1.1	strain	10239||||549779|315393|212035|212035.1.1	Viruses||||Mimiviridae|Mimivirus|Acanthamoeba polyphaga mimivirus|	3.94652	212035.1.1	212035
+1899318.0.1	strain	10239||||549779|315393|1899318|1899318.0.1	Viruses||||Mimiviridae|Mimivirus|Acanthamoeba castellanii mimivirus|	2.01541	1899318.0.1	1899318
+337043.0	strain	10239||||151340|333750|337043|337043.0	Viruses||||Papillomaviridae|Alphapapillomavirus|Alphapapillomavirus 4|Alphapapillomavirus 4 unknown strain	1.93083	337043.0	337043
+1766765.0	strain	10239||||549779||1766765|1766765.0	Viruses||||Mimiviridae||Niemeyer virus|Niemeyer virus unknown strain	1.89062	1766765.0	1766765
+1420594.0	strain	10239||||549779||1420594|1420594.0	Viruses||||Mimiviridae||Hirudovirus strain Sangsue|Hirudovirus strain Sangsue unknown strain	1.52592	1420594.0	1420594
+1658615.0	strain	10239|||76804|76803|2003403|1658615|1658615.0	Viruses|||Nidovirales|Arteriviridae|Simartevirus|Pebjah virus|Pebjah virus unknown strain	1.44765	1658615.0	1658615
+554168.0	strain	10239||||549779||554168|554168.0	Viruses||||Mimiviridae||Acanthamoeba castellanii mamavirus|Acanthamoeba castellanii mamavirus unknown strain	1.43887	554168.0	554168
+1077221.0	strain	10239||||549779||1077221|1077221.0	Viruses||||Mimiviridae||Acanthamoeba polyphaga lentillevirus|Acanthamoeba polyphaga lentillevirus unknown strain	1.29257	1077221.0	1077221
+1788433.1	strain	10239||||10508|10509|2015370|1788433.1	Viruses||||Adenoviridae|Mastadenovirus|Bat mastadenovirus C|Bat mastadenovirus WIV11	0.87459	1788433.1	1788433
+673515.1	strain	10239||||11050|11051|643132|673515.1	Viruses||||Flaviviridae|Flavivirus|Quang Binh virus|Mosquito flavivirus	0.86443	673515.1	673515
+666363.1	strain	10239|||11157|11270|1308858|1094373|666363.1	Viruses|||Mononegavirales|Rhabdoviridae|Sigmavirus|Drosophila melanogaster sigmavirus|Drosophila melanogaster sigmavirus AP30	0.72296	666363.1	666363
+940834.1	strain	10239||||151340|934804|1233177|940834.1	Viruses||||Papillomaviridae|Dyoiotapapillomavirus|Dyoiotapapillomavirus 1|Equus caballus papillomavirus 3	0.68632	940834.1	940834
+1046251.1	strain	10239|||11157|11270|11271|1972574|1046251.1	Viruses|||Mononegavirales|Rhabdoviridae|Vesiculovirus|Maraba vesiculovirus|Maraba virus	0.62991	1046251.1	1046251
+1922884.0	strain	10239||||||1922884|1922884.0	Viruses||||||Hubei diptera virus 3|Hubei diptera virus 3 unknown strain	0.50394	1922884.0	1922884
+1923772.0	strain	10239||||||1923772|1923772.0	Viruses||||||Xinzhou nematode virus 4|Xinzhou nematode virus 4 unknown strain	0.48636	1923772.0	1923772
+68347.1	strain	10239||||10486|10487|345195|68347.1	Viruses||||Iridoviridae|Iridovirus|Invertebrate iridescent virus 9|Wiseana iridescent virus	0.41782	68347.1	68347
+345198.0	strain	10239||||10486|10487|345198|345198.0	Viruses||||Iridoviridae|Iridovirus|Invertebrate iridescent virus 22|Invertebrate iridescent virus 22 unknown strain	0.3674	345198.0	345198
+1608091.1	strain	10239|||11157||1884458|1977105|1608091.1	Viruses|||Mononegavirales||Crustavirus|Wenzhou crustavirus|Wenzhou Crab Virus 1	0.35188	1608091.1	1608091
+1737586.0	strain	10239|||76804|76803|2003403|1737586|1737586.0	Viruses|||Nidovirales|Arteriviridae|Simartevirus|Free State vervet virus|Free State vervet virus unknown strain	0.35146	1737586.0	1737586
+11290.1	strain	10239|||11157|11270|186778|1980917|11290.1	Viruses|||Mononegavirales|Rhabdoviridae|Novirhabdovirus|Salmonid novirhabdovirus|Infectious hematopoietic necrosis virus	0.34139	11290.1	11290
+1216928.0	strain	10239|||1980410|1980418|11584|1216928|1216928.0	Viruses|||Bunyavirales|Phenuiviridae|Phlebovirus|Heartland virus|Heartland virus unknown strain	0.2679	1216928.0	1216928
+28274.0.1	strain	10239|||11157|11158|260963|28274|28274.0.1	Viruses|||Mononegavirales|Paramyxoviridae|Avulavirus|Avian avulavirus 4|	0.25898	28274.0.1	28274
+1891762.0.1	strain	10239||||151341|1891714|1891762|1891762.0.1	Viruses||||Polyomaviridae|Betapolyomavirus|Human polyomavirus 1|	0.25098	1891762.0.1	1891762
+1608068.0	strain	10239|||1980410|1980416||1608068|1608068.0	Viruses|||Bunyavirales|Peribunyaviridae||Shayang Spider Virus 1|Shayang Spider Virus 1 unknown strain	0.22581	1608068.0	1608068
+11152.1	strain	10239|||76804|11118|694013|694014|11152.1	Viruses|||Nidovirales|Coronaviridae|Gammacoronavirus|Avian coronavirus|Turkey coronavirus	0.2193	11152.1	11152
+97344.1	strain	10239||||10780|10806|1513184|97344.1	Viruses||||Parvoviridae|Ambidensovirus|Blattodean ambidensovirus 1|Periplaneta fuliginosa densovirus	0.20967	97344.1	97344
+763552.1.1	strain	10239||||151340|334211|1176145|763552.1.1	Viruses||||Papillomaviridae|Pipapillomavirus|Pipapillomavirus 2|Mus musculus papillomavirus type 1	0.19208	763552.1.1	763552
+1608058.1	strain	10239|||11157||1884456|1884461|1608058.1	Viruses|||Mononegavirales||Arlivirus|Lishi arlivirus|Lishi Spider Virus 2	0.18959	1608058.1	1608058
+797418.1	strain	10239||||10780|1513201|1513202|797418.1	Viruses||||Parvoviridae|Hepandensovirus|Decapod hepandensovirus 1|Fenneropenaeus chinensis hepandensovirus	0.17039	797418.1	797418
+1193422.1	strain	10239||||10508|10552|1193420|1193422.1	Viruses||||Adenoviridae|Aviadenovirus|Goose aviadenovirus A|Goose adenovirus 4	0.1391	1193422.1	1193422
+1534545.1	strain	10239|||464095|12058|1511771|1985982|1534545.1	Viruses|||Picornavirales|Picornaviridae|Avisivirus|Avisivirus B|Chicken picornavirus 2	0.13865	1534545.1	1534545
+1174530.1	strain	10239||||10780|1507401|1511868|1174530.1	Viruses||||Parvoviridae|Bocaparvovirus|Carnivore bocaparvovirus 3|Feline bocavirus	0.12982	1174530.1	1174530
+1272946.1	strain	10239|||11157|11270|1972611|1972617|1272946.1	Viruses|||Mononegavirales|Rhabdoviridae|Hapavirus|La Joya hapavirus|La Joya virus	0.10162	1272946.1	1272946
+198833.1	strain	10239|||11157|11270|11271|1972579|198833.1	Viruses|||Mononegavirales|Rhabdoviridae|Vesiculovirus|Alagoas vesiculovirus|Vesicular stomatitis Alagoas virus	0.09961	198833.1	198833
+884200.1	strain	10239||||10880|10912|335100|884200.1	Viruses||||Reoviridae|Rotavirus|Rotavirus D|Rotavirus D chicken/05V0049/DEU/2005	0.09416	884200.1	884200
+1104917.1	strain	10239||||151340|325462|1513272|1104917.1	Viruses||||Papillomaviridae|Lambdapapillomavirus|Lambdapapillomavirus 5|Crocuta crocuta papillomavirus 1	0.09218	1104917.1	1104917
+11577.0.1	strain	10239|||1980410|1980416|11572|1933264|11577.0.1	Viruses|||Bunyavirales|Peribunyaviridae|Orthobunyavirus|California encephalitis orthobunyavirus|La Crosse virus	0.08927	11577.0.1	11577
+1923510.0	strain	10239||||||1923510|1923510.0	Viruses||||||Wenling nido-like virus 1|Wenling nido-like virus 1 unknown strain	0.08796	1923510.0	1923510
+798073.1	strain	10239|||11157|11158|39744|1979171|798073.1	Viruses|||Mononegavirales|Paramyxoviridae|Rubulavirus|Tuhoko rubulavirus 2|Tuhoko virus 2	0.08761	798073.1	798073
+1479613.1	strain	10239|||11157|11270|1972682|1972686|1479613.1	Viruses|||Mononegavirales|Rhabdoviridae|Almendravirus|Puerto Almendras almendravirus|Puerto Almendras virus	0.07412	1479613.1	1479613
+660955.1	strain	10239|||1980410|1980413|1980442|1980483|660955.1	Viruses|||Bunyavirales|Hantaviridae|Orthohantavirus|Nova orthohantavirus|Nova virus	0.07158	660955.1	660955
+32612.1	strain	10239|||11157|11270|11305|1985702|32612.1	Viruses|||Mononegavirales|Rhabdoviridae|Cytorhabdovirus|Lettuce necrotic yellows cytorhabdovirus|Lettuce necrotic yellows virus	0.0705	32612.1	32612
+41459.0	strain	10239||||39729|137757|41459|41459.0	Viruses||||Potyviridae|Ipomovirus|Sweet potato mild mottle virus|Sweet potato mild mottle virus unknown strain	0.0649	41459.0	41459
+322067.0	strain	10239|||11157|11158||322067|322067.0	Viruses|||Mononegavirales|Paramyxoviridae||J-virus|J-virus unknown strain	0.06246	322067.0	322067
+1926501.0	strain	10239|||1980410|1980418|11584|1926501|1926501.0	Viruses|||Bunyavirales|Phenuiviridae|Phlebovirus|Tapara virus|Tapara virus unknown strain	0.05063	1926501.0	1926501
+1495866.1	strain	10239|||1980410|1980416|11572|1933304|1495866.1	Viruses|||Bunyavirales|Peribunyaviridae|Orthobunyavirus|Manzanilla orthobunyavirus|Cat Que virus	0.04804	1495866.1	1495866
+434309.1	strain	10239|||464095|12058|12103|1821750|434309.1	Viruses|||Picornavirales|Picornaviridae|Cardiovirus|Cardiovirus B|Saffold virus	0.04401	434309.1	434309
+10616.1	strain	10239||||151340|333922|334207|10616.1	Viruses||||Papillomaviridae|Betapapillomavirus|Betapapillomavirus 3|Human papillomavirus type 49	0.0425	10616.1	10616
+165250.1	strain	10239|||675063|675068|12163|157777|165250.1	Viruses|||Tymovirales|Betaflexiviridae|Carlavirus|Pea streak virus|Alfalfa latent virus	0.04087	165250.1	165250
+106333.1	strain	10239||||11974|95341|95342|106333.1	Viruses||||Caliciviridae|Sapovirus|Sapporo virus|Porcine enteric sapovirus	0.03766	106333.1	106333
+508750.1	strain	10239||||10811|10814|449400|508750.1	Viruses||||Geminiviridae|Begomovirus|Kenaf leaf curl virus|Kenaf leaf curl virus-[India:Bahraich:2007]	0.03501	508750.1	508750
+291590.1	strain	10239||||151340|935635|1176147|291590.1	Viruses||||Papillomaviridae|Sigmapapillomavirus|Sigmapapillomavirus 1|Erethizon dorsatum papillomavirus 1	0.03389	291590.1	291590
+340017.1	strain	10239||||11974|142786|11983|340017.1	Viruses||||Caliciviridae|Norovirus|Norwalk virus|Norovirus GIII	0.03251	340017.1	340017
+10510.1	strain	10239||||10508|10509|129950|10510.1	Viruses||||Adenoviridae|Mastadenovirus|Bovine mastadenovirus B|Bovine adenovirus 3	0.03225	10510.1	10510
+1006061.1	strain	10239|||464095|12058|691955|691956|1006061.1	Viruses|||Picornavirales|Picornaviridae|Avihepatovirus|Avihepatovirus A|Duck hepatitis A virus 1	0.02973	1006061.1	1006061
+28311.1	strain	10239||||151340|334202|334204|28311.1	Viruses||||Papillomaviridae|Mupapillomavirus|Mupapillomavirus 2|Human papillomavirus type 63	0.02915	28311.1	28311
+172296.1	strain	10239||||10780|1511888|1511889|172296.1	Viruses||||Parvoviridae|Copiparvovirus|Ungulate copiparvovirus 1|Bovine parvovirus - 2	0.02575	172296.1	172296
+1223562.1	strain	10239||||11617|1653395|2170177|1223562.1	Viruses||||Arenaviridae|Reptarenavirus|Golden reptarenavirus|Golden Gate virus	0.02543	1223562.1	1223562
+256548.1	strain	10239||||10780|10803|1511892|256548.1	Viruses||||Parvoviridae|Dependoparvovirus|Adeno-associated dependoparvovirus B|Bovine adeno-associated virus	0.02533	256548.1	256548
+159122.1	strain	10239|||2169561|11632|11646|11723|159122.1	Viruses|||Ortervirales|Retroviridae|Lentivirus|Simian immunodeficiency virus|Simian immunodeficiency virus SIV-mnd 2	0.02523	159122.1	159122
+45370.1.1	strain	10239||||10508|10509|130371|45370.1.1	Viruses||||Adenoviridae|Mastadenovirus|Porcine mastadenovirus C|Porcine adenovirus 5	0.02286	45370.1.1	45370
+1923187.0	strain	10239||||||1923187|1923187.0	Viruses||||||Hubei rhabdo-like virus 3|Hubei rhabdo-like virus 3 unknown strain	0.02171	1923187.0	1923187
+439015.0	strain	10239|||464095|||439015|439015.0	Viruses|||Picornavirales|||Marine RNA virus JP-A|Marine RNA virus JP-A unknown strain	0.0215	439015.0	439015
+1715293.1	strain	10239|||11157|178830|186458|1548722|1715293.1	Viruses|||Mononegavirales|Bornaviridae|Orthobornavirus|Waterbird 1 orthobornavirus|Aquatic bird bornavirus 1	0.01819	1715293.1	1715293
+11553.1	strain	10239||||11308|197913|11552|11553.1	Viruses||||Orthomyxoviridae|Gammainfluenzavirus|Influenza C virus|Influenza C virus (C/Ann Arbor/1/50)	0.01644	11553.1	11553
+363745.1	strain	10239|||2169561|11632|153057|11864|363745.1	Viruses|||Ortervirales|Retroviridae|Alpharetrovirus|Avian leukosis virus|Avian leukosis virus - RSA	0.01579	363745.1	363745
+1472911.0	strain	10239||||10780|1506574|1472911|1472911.0	Viruses||||Parvoviridae|Protoparvovirus|Porcine parvovirus 6|Porcine parvovirus 6 unknown strain	0.01527	1472911.0	1472911
+569195.1	strain	10239|||464095|12058|194960|1298633|569195.1	Viruses|||Picornavirales|Picornaviridae|Kobuvirus|Aichivirus C|Porcine kobuvirus swine/S-1-HUN/2007/Hungary	0.01447	569195.1	569195
+1128143.1	strain	10239||||549779||1094892|1128143.1	Viruses||||Mimiviridae||Megavirus chiliensis|Megavirus terra1	0.01267	1128143.1	1128143
+904722.0	strain	10239|||1980410|1980418|11584|904722|904722.0	Viruses|||Bunyavirales|Phenuiviridae|Phlebovirus|Anhanga virus|Anhanga virus unknown strain	0.01262	904722.0	904722
+1572239.1	strain	10239||||39724|742914|1987735|1572239.1	Viruses||||Circoviridae|Cyclovirus|Bat associated cyclovirus 10|Bat circovirus POA/2012/VI	0.01249	1572239.1	1572239
+1511914.0	strain	10239||||10780|1511911|1511914|1511914.0	Viruses||||Parvoviridae|Tetraparvovirus|Ungulate tetraparvovirus 1|Ungulate tetraparvovirus 1 unknown strain	0.0121	1511914.0	1511914
+1128135.0	strain	10239||||549779||1128135|1128135.0	Viruses||||Mimiviridae||Megavirus courdo7|Megavirus courdo7 unknown strain	0.01156	1128135.0	1128135
+1352235.1	strain	10239||||151340|1513245|1513254|1352235.1	Viruses||||Papillomaviridae|Dyosigmapapillomavirus|Dyosigmapapillomavirus 1|Castor canadensis papillomavirus 1	0.0092	1352235.1	1352235
+268785.1	strain	10239||||10811|10812|71548|268785.1	Viruses||||Geminiviridae|Mastrevirus|Sugarcane streak Egypt virus|Sugarcane streak Egypt virus - [Giza]	0.00884	268785.1	268785
+1762023.1	strain	10239||||151341|1891714|2006158|1762023.1	Viruses||||Polyomaviridae|Betapolyomavirus|Pan troglodytes polyomavirus 8|Pan troglodytes verus polyomavirus 8	0.00848	1762023.1	1762023
+1707330.1	strain	10239||||1910928|1985370|1985415|1707330.1	Viruses||||Genomoviridae|Gemyvongvirus|Human associated gemyvongvirus 1|Human plasma-associated gemycircularvirus	0.00753	1707330.1	1707330
+11809.0	strain	10239|||2169561|11632|153135|11809|11809.0	Viruses|||Ortervirales|Retroviridae|Gammaretrovirus|Moloney murine sarcoma virus|Moloney murine sarcoma virus unknown strain	0.00747	11809.0	11809
+75723.1	strain	10239||||11989|12008|39803|75723.1	Viruses||||Leviviridae|Allolevivirus|Escherichia virus Qbeta|Enterobacteria phage MX1	0.00666	75723.1	75723
+248053.1	strain	10239|||1980410|1980415|1980517|1980523|248053.1	Viruses|||Bunyavirales|Nairoviridae|Orthonairovirus|Hughes orthonairovirus|Farallon virus	0.00532	248053.1	248053
+1095771.0	strain	2|1239|186801|186802|541000|1263|1095771|1095771.0	Bacteria|Firmicutes|Clostridia|Clostridiales|Ruminococcaceae|Ruminococcus|Ruminococcus sp. JC304|Ruminococcus sp. JC304 unknown strain	0.00528	1095771.0	1095771
+318845.1	strain	10239|||11157|11270|1972611|1972625|318845.1	Viruses|||Mononegavirales|Rhabdoviridae|Hapavirus|Parry Creek hapavirus|Parry Creek virus	0.00515	318845.1	318845
+1301279.0	strain	10239||||10486|10487|1301279|1301279.0	Viruses||||Iridoviridae|Iridovirus|Invertebrate iridovirus 22|Invertebrate iridovirus 22 unknown strain	0.0039	1301279.0	1301279
+1269028.1	strain	10239||||549779||985782|1269028.1	Viruses||||Mimiviridae||Moumouvirus|Acanthamoeba polyphaga moumouvirus	0.00389	1269028.1	1269028
+1382279.1	strain	10239||||11617|1653395|1653398|1382279.1	Viruses||||Arenaviridae|Reptarenavirus|Alethinophid 2 reptarenavirus|University of Helsinki virus	0.00277	1382279.1	1382279
+10632.0.1	strain	10239||||151341|1891714|1891763|10632.0.1	Viruses||||Polyomaviridae|Betapolyomavirus|Human polyomavirus 2|JC polyomavirus	0.00276	10632.0.1	10632
+1843757.1	strain	10239||||2169574|2169663|2170128|1843757.1	Viruses||||Smacoviridae|Porprismacovirus|Sheep associated porprismacovirus 2|Sheep faeces associated smacovirus 2	0.00275	1843757.1	1843757
+676044.0	strain	10239||||10811|10814|676044|676044.0	Viruses||||Geminiviridae|Begomovirus|Malvastrum yellow vein Honghe virus|Malvastrum yellow vein Honghe virus unknown strain	0.00235	676044.0	676044
+992212.1	strain	10239|||1980410|1980418|11584|1933190|992212.1	Viruses|||Bunyavirales|Phenuiviridae|Phlebovirus|SFTS phlebovirus|SFTS virus HB29	0.00212	992212.1	992212
+938276.0	strain	10239||||10811|10814|938276|938276.0	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Ranchi virus|Tomato leaf curl Ranchi virus unknown strain	0.00183	938276.0	938276
+2259807.1	strain	10239||||10780|1507401|2169768|2259807.1	Viruses||||Parvoviridae|Bocaparvovirus|Carnivore bocaparvovirus 5|Feline bocaparvovirus 3	0.00166	2259807.1	2259807
+1843742.1	strain	10239||||1910928|1542744|1985372|1843742.1	Viruses||||Genomoviridae|Gemycircularvirus|Bovine associated gemycircularvirus 1|Faeces associated gemycircularvirus 22	0.00134	1843742.1	1843742
+620894.0	strain	10239||||10811|10814|620894|620894.0	Viruses||||Geminiviridae|Begomovirus|Cotton leaf curl Burewala virus|Cotton leaf curl Burewala virus unknown strain	0.00124	620894.0	620894
+223300.1	strain	10239||||10811|10814|227137|223300.1	Viruses||||Geminiviridae|Begomovirus|Okra yellow vein mosaic virus|Okra yellow vein mosaic virus-[201]	0.00115	223300.1	223300
+508749.1	strain	10239||||10811|10814|508748|508749.1	Viruses||||Geminiviridae|Begomovirus|Mesta yellow vein mosaic Bahraich virus|Mesta yellow vein mosaic Bahraich virus-[India:Bahraich:2007]	0.00112	508749.1	508749
+674996.0	strain	10239||||10811|10814|674996|674996.0	Viruses||||Geminiviridae|Begomovirus|Cotton leaf curl Shadadpur virus|Cotton leaf curl Shadadpur virus unknown strain	0.0011	674996.0	674996
+1965068.0	strain	10239|||76804|76803|2003403|1965068|1965068.0	Viruses|||Nidovirales|Arteriviridae|Simartevirus|Simian hemorrhagic encephalitis virus|Simian hemorrhagic encephalitis virus unknown strain	0.00109	1965068.0	1965068
+507488.1	strain	10239||||10508|10509|1165908|507488.1	Viruses||||Adenoviridae|Mastadenovirus|Simian adenovirus B|Cynomolgus adenovirus 1	0.00105	507488.1	507488
+53010.0.1	strain	10239||||10811|10814|53010|53010.0.1	Viruses||||Geminiviridae|Begomovirus|Cotton leaf curl virus|	0.00097	53010.0.1	53010
+223250.1	strain	10239||||10811|10814|180526|223250.1	Viruses||||Geminiviridae|Begomovirus|Tobacco curly shoot virus|Tobacco curly shoot virus - [Y41]	0.00095	223250.1	223250
+338781.0	strain	10239||||10880|699182|338781|338781.0	Viruses||||Reoviridae|Mimoreovirus|Micromonas pusilla reovirus|Micromonas pusilla reovirus unknown strain	0.00084	338781.0	338781
+418448.1	strain	10239||||10811|10814|222464|418448.1	Viruses||||Geminiviridae|Begomovirus|Cotton leaf curl Kokhran virus|Cotton leaf curl Burewala virus - [India:Vehari:2006]	0.00082	418448.1	418448
+407832.1	strain	10239||||10811|10814|220608|407832.1	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Bangalore virus|Tomato leaf curl Bangalore virus - [India:Kerala II:2005]	0.00082	407832.1	407832
+1914900.0	strain	10239||||10811|10814|1914900|1914900.0	Viruses||||Geminiviridae|Begomovirus|Synedrella yellow vein clearing virus|Synedrella yellow vein clearing virus unknown strain	0.00079	1914900.0	1914900
+1485012.0	strain	10239||||10811|10814|1485012|1485012.0	Viruses||||Geminiviridae|Begomovirus|Jatropha yellow mosaic virus|Jatropha yellow mosaic virus unknown strain	0.00074	1485012.0	1485012
+995022.1	strain	10239||||10508|10509|1962299|995022.1	Viruses||||Adenoviridae|Mastadenovirus|Simian mastadenovirus B|Simian adenovirus 49	0.00065	995022.1	995022
+309390.0.1	strain	10239||||10811|10814|309390|309390.0.1	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Joydebpur virus|	0.00055	309390.0.1	309390
+1404345.1	strain	10239||||10780||1979758|1404345.1	Viruses||||Parvoviridae||Orthopteran densovirus 1|Acheta domestica mini ambidensovirus	0.00052	1404345.1	1404345
+498805.1	strain	10239||||10811|10814|498803|498805.1	Viruses||||Geminiviridae|Begomovirus|Emilia yellow vein virus|Emilia yellow vein virus-[Fz1]	0.00052	498805.1	498805
+1678003.0	strain	10239||||10811|10814|1678003|1678003.0	Viruses||||Geminiviridae|Begomovirus|Chilli leaf curl Ahmedabad virus-India [India/Ahmedabad/2014]|Chilli leaf curl Ahmedabad virus-India [India/Ahmedabad/2014] unknown strain	0.00052	1678003.0	1678003
+909210.1	strain	10239||||10508|10509|1986019|909210.1	Viruses||||Adenoviridae|Mastadenovirus|Simian mastadenovirus F|Simian adenovirus 18	0.00048	909210.1	909210
+208177.0.1	strain	10239||||10811|10814|208177|208177.0.1	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Vietnam virus|	0.00047	208177.0.1	208177
+587620.1	strain	10239||||10811|10814|1088661|587620.1	Viruses||||Geminiviridae|Begomovirus|Bhendi yellow vein Delhi virus|Bhendi yellow vein Delhi virus [2004:New Delhi]	0.00042	587620.1	587620
+1774200.0.1	strain	10239||||10811|10814|1774200|1774200.0.1	Viruses||||Geminiviridae|Begomovirus|Pepper yellow leaf curl Thailand virus|	0.00041	1774200.0.1	1774200
+371463.1	strain	10239||||10811|10814|371401|371463.1	Viruses||||Geminiviridae|Begomovirus|Siegesbeckia yellow vein virus|Siegesbeckia yellow vein virus-[GD13]	0.00041	371463.1	371463
+379728.0	strain	10239||||10811|10814|379728|379728.0	Viruses||||Geminiviridae|Begomovirus|Siegesbeckia yellow vein Guangxi virus|Siegesbeckia yellow vein Guangxi virus unknown strain	0.00037	379728.0	379728
+1233675.0	strain	10239||||10811|10814|1233675|1233675.0	Viruses||||Geminiviridae|Begomovirus|Honeysuckle yellow vein Kagoshima virus|Honeysuckle yellow vein Kagoshima virus unknown strain	0.00034	1233675.0	1233675
+657448.1	strain	2759|6029|||103457|1176354|1176355|657448.1	Eukaryota|Microsporidia|||Dubosqiidae|Hamiltosporidium|Hamiltosporidium tvaerminnensis|Hamiltosporidium tvaerminnensis OER-3-3	0.00034	657448.1	657448
+1329381.0	strain	10239||||10811|10814|1329381|1329381.0	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl China virus - OX2|Tomato leaf curl China virus - OX2 unknown strain	0.00034	1329381.0	1329381
+971271.0	strain	10239||||10811|10814|971271|971271.0	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Hanoi virus|Tomato leaf curl Hanoi virus unknown strain	0.00032	971271.0	971271
+420254.1	strain	10239||||10811|10814|420253|420254.1	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Rajasthan virus|Tomato leaf curl Rajasthan virus - [India:Rajasthan:2005]	0.00031	420254.1	420254
+2094720.1.1	strain	10239||||549779|2094720||2094720.1.1	Viruses||||Mimiviridae|Tupanvirus||	0.00031	2094720.1.1	2094720
+1157490.0	strain	2|1239|91061|1385|186823|432330|1157490|1157490.0	Bacteria|Firmicutes|Bacilli|Bacillales|Alicyclobacillaceae|Tumebacillus|Tumebacillus flagellatus|Tumebacillus flagellatus unknown strain	0.00029	1157490.0	1157490
+1896972.0	strain	2|1224|28211|204441|41295|191|1896972|1896972.0	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodospirillales|Rhodospirillaceae|Azospirillum|Azospirillum sp. 51_20|Azospirillum sp. 51_20 unknown strain	0.00028	1896972.0	1896972
+1632184.0	strain	10239||||10811|10814|1632184|1632184.0	Viruses||||Geminiviridae|Begomovirus|Tomato enation leaf curl virus|Tomato enation leaf curl virus unknown strain	0.00025	1632184.0	1632184
+2020881.0	strain	10239||||10811|10814|2020881|2020881.0	Viruses||||Geminiviridae|Begomovirus|Emilia sonchifolia yellow vein Thailand virus|Emilia sonchifolia yellow vein Thailand virus unknown strain	0.00025	2020881.0	2020881
+591160.0	strain	10239||||10811|10814|591160|591160.0	Viruses||||Geminiviridae|Begomovirus|Bhendi yellow vein Bhubhaneswar virus|Bhendi yellow vein Bhubhaneswar virus unknown strain	0.00025	591160.0	591160
+55216.0	strain	10239||||10811|10814|55216|55216.0	Viruses||||Geminiviridae|Begomovirus|Tomato yellow vein streak virus|Tomato yellow vein streak virus unknown strain	0.00024	55216.0	55216
+38420.1	strain	10239||||10508|10509|298334|38420.1	Viruses||||Adenoviridae|Mastadenovirus|Simian mastadenovirus A|Simian adenovirus 3	0.00024	38420.1	38420
+1922527.0	strain	10239||||||1922527|1922527.0	Viruses||||||Beihai picorna-like virus 1|Beihai picorna-like virus 1 unknown strain	0.00022	1922527.0	1922527
+297249.0	strain	10239||||10811|10814|297249|297249.0	Viruses||||Geminiviridae|Begomovirus|Tomato yellow leaf curl Guangdong virus|Tomato yellow leaf curl Guangdong virus unknown strain	0.00021	297249.0	297249
+1884991.0	strain	10239||||10811|10814|1884991|1884991.0	Viruses||||Geminiviridae|Begomovirus|Senna leaf curl virus|Senna leaf curl virus unknown strain	0.0002	1884991.0	1884991
+223335.1	strain	10239||||10811|10814|223334|223335.1	Viruses||||Geminiviridae|Begomovirus|Tobacco leaf curl Kochi virus|Tobacco leaf curl Kochi virus-[KK]	0.0002	223335.1	223335
+590745.0	strain	10239|||2169561|11632|153135|590745|590745.0	Viruses|||Ortervirales|Retroviridae|Gammaretrovirus|Mus musculus mobilized endogenous polytropic provirus|Mus musculus mobilized endogenous polytropic provirus unknown strain	0.00019	590745.0	590745
+1384631.0	strain	10239||||10811|10814|1384631|1384631.0	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Gandhinagar virus|Tomato leaf curl Gandhinagar virus unknown strain	0.00019	1384631.0	1384631
+223344.0	strain	10239||||10811|10814|223344|223344.0	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Bangladesh virus|Tomato leaf curl Bangladesh virus unknown strain	0.00016	223344.0	223344
+1036761.1	strain	2759|4890|147550|5125|34397|5110|40602|1036761.1	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales|Clavicipitaceae|Claviceps|Claviceps fusiformis|Claviceps fusiformis PRL 1980	0.00016	1036761.1	1036761
+45511.0	strain	2759|4890|4891|4892|766764|766765|45511|45511.0	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Yamadazyma|Yamadazyma scolyti|Yamadazyma scolyti unknown strain	0.00015	45511.0	45511
+5791.0	strain	2759|||5789|1115744|5790|5791|5791.0	Eukaryota|||Physariida|Physaraceae|Physarum|Physarum polycephalum|Physarum polycephalum unknown strain	0.00015	5791.0	5791
+707206.0	strain	2759|5794|422676|5819|1639121|77521|707206|707206.0	Eukaryota|Apicomplexa|Aconoidasida|Haemosporida|Haemoproteidae|Haemoproteus|Haemoproteus tartakovskyi|Haemoproteus tartakovskyi unknown strain	0.00015	707206.0	707206
+2094720.0.1	strain	10239||||549779|2094720||2094720.0.1	Viruses||||Mimiviridae|Tupanvirus||	0.00015	2094720.0.1	2094720
+232380.0	strain	10239||||10811|10814|232380|232380.0	Viruses||||Geminiviridae|Begomovirus|Tomato yellow leaf curl Axarquia virus|Tomato yellow leaf curl Axarquia virus unknown strain	0.00015	232380.0	232380
+130308.0	strain	10239||||10508|10509|130308|130308.0	Viruses||||Adenoviridae|Mastadenovirus|Human mastadenovirus E|Human mastadenovirus E unknown strain	0.00013	130308.0	130308
+1465751.0	strain	10239||||10486||1465751|1465751.0	Viruses||||Iridoviridae||Anopheles minimus irodovirus|Anopheles minimus irodovirus unknown strain	0.00013	1465751.0	1465751
+407838.1	strain	10239||||10811|10814|407837|407838.1	Viruses||||Geminiviridae|Begomovirus|Tomato leaf curl Pune virus|Tomato leaf curl Pune virus - [India:Pune:2005]	0.00013	407838.1	407838
+10490.1	strain	10239||||10486|10487|176651|10490.1	Viruses||||Iridoviridae|Iridovirus|Invertebrate iridescent virus 1|Tipula iridescent virus	0.00012	10490.1	10490
+1754192.0	strain	2759|4761|451455|29006|29007|105135|1754192|1754192.0	Eukaryota|Chytridiomycota|Neocallimastigomycetes|Neocallimastigales|Neocallimastigaceae|Anaeromyces|Anaeromyces robustus|Anaeromyces robustus unknown strain	0.00011	1754192.0	1754192
+994672.1	strain	10239||||10508|10509|1986022|994672.1	Viruses||||Adenoviridae|Mastadenovirus|Platyrrhini mastadenovirus A|Titi monkey adenovirus ECC-2011	0.0001	994672.1	994672
+1038068.1	strain	10239|||2169561|11632|153135|99182|1038068.1	Viruses|||Ortervirales|Retroviridae|Gammaretrovirus|Murine leukemia-related retroviruses|PreXMRV-1	0.0001	1038068.1	1038068

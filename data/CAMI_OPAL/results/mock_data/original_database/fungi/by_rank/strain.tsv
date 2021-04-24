@@ -1,0 +1,4 @@
+tool	sample	Weighted UniFrac error	Unweighted UniFrac error	L1 norm error	Completeness	Purity	F1 score	True positives	False positives	False negatives	Taxon counts	Jaccard index	Shannon diversity	Shannon equitability	Bray-Curtis distance
+Metalign	mock_fungi	7.510697888190101	2672.9999554128985	na	na	na	na	na	na	na	na	na	1.2048532365763875	0.2113613126881155	na
+MetaBinG2	mock_fungi	12.847649984764992	295.9999992999999	na	na	na	na	na	na	na	na	na	na	na	na
+Diamond+Megan	mock_fungi	14.048833199999997	771.2022425	na	na	na	na	na	na	na	na	na	2.707441332268362	0.6756217182653105	na

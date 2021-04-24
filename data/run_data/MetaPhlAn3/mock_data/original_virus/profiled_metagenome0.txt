@@ -1,0 +1,41 @@
+#mpa_v30_CHOCOPhlAn_201901
+#/home/ugrads/cqm5886/miniconda3/envs/cse566finalproject/bin/metaphlan /home/ugrads/cqm5886/work/CSE566finalproject/data/mock_data/virus/fastq/MCB-S2_ATTCAGAA-TATAGCCT_L002_R1_001_t_paired.fastq,/home/ugrads/cqm5886/work/CSE566finalproject/data/mock_data/virus/fastq/MCB-S2_ATTCAGAA-TATAGCCT_L002_R2_001_t_paired.fastq --input_type fastq --bowtie2out metagenome.bowtie2.bz2 --add_viruses --CAMI_format_output --unknown_estimation --nproc 8 --output_file /home/ugrads/cqm5886/work/CSE566finalproject/data/run_data/MetaPhlAn3/mock_data/original_virus/profiled_metagenome0.txt
+@SampleID:Metaphlan_Analysis
+
+                           @Version:0.10.0
+
+                           @Ranks:superkingdom|phylum|class|order|family|genus|species|strain
+
+                           @@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+10239	superkingdom	10239	Viruses	43.60767554521047
+2	superkingdom	2	Bacteria	0.2232836724465886
+	phylum	10239|	Viruses|	43.60767554521047
+976	phylum	2|976	Bacteria|Bacteroidetes	0.2187997653186223
+1224	phylum	2|1224	Bacteria|Proteobacteria	0.004483907127966317
+	class	10239||	Viruses||	43.60767554521047
+117743	class	2|976|117743	Bacteria|Bacteroidetes|Flavobacteriia	0.2187997653186223
+1236	class	2|1224|1236	Bacteria|Proteobacteria|Gammaproteobacteria	0.004483907127966317
+200644	order	2|976|117743|200644	Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales	0.2187997653186223
+135622	order	2|1224|1236|135622	Bacteria|Proteobacteria|Gammaproteobacteria|Alteromonadales	0.004483907127966317
+10744	family	10239|||28883|10744	Viruses|||Caudovirales|Podoviridae	12.32081250654865
+10699	family	10239|||28883|10699	Viruses|||Caudovirales|Siphoviridae	6.691532284690207
+49546	family	2|976|117743|200644|49546	Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae	0.2187997653186223
+267888	family	2|1224|1236|135622|267888	Bacteria|Proteobacteria|Gammaproteobacteria|Alteromonadales|Pseudoalteromonadaceae	0.004483907127966317
+	genus	10239|||28883|10662|	Viruses|||Caudovirales|Myoviridae|	24.595335137067536
+	genus	10239|||28883|10744|	Viruses|||Caudovirales|Podoviridae|	12.32081250654865
+	genus	10239|||28883|10699|	Viruses|||Caudovirales|Siphoviridae|	6.674951032818167
+104264	genus	2|976|117743|200644|49546|104264	Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Cellulophaga	0.2187997653186223
+1918017	genus	10239|||28883|10699|1918017	Viruses|||Caudovirales|Siphoviridae|Cba181virus	0.016581251872039668
+53246	genus	2|1224|1236|135622|267888|53246	Bacteria|Proteobacteria|Gammaproteobacteria|Alteromonadales|Pseudoalteromonadaceae|Pseudoalteromonas	0.004483907127966317
+756280	species	10239|||28883|10662||756280	Viruses|||Caudovirales|Myoviridae||Cellulophaga_phage_phiSM	24.595335137067536
+877240	species	10239|||28883|10699||877240	Viruses|||Caudovirales|Siphoviridae||Pseudoalteromonas_phage_H105_1	6.416979539246725
+1327977	species	10239|||28883|10744||1327977	Viruses|||Caudovirales|Podoviridae||Cellulophaga_phage_phi38_1	4.676649388030042
+1327983	species	10239|||28883|10744||1327983	Viruses|||Caudovirales|Podoviridae||Cellulophaga_phage_phi18_3	4.580808612604713
+1316739	species	10239|||28883|10744||1316739	Viruses|||Caudovirales|Podoviridae||Pseudoalteromonas_phage_RIO_1	2.0885364405295155
+1327985	species	10239|||28883|10744||1327985	Viruses|||Caudovirales|Podoviridae||Cellulophaga_phage_phi46_3	0.9623832222543307
+1327981	species	10239|||28883|10699||1327981	Viruses|||Caudovirales|Siphoviridae||Cellulophaga_phage_phi10_1	0.2579714935714424
+76594	species	2|976|117743|200644|49546|104264|76594	Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Cellulophaga|Cellulophaga_baltica	0.2187997653186223
+1918194	species	10239|||28883|10699|1918017|1918194	Viruses|||Caudovirales|Siphoviridae|Cba181virus|Cellulophaga_virus_Cba171	0.016581251872039668
+1328030	species	10239|||28883|10744||1328030	Viruses|||Caudovirales|Podoviridae||Cellulophaga_phage_phi13_2	0.012434843130049307
+267375	species	2|1224|1236|135622|267888|53246|267375	Bacteria|Proteobacteria|Gammaproteobacteria|Alteromonadales|Pseudoalteromonadaceae|Pseudoalteromonas|Pseudoalteromonas_marina	0.004483907127966317

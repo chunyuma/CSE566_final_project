@@ -1,0 +1,489 @@
+tool	rank	metric	sample	value
+Gold standard	superkingdom	Bray-Curtis distance	simulated_fungi	0.0
+Gold standard	phylum	Bray-Curtis distance	simulated_fungi	0.0
+Gold standard	class	Bray-Curtis distance	simulated_fungi	0.0
+Gold standard	order	Bray-Curtis distance	simulated_fungi	0.0
+Gold standard	family	Bray-Curtis distance	simulated_fungi	0.0
+Gold standard	genus	Bray-Curtis distance	simulated_fungi	0.0
+Gold standard	species	Bray-Curtis distance	simulated_fungi	0.0
+Gold standard	strain	Bray-Curtis distance	simulated_fungi	0.0
+Gold standard	superkingdom	Shannon diversity	simulated_fungi	0.0
+Gold standard	superkingdom	Shannon equitability	simulated_fungi	0.0
+Gold standard	phylum	Shannon diversity	simulated_fungi	0.12515973162656197
+Gold standard	phylum	Shannon equitability	simulated_fungi	0.1805673241366345
+Gold standard	class	Shannon diversity	simulated_fungi	1.1397510198144072
+Gold standard	class	Shannon equitability	simulated_fungi	0.4318780827624418
+Gold standard	order	Shannon diversity	simulated_fungi	1.442026173428443
+Gold standard	order	Shannon equitability	simulated_fungi	0.44259774276183067
+Gold standard	family	Shannon diversity	simulated_fungi	1.861465571582235
+Gold standard	family	Shannon equitability	simulated_fungi	0.5012601177911794
+Gold standard	genus	Shannon diversity	simulated_fungi	2.0886218566370216
+Gold standard	genus	Shannon equitability	simulated_fungi	0.5143827536089352
+Gold standard	species	Shannon diversity	simulated_fungi	2.155314881185161
+Gold standard	species	Shannon equitability	simulated_fungi	0.5023506015496247
+Gold standard	strain	Shannon diversity	simulated_fungi	2.1553148811851606
+Gold standard	strain	Shannon equitability	simulated_fungi	0.5023506015496246
+Gold standard	superkingdom	F1 score	simulated_fungi	1.0
+Gold standard	superkingdom	False negatives	simulated_fungi	0.0
+Gold standard	superkingdom	False positives	simulated_fungi	0.0
+Gold standard	superkingdom	Jaccard index	simulated_fungi	1.0
+Gold standard	superkingdom	Taxon counts	simulated_fungi	1.0
+Gold standard	superkingdom	Purity	simulated_fungi	1.0
+Gold standard	superkingdom	Completeness	simulated_fungi	1.0
+Gold standard	superkingdom	True positives	simulated_fungi	1.0
+Gold standard	phylum	F1 score	simulated_fungi	1.0
+Gold standard	phylum	False negatives	simulated_fungi	0.0
+Gold standard	phylum	False positives	simulated_fungi	0.0
+Gold standard	phylum	Jaccard index	simulated_fungi	1.0
+Gold standard	phylum	Taxon counts	simulated_fungi	2.0
+Gold standard	phylum	Purity	simulated_fungi	1.0
+Gold standard	phylum	Completeness	simulated_fungi	1.0
+Gold standard	phylum	True positives	simulated_fungi	2.0
+Gold standard	class	F1 score	simulated_fungi	1.0
+Gold standard	class	False negatives	simulated_fungi	0.0
+Gold standard	class	False positives	simulated_fungi	0.0
+Gold standard	class	Jaccard index	simulated_fungi	1.0
+Gold standard	class	Taxon counts	simulated_fungi	14.0
+Gold standard	class	Purity	simulated_fungi	1.0
+Gold standard	class	Completeness	simulated_fungi	1.0
+Gold standard	class	True positives	simulated_fungi	14.0
+Gold standard	order	F1 score	simulated_fungi	1.0
+Gold standard	order	False negatives	simulated_fungi	0.0
+Gold standard	order	False positives	simulated_fungi	0.0
+Gold standard	order	Jaccard index	simulated_fungi	1.0
+Gold standard	order	Taxon counts	simulated_fungi	26.0
+Gold standard	order	Purity	simulated_fungi	1.0
+Gold standard	order	Completeness	simulated_fungi	1.0
+Gold standard	order	True positives	simulated_fungi	26.0
+Gold standard	family	F1 score	simulated_fungi	1.0
+Gold standard	family	False negatives	simulated_fungi	0.0
+Gold standard	family	False positives	simulated_fungi	0.0
+Gold standard	family	Jaccard index	simulated_fungi	1.0
+Gold standard	family	Taxon counts	simulated_fungi	41.0
+Gold standard	family	Purity	simulated_fungi	1.0
+Gold standard	family	Completeness	simulated_fungi	1.0
+Gold standard	family	True positives	simulated_fungi	41.0
+Gold standard	genus	F1 score	simulated_fungi	1.0
+Gold standard	genus	False negatives	simulated_fungi	0.0
+Gold standard	genus	False positives	simulated_fungi	0.0
+Gold standard	genus	Jaccard index	simulated_fungi	1.0
+Gold standard	genus	Taxon counts	simulated_fungi	58.0
+Gold standard	genus	Purity	simulated_fungi	1.0
+Gold standard	genus	Completeness	simulated_fungi	1.0
+Gold standard	genus	True positives	simulated_fungi	58.0
+Gold standard	species	F1 score	simulated_fungi	1.0
+Gold standard	species	False negatives	simulated_fungi	0.0
+Gold standard	species	False positives	simulated_fungi	0.0
+Gold standard	species	Jaccard index	simulated_fungi	1.0
+Gold standard	species	Taxon counts	simulated_fungi	73.0
+Gold standard	species	Purity	simulated_fungi	1.0
+Gold standard	species	Completeness	simulated_fungi	1.0
+Gold standard	species	True positives	simulated_fungi	73.0
+Gold standard	strain	F1 score	simulated_fungi	1.0
+Gold standard	strain	False negatives	simulated_fungi	0.0
+Gold standard	strain	False positives	simulated_fungi	0.0
+Gold standard	strain	Jaccard index	simulated_fungi	1.0
+Gold standard	strain	Taxon counts	simulated_fungi	73.0
+Gold standard	strain	Purity	simulated_fungi	1.0
+Gold standard	strain	Completeness	simulated_fungi	1.0
+Gold standard	strain	True positives	simulated_fungi	73.0
+Gold standard	superkingdom	L1 norm error	simulated_fungi	0.0
+Gold standard	phylum	L1 norm error	simulated_fungi	0.0
+Gold standard	class	L1 norm error	simulated_fungi	0.0
+Gold standard	order	L1 norm error	simulated_fungi	0.0
+Gold standard	family	L1 norm error	simulated_fungi	0.0
+Gold standard	genus	L1 norm error	simulated_fungi	0.0
+Gold standard	species	L1 norm error	simulated_fungi	0.0
+Gold standard	strain	L1 norm error	simulated_fungi	0.0
+Gold standard	na	Weighted UniFrac error	simulated_fungi	0.0
+Gold standard	na	Unweighted UniFrac error	simulated_fungi	0.0
+MiCoP	superkingdom	Bray-Curtis distance	simulated_fungi	1.0
+MiCoP	phylum	Bray-Curtis distance	simulated_fungi	1.0
+MiCoP	class	Bray-Curtis distance	simulated_fungi	0.6080550000000001
+MiCoP	order	Bray-Curtis distance	simulated_fungi	0.6526923905670188
+MiCoP	family	Bray-Curtis distance	simulated_fungi	0.9113947661082026
+MiCoP	genus	Bray-Curtis distance	simulated_fungi	0.5146890612359085
+MiCoP	species	Bray-Curtis distance	simulated_fungi	0.3289201026026609
+MiCoP	strain	Bray-Curtis distance	simulated_fungi	0.19876080538324414
+MiCoP	superkingdom	Shannon diversity	simulated_fungi	-2.220446049250313e-16
+MiCoP	superkingdom	Shannon equitability	simulated_fungi	0.0
+MiCoP	phylum	Shannon diversity	simulated_fungi	0.07795467343387393
+MiCoP	phylum	Shannon equitability	simulated_fungi	0.11246482077716853
+MiCoP	class	Shannon diversity	simulated_fungi	0.9079403846232518
+MiCoP	class	Shannon equitability	simulated_fungi	0.35397984836699337
+MiCoP	order	Shannon diversity	simulated_fungi	1.3023969030645792
+MiCoP	order	Shannon equitability	simulated_fungi	0.4098095792549831
+MiCoP	family	Shannon diversity	simulated_fungi	1.3090285256506435
+MiCoP	family	Shannon equitability	simulated_fungi	0.36818575931557673
+MiCoP	genus	Shannon diversity	simulated_fungi	1.4629242261571596
+MiCoP	genus	Shannon equitability	simulated_fungi	0.36342768000228715
+MiCoP	species	Shannon diversity	simulated_fungi	1.1524837772326513
+MiCoP	species	Shannon equitability	simulated_fungi	0.2731322840858637
+MiCoP	strain	Shannon diversity	simulated_fungi	1.4113025239679098
+MiCoP	strain	Shannon equitability	simulated_fungi	0.3475735333071425
+MiCoP	superkingdom	False negatives	simulated_fungi	1.0
+MiCoP	superkingdom	False positives	simulated_fungi	1.0
+MiCoP	superkingdom	Jaccard index	simulated_fungi	0.0
+MiCoP	superkingdom	Taxon counts	simulated_fungi	1.0
+MiCoP	superkingdom	Purity	simulated_fungi	0.0
+MiCoP	superkingdom	Completeness	simulated_fungi	0.0
+MiCoP	superkingdom	True positives	simulated_fungi	0.0
+MiCoP	phylum	False negatives	simulated_fungi	2.0
+MiCoP	phylum	False positives	simulated_fungi	2.0
+MiCoP	phylum	Jaccard index	simulated_fungi	0.0
+MiCoP	phylum	Taxon counts	simulated_fungi	2.0
+MiCoP	phylum	Purity	simulated_fungi	0.0
+MiCoP	phylum	Completeness	simulated_fungi	0.0
+MiCoP	phylum	True positives	simulated_fungi	0.0
+MiCoP	class	F1 score	simulated_fungi	0.07407407407407408
+MiCoP	class	False negatives	simulated_fungi	13.0
+MiCoP	class	False positives	simulated_fungi	12.0
+MiCoP	class	Jaccard index	simulated_fungi	0.038461538461538464
+MiCoP	class	Taxon counts	simulated_fungi	13.0
+MiCoP	class	Purity	simulated_fungi	0.07692307692307693
+MiCoP	class	Completeness	simulated_fungi	0.07142857142857142
+MiCoP	class	True positives	simulated_fungi	1.0
+MiCoP	order	F1 score	simulated_fungi	0.24000000000000002
+MiCoP	order	False negatives	simulated_fungi	20.0
+MiCoP	order	False positives	simulated_fungi	18.0
+MiCoP	order	Jaccard index	simulated_fungi	0.13636363636363635
+MiCoP	order	Taxon counts	simulated_fungi	24.0
+MiCoP	order	Purity	simulated_fungi	0.25
+MiCoP	order	Completeness	simulated_fungi	0.23076923076923078
+MiCoP	order	True positives	simulated_fungi	6.0
+MiCoP	family	F1 score	simulated_fungi	0.1842105263157895
+MiCoP	family	False negatives	simulated_fungi	34.0
+MiCoP	family	False positives	simulated_fungi	28.0
+MiCoP	family	Jaccard index	simulated_fungi	0.10144927536231885
+MiCoP	family	Taxon counts	simulated_fungi	35.0
+MiCoP	family	Purity	simulated_fungi	0.2
+MiCoP	family	Completeness	simulated_fungi	0.17073170731707318
+MiCoP	family	True positives	simulated_fungi	7.0
+MiCoP	genus	F1 score	simulated_fungi	0.3333333333333333
+MiCoP	genus	False negatives	simulated_fungi	39.0
+MiCoP	genus	False positives	simulated_fungi	37.0
+MiCoP	genus	Jaccard index	simulated_fungi	0.2
+MiCoP	genus	Taxon counts	simulated_fungi	56.0
+MiCoP	genus	Purity	simulated_fungi	0.3392857142857143
+MiCoP	genus	Completeness	simulated_fungi	0.3275862068965517
+MiCoP	genus	True positives	simulated_fungi	19.0
+MiCoP	species	F1 score	simulated_fungi	0.6099290780141843
+MiCoP	species	False negatives	simulated_fungi	30.0
+MiCoP	species	False positives	simulated_fungi	25.0
+MiCoP	species	Jaccard index	simulated_fungi	0.4387755102040816
+MiCoP	species	Taxon counts	simulated_fungi	68.0
+MiCoP	species	Purity	simulated_fungi	0.6323529411764706
+MiCoP	species	Completeness	simulated_fungi	0.589041095890411
+MiCoP	species	True positives	simulated_fungi	43.0
+MiCoP	strain	F1 score	simulated_fungi	0.7633587786259542
+MiCoP	strain	False negatives	simulated_fungi	23.0
+MiCoP	strain	False positives	simulated_fungi	8.0
+MiCoP	strain	Jaccard index	simulated_fungi	0.6172839506172839
+MiCoP	strain	Taxon counts	simulated_fungi	58.0
+MiCoP	strain	Purity	simulated_fungi	0.8620689655172413
+MiCoP	strain	Completeness	simulated_fungi	0.684931506849315
+MiCoP	strain	True positives	simulated_fungi	50.0
+MiCoP	superkingdom	L1 norm error	simulated_fungi	2.0000000000000004
+MiCoP	phylum	L1 norm error	simulated_fungi	2.0000000000000004
+MiCoP	class	L1 norm error	simulated_fungi	1.2161100000000002
+MiCoP	order	L1 norm error	simulated_fungi	1.5052983948846361
+MiCoP	family	L1 norm error	simulated_fungi	1.8212598757839924
+MiCoP	genus	L1 norm error	simulated_fungi	1.029995798513811
+MiCoP	species	L1 norm error	simulated_fungi	0.5612469861204019
+MiCoP	strain	L1 norm error	simulated_fungi	0.3951089117341299
+MiCoP	na	Weighted UniFrac error	simulated_fungi	2.2193631258090676
+MiCoP	na	Unweighted UniFrac error	simulated_fungi	186.73399837722081
+Metalign	superkingdom	Bray-Curtis distance	simulated_fungi	0.01874563276481551
+Metalign	phylum	Bray-Curtis distance	simulated_fungi	0.018745684656951395
+Metalign	class	Bray-Curtis distance	simulated_fungi	0.18394918575695082
+Metalign	order	Bray-Curtis distance	simulated_fungi	0.2500431058831775
+Metalign	family	Bray-Curtis distance	simulated_fungi	0.25353816659957285
+Metalign	genus	Bray-Curtis distance	simulated_fungi	0.25626294925230214
+Metalign	species	Bray-Curtis distance	simulated_fungi	0.2614230666728607
+Metalign	strain	Bray-Curtis distance	simulated_fungi	0.9986906994427831
+Metalign	superkingdom	Shannon diversity	simulated_fungi	0.03611576521174184
+Metalign	superkingdom	Shannon equitability	simulated_fungi	0.0
+Metalign	phylum	Shannon diversity	simulated_fungi	0.11835011559078198
+Metalign	phylum	Shannon equitability	simulated_fungi	0.17074312485145676
+Metalign	class	Shannon diversity	simulated_fungi	0.8583888165003729
+Metalign	class	Shannon equitability	simulated_fungi	0.325263421475393
+Metalign	order	Shannon diversity	simulated_fungi	0.9445656772518646
+Metalign	order	Shannon equitability	simulated_fungi	0.2777156310729188
+Metalign	family	Shannon diversity	simulated_fungi	1.1550150354885342
+Metalign	family	Shannon equitability	simulated_fungi	0.29091438630646455
+Metalign	genus	Shannon diversity	simulated_fungi	1.2787779835378168
+Metalign	genus	Shannon equitability	simulated_fungi	0.28418490496820514
+Metalign	species	Shannon diversity	simulated_fungi	1.3379886910240377
+Metalign	species	Shannon equitability	simulated_fungi	0.26998292625482706
+Metalign	strain	Shannon diversity	simulated_fungi	1.3379886910240377
+Metalign	strain	Shannon equitability	simulated_fungi	0.26998292625482706
+Metalign	superkingdom	F1 score	simulated_fungi	1.0
+Metalign	superkingdom	False negatives	simulated_fungi	0.0
+Metalign	superkingdom	False positives	simulated_fungi	0.0
+Metalign	superkingdom	Jaccard index	simulated_fungi	1.0
+Metalign	superkingdom	Taxon counts	simulated_fungi	1.0
+Metalign	superkingdom	Purity	simulated_fungi	1.0
+Metalign	superkingdom	Completeness	simulated_fungi	1.0
+Metalign	superkingdom	True positives	simulated_fungi	1.0
+Metalign	phylum	F1 score	simulated_fungi	1.0
+Metalign	phylum	False negatives	simulated_fungi	0.0
+Metalign	phylum	False positives	simulated_fungi	0.0
+Metalign	phylum	Jaccard index	simulated_fungi	1.0
+Metalign	phylum	Taxon counts	simulated_fungi	2.0
+Metalign	phylum	Purity	simulated_fungi	1.0
+Metalign	phylum	Completeness	simulated_fungi	1.0
+Metalign	phylum	True positives	simulated_fungi	2.0
+Metalign	class	F1 score	simulated_fungi	0.9285714285714286
+Metalign	class	False negatives	simulated_fungi	1.0
+Metalign	class	False positives	simulated_fungi	1.0
+Metalign	class	Jaccard index	simulated_fungi	0.8666666666666667
+Metalign	class	Taxon counts	simulated_fungi	14.0
+Metalign	class	Purity	simulated_fungi	0.9285714285714286
+Metalign	class	Completeness	simulated_fungi	0.9285714285714286
+Metalign	class	True positives	simulated_fungi	13.0
+Metalign	order	F1 score	simulated_fungi	0.8571428571428571
+Metalign	order	False negatives	simulated_fungi	2.0
+Metalign	order	False positives	simulated_fungi	6.0
+Metalign	order	Jaccard index	simulated_fungi	0.75
+Metalign	order	Taxon counts	simulated_fungi	30.0
+Metalign	order	Purity	simulated_fungi	0.8
+Metalign	order	Completeness	simulated_fungi	0.9230769230769231
+Metalign	order	True positives	simulated_fungi	24.0
+Metalign	family	F1 score	simulated_fungi	0.7872340425531914
+Metalign	family	False negatives	simulated_fungi	4.0
+Metalign	family	False positives	simulated_fungi	16.0
+Metalign	family	Jaccard index	simulated_fungi	0.6491228070175439
+Metalign	family	Taxon counts	simulated_fungi	53.0
+Metalign	family	Purity	simulated_fungi	0.6981132075471698
+Metalign	family	Completeness	simulated_fungi	0.9024390243902439
+Metalign	family	True positives	simulated_fungi	37.0
+Metalign	genus	F1 score	simulated_fungi	0.6891891891891893
+Metalign	genus	False negatives	simulated_fungi	7.0
+Metalign	genus	False positives	simulated_fungi	39.0
+Metalign	genus	Jaccard index	simulated_fungi	0.5257731958762887
+Metalign	genus	Taxon counts	simulated_fungi	90.0
+Metalign	genus	Purity	simulated_fungi	0.5666666666666667
+Metalign	genus	Completeness	simulated_fungi	0.8793103448275862
+Metalign	genus	True positives	simulated_fungi	51.0
+Metalign	species	F1 score	simulated_fungi	0.586046511627907
+Metalign	species	False negatives	simulated_fungi	10.0
+Metalign	species	False positives	simulated_fungi	79.0
+Metalign	species	Jaccard index	simulated_fungi	0.4144736842105263
+Metalign	species	Taxon counts	simulated_fungi	142.0
+Metalign	species	Purity	simulated_fungi	0.44366197183098594
+Metalign	species	Completeness	simulated_fungi	0.863013698630137
+Metalign	species	True positives	simulated_fungi	63.0
+Metalign	strain	F1 score	simulated_fungi	0.037209302325581395
+Metalign	strain	False negatives	simulated_fungi	69.0
+Metalign	strain	False positives	simulated_fungi	138.0
+Metalign	strain	Jaccard index	simulated_fungi	0.018957345971563982
+Metalign	strain	Taxon counts	simulated_fungi	142.0
+Metalign	strain	Purity	simulated_fungi	0.028169014084507043
+Metalign	strain	Completeness	simulated_fungi	0.0547945205479452
+Metalign	strain	True positives	simulated_fungi	4.0
+Metalign	superkingdom	L1 norm error	simulated_fungi	0.03680139999999994
+Metalign	phylum	L1 norm error	simulated_fungi	0.036801499999999994
+Metalign	class	L1 norm error	simulated_fungi	0.36112859999999997
+Metalign	order	L1 norm error	simulated_fungi	0.4908819
+Metalign	family	L1 norm error	simulated_fungi	0.4977387000000001
+Metalign	genus	L1 norm error	simulated_fungi	0.5030934999999999
+Metalign	species	L1 norm error	simulated_fungi	0.5132220000000001
+Metalign	strain	L1 norm error	simulated_fungi	1.9606151999999988
+Metalign	na	Weighted UniFrac error	simulated_fungi	4.458122967147585
+Metalign	na	Unweighted UniFrac error	simulated_fungi	872.0000287159434
+MetaBinG2	superkingdom	Bray-Curtis distance	simulated_fungi	0.0
+MetaBinG2	phylum	Bray-Curtis distance	simulated_fungi	0.001871700000000045
+MetaBinG2	class	Bray-Curtis distance	simulated_fungi	0.3009441
+MetaBinG2	order	Bray-Curtis distance	simulated_fungi	0.36750330087186406
+MetaBinG2	family	Bray-Curtis distance	simulated_fungi	0.7418561870928093
+MetaBinG2	genus	Bray-Curtis distance	simulated_fungi	0.9949800047689954
+MetaBinG2	species	Bray-Curtis distance	simulated_fungi	0.9949800022589989
+MetaBinG2	strain	Bray-Curtis distance	simulated_fungi	0.9955910019840492
+MetaBinG2	superkingdom	Shannon diversity	simulated_fungi	0.0
+MetaBinG2	superkingdom	Shannon equitability	simulated_fungi	0.0
+MetaBinG2	phylum	Shannon diversity	simulated_fungi	0.1317844202541742
+MetaBinG2	phylum	Shannon equitability	simulated_fungi	0.19012472956712417
+MetaBinG2	class	Shannon diversity	simulated_fungi	1.196225119608521
+MetaBinG2	class	Shannon equitability	simulated_fungi	0.8628940239230102
+MetaBinG2	order	Shannon diversity	simulated_fungi	1.6025236007349286
+MetaBinG2	order	Shannon equitability	simulated_fungi	0.8943854508693319
+MetaBinG2	family	Shannon diversity	simulated_fungi	1.6025236007349286
+MetaBinG2	family	Shannon equitability	simulated_fungi	0.8943854508693319
+MetaBinG2	genus	Shannon diversity	simulated_fungi	1.6025236007349286
+MetaBinG2	genus	Shannon equitability	simulated_fungi	0.8943854508693319
+MetaBinG2	species	Shannon diversity	simulated_fungi	1.6025236007349286
+MetaBinG2	species	Shannon equitability	simulated_fungi	0.8943854508693319
+MetaBinG2	strain	Shannon diversity	simulated_fungi	1.6025236007349286
+MetaBinG2	strain	Shannon equitability	simulated_fungi	0.8943854508693319
+MetaBinG2	superkingdom	F1 score	simulated_fungi	1.0
+MetaBinG2	superkingdom	False negatives	simulated_fungi	0.0
+MetaBinG2	superkingdom	False positives	simulated_fungi	0.0
+MetaBinG2	superkingdom	Jaccard index	simulated_fungi	1.0
+MetaBinG2	superkingdom	Taxon counts	simulated_fungi	1.0
+MetaBinG2	superkingdom	Purity	simulated_fungi	1.0
+MetaBinG2	superkingdom	Completeness	simulated_fungi	1.0
+MetaBinG2	superkingdom	True positives	simulated_fungi	1.0
+MetaBinG2	phylum	F1 score	simulated_fungi	1.0
+MetaBinG2	phylum	False negatives	simulated_fungi	0.0
+MetaBinG2	phylum	False positives	simulated_fungi	0.0
+MetaBinG2	phylum	Jaccard index	simulated_fungi	1.0
+MetaBinG2	phylum	Taxon counts	simulated_fungi	2.0
+MetaBinG2	phylum	Purity	simulated_fungi	1.0
+MetaBinG2	phylum	Completeness	simulated_fungi	1.0
+MetaBinG2	phylum	True positives	simulated_fungi	2.0
+MetaBinG2	class	F1 score	simulated_fungi	0.3333333333333333
+MetaBinG2	class	False negatives	simulated_fungi	11.0
+MetaBinG2	class	False positives	simulated_fungi	1.0
+MetaBinG2	class	Jaccard index	simulated_fungi	0.2
+MetaBinG2	class	Taxon counts	simulated_fungi	4.0
+MetaBinG2	class	Purity	simulated_fungi	0.75
+MetaBinG2	class	Completeness	simulated_fungi	0.21428571428571427
+MetaBinG2	class	True positives	simulated_fungi	3.0
+MetaBinG2	order	F1 score	simulated_fungi	0.3125
+MetaBinG2	order	False negatives	simulated_fungi	21.0
+MetaBinG2	order	False positives	simulated_fungi	1.0
+MetaBinG2	order	Jaccard index	simulated_fungi	0.18518518518518517
+MetaBinG2	order	Taxon counts	simulated_fungi	6.0
+MetaBinG2	order	Purity	simulated_fungi	0.8333333333333334
+MetaBinG2	order	Completeness	simulated_fungi	0.19230769230769232
+MetaBinG2	order	True positives	simulated_fungi	5.0
+MetaBinG2	family	F1 score	simulated_fungi	0.1702127659574468
+MetaBinG2	family	False negatives	simulated_fungi	37.0
+MetaBinG2	family	False positives	simulated_fungi	2.0
+MetaBinG2	family	Jaccard index	simulated_fungi	0.09302325581395349
+MetaBinG2	family	Taxon counts	simulated_fungi	6.0
+MetaBinG2	family	Purity	simulated_fungi	0.6666666666666666
+MetaBinG2	family	Completeness	simulated_fungi	0.0975609756097561
+MetaBinG2	family	True positives	simulated_fungi	4.0
+MetaBinG2	genus	F1 score	simulated_fungi	0.0625
+MetaBinG2	genus	False negatives	simulated_fungi	56.0
+MetaBinG2	genus	False positives	simulated_fungi	4.0
+MetaBinG2	genus	Jaccard index	simulated_fungi	0.03225806451612903
+MetaBinG2	genus	Taxon counts	simulated_fungi	6.0
+MetaBinG2	genus	Purity	simulated_fungi	0.3333333333333333
+MetaBinG2	genus	Completeness	simulated_fungi	0.034482758620689655
+MetaBinG2	genus	True positives	simulated_fungi	2.0
+MetaBinG2	species	F1 score	simulated_fungi	0.05063291139240506
+MetaBinG2	species	False negatives	simulated_fungi	71.0
+MetaBinG2	species	False positives	simulated_fungi	4.0
+MetaBinG2	species	Jaccard index	simulated_fungi	0.025974025974025976
+MetaBinG2	species	Taxon counts	simulated_fungi	6.0
+MetaBinG2	species	Purity	simulated_fungi	0.3333333333333333
+MetaBinG2	species	Completeness	simulated_fungi	0.0273972602739726
+MetaBinG2	species	True positives	simulated_fungi	2.0
+MetaBinG2	strain	F1 score	simulated_fungi	0.02531645569620253
+MetaBinG2	strain	False negatives	simulated_fungi	72.0
+MetaBinG2	strain	False positives	simulated_fungi	5.0
+MetaBinG2	strain	Jaccard index	simulated_fungi	0.01282051282051282
+MetaBinG2	strain	Taxon counts	simulated_fungi	6.0
+MetaBinG2	strain	Purity	simulated_fungi	0.16666666666666666
+MetaBinG2	strain	Completeness	simulated_fungi	0.0136986301369863
+MetaBinG2	strain	True positives	simulated_fungi	1.0
+MetaBinG2	superkingdom	L1 norm error	simulated_fungi	0.0
+MetaBinG2	phylum	L1 norm error	simulated_fungi	0.00374340000000009
+MetaBinG2	class	L1 norm error	simulated_fungi	0.6018882
+MetaBinG2	order	L1 norm error	simulated_fungi	0.7350072999999999
+MetaBinG2	family	L1 norm error	simulated_fungi	1.4837122999999999
+MetaBinG2	genus	L1 norm error	simulated_fungi	1.9899619
+MetaBinG2	species	L1 norm error	simulated_fungi	1.9899608999999998
+MetaBinG2	strain	L1 norm error	simulated_fungi	1.9911829000000005
+MetaBinG2	na	Weighted UniFrac error	simulated_fungi	8.7954569
+MetaBinG2	na	Unweighted UniFrac error	simulated_fungi	646.9999670000001
+Diamond+Megan	superkingdom	Bray-Curtis distance	simulated_fungi	0.0
+Diamond+Megan	phylum	Bray-Curtis distance	simulated_fungi	0.0031096000000000435
+Diamond+Megan	class	Bray-Curtis distance	simulated_fungi	0.16002959804287337
+Diamond+Megan	order	Bray-Curtis distance	simulated_fungi	0.2670086963417384
+Diamond+Megan	family	Bray-Curtis distance	simulated_fungi	0.29059227094077283
+Diamond+Megan	genus	Bray-Curtis distance	simulated_fungi	0.19235136917835696
+Diamond+Megan	species	Bray-Curtis distance	simulated_fungi	0.22852998573500713
+Diamond+Megan	strain	Bray-Curtis distance	simulated_fungi	0.24860506354620232
+Diamond+Megan	superkingdom	Shannon diversity	simulated_fungi	0.0
+Diamond+Megan	superkingdom	Shannon equitability	simulated_fungi	0.0
+Diamond+Megan	phylum	Shannon diversity	simulated_fungi	0.13609732183246526
+Diamond+Megan	phylum	Shannon equitability	simulated_fungi	0.1963469312859669
+Diamond+Megan	class	Shannon diversity	simulated_fungi	0.849551703838304
+Diamond+Megan	class	Shannon equitability	simulated_fungi	0.354290578690231
+Diamond+Megan	order	Shannon diversity	simulated_fungi	0.8407897331913552
+Diamond+Megan	order	Shannon equitability	simulated_fungi	0.2908932841923929
+Diamond+Megan	family	Shannon diversity	simulated_fungi	1.1135410491384732
+Diamond+Megan	family	Shannon equitability	simulated_fungi	0.3459409774479474
+Diamond+Megan	genus	Shannon diversity	simulated_fungi	1.5098828325395663
+Diamond+Megan	genus	Shannon equitability	simulated_fungi	0.4213408268438147
+Diamond+Megan	species	Shannon diversity	simulated_fungi	1.2807156824940849
+Diamond+Megan	species	Shannon equitability	simulated_fungi	0.35739051599539096
+Diamond+Megan	strain	Shannon diversity	simulated_fungi	1.5189081145437597
+Diamond+Megan	strain	Shannon equitability	simulated_fungi	0.3844126616135633
+Diamond+Megan	superkingdom	F1 score	simulated_fungi	1.0
+Diamond+Megan	superkingdom	False negatives	simulated_fungi	0.0
+Diamond+Megan	superkingdom	False positives	simulated_fungi	0.0
+Diamond+Megan	superkingdom	Jaccard index	simulated_fungi	1.0
+Diamond+Megan	superkingdom	Taxon counts	simulated_fungi	1.0
+Diamond+Megan	superkingdom	Purity	simulated_fungi	1.0
+Diamond+Megan	superkingdom	Completeness	simulated_fungi	1.0
+Diamond+Megan	superkingdom	True positives	simulated_fungi	1.0
+Diamond+Megan	phylum	F1 score	simulated_fungi	1.0
+Diamond+Megan	phylum	False negatives	simulated_fungi	0.0
+Diamond+Megan	phylum	False positives	simulated_fungi	0.0
+Diamond+Megan	phylum	Jaccard index	simulated_fungi	1.0
+Diamond+Megan	phylum	Taxon counts	simulated_fungi	2.0
+Diamond+Megan	phylum	Purity	simulated_fungi	1.0
+Diamond+Megan	phylum	Completeness	simulated_fungi	1.0
+Diamond+Megan	phylum	True positives	simulated_fungi	2.0
+Diamond+Megan	class	F1 score	simulated_fungi	0.88
+Diamond+Megan	class	False negatives	simulated_fungi	3.0
+Diamond+Megan	class	False positives	simulated_fungi	0.0
+Diamond+Megan	class	Jaccard index	simulated_fungi	0.7857142857142857
+Diamond+Megan	class	Taxon counts	simulated_fungi	11.0
+Diamond+Megan	class	Purity	simulated_fungi	1.0
+Diamond+Megan	class	Completeness	simulated_fungi	0.7857142857142857
+Diamond+Megan	class	True positives	simulated_fungi	11.0
+Diamond+Megan	order	F1 score	simulated_fungi	0.8181818181818181
+Diamond+Megan	order	False negatives	simulated_fungi	8.0
+Diamond+Megan	order	False positives	simulated_fungi	0.0
+Diamond+Megan	order	Jaccard index	simulated_fungi	0.6923076923076923
+Diamond+Megan	order	Taxon counts	simulated_fungi	18.0
+Diamond+Megan	order	Purity	simulated_fungi	1.0
+Diamond+Megan	order	Completeness	simulated_fungi	0.6923076923076923
+Diamond+Megan	order	True positives	simulated_fungi	18.0
+Diamond+Megan	family	F1 score	simulated_fungi	0.7575757575757575
+Diamond+Megan	family	False negatives	simulated_fungi	16.0
+Diamond+Megan	family	False positives	simulated_fungi	0.0
+Diamond+Megan	family	Jaccard index	simulated_fungi	0.6097560975609756
+Diamond+Megan	family	Taxon counts	simulated_fungi	25.0
+Diamond+Megan	family	Purity	simulated_fungi	1.0
+Diamond+Megan	family	Completeness	simulated_fungi	0.6097560975609756
+Diamond+Megan	family	True positives	simulated_fungi	25.0
+Diamond+Megan	genus	F1 score	simulated_fungi	0.7446808510638298
+Diamond+Megan	genus	False negatives	simulated_fungi	23.0
+Diamond+Megan	genus	False positives	simulated_fungi	1.0
+Diamond+Megan	genus	Jaccard index	simulated_fungi	0.5932203389830508
+Diamond+Megan	genus	Taxon counts	simulated_fungi	36.0
+Diamond+Megan	genus	Purity	simulated_fungi	0.9722222222222222
+Diamond+Megan	genus	Completeness	simulated_fungi	0.603448275862069
+Diamond+Megan	genus	True positives	simulated_fungi	35.0
+Diamond+Megan	species	F1 score	simulated_fungi	0.5871559633027523
+Diamond+Megan	species	False negatives	simulated_fungi	41.0
+Diamond+Megan	species	False positives	simulated_fungi	4.0
+Diamond+Megan	species	Jaccard index	simulated_fungi	0.4155844155844156
+Diamond+Megan	species	Taxon counts	simulated_fungi	36.0
+Diamond+Megan	species	Purity	simulated_fungi	0.8888888888888888
+Diamond+Megan	species	Completeness	simulated_fungi	0.4383561643835616
+Diamond+Megan	species	True positives	simulated_fungi	32.0
+Diamond+Megan	strain	F1 score	simulated_fungi	0.384
+Diamond+Megan	strain	False negatives	simulated_fungi	49.0
+Diamond+Megan	strain	False positives	simulated_fungi	28.0
+Diamond+Megan	strain	Jaccard index	simulated_fungi	0.2376237623762376
+Diamond+Megan	strain	Taxon counts	simulated_fungi	52.0
+Diamond+Megan	strain	Purity	simulated_fungi	0.46153846153846156
+Diamond+Megan	strain	Completeness	simulated_fungi	0.3287671232876712
+Diamond+Megan	strain	True positives	simulated_fungi	24.0
+Diamond+Megan	superkingdom	L1 norm error	simulated_fungi	0.0
+Diamond+Megan	phylum	L1 norm error	simulated_fungi	0.006219200000000087
+Diamond+Megan	class	L1 norm error	simulated_fungi	0.29836679999999993
+Diamond+Megan	order	L1 norm error	simulated_fungi	0.5340178999999999
+Diamond+Megan	family	L1 norm error	simulated_fungi	0.5811845999999998
+Diamond+Megan	genus	L1 norm error	simulated_fungi	0.3847031999999999
+Diamond+Megan	species	L1 norm error	simulated_fungi	0.4570602000000001
+Diamond+Megan	strain	L1 norm error	simulated_fungi	0.49721050000000006
+Diamond+Megan	na	Weighted UniFrac error	simulated_fungi	3.2423807000000022
+Diamond+Megan	na	Unweighted UniFrac error	simulated_fungi	538.4880980999999

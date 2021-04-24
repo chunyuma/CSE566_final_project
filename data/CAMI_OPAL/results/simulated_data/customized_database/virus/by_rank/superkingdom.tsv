@@ -1,0 +1,6 @@
+tool	sample	Weighted UniFrac error	Unweighted UniFrac error	L1 norm error	Completeness	Purity	F1 score	True positives	False positives	False negatives	Taxon counts	Jaccard index	Shannon diversity	Shannon equitability	Bray-Curtis distance
+MiCoP	simulated_virus	12.217203469758992	749.0807051643421	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Metalign	simulated_virus	9.838109178767027	216.99999720014037	0.0007016000000000134	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0007013538211402052	0.0	0.0003509231038248284
+MetaBinG2	simulated_virus	11.34232340000001	680.9999651	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+MetaPhlAn3	simulated_virus	8.255970900000008	523.8885871000001	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Diamond+Megan	simulated_virus	10.856552100000009	493.27225009999995	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0

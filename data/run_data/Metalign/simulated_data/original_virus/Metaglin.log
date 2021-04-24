@@ -1,0 +1,1569 @@
+*****************
+
+********** Used parameters: **********
+No. of input files           : 1
+Output file name             : /home/ugrads/cqm5886/work/CSE566finalproject/github_repos/profilers/Metalign/data/xitdr_9e/reads_60mers
+No. of working directories   : 1
+Input format                 : FASTQ
+
+k-mer length                 : 60
+Max. k-mer length            : 256
+Signature length             : 9
+Min. count threshold         : 2
+Max. count threshold         : 1000000000
+Max. counter value           : 3
+Both strands                 : true
+RAM only mode                : false
+
+******* Stage 1 configuration: *******
+
+No. of bins                  : 512
+Bin part size                : 65536
+Input buffer size            : 16777216
+
+No. of readers               : 1
+No. of splitters             : 7
+
+Max. mem. size               : 12000MB
+Max. mem. per storer         :  6128MB
+Max. mem. for single package :    23MB
+
+Max. mem. for PMM (bin parts):  9428MB
+Max. mem. for PMM (FASTQ)    :  1751MB
+Max. mem. for PMM (reads)    :     7MB
+Max. mem. for PMM (b. reader):   805MB
+
+Stage 1: 0%Stage 1: 12%Stage 1: 25%Stage 1: 38%Stage 1: 50%Stage 1: 63%Stage 1: 76%Stage 1: 89%Stage 1: 100%
+
+******* Stage 2 configuration: *******
+No. of threads               : 8
+
+Max. mem. for 2nd stage      :  9192MB
+
+Stage 2: 0%Stage 2: 1%Stage 2: 2%Stage 2: 3%Stage 2: 4%Stage 2: 5%Stage 2: 6%Stage 2: 7%Stage 2: 8%Stage 2: 9%Stage 2: 10%Stage 2: 11%Stage 2: 12%Stage 2: 13%Stage 2: 14%Stage 2: 15%Stage 2: 16%Stage 2: 17%Stage 2: 18%Stage 2: 19%Stage 2: 20%Stage 2: 21%Stage 2: 22%Stage 2: 23%Stage 2: 24%Stage 2: 25%Stage 2: 26%Stage 2: 27%Stage 2: 28%Stage 2: 29%Stage 2: 30%Stage 2: 31%Stage 2: 32%Stage 2: 33%Stage 2: 34%Stage 2: 35%Stage 2: 36%Stage 2: 37%Stage 2: 38%Stage 2: 39%Stage 2: 40%Stage 2: 41%Stage 2: 42%Stage 2: 43%Stage 2: 44%Stage 2: 45%Stage 2: 46%Stage 2: 47%Stage 2: 48%Stage 2: 49%Stage 2: 50%Stage 2: 51%Stage 2: 52%Stage 2: 53%Stage 2: 54%Stage 2: 55%Stage 2: 56%Stage 2: 57%Stage 2: 58%Stage 2: 59%Stage 2: 60%Stage 2: 61%Stage 2: 62%Stage 2: 63%Stage 2: 64%Stage 2: 65%Stage 2: 66%Stage 2: 67%Stage 2: 68%Stage 2: 69%Stage 2: 70%Stage 2: 71%Stage 2: 72%Stage 2: 73%Stage 2: 74%Stage 2: 75%Stage 2: 76%Stage 2: 77%Stage 2: 78%Stage 2: 79%Stage 2: 80%Stage 2: 81%Stage 2: 82%Stage 2: 83%Stage 2: 84%Stage 2: 85%Stage 2: 86%Stage 2: 87%Stage 2: 88%Stage 2: 89%Stage 2: 90%Stage 2: 91%Stage 2: 92%Stage 2: 93%Stage 2: 94%Stage 2: 95%Stage 2: 96%Stage 2: 97%Stage 2: 98%Stage 2: 99%Stage 2: 100%
+1st stage: 6.78346s
+2nd stage: 15.3406s
+Total    : 22.1241s
+Tmp size : 597MB
+
+Stats:
+   No. of k-mers below min. threshold :    319314798
+   No. of k-mers above max. threshold :            0
+   No. of unique k-mers               :    354857582
+   No. of unique counted k-mers       :     35542784
+   Total no. of k-mers                :    603881839
+   Total no. of reads                 :      6638114
+   Total no. of super-k-mers          :     27738535
+in1: 0% in1: 0% in2: 0% in1: 2% in2: 0% in1: 2% in2: 7% in1: 5% in2: 7% in1: 6% in2: 7% in1: 6% in2: 15% in1: 9% in2: 15% in1: 11% in2: 15% in1: 13% in2: 15% in1: 15% in2: 15% in1: 15% in2: 19% in1: 18% in2: 19% in1: 18% in2: 27% in1: 20% in2: 27% in1: 22% in2: 27% in1: 25% in2: 27% in1: 25% in2: 28% in1: 25% in2: 29% in1: 26% in2: 29% in1: 26% in2: 37% in1: 29% in2: 37% in1: 31% in2: 37% in1: 33% in2: 37% in1: 35% in2: 37% in1: 35% in2: 45% in1: 38% in2: 45% in1: 40% in2: 45% in1: 42% in2: 45% in1: 45% in2: 45% in1: 45% in2: 53% in1: 46% in2: 53% in1: 49% in2: 53% in1: 51% in2: 53% in1: 51% in2: 57% in1: 53% in2: 57% in1: 56% in2: 57% in1: 56% in2: 59% in1: 58% in2: 59% in1: 58% in2: 61% in1: 60% in2: 61% in1: 60% in2: 69% in1: 62% in2: 69% in1: 65% in2: 69% in1: 66% in2: 69% in1: 69% in2: 69% in1: 69% in2: 77% in1: 71% in2: 77% in1: 73% in2: 77% in1: 76% in2: 77% in1: 78% in2: 77% in1: 78% in2: 85% in1: 80% in2: 85% in1: 82% in2: 85% in1: 85% in2: 85% in1: 86% in2: 85% in1: 89% in2: 85% in1: 89% in2: 90% in1: 91% in2: 90% in1: 91% in2: 98% in1: 93% in2: 98% in1: 96% in2: 98% in1: 98% in2: 98% in1: 98% in2: 99% in1: 99% in2: 99% in1: 99% in2: 100% in1: 100% in2: 100% 
+Reading in sketches
+Finished reading in sketches
+Time: 251.023785
+Reading in/creating ternary search tree
+Finished reading in/creating ternary search tree
+Time: 13.130860
+Start streaming
+Read in 66218 sequences
+Finished streaming
+Time: 19.247082
+Forming hit matrix
+Finished forming hit matrix
+Time: 1.276922
+Computing containment indicies
+Finished computing containment indicies
+Time: 0.810718
+Exporting results
+[M::mm_idx_gen::56.796*1.55] collected minimizers
+[M::mm_idx_gen::61.232*2.01] sorted minimizers
+[WARNING][1;31m For a multi-part index, no @SQ lines will be outputted. Please use --split-prefix.[0m
+[M::main::61.232*2.01] loaded/built the index for 263120 target sequence(s)
+[M::mm_mapopt_update::61.232*2.01] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 263120
+[M::mm_idx_stat::66.564*1.93] distinct minimizers: 596592137 (94.62% are singletons); average occurrences: 1.106; average spacing: 6.079; total length: 4010868611
+[M::worker_pipeline::70.747*2.29] mapped 333334 sequences
+[M::worker_pipeline::73.312*2.38] mapped 333334 sequences
+[M::worker_pipeline::75.910*2.46] mapped 333334 sequences
+[M::worker_pipeline::78.488*2.53] mapped 333334 sequences
+[M::worker_pipeline::81.071*2.60] mapped 333334 sequences
+[M::worker_pipeline::83.663*2.67] mapped 333334 sequences
+[M::worker_pipeline::86.251*2.73] mapped 333334 sequences
+[M::worker_pipeline::91.827*2.70] mapped 333334 sequences
+[M::worker_pipeline::94.420*2.75] mapped 333334 sequences
+[M::worker_pipeline::97.032*2.80] mapped 333334 sequences
+[M::worker_pipeline::99.622*2.85] mapped 333334 sequences
+[M::worker_pipeline::102.187*2.90] mapped 333334 sequences
+[M::worker_pipeline::104.765*2.95] mapped 333334 sequences
+[M::worker_pipeline::107.344*2.99] mapped 333334 sequences
+[M::worker_pipeline::109.945*3.03] mapped 333334 sequences
+[M::worker_pipeline::112.544*3.07] mapped 333334 sequences
+[M::worker_pipeline::115.119*3.10] mapped 333334 sequences
+[M::worker_pipeline::117.714*3.13] mapped 333334 sequences
+[M::worker_pipeline::120.230*3.08] mapped 333334 sequences
+[M::worker_pipeline::122.538*3.03] mapped 304768 sequences
+[M::mm_idx_gen::181.460*2.54] collected minimizers
+[M::mm_idx_gen::186.452*2.68] sorted minimizers
+[M::main::186.452*2.68] loaded/built the index for 335328 target sequence(s)
+[M::mm_mapopt_update::186.452*2.68] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 335328
+[M::mm_idx_stat::191.657*2.64] distinct minimizers: 482664147 (86.47% are singletons); average occurrences: 1.382; average spacing: 6.050; total length: 4035389838
+[M::worker_pipeline::192.798*2.66] mapped 333334 sequences
+[M::worker_pipeline::193.328*2.66] mapped 333334 sequences
+[M::worker_pipeline::193.888*2.67] mapped 333334 sequences
+[M::worker_pipeline::194.446*2.67] mapped 333334 sequences
+[M::worker_pipeline::195.010*2.68] mapped 333334 sequences
+[M::worker_pipeline::195.550*2.68] mapped 333334 sequences
+[M::worker_pipeline::196.100*2.69] mapped 333334 sequences
+[M::worker_pipeline::196.629*2.69] mapped 333334 sequences
+[M::worker_pipeline::197.184*2.69] mapped 333334 sequences
+[M::worker_pipeline::197.715*2.70] mapped 333334 sequences
+[M::worker_pipeline::198.274*2.70] mapped 333334 sequences
+[M::worker_pipeline::198.806*2.71] mapped 333334 sequences
+[M::worker_pipeline::199.367*2.71] mapped 333334 sequences
+[M::worker_pipeline::199.899*2.72] mapped 333334 sequences
+[M::worker_pipeline::200.455*2.72] mapped 333334 sequences
+[M::worker_pipeline::201.011*2.72] mapped 333334 sequences
+[M::worker_pipeline::201.569*2.73] mapped 333334 sequences
+[M::worker_pipeline::202.107*2.73] mapped 333334 sequences
+[M::worker_pipeline::202.615*2.73] mapped 333334 sequences
+[M::worker_pipeline::203.112*2.72] mapped 304768 sequences
+[M::mm_idx_gen::261.669*2.45] collected minimizers
+[M::mm_idx_gen::266.003*2.54] sorted minimizers
+[M::main::266.003*2.54] loaded/built the index for 360772 target sequence(s)
+[M::mm_mapopt_update::266.003*2.54] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 360772
+[M::mm_idx_stat::271.384*2.51] distinct minimizers: 568241458 (92.01% are singletons); average occurrences: 1.174; average spacing: 6.072; total length: 4049913586
+[M::worker_pipeline::272.450*2.53] mapped 333334 sequences
+[M::worker_pipeline::272.981*2.53] mapped 333334 sequences
+[M::worker_pipeline::273.507*2.53] mapped 333334 sequences
+[M::worker_pipeline::274.039*2.54] mapped 333334 sequences
+[M::worker_pipeline::274.595*2.54] mapped 333334 sequences
+[M::worker_pipeline::275.130*2.55] mapped 333334 sequences
+[M::worker_pipeline::275.659*2.55] mapped 333334 sequences
+[M::worker_pipeline::276.198*2.55] mapped 333334 sequences
+[M::worker_pipeline::276.723*2.56] mapped 333334 sequences
+[M::worker_pipeline::277.250*2.56] mapped 333334 sequences
+[M::worker_pipeline::277.800*2.57] mapped 333334 sequences
+[M::worker_pipeline::278.340*2.57] mapped 333334 sequences
+[M::worker_pipeline::278.886*2.57] mapped 333334 sequences
+[M::worker_pipeline::279.430*2.58] mapped 333334 sequences
+[M::worker_pipeline::279.979*2.58] mapped 333334 sequences
+[M::worker_pipeline::280.506*2.58] mapped 333334 sequences
+[M::worker_pipeline::281.030*2.59] mapped 333334 sequences
+[M::worker_pipeline::281.579*2.59] mapped 333334 sequences
+[M::worker_pipeline::282.088*2.59] mapped 333334 sequences
+[M::worker_pipeline::282.560*2.58] mapped 304768 sequences
+[M::mm_idx_gen::339.475*2.41] collected minimizers
+[M::mm_idx_gen::343.877*2.48] sorted minimizers
+[M::main::343.877*2.48] loaded/built the index for 282717 target sequence(s)
+[M::mm_mapopt_update::343.877*2.48] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 282717
+[M::mm_idx_stat::349.102*2.46] distinct minimizers: 565116363 (94.87% are singletons); average occurrences: 1.161; average spacing: 6.109; total length: 4008971442
+[M::worker_pipeline::350.102*2.47] mapped 333334 sequences
+[M::worker_pipeline::350.719*2.47] mapped 333334 sequences
+[M::worker_pipeline::351.246*2.47] mapped 333334 sequences
+[M::worker_pipeline::351.771*2.48] mapped 333334 sequences
+[M::worker_pipeline::352.307*2.48] mapped 333334 sequences
+[M::worker_pipeline::352.835*2.48] mapped 333334 sequences
+[M::worker_pipeline::353.384*2.49] mapped 333334 sequences
+[M::worker_pipeline::353.911*2.49] mapped 333334 sequences
+[M::worker_pipeline::354.438*2.49] mapped 333334 sequences
+[M::worker_pipeline::354.962*2.50] mapped 333334 sequences
+[M::worker_pipeline::355.507*2.50] mapped 333334 sequences
+[M::worker_pipeline::356.031*2.50] mapped 333334 sequences
+[M::worker_pipeline::356.579*2.50] mapped 333334 sequences
+[M::worker_pipeline::357.126*2.51] mapped 333334 sequences
+[M::worker_pipeline::357.654*2.51] mapped 333334 sequences
+[M::worker_pipeline::358.179*2.51] mapped 333334 sequences
+[M::worker_pipeline::358.735*2.52] mapped 333334 sequences
+[M::worker_pipeline::359.269*2.52] mapped 333334 sequences
+[M::worker_pipeline::359.784*2.52] mapped 333334 sequences
+[M::worker_pipeline::360.246*2.51] mapped 304768 sequences
+[M::mm_idx_gen::417.201*2.38] collected minimizers
+[M::mm_idx_gen::421.515*2.44] sorted minimizers
+[M::main::421.515*2.44] loaded/built the index for 112909 target sequence(s)
+[M::mm_mapopt_update::421.515*2.44] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 112909
+[M::mm_idx_stat::426.866*2.42] distinct minimizers: 556443028 (94.07% are singletons); average occurrences: 1.178; average spacing: 6.102; total length: 4001249198
+[M::worker_pipeline::427.923*2.43] mapped 333334 sequences
+[M::worker_pipeline::428.471*2.43] mapped 333334 sequences
+[M::worker_pipeline::429.002*2.43] mapped 333334 sequences
+[M::worker_pipeline::429.539*2.44] mapped 333334 sequences
+[M::worker_pipeline::430.059*2.44] mapped 333334 sequences
+[M::worker_pipeline::430.623*2.44] mapped 333334 sequences
+[M::worker_pipeline::431.154*2.44] mapped 333334 sequences
+[M::worker_pipeline::431.688*2.45] mapped 333334 sequences
+[M::worker_pipeline::432.221*2.45] mapped 333334 sequences
+[M::worker_pipeline::432.780*2.45] mapped 333334 sequences
+[M::worker_pipeline::433.319*2.45] mapped 333334 sequences
+[M::worker_pipeline::433.882*2.46] mapped 333334 sequences
+[M::worker_pipeline::434.438*2.46] mapped 333334 sequences
+[M::worker_pipeline::434.999*2.46] mapped 333334 sequences
+[M::worker_pipeline::435.530*2.46] mapped 333334 sequences
+[M::worker_pipeline::436.054*2.47] mapped 333334 sequences
+[M::worker_pipeline::436.607*2.47] mapped 333334 sequences
+[M::worker_pipeline::437.153*2.47] mapped 333334 sequences
+[M::worker_pipeline::437.668*2.47] mapped 333334 sequences
+[M::worker_pipeline::438.143*2.47] mapped 304768 sequences
+[M::mm_idx_gen::496.439*2.36] collected minimizers
+[M::mm_idx_gen::500.650*2.40] sorted minimizers
+[M::main::500.650*2.40] loaded/built the index for 1245190 target sequence(s)
+[M::mm_mapopt_update::500.650*2.40] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 1245190
+[M::mm_idx_stat::506.055*2.39] distinct minimizers: 571775622 (93.55% are singletons); average occurrences: 1.144; average spacing: 6.185; total length: 4044125831
+[M::worker_pipeline::507.170*2.40] mapped 333334 sequences
+[M::worker_pipeline::507.698*2.40] mapped 333334 sequences
+[M::worker_pipeline::508.224*2.40] mapped 333334 sequences
+[M::worker_pipeline::508.754*2.40] mapped 333334 sequences
+[M::worker_pipeline::509.293*2.41] mapped 333334 sequences
+[M::worker_pipeline::509.819*2.41] mapped 333334 sequences
+[M::worker_pipeline::510.349*2.41] mapped 333334 sequences
+[M::worker_pipeline::510.874*2.41] mapped 333334 sequences
+[M::worker_pipeline::511.431*2.42] mapped 333334 sequences
+[M::worker_pipeline::511.954*2.42] mapped 333334 sequences
+[M::worker_pipeline::512.508*2.42] mapped 333334 sequences
+[M::worker_pipeline::513.030*2.42] mapped 333334 sequences
+[M::worker_pipeline::513.581*2.42] mapped 333334 sequences
+[M::worker_pipeline::514.120*2.43] mapped 333334 sequences
+[M::worker_pipeline::514.674*2.43] mapped 333334 sequences
+[M::worker_pipeline::515.229*2.43] mapped 333334 sequences
+[M::worker_pipeline::515.754*2.43] mapped 333334 sequences
+[M::worker_pipeline::516.287*2.43] mapped 333334 sequences
+[M::worker_pipeline::516.803*2.43] mapped 333334 sequences
+[M::worker_pipeline::517.271*2.43] mapped 304768 sequences
+[M::mm_idx_gen::573.325*2.34] collected minimizers
+[M::mm_idx_gen::577.496*2.38] sorted minimizers
+[M::main::577.496*2.38] loaded/built the index for 175994 target sequence(s)
+[M::mm_mapopt_update::577.496*2.38] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 175994
+[M::mm_idx_stat::582.746*2.37] distinct minimizers: 575230227 (95.01% are singletons); average occurrences: 1.121; average spacing: 6.271; total length: 4043052788
+[M::worker_pipeline::583.767*2.38] mapped 333334 sequences
+[M::worker_pipeline::584.291*2.38] mapped 333334 sequences
+[M::worker_pipeline::584.816*2.38] mapped 333334 sequences
+[M::worker_pipeline::585.339*2.39] mapped 333334 sequences
+[M::worker_pipeline::585.893*2.39] mapped 333334 sequences
+[M::worker_pipeline::586.426*2.39] mapped 333334 sequences
+[M::worker_pipeline::586.978*2.39] mapped 333334 sequences
+[M::worker_pipeline::587.520*2.39] mapped 333334 sequences
+[M::worker_pipeline::588.047*2.40] mapped 333334 sequences
+[M::worker_pipeline::588.574*2.40] mapped 333334 sequences
+[M::worker_pipeline::589.098*2.40] mapped 333334 sequences
+[M::worker_pipeline::589.652*2.40] mapped 333334 sequences
+[M::worker_pipeline::590.201*2.40] mapped 333334 sequences
+[M::worker_pipeline::590.727*2.40] mapped 333334 sequences
+[M::worker_pipeline::591.278*2.41] mapped 333334 sequences
+[M::worker_pipeline::591.806*2.41] mapped 333334 sequences
+[M::worker_pipeline::592.334*2.41] mapped 333334 sequences
+[M::worker_pipeline::592.859*2.41] mapped 333334 sequences
+[M::worker_pipeline::593.361*2.41] mapped 333334 sequences
+[M::worker_pipeline::593.829*2.41] mapped 304768 sequences
+[M::mm_idx_gen::652.214*2.33] collected minimizers
+[M::mm_idx_gen::656.408*2.37] sorted minimizers
+[M::main::656.408*2.37] loaded/built the index for 476587 target sequence(s)
+[M::mm_mapopt_update::656.408*2.37] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 476587
+[M::mm_idx_stat::661.742*2.35] distinct minimizers: 597009737 (94.10% are singletons); average occurrences: 1.108; average spacing: 6.123; total length: 4050276871
+[M::worker_pipeline::662.768*2.36] mapped 333334 sequences
+[M::worker_pipeline::663.318*2.36] mapped 333334 sequences
+[M::worker_pipeline::663.855*2.36] mapped 333334 sequences
+[M::worker_pipeline::664.378*2.37] mapped 333334 sequences
+[M::worker_pipeline::664.902*2.37] mapped 333334 sequences
+[M::worker_pipeline::665.440*2.37] mapped 333334 sequences
+[M::worker_pipeline::665.968*2.37] mapped 333334 sequences
+[M::worker_pipeline::666.492*2.37] mapped 333334 sequences
+[M::worker_pipeline::667.041*2.38] mapped 333334 sequences
+[M::worker_pipeline::667.567*2.38] mapped 333334 sequences
+[M::worker_pipeline::668.106*2.38] mapped 333334 sequences
+[M::worker_pipeline::668.662*2.38] mapped 333334 sequences
+[M::worker_pipeline::669.194*2.38] mapped 333334 sequences
+[M::worker_pipeline::669.723*2.38] mapped 333334 sequences
+[M::worker_pipeline::670.247*2.39] mapped 333334 sequences
+[M::worker_pipeline::670.806*2.39] mapped 333334 sequences
+[M::worker_pipeline::671.331*2.39] mapped 333334 sequences
+[M::worker_pipeline::671.886*2.39] mapped 333334 sequences
+[M::worker_pipeline::672.393*2.39] mapped 333334 sequences
+[M::worker_pipeline::672.862*2.39] mapped 304768 sequences
+[M::mm_idx_gen::730.686*2.32] collected minimizers
+[M::mm_idx_gen::734.979*2.35] sorted minimizers
+[M::main::734.979*2.35] loaded/built the index for 380864 target sequence(s)
+[M::mm_mapopt_update::734.979*2.35] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 380864
+[M::mm_idx_stat::740.314*2.34] distinct minimizers: 573003840 (90.41% are singletons); average occurrences: 1.155; average spacing: 6.050; total length: 4003764227
+[M::worker_pipeline::741.398*2.35] mapped 333334 sequences
+[M::worker_pipeline::741.938*2.35] mapped 333334 sequences
+[M::worker_pipeline::742.461*2.35] mapped 333334 sequences
+[M::worker_pipeline::742.989*2.35] mapped 333334 sequences
+[M::worker_pipeline::743.510*2.35] mapped 333334 sequences
+[M::worker_pipeline::744.042*2.36] mapped 333334 sequences
+[M::worker_pipeline::744.596*2.36] mapped 333334 sequences
+[M::worker_pipeline::745.155*2.36] mapped 333334 sequences
+[M::worker_pipeline::745.685*2.36] mapped 333334 sequences
+[M::worker_pipeline::746.210*2.36] mapped 333334 sequences
+[M::worker_pipeline::746.746*2.36] mapped 333334 sequences
+[M::worker_pipeline::747.293*2.37] mapped 333334 sequences
+[M::worker_pipeline::747.822*2.37] mapped 333334 sequences
+[M::worker_pipeline::748.344*2.37] mapped 333334 sequences
+[M::worker_pipeline::748.901*2.37] mapped 333334 sequences
+[M::worker_pipeline::749.423*2.37] mapped 333334 sequences
+[M::worker_pipeline::749.950*2.37] mapped 333334 sequences
+[M::worker_pipeline::750.473*2.37] mapped 333334 sequences
+[M::worker_pipeline::750.980*2.37] mapped 333334 sequences
+[M::worker_pipeline::751.436*2.37] mapped 304768 sequences
+[M::mm_idx_gen::808.859*2.31] collected minimizers
+[M::mm_idx_gen::813.609*2.34] sorted minimizers
+[M::main::813.609*2.34] loaded/built the index for 233587 target sequence(s)
+[M::mm_mapopt_update::813.609*2.34] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 233587
+[M::mm_idx_stat::818.727*2.34] distinct minimizers: 455156594 (85.57% are singletons); average occurrences: 1.459; average spacing: 6.061; total length: 4024811787
+[M::worker_pipeline::819.690*2.34] mapped 333334 sequences
+[M::worker_pipeline::820.210*2.34] mapped 333334 sequences
+[M::worker_pipeline::820.735*2.34] mapped 333334 sequences
+[M::worker_pipeline::821.258*2.35] mapped 333334 sequences
+[M::worker_pipeline::821.816*2.35] mapped 333334 sequences
+[M::worker_pipeline::822.383*2.35] mapped 333334 sequences
+[M::worker_pipeline::822.930*2.35] mapped 333334 sequences
+[M::worker_pipeline::823.450*2.35] mapped 333334 sequences
+[M::worker_pipeline::823.975*2.35] mapped 333334 sequences
+[M::worker_pipeline::824.500*2.35] mapped 333334 sequences
+[M::worker_pipeline::825.022*2.35] mapped 333334 sequences
+[M::worker_pipeline::825.574*2.36] mapped 333334 sequences
+[M::worker_pipeline::826.102*2.36] mapped 333334 sequences
+[M::worker_pipeline::826.647*2.36] mapped 333334 sequences
+[M::worker_pipeline::827.201*2.36] mapped 333334 sequences
+[M::worker_pipeline::827.724*2.36] mapped 333334 sequences
+[M::worker_pipeline::828.258*2.36] mapped 333334 sequences
+[M::worker_pipeline::828.781*2.36] mapped 333334 sequences
+[M::worker_pipeline::829.294*2.36] mapped 333334 sequences
+[M::worker_pipeline::829.767*2.36] mapped 304768 sequences
+[M::mm_idx_gen::887.542*2.31] collected minimizers
+[M::mm_idx_gen::892.536*2.34] sorted minimizers
+[M::main::892.536*2.34] loaded/built the index for 178088 target sequence(s)
+[M::mm_mapopt_update::892.536*2.34] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 178088
+[M::mm_idx_stat::897.568*2.33] distinct minimizers: 454261671 (79.32% are singletons); average occurrences: 1.461; average spacing: 6.053; total length: 4015572975
+[M::worker_pipeline::898.551*2.34] mapped 333334 sequences
+[M::worker_pipeline::899.078*2.34] mapped 333334 sequences
+[M::worker_pipeline::899.605*2.34] mapped 333334 sequences
+[M::worker_pipeline::900.124*2.34] mapped 333334 sequences
+[M::worker_pipeline::900.670*2.34] mapped 333334 sequences
+[M::worker_pipeline::901.222*2.34] mapped 333334 sequences
+[M::worker_pipeline::901.752*2.34] mapped 333334 sequences
+[M::worker_pipeline::902.290*2.34] mapped 333334 sequences
+[M::worker_pipeline::902.827*2.34] mapped 333334 sequences
+[M::worker_pipeline::903.387*2.35] mapped 333334 sequences
+[M::worker_pipeline::903.908*2.35] mapped 333334 sequences
+[M::worker_pipeline::904.452*2.35] mapped 333334 sequences
+[M::worker_pipeline::905.003*2.35] mapped 333334 sequences
+[M::worker_pipeline::905.558*2.35] mapped 333334 sequences
+[M::worker_pipeline::906.079*2.35] mapped 333334 sequences
+[M::worker_pipeline::906.631*2.35] mapped 333334 sequences
+[M::worker_pipeline::907.154*2.35] mapped 333334 sequences
+[M::worker_pipeline::907.704*2.35] mapped 333334 sequences
+[M::worker_pipeline::908.207*2.35] mapped 333334 sequences
+[M::worker_pipeline::908.671*2.35] mapped 304768 sequences
+[M::mm_idx_gen::966.183*2.30] collected minimizers
+[M::mm_idx_gen::971.122*2.33] sorted minimizers
+[M::main::971.122*2.33] loaded/built the index for 218230 target sequence(s)
+[M::mm_mapopt_update::971.122*2.33] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 218230
+[M::mm_idx_stat::976.040*2.33] distinct minimizers: 421389169 (76.87% are singletons); average occurrences: 1.569; average spacing: 6.058; total length: 4006072340
+[M::worker_pipeline::977.008*2.33] mapped 333334 sequences
+[M::worker_pipeline::977.528*2.33] mapped 333334 sequences
+[M::worker_pipeline::978.085*2.33] mapped 333334 sequences
+[M::worker_pipeline::978.611*2.33] mapped 333334 sequences
+[M::worker_pipeline::979.155*2.33] mapped 333334 sequences
+[M::worker_pipeline::979.712*2.33] mapped 333334 sequences
+[M::worker_pipeline::980.236*2.34] mapped 333334 sequences
+[M::worker_pipeline::980.767*2.34] mapped 333334 sequences
+[M::worker_pipeline::981.297*2.34] mapped 333334 sequences
+[M::worker_pipeline::981.819*2.34] mapped 333334 sequences
+[M::worker_pipeline::982.362*2.34] mapped 333334 sequences
+[M::worker_pipeline::982.918*2.34] mapped 333334 sequences
+[M::worker_pipeline::983.441*2.34] mapped 333334 sequences
+[M::worker_pipeline::983.994*2.34] mapped 333334 sequences
+[M::worker_pipeline::984.518*2.34] mapped 333334 sequences
+[M::worker_pipeline::985.074*2.35] mapped 333334 sequences
+[M::worker_pipeline::985.597*2.35] mapped 333334 sequences
+[M::worker_pipeline::986.123*2.35] mapped 333334 sequences
+[M::worker_pipeline::986.625*2.35] mapped 333334 sequences
+[M::worker_pipeline::987.090*2.35] mapped 304768 sequences
+[M::mm_idx_gen::1046.189*2.30] collected minimizers
+[M::mm_idx_gen::1051.068*2.33] sorted minimizers
+[M::main::1051.068*2.33] loaded/built the index for 306182 target sequence(s)
+[M::mm_mapopt_update::1051.068*2.33] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 306182
+[M::mm_idx_stat::1056.242*2.32] distinct minimizers: 505906926 (85.01% are singletons); average occurrences: 1.325; average spacing: 6.020; total length: 4033770271
+[M::worker_pipeline::1057.230*2.32] mapped 333334 sequences
+[M::worker_pipeline::1057.779*2.32] mapped 333334 sequences
+[M::worker_pipeline::1058.326*2.33] mapped 333334 sequences
+[M::worker_pipeline::1058.865*2.33] mapped 333334 sequences
+[M::worker_pipeline::1059.387*2.33] mapped 333334 sequences
+[M::worker_pipeline::1059.909*2.33] mapped 333334 sequences
+[M::worker_pipeline::1060.433*2.33] mapped 333334 sequences
+[M::worker_pipeline::1060.958*2.33] mapped 333334 sequences
+[M::worker_pipeline::1061.503*2.33] mapped 333334 sequences
+[M::worker_pipeline::1062.040*2.33] mapped 333334 sequences
+[M::worker_pipeline::1062.562*2.33] mapped 333334 sequences
+[M::worker_pipeline::1063.103*2.33] mapped 333334 sequences
+[M::worker_pipeline::1063.649*2.34] mapped 333334 sequences
+[M::worker_pipeline::1064.171*2.34] mapped 333334 sequences
+[M::worker_pipeline::1064.711*2.34] mapped 333334 sequences
+[M::worker_pipeline::1065.235*2.34] mapped 333334 sequences
+[M::worker_pipeline::1065.796*2.34] mapped 333334 sequences
+[M::worker_pipeline::1066.318*2.34] mapped 333334 sequences
+[M::worker_pipeline::1066.821*2.34] mapped 333334 sequences
+[M::worker_pipeline::1067.283*2.34] mapped 304768 sequences
+[M::mm_idx_gen::1124.989*2.30] collected minimizers
+[M::mm_idx_gen::1129.929*2.32] sorted minimizers
+[M::main::1129.929*2.32] loaded/built the index for 502314 target sequence(s)
+[M::mm_mapopt_update::1129.929*2.32] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 502314
+[M::mm_idx_stat::1135.063*2.32] distinct minimizers: 475112686 (85.78% are singletons); average occurrences: 1.404; average spacing: 6.045; total length: 4033070647
+[M::worker_pipeline::1136.026*2.32] mapped 333334 sequences
+[M::worker_pipeline::1136.566*2.32] mapped 333334 sequences
+[M::worker_pipeline::1137.111*2.32] mapped 333334 sequences
+[M::worker_pipeline::1137.635*2.32] mapped 333334 sequences
+[M::worker_pipeline::1138.172*2.32] mapped 333334 sequences
+[M::worker_pipeline::1138.698*2.32] mapped 333334 sequences
+[M::worker_pipeline::1139.227*2.33] mapped 333334 sequences
+[M::worker_pipeline::1139.781*2.33] mapped 333334 sequences
+[M::worker_pipeline::1140.302*2.33] mapped 333334 sequences
+[M::worker_pipeline::1140.842*2.33] mapped 333334 sequences
+[M::worker_pipeline::1141.373*2.33] mapped 333334 sequences
+[M::worker_pipeline::1141.899*2.33] mapped 333334 sequences
+[M::worker_pipeline::1142.435*2.33] mapped 333334 sequences
+[M::worker_pipeline::1142.974*2.33] mapped 333334 sequences
+[M::worker_pipeline::1143.531*2.33] mapped 333334 sequences
+[M::worker_pipeline::1144.059*2.33] mapped 333334 sequences
+[M::worker_pipeline::1144.588*2.34] mapped 333334 sequences
+[M::worker_pipeline::1145.115*2.34] mapped 333334 sequences
+[M::worker_pipeline::1145.618*2.34] mapped 333334 sequences
+[M::worker_pipeline::1146.105*2.33] mapped 304768 sequences
+[M::mm_idx_gen::1203.879*2.30] collected minimizers
+[M::mm_idx_gen::1208.755*2.32] sorted minimizers
+[M::main::1208.755*2.32] loaded/built the index for 178159 target sequence(s)
+[M::mm_mapopt_update::1208.755*2.32] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 178159
+[M::mm_idx_stat::1213.882*2.31] distinct minimizers: 462259636 (85.95% are singletons); average occurrences: 1.452; average spacing: 6.008; total length: 4032425621
+[M::worker_pipeline::1214.850*2.32] mapped 333334 sequences
+[M::worker_pipeline::1215.370*2.32] mapped 333334 sequences
+[M::worker_pipeline::1215.923*2.32] mapped 333334 sequences
+[M::worker_pipeline::1216.447*2.32] mapped 333334 sequences
+[M::worker_pipeline::1216.998*2.32] mapped 333334 sequences
+[M::worker_pipeline::1217.552*2.32] mapped 333334 sequences
+[M::worker_pipeline::1218.080*2.32] mapped 333334 sequences
+[M::worker_pipeline::1218.607*2.32] mapped 333334 sequences
+[M::worker_pipeline::1219.138*2.32] mapped 333334 sequences
+[M::worker_pipeline::1219.669*2.32] mapped 333334 sequences
+[M::worker_pipeline::1220.195*2.33] mapped 333334 sequences
+[M::worker_pipeline::1220.746*2.33] mapped 333334 sequences
+[M::worker_pipeline::1221.270*2.33] mapped 333334 sequences
+[M::worker_pipeline::1221.818*2.33] mapped 333334 sequences
+[M::worker_pipeline::1222.341*2.33] mapped 333334 sequences
+[M::worker_pipeline::1222.918*2.33] mapped 333334 sequences
+[M::worker_pipeline::1223.435*2.33] mapped 333334 sequences
+[M::worker_pipeline::1223.975*2.33] mapped 333334 sequences
+[M::worker_pipeline::1224.475*2.33] mapped 333334 sequences
+[M::worker_pipeline::1224.938*2.33] mapped 304768 sequences
+[M::mm_idx_gen::1283.593*2.29] collected minimizers
+[M::mm_idx_gen::1288.558*2.32] sorted minimizers
+[M::main::1288.558*2.32] loaded/built the index for 256179 target sequence(s)
+[M::mm_mapopt_update::1288.558*2.32] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 256179
+[M::mm_idx_stat::1293.857*2.31] distinct minimizers: 528872864 (87.68% are singletons); average occurrences: 1.270; average spacing: 6.020; total length: 4042744940
+[M::worker_pipeline::1294.840*2.31] mapped 333334 sequences
+[M::worker_pipeline::1295.383*2.31] mapped 333334 sequences
+[M::worker_pipeline::1295.939*2.32] mapped 333334 sequences
+[M::worker_pipeline::1296.483*2.32] mapped 333334 sequences
+[M::worker_pipeline::1297.011*2.32] mapped 333334 sequences
+[M::worker_pipeline::1297.557*2.32] mapped 333334 sequences
+[M::worker_pipeline::1298.081*2.32] mapped 333334 sequences
+[M::worker_pipeline::1298.605*2.32] mapped 333334 sequences
+[M::worker_pipeline::1299.131*2.32] mapped 333334 sequences
+[M::worker_pipeline::1299.690*2.32] mapped 333334 sequences
+[M::worker_pipeline::1300.218*2.32] mapped 333334 sequences
+[M::worker_pipeline::1300.773*2.32] mapped 333334 sequences
+[M::worker_pipeline::1301.301*2.32] mapped 333334 sequences
+[M::worker_pipeline::1301.841*2.32] mapped 333334 sequences
+[M::worker_pipeline::1302.364*2.33] mapped 333334 sequences
+[M::worker_pipeline::1302.891*2.33] mapped 333334 sequences
+[M::worker_pipeline::1303.430*2.33] mapped 333334 sequences
+[M::worker_pipeline::1303.951*2.33] mapped 333334 sequences
+[M::worker_pipeline::1304.474*2.33] mapped 333334 sequences
+[M::worker_pipeline::1304.950*2.33] mapped 304768 sequences
+[M::mm_idx_gen::1363.088*2.29] collected minimizers
+[M::mm_idx_gen::1368.034*2.31] sorted minimizers
+[M::main::1368.034*2.31] loaded/built the index for 223358 target sequence(s)
+[M::mm_mapopt_update::1368.034*2.31] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 223358
+[M::mm_idx_stat::1373.074*2.31] distinct minimizers: 446023221 (85.29% are singletons); average occurrences: 1.498; average spacing: 6.028; total length: 4026779878
+[M::worker_pipeline::1374.081*2.31] mapped 333334 sequences
+[M::worker_pipeline::1374.603*2.31] mapped 333334 sequences
+[M::worker_pipeline::1375.129*2.31] mapped 333334 sequences
+[M::worker_pipeline::1375.652*2.31] mapped 333334 sequences
+[M::worker_pipeline::1376.175*2.31] mapped 333334 sequences
+[M::worker_pipeline::1376.716*2.32] mapped 333334 sequences
+[M::worker_pipeline::1377.244*2.32] mapped 333334 sequences
+[M::worker_pipeline::1377.769*2.32] mapped 333334 sequences
+[M::worker_pipeline::1378.288*2.32] mapped 333334 sequences
+[M::worker_pipeline::1378.837*2.32] mapped 333334 sequences
+[M::worker_pipeline::1379.358*2.32] mapped 333334 sequences
+[M::worker_pipeline::1379.903*2.32] mapped 333334 sequences
+[M::worker_pipeline::1380.458*2.32] mapped 333334 sequences
+[M::worker_pipeline::1380.983*2.32] mapped 333334 sequences
+[M::worker_pipeline::1381.509*2.32] mapped 333334 sequences
+[M::worker_pipeline::1382.035*2.32] mapped 333334 sequences
+[M::worker_pipeline::1382.580*2.32] mapped 333334 sequences
+[M::worker_pipeline::1383.130*2.32] mapped 333334 sequences
+[M::worker_pipeline::1383.644*2.32] mapped 333334 sequences
+[M::worker_pipeline::1384.133*2.32] mapped 304768 sequences
+[M::mm_idx_gen::1441.636*2.29] collected minimizers
+[M::mm_idx_gen::1446.473*2.31] sorted minimizers
+[M::main::1446.473*2.31] loaded/built the index for 651006 target sequence(s)
+[M::mm_mapopt_update::1446.473*2.31] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 651006
+[M::mm_idx_stat::1451.767*2.31] distinct minimizers: 506136473 (88.78% are singletons); average occurrences: 1.309; average spacing: 6.086; total length: 4031036811
+[M::worker_pipeline::1452.795*2.31] mapped 333334 sequences
+[M::worker_pipeline::1453.321*2.31] mapped 333334 sequences
+[M::worker_pipeline::1453.846*2.31] mapped 333334 sequences
+[M::worker_pipeline::1454.400*2.31] mapped 333334 sequences
+[M::worker_pipeline::1454.947*2.31] mapped 333334 sequences
+[M::worker_pipeline::1455.477*2.31] mapped 333334 sequences
+[M::worker_pipeline::1456.034*2.31] mapped 333334 sequences
+[M::worker_pipeline::1456.559*2.31] mapped 333334 sequences
+[M::worker_pipeline::1457.106*2.31] mapped 333334 sequences
+[M::worker_pipeline::1457.635*2.32] mapped 333334 sequences
+[M::worker_pipeline::1458.158*2.32] mapped 333334 sequences
+[M::worker_pipeline::1458.710*2.32] mapped 333334 sequences
+[M::worker_pipeline::1459.236*2.32] mapped 333334 sequences
+[M::worker_pipeline::1459.760*2.32] mapped 333334 sequences
+[M::worker_pipeline::1460.284*2.32] mapped 333334 sequences
+[M::worker_pipeline::1460.819*2.32] mapped 333334 sequences
+[M::worker_pipeline::1461.366*2.32] mapped 333334 sequences
+[M::worker_pipeline::1461.898*2.32] mapped 333334 sequences
+[M::worker_pipeline::1462.408*2.32] mapped 333334 sequences
+[M::worker_pipeline::1462.883*2.32] mapped 304768 sequences
+[M::mm_idx_gen::1518.443*2.29] collected minimizers
+[M::mm_idx_gen::1522.476*2.31] sorted minimizers
+[M::main::1522.476*2.31] loaded/built the index for 190835 target sequence(s)
+[M::mm_mapopt_update::1522.476*2.31] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 190835
+[M::mm_idx_stat::1527.796*2.30] distinct minimizers: 559351837 (93.70% are singletons); average occurrences: 1.137; average spacing: 6.300; total length: 4007573951
+[M::worker_pipeline::1528.792*2.30] mapped 333334 sequences
+[M::worker_pipeline::1529.317*2.30] mapped 333334 sequences
+[M::worker_pipeline::1529.859*2.31] mapped 333334 sequences
+[M::worker_pipeline::1530.386*2.31] mapped 333334 sequences
+[M::worker_pipeline::1530.931*2.31] mapped 333334 sequences
+[M::worker_pipeline::1531.479*2.31] mapped 333334 sequences
+[M::worker_pipeline::1532.034*2.31] mapped 333334 sequences
+[M::worker_pipeline::1532.561*2.31] mapped 333334 sequences
+[M::worker_pipeline::1533.084*2.31] mapped 333334 sequences
+[M::worker_pipeline::1533.622*2.31] mapped 333334 sequences
+[M::worker_pipeline::1534.172*2.31] mapped 333334 sequences
+[M::worker_pipeline::1534.709*2.31] mapped 333334 sequences
+[M::worker_pipeline::1535.258*2.31] mapped 333334 sequences
+[M::worker_pipeline::1535.806*2.31] mapped 333334 sequences
+[M::worker_pipeline::1536.364*2.31] mapped 333334 sequences
+[M::worker_pipeline::1536.891*2.32] mapped 333334 sequences
+[M::worker_pipeline::1537.451*2.32] mapped 333334 sequences
+[M::worker_pipeline::1537.975*2.32] mapped 333334 sequences
+[M::worker_pipeline::1538.486*2.32] mapped 333334 sequences
+[M::worker_pipeline::1538.968*2.32] mapped 304768 sequences
+[M::mm_idx_gen::1592.258*2.29] collected minimizers
+[M::mm_idx_gen::1596.855*2.31] sorted minimizers
+[M::main::1596.856*2.31] loaded/built the index for 142119 target sequence(s)
+[M::mm_mapopt_update::1596.856*2.31] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 142119
+[M::mm_idx_stat::1602.070*2.30] distinct minimizers: 489460127 (93.23% are singletons); average occurrences: 1.246; average spacing: 6.625; total length: 4039534581
+[M::worker_pipeline::1603.016*2.30] mapped 333334 sequences
+[M::worker_pipeline::1603.540*2.31] mapped 333334 sequences
+[M::worker_pipeline::1604.068*2.31] mapped 333334 sequences
+[M::worker_pipeline::1604.597*2.31] mapped 333334 sequences
+[M::worker_pipeline::1605.122*2.31] mapped 333334 sequences
+[M::worker_pipeline::1605.645*2.31] mapped 333334 sequences
+[M::worker_pipeline::1606.176*2.31] mapped 333334 sequences
+[M::worker_pipeline::1606.705*2.31] mapped 333334 sequences
+[M::worker_pipeline::1607.231*2.31] mapped 333334 sequences
+[M::worker_pipeline::1607.756*2.31] mapped 333334 sequences
+[M::worker_pipeline::1608.317*2.31] mapped 333334 sequences
+[M::worker_pipeline::1608.846*2.31] mapped 333334 sequences
+[M::worker_pipeline::1609.380*2.31] mapped 333334 sequences
+[M::worker_pipeline::1609.908*2.31] mapped 333334 sequences
+[M::worker_pipeline::1610.430*2.31] mapped 333334 sequences
+[M::worker_pipeline::1610.980*2.32] mapped 333334 sequences
+[M::worker_pipeline::1611.539*2.32] mapped 333334 sequences
+[M::worker_pipeline::1612.061*2.32] mapped 333334 sequences
+[M::worker_pipeline::1612.572*2.32] mapped 333334 sequences
+[M::worker_pipeline::1613.077*2.32] mapped 304768 sequences
+[M::mm_idx_gen::1671.640*2.29] collected minimizers
+[M::mm_idx_gen::1675.920*2.30] sorted minimizers
+[M::main::1675.920*2.30] loaded/built the index for 365877 target sequence(s)
+[M::mm_mapopt_update::1675.920*2.30] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 365877
+[M::mm_idx_stat::1681.326*2.30] distinct minimizers: 563937536 (91.90% are singletons); average occurrences: 1.173; average spacing: 6.118; total length: 4047027476
+[M::worker_pipeline::1682.361*2.30] mapped 333334 sequences
+[M::worker_pipeline::1682.911*2.30] mapped 333334 sequences
+[M::worker_pipeline::1683.454*2.30] mapped 333334 sequences
+[M::worker_pipeline::1684.006*2.30] mapped 333334 sequences
+[M::worker_pipeline::1684.552*2.30] mapped 333334 sequences
+[M::worker_pipeline::1685.080*2.30] mapped 333334 sequences
+[M::worker_pipeline::1685.610*2.30] mapped 333334 sequences
+[M::worker_pipeline::1686.142*2.30] mapped 333334 sequences
+[M::worker_pipeline::1686.675*2.31] mapped 333334 sequences
+[M::worker_pipeline::1687.204*2.31] mapped 333334 sequences
+[M::worker_pipeline::1687.758*2.31] mapped 333334 sequences
+[M::worker_pipeline::1688.290*2.31] mapped 333334 sequences
+[M::worker_pipeline::1688.839*2.31] mapped 333334 sequences
+[M::worker_pipeline::1689.390*2.31] mapped 333334 sequences
+[M::worker_pipeline::1689.945*2.31] mapped 333334 sequences
+[M::worker_pipeline::1690.473*2.31] mapped 333334 sequences
+[M::worker_pipeline::1691.032*2.31] mapped 333334 sequences
+[M::worker_pipeline::1691.559*2.31] mapped 333334 sequences
+[M::worker_pipeline::1692.063*2.31] mapped 333334 sequences
+[M::worker_pipeline::1692.523*2.31] mapped 304768 sequences
+[M::mm_idx_gen::1750.168*2.28] collected minimizers
+[M::mm_idx_gen::1754.358*2.30] sorted minimizers
+[M::main::1754.358*2.30] loaded/built the index for 213446 target sequence(s)
+[M::mm_mapopt_update::1754.358*2.30] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 213446
+[M::mm_idx_stat::1759.701*2.29] distinct minimizers: 595444587 (93.26% are singletons); average occurrences: 1.105; average spacing: 6.151; total length: 4046877964
+[M::worker_pipeline::1760.689*2.30] mapped 333334 sequences
+[M::worker_pipeline::1761.216*2.30] mapped 333334 sequences
+[M::worker_pipeline::1761.741*2.30] mapped 333334 sequences
+[M::worker_pipeline::1762.274*2.30] mapped 333334 sequences
+[M::worker_pipeline::1762.795*2.30] mapped 333334 sequences
+[M::worker_pipeline::1763.349*2.30] mapped 333334 sequences
+[M::worker_pipeline::1763.882*2.30] mapped 333334 sequences
+[M::worker_pipeline::1764.428*2.30] mapped 333334 sequences
+[M::worker_pipeline::1764.962*2.30] mapped 333334 sequences
+[M::worker_pipeline::1765.488*2.30] mapped 333334 sequences
+[M::worker_pipeline::1766.016*2.30] mapped 333334 sequences
+[M::worker_pipeline::1766.572*2.30] mapped 333334 sequences
+[M::worker_pipeline::1767.102*2.31] mapped 333334 sequences
+[M::worker_pipeline::1767.660*2.31] mapped 333334 sequences
+[M::worker_pipeline::1768.185*2.31] mapped 333334 sequences
+[M::worker_pipeline::1768.706*2.31] mapped 333334 sequences
+[M::worker_pipeline::1769.260*2.31] mapped 333334 sequences
+[M::worker_pipeline::1769.792*2.31] mapped 333334 sequences
+[M::worker_pipeline::1770.302*2.31] mapped 333334 sequences
+[M::worker_pipeline::1770.767*2.31] mapped 304768 sequences
+[M::mm_idx_gen::1829.649*2.28] collected minimizers
+[M::mm_idx_gen::1833.938*2.30] sorted minimizers
+[M::main::1833.938*2.30] loaded/built the index for 337195 target sequence(s)
+[M::mm_mapopt_update::1833.938*2.30] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 337195
+[M::mm_idx_stat::1839.272*2.29] distinct minimizers: 595562627 (93.62% are singletons); average occurrences: 1.116; average spacing: 6.079; total length: 4039820454
+[M::worker_pipeline::1840.238*2.29] mapped 333334 sequences
+[M::worker_pipeline::1840.769*2.29] mapped 333334 sequences
+[M::worker_pipeline::1841.296*2.30] mapped 333334 sequences
+[M::worker_pipeline::1841.853*2.30] mapped 333334 sequences
+[M::worker_pipeline::1842.402*2.30] mapped 333334 sequences
+[M::worker_pipeline::1842.930*2.30] mapped 333334 sequences
+[M::worker_pipeline::1843.484*2.30] mapped 333334 sequences
+[M::worker_pipeline::1844.020*2.30] mapped 333334 sequences
+[M::worker_pipeline::1844.548*2.30] mapped 333334 sequences
+[M::worker_pipeline::1845.076*2.30] mapped 333334 sequences
+[M::worker_pipeline::1845.631*2.30] mapped 333334 sequences
+[M::worker_pipeline::1846.172*2.30] mapped 333334 sequences
+[M::worker_pipeline::1846.732*2.30] mapped 333334 sequences
+[M::worker_pipeline::1847.261*2.30] mapped 333334 sequences
+[M::worker_pipeline::1847.785*2.30] mapped 333334 sequences
+[M::worker_pipeline::1848.334*2.30] mapped 333334 sequences
+[M::worker_pipeline::1848.864*2.30] mapped 333334 sequences
+[M::worker_pipeline::1849.390*2.30] mapped 333334 sequences
+[M::worker_pipeline::1849.897*2.30] mapped 333334 sequences
+[M::worker_pipeline::1850.362*2.30] mapped 304768 sequences
+[M::mm_idx_gen::1907.746*2.28] collected minimizers
+[M::mm_idx_gen::1912.005*2.29] sorted minimizers
+[M::main::1912.005*2.29] loaded/built the index for 308634 target sequence(s)
+[M::mm_mapopt_update::1912.005*2.29] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 308634
+[M::mm_idx_stat::1917.246*2.29] distinct minimizers: 575466398 (94.84% are singletons); average occurrences: 1.141; average spacing: 6.138; total length: 4031908641
+[M::worker_pipeline::1918.223*2.29] mapped 333334 sequences
+[M::worker_pipeline::1918.760*2.29] mapped 333334 sequences
+[M::worker_pipeline::1919.319*2.29] mapped 333334 sequences
+[M::worker_pipeline::1919.847*2.29] mapped 333334 sequences
+[M::worker_pipeline::1920.378*2.29] mapped 333334 sequences
+[M::worker_pipeline::1920.911*2.30] mapped 333334 sequences
+[M::worker_pipeline::1921.470*2.30] mapped 333334 sequences
+[M::worker_pipeline::1921.992*2.30] mapped 333334 sequences
+[M::worker_pipeline::1922.535*2.30] mapped 333334 sequences
+[M::worker_pipeline::1923.055*2.30] mapped 333334 sequences
+[M::worker_pipeline::1923.614*2.30] mapped 333334 sequences
+[M::worker_pipeline::1924.141*2.30] mapped 333334 sequences
+[M::worker_pipeline::1924.669*2.30] mapped 333334 sequences
+[M::worker_pipeline::1925.192*2.30] mapped 333334 sequences
+[M::worker_pipeline::1925.715*2.30] mapped 333334 sequences
+[M::worker_pipeline::1926.272*2.30] mapped 333334 sequences
+[M::worker_pipeline::1926.796*2.30] mapped 333334 sequences
+[M::worker_pipeline::1927.334*2.30] mapped 333334 sequences
+[M::worker_pipeline::1927.838*2.30] mapped 333334 sequences
+[M::worker_pipeline::1928.308*2.30] mapped 304768 sequences
+[M::mm_idx_gen::1985.646*2.28] collected minimizers
+[M::mm_idx_gen::1989.938*2.29] sorted minimizers
+[M::main::1989.938*2.29] loaded/built the index for 372179 target sequence(s)
+[M::mm_mapopt_update::1989.938*2.29] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 372179
+[M::mm_idx_stat::1995.425*2.29] distinct minimizers: 559504981 (92.72% are singletons); average occurrences: 1.182; average spacing: 6.107; total length: 4039275391
+[M::worker_pipeline::1996.419*2.29] mapped 333334 sequences
+[M::worker_pipeline::1996.947*2.29] mapped 333334 sequences
+[M::worker_pipeline::1997.474*2.29] mapped 333334 sequences
+[M::worker_pipeline::1998.032*2.29] mapped 333334 sequences
+[M::worker_pipeline::1998.558*2.29] mapped 333334 sequences
+[M::worker_pipeline::1999.109*2.29] mapped 333334 sequences
+[M::worker_pipeline::1999.634*2.29] mapped 333334 sequences
+[M::worker_pipeline::2000.163*2.29] mapped 333334 sequences
+[M::worker_pipeline::2000.708*2.30] mapped 333334 sequences
+[M::worker_pipeline::2001.259*2.30] mapped 333334 sequences
+[M::worker_pipeline::2001.786*2.30] mapped 333334 sequences
+[M::worker_pipeline::2002.333*2.30] mapped 333334 sequences
+[M::worker_pipeline::2002.864*2.30] mapped 333334 sequences
+[M::worker_pipeline::2003.390*2.30] mapped 333334 sequences
+[M::worker_pipeline::2003.949*2.30] mapped 333334 sequences
+[M::worker_pipeline::2004.497*2.30] mapped 333334 sequences
+[M::worker_pipeline::2005.025*2.30] mapped 333334 sequences
+[M::worker_pipeline::2005.552*2.30] mapped 333334 sequences
+[M::worker_pipeline::2006.065*2.30] mapped 333334 sequences
+[M::worker_pipeline::2006.526*2.30] mapped 304768 sequences
+[M::mm_idx_gen::2064.182*2.28] collected minimizers
+[M::mm_idx_gen::2068.486*2.29] sorted minimizers
+[M::main::2068.486*2.29] loaded/built the index for 370378 target sequence(s)
+[M::mm_mapopt_update::2068.486*2.29] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 370378
+[M::mm_idx_stat::2073.933*2.29] distinct minimizers: 564940432 (93.29% are singletons); average occurrences: 1.172; average spacing: 6.108; total length: 4043042720
+[M::worker_pipeline::2074.942*2.29] mapped 333334 sequences
+[M::worker_pipeline::2075.475*2.29] mapped 333334 sequences
+[M::worker_pipeline::2076.017*2.29] mapped 333334 sequences
+[M::worker_pipeline::2076.573*2.29] mapped 333334 sequences
+[M::worker_pipeline::2077.125*2.29] mapped 333334 sequences
+[M::worker_pipeline::2077.668*2.29] mapped 333334 sequences
+[M::worker_pipeline::2078.194*2.29] mapped 333334 sequences
+[M::worker_pipeline::2078.747*2.29] mapped 333334 sequences
+[M::worker_pipeline::2079.280*2.29] mapped 333334 sequences
+[M::worker_pipeline::2079.806*2.29] mapped 333334 sequences
+[M::worker_pipeline::2080.363*2.29] mapped 333334 sequences
+[M::worker_pipeline::2080.917*2.29] mapped 333334 sequences
+[M::worker_pipeline::2081.459*2.30] mapped 333334 sequences
+[M::worker_pipeline::2082.005*2.30] mapped 333334 sequences
+[M::worker_pipeline::2082.538*2.30] mapped 333334 sequences
+[M::worker_pipeline::2083.098*2.30] mapped 333334 sequences
+[M::worker_pipeline::2083.621*2.30] mapped 333334 sequences
+[M::worker_pipeline::2084.162*2.30] mapped 333334 sequences
+[M::worker_pipeline::2084.666*2.30] mapped 333334 sequences
+[M::worker_pipeline::2085.156*2.30] mapped 304768 sequences
+[M::mm_idx_gen::2142.650*2.28] collected minimizers
+[M::mm_idx_gen::2146.955*2.29] sorted minimizers
+[M::main::2146.955*2.29] loaded/built the index for 604952 target sequence(s)
+[M::mm_mapopt_update::2146.955*2.29] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 604952
+[M::mm_idx_stat::2152.419*2.28] distinct minimizers: 570617885 (92.84% are singletons); average occurrences: 1.149; average spacing: 6.174; total length: 4049626821
+[M::worker_pipeline::2153.427*2.29] mapped 333334 sequences
+[M::worker_pipeline::2153.965*2.29] mapped 333334 sequences
+[M::worker_pipeline::2154.492*2.29] mapped 333334 sequences
+[M::worker_pipeline::2155.015*2.29] mapped 333334 sequences
+[M::worker_pipeline::2155.569*2.29] mapped 333334 sequences
+[M::worker_pipeline::2156.102*2.29] mapped 333334 sequences
+[M::worker_pipeline::2156.659*2.29] mapped 333334 sequences
+[M::worker_pipeline::2157.222*2.29] mapped 333334 sequences
+[M::worker_pipeline::2157.749*2.29] mapped 333334 sequences
+[M::worker_pipeline::2158.270*2.29] mapped 333334 sequences
+[M::worker_pipeline::2158.797*2.29] mapped 333334 sequences
+[M::worker_pipeline::2159.348*2.29] mapped 333334 sequences
+[M::worker_pipeline::2159.878*2.29] mapped 333334 sequences
+[M::worker_pipeline::2160.401*2.29] mapped 333334 sequences
+[M::worker_pipeline::2160.929*2.29] mapped 333334 sequences
+[M::worker_pipeline::2161.450*2.29] mapped 333334 sequences
+[M::worker_pipeline::2162.010*2.30] mapped 333334 sequences
+[M::worker_pipeline::2162.536*2.30] mapped 333334 sequences
+[M::worker_pipeline::2163.045*2.30] mapped 333334 sequences
+[M::worker_pipeline::2163.504*2.30] mapped 304768 sequences
+[M::mm_idx_gen::2221.880*2.27] collected minimizers
+[M::mm_idx_gen::2226.095*2.29] sorted minimizers
+[M::main::2226.095*2.29] loaded/built the index for 245283 target sequence(s)
+[M::mm_mapopt_update::2226.095*2.29] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 245283
+[M::mm_idx_stat::2231.523*2.28] distinct minimizers: 590523240 (93.93% are singletons); average occurrences: 1.121; average spacing: 6.102; total length: 4038763372
+[M::worker_pipeline::2232.523*2.28] mapped 333334 sequences
+[M::worker_pipeline::2233.051*2.28] mapped 333334 sequences
+[M::worker_pipeline::2233.579*2.29] mapped 333334 sequences
+[M::worker_pipeline::2234.105*2.29] mapped 333334 sequences
+[M::worker_pipeline::2234.654*2.29] mapped 333334 sequences
+[M::worker_pipeline::2235.183*2.29] mapped 333334 sequences
+[M::worker_pipeline::2235.729*2.29] mapped 333334 sequences
+[M::worker_pipeline::2236.274*2.29] mapped 333334 sequences
+[M::worker_pipeline::2236.821*2.29] mapped 333334 sequences
+[M::worker_pipeline::2237.375*2.29] mapped 333334 sequences
+[M::worker_pipeline::2237.905*2.29] mapped 333334 sequences
+[M::worker_pipeline::2238.450*2.29] mapped 333334 sequences
+[M::worker_pipeline::2239.015*2.29] mapped 333334 sequences
+[M::worker_pipeline::2239.546*2.29] mapped 333334 sequences
+[M::worker_pipeline::2240.111*2.29] mapped 333334 sequences
+[M::worker_pipeline::2240.638*2.29] mapped 333334 sequences
+[M::worker_pipeline::2241.169*2.29] mapped 333334 sequences
+[M::worker_pipeline::2241.695*2.29] mapped 333334 sequences
+[M::worker_pipeline::2242.203*2.29] mapped 333334 sequences
+[M::worker_pipeline::2242.689*2.29] mapped 304768 sequences
+[M::mm_idx_gen::2300.811*2.27] collected minimizers
+[M::mm_idx_gen::2305.055*2.28] sorted minimizers
+[M::main::2305.055*2.28] loaded/built the index for 489942 target sequence(s)
+[M::mm_mapopt_update::2305.055*2.28] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 489942
+[M::mm_idx_stat::2310.550*2.28] distinct minimizers: 542561994 (91.53% are singletons); average occurrences: 1.224; average spacing: 6.077; total length: 4035291685
+[M::worker_pipeline::2311.557*2.28] mapped 333334 sequences
+[M::worker_pipeline::2312.085*2.28] mapped 333334 sequences
+[M::worker_pipeline::2312.616*2.28] mapped 333334 sequences
+[M::worker_pipeline::2313.147*2.28] mapped 333334 sequences
+[M::worker_pipeline::2313.677*2.28] mapped 333334 sequences
+[M::worker_pipeline::2314.231*2.28] mapped 333334 sequences
+[M::worker_pipeline::2314.763*2.29] mapped 333334 sequences
+[M::worker_pipeline::2315.294*2.29] mapped 333334 sequences
+[M::worker_pipeline::2315.816*2.29] mapped 333334 sequences
+[M::worker_pipeline::2316.352*2.29] mapped 333334 sequences
+[M::worker_pipeline::2316.874*2.29] mapped 333334 sequences
+[M::worker_pipeline::2317.418*2.29] mapped 333334 sequences
+[M::worker_pipeline::2317.957*2.29] mapped 333334 sequences
+[M::worker_pipeline::2318.508*2.29] mapped 333334 sequences
+[M::worker_pipeline::2319.033*2.29] mapped 333334 sequences
+[M::worker_pipeline::2319.555*2.29] mapped 333334 sequences
+[M::worker_pipeline::2320.075*2.29] mapped 333334 sequences
+[M::worker_pipeline::2320.643*2.29] mapped 333334 sequences
+[M::worker_pipeline::2321.146*2.29] mapped 333334 sequences
+[M::worker_pipeline::2321.604*2.29] mapped 304768 sequences
+[M::mm_idx_gen::2380.226*2.27] collected minimizers
+[M::mm_idx_gen::2384.500*2.28] sorted minimizers
+[M::main::2384.500*2.28] loaded/built the index for 376159 target sequence(s)
+[M::mm_mapopt_update::2384.500*2.28] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 376159
+[M::mm_idx_stat::2389.952*2.28] distinct minimizers: 598210095 (92.76% are singletons); average occurrences: 1.115; average spacing: 6.043; total length: 4032402533
+[M::worker_pipeline::2390.910*2.28] mapped 333334 sequences
+[M::worker_pipeline::2391.461*2.28] mapped 333334 sequences
+[M::worker_pipeline::2392.016*2.28] mapped 333334 sequences
+[M::worker_pipeline::2392.537*2.28] mapped 333334 sequences
+[M::worker_pipeline::2393.065*2.28] mapped 333334 sequences
+[M::worker_pipeline::2393.595*2.28] mapped 333334 sequences
+[M::worker_pipeline::2394.138*2.28] mapped 333334 sequences
+[M::worker_pipeline::2394.688*2.28] mapped 333334 sequences
+[M::worker_pipeline::2395.225*2.28] mapped 333334 sequences
+[M::worker_pipeline::2395.767*2.28] mapped 333334 sequences
+[M::worker_pipeline::2396.290*2.29] mapped 333334 sequences
+[M::worker_pipeline::2396.848*2.29] mapped 333334 sequences
+[M::worker_pipeline::2397.378*2.29] mapped 333334 sequences
+[M::worker_pipeline::2397.914*2.29] mapped 333334 sequences
+[M::worker_pipeline::2398.438*2.29] mapped 333334 sequences
+[M::worker_pipeline::2398.987*2.29] mapped 333334 sequences
+[M::worker_pipeline::2399.505*2.29] mapped 333334 sequences
+[M::worker_pipeline::2400.066*2.29] mapped 333334 sequences
+[M::worker_pipeline::2400.571*2.29] mapped 333334 sequences
+[M::worker_pipeline::2401.030*2.29] mapped 304768 sequences
+[M::mm_idx_gen::2458.889*2.27] collected minimizers
+[M::mm_idx_gen::2463.165*2.28] sorted minimizers
+[M::main::2463.165*2.28] loaded/built the index for 196231 target sequence(s)
+[M::mm_mapopt_update::2463.165*2.28] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 196231
+[M::mm_idx_stat::2468.580*2.28] distinct minimizers: 590215507 (92.98% are singletons); average occurrences: 1.128; average spacing: 6.050; total length: 4029371011
+[M::worker_pipeline::2469.558*2.28] mapped 333334 sequences
+[M::worker_pipeline::2470.110*2.28] mapped 333334 sequences
+[M::worker_pipeline::2470.635*2.28] mapped 333334 sequences
+[M::worker_pipeline::2471.173*2.28] mapped 333334 sequences
+[M::worker_pipeline::2471.699*2.28] mapped 333334 sequences
+[M::worker_pipeline::2472.223*2.28] mapped 333334 sequences
+[M::worker_pipeline::2472.781*2.28] mapped 333334 sequences
+[M::worker_pipeline::2473.309*2.28] mapped 333334 sequences
+[M::worker_pipeline::2473.830*2.28] mapped 333334 sequences
+[M::worker_pipeline::2474.357*2.28] mapped 333334 sequences
+[M::worker_pipeline::2474.883*2.28] mapped 333334 sequences
+[M::worker_pipeline::2475.430*2.28] mapped 333334 sequences
+[M::worker_pipeline::2475.954*2.28] mapped 333334 sequences
+[M::worker_pipeline::2476.481*2.29] mapped 333334 sequences
+[M::worker_pipeline::2477.005*2.29] mapped 333334 sequences
+[M::worker_pipeline::2477.527*2.29] mapped 333334 sequences
+[M::worker_pipeline::2478.053*2.29] mapped 333334 sequences
+[M::worker_pipeline::2478.576*2.29] mapped 333334 sequences
+[M::worker_pipeline::2479.087*2.29] mapped 333334 sequences
+[M::worker_pipeline::2479.553*2.29] mapped 304768 sequences
+[M::mm_idx_gen::2537.317*2.27] collected minimizers
+[M::mm_idx_gen::2541.540*2.28] sorted minimizers
+[M::main::2541.540*2.28] loaded/built the index for 135119 target sequence(s)
+[M::mm_mapopt_update::2541.540*2.28] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 135119
+[M::mm_idx_stat::2546.807*2.28] distinct minimizers: 611403371 (95.32% are singletons); average occurrences: 1.089; average spacing: 6.056; total length: 4031041108
+[M::worker_pipeline::2547.749*2.28] mapped 333334 sequences
+[M::worker_pipeline::2548.301*2.28] mapped 333334 sequences
+[M::worker_pipeline::2548.851*2.28] mapped 333334 sequences
+[M::worker_pipeline::2549.401*2.28] mapped 333334 sequences
+[M::worker_pipeline::2549.928*2.28] mapped 333334 sequences
+[M::worker_pipeline::2550.451*2.28] mapped 333334 sequences
+[M::worker_pipeline::2551.001*2.28] mapped 333334 sequences
+[M::worker_pipeline::2551.533*2.28] mapped 333334 sequences
+[M::worker_pipeline::2552.075*2.28] mapped 333334 sequences
+[M::worker_pipeline::2552.605*2.28] mapped 333334 sequences
+[M::worker_pipeline::2553.131*2.28] mapped 333334 sequences
+[M::worker_pipeline::2553.681*2.28] mapped 333334 sequences
+[M::worker_pipeline::2554.229*2.28] mapped 333334 sequences
+[M::worker_pipeline::2554.777*2.28] mapped 333334 sequences
+[M::worker_pipeline::2555.339*2.28] mapped 333334 sequences
+[M::worker_pipeline::2555.869*2.29] mapped 333334 sequences
+[M::worker_pipeline::2556.402*2.29] mapped 333334 sequences
+[M::worker_pipeline::2556.927*2.29] mapped 333334 sequences
+[M::worker_pipeline::2557.459*2.29] mapped 333334 sequences
+[M::worker_pipeline::2557.931*2.29] mapped 304768 sequences
+[M::mm_idx_gen::2616.250*2.27] collected minimizers
+[M::mm_idx_gen::2620.486*2.28] sorted minimizers
+[M::main::2620.486*2.28] loaded/built the index for 143394 target sequence(s)
+[M::mm_mapopt_update::2620.486*2.28] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 143394
+[M::mm_idx_stat::2625.953*2.27] distinct minimizers: 580409526 (92.74% are singletons); average occurrences: 1.153; average spacing: 6.027; total length: 4033164568
+[M::worker_pipeline::2627.008*2.28] mapped 333334 sequences
+[M::worker_pipeline::2627.555*2.28] mapped 333334 sequences
+[M::worker_pipeline::2628.084*2.28] mapped 333334 sequences
+[M::worker_pipeline::2628.639*2.28] mapped 333334 sequences
+[M::worker_pipeline::2629.195*2.28] mapped 333334 sequences
+[M::worker_pipeline::2629.733*2.28] mapped 333334 sequences
+[M::worker_pipeline::2630.262*2.28] mapped 333334 sequences
+[M::worker_pipeline::2630.820*2.28] mapped 333334 sequences
+[M::worker_pipeline::2631.355*2.28] mapped 333334 sequences
+[M::worker_pipeline::2631.882*2.28] mapped 333334 sequences
+[M::worker_pipeline::2632.437*2.28] mapped 333334 sequences
+[M::worker_pipeline::2632.973*2.28] mapped 333334 sequences
+[M::worker_pipeline::2633.509*2.28] mapped 333334 sequences
+[M::worker_pipeline::2634.042*2.28] mapped 333334 sequences
+[M::worker_pipeline::2634.603*2.28] mapped 333334 sequences
+[M::worker_pipeline::2635.135*2.28] mapped 333334 sequences
+[M::worker_pipeline::2635.669*2.28] mapped 333334 sequences
+[M::worker_pipeline::2636.191*2.28] mapped 333334 sequences
+[M::worker_pipeline::2636.694*2.28] mapped 333334 sequences
+[M::worker_pipeline::2637.159*2.28] mapped 304768 sequences
+[M::mm_idx_gen::2694.618*2.27] collected minimizers
+[M::mm_idx_gen::2698.868*2.28] sorted minimizers
+[M::main::2698.868*2.28] loaded/built the index for 296253 target sequence(s)
+[M::mm_mapopt_update::2698.868*2.28] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 296253
+[M::mm_idx_stat::2704.256*2.27] distinct minimizers: 576942311 (93.89% are singletons); average occurrences: 1.145; average spacing: 6.105; total length: 4033131137
+[M::worker_pipeline::2705.260*2.28] mapped 333334 sequences
+[M::worker_pipeline::2705.820*2.28] mapped 333334 sequences
+[M::worker_pipeline::2706.348*2.28] mapped 333334 sequences
+[M::worker_pipeline::2706.888*2.28] mapped 333334 sequences
+[M::worker_pipeline::2707.439*2.28] mapped 333334 sequences
+[M::worker_pipeline::2708.000*2.28] mapped 333334 sequences
+[M::worker_pipeline::2708.529*2.28] mapped 333334 sequences
+[M::worker_pipeline::2709.073*2.28] mapped 333334 sequences
+[M::worker_pipeline::2709.610*2.28] mapped 333334 sequences
+[M::worker_pipeline::2710.172*2.28] mapped 333334 sequences
+[M::worker_pipeline::2710.702*2.28] mapped 333334 sequences
+[M::worker_pipeline::2711.250*2.28] mapped 333334 sequences
+[M::worker_pipeline::2711.796*2.28] mapped 333334 sequences
+[M::worker_pipeline::2712.323*2.28] mapped 333334 sequences
+[M::worker_pipeline::2712.886*2.28] mapped 333334 sequences
+[M::worker_pipeline::2713.418*2.28] mapped 333334 sequences
+[M::worker_pipeline::2713.966*2.28] mapped 333334 sequences
+[M::worker_pipeline::2714.495*2.28] mapped 333334 sequences
+[M::worker_pipeline::2715.002*2.28] mapped 333334 sequences
+[M::worker_pipeline::2715.464*2.28] mapped 304768 sequences
+[M::mm_idx_gen::2773.234*2.27] collected minimizers
+[M::mm_idx_gen::2777.452*2.28] sorted minimizers
+[M::main::2777.452*2.28] loaded/built the index for 160619 target sequence(s)
+[M::mm_mapopt_update::2777.452*2.28] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 160619
+[M::mm_idx_stat::2782.835*2.27] distinct minimizers: 598603207 (93.71% are singletons); average occurrences: 1.106; average spacing: 6.042; total length: 4001793586
+[M::worker_pipeline::2783.856*2.27] mapped 333334 sequences
+[M::worker_pipeline::2784.400*2.28] mapped 333334 sequences
+[M::worker_pipeline::2784.930*2.28] mapped 333334 sequences
+[M::worker_pipeline::2785.454*2.28] mapped 333334 sequences
+[M::worker_pipeline::2786.012*2.28] mapped 333334 sequences
+[M::worker_pipeline::2786.574*2.28] mapped 333334 sequences
+[M::worker_pipeline::2787.129*2.28] mapped 333334 sequences
+[M::worker_pipeline::2787.662*2.28] mapped 333334 sequences
+[M::worker_pipeline::2788.190*2.28] mapped 333334 sequences
+[M::worker_pipeline::2788.750*2.28] mapped 333334 sequences
+[M::worker_pipeline::2789.310*2.28] mapped 333334 sequences
+[M::worker_pipeline::2789.854*2.28] mapped 333334 sequences
+[M::worker_pipeline::2790.401*2.28] mapped 333334 sequences
+[M::worker_pipeline::2790.953*2.28] mapped 333334 sequences
+[M::worker_pipeline::2791.481*2.28] mapped 333334 sequences
+[M::worker_pipeline::2792.010*2.28] mapped 333334 sequences
+[M::worker_pipeline::2792.575*2.28] mapped 333334 sequences
+[M::worker_pipeline::2793.118*2.28] mapped 333334 sequences
+[M::worker_pipeline::2793.702*2.28] mapped 333334 sequences
+[M::worker_pipeline::2794.166*2.28] mapped 304768 sequences
+[M::mm_idx_gen::2852.026*2.27] collected minimizers
+[M::mm_idx_gen::2856.318*2.27] sorted minimizers
+[M::main::2856.318*2.27] loaded/built the index for 286472 target sequence(s)
+[M::mm_mapopt_update::2856.318*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 286472
+[M::mm_idx_stat::2861.792*2.27] distinct minimizers: 581375356 (92.42% are singletons); average occurrences: 1.146; average spacing: 6.053; total length: 4032894005
+[M::worker_pipeline::2862.741*2.27] mapped 333334 sequences
+[M::worker_pipeline::2863.301*2.27] mapped 333334 sequences
+[M::worker_pipeline::2863.831*2.27] mapped 333334 sequences
+[M::worker_pipeline::2864.355*2.28] mapped 333334 sequences
+[M::worker_pipeline::2864.911*2.28] mapped 333334 sequences
+[M::worker_pipeline::2865.436*2.28] mapped 333334 sequences
+[M::worker_pipeline::2865.972*2.28] mapped 333334 sequences
+[M::worker_pipeline::2866.502*2.28] mapped 333334 sequences
+[M::worker_pipeline::2867.054*2.28] mapped 333334 sequences
+[M::worker_pipeline::2867.613*2.28] mapped 333334 sequences
+[M::worker_pipeline::2868.176*2.28] mapped 333334 sequences
+[M::worker_pipeline::2868.707*2.28] mapped 333334 sequences
+[M::worker_pipeline::2869.283*2.28] mapped 333334 sequences
+[M::worker_pipeline::2869.823*2.28] mapped 333334 sequences
+[M::worker_pipeline::2870.358*2.28] mapped 333334 sequences
+[M::worker_pipeline::2870.888*2.28] mapped 333334 sequences
+[M::worker_pipeline::2871.434*2.28] mapped 333334 sequences
+[M::worker_pipeline::2871.988*2.28] mapped 333334 sequences
+[M::worker_pipeline::2872.495*2.28] mapped 333334 sequences
+[M::worker_pipeline::2872.960*2.28] mapped 304768 sequences
+[M::mm_idx_gen::2931.476*2.27] collected minimizers
+[M::mm_idx_gen::2935.708*2.27] sorted minimizers
+[M::main::2935.708*2.27] loaded/built the index for 221129 target sequence(s)
+[M::mm_mapopt_update::2935.708*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 221129
+[M::mm_idx_stat::2941.163*2.27] distinct minimizers: 592777359 (93.02% are singletons); average occurrences: 1.124; average spacing: 6.039; total length: 4023542986
+[M::worker_pipeline::2942.147*2.27] mapped 333334 sequences
+[M::worker_pipeline::2942.693*2.27] mapped 333334 sequences
+[M::worker_pipeline::2943.230*2.27] mapped 333334 sequences
+[M::worker_pipeline::2943.785*2.27] mapped 333334 sequences
+[M::worker_pipeline::2944.304*2.27] mapped 333334 sequences
+[M::worker_pipeline::2944.863*2.27] mapped 333334 sequences
+[M::worker_pipeline::2945.389*2.28] mapped 333334 sequences
+[M::worker_pipeline::2945.915*2.28] mapped 333334 sequences
+[M::worker_pipeline::2946.476*2.28] mapped 333334 sequences
+[M::worker_pipeline::2947.002*2.28] mapped 333334 sequences
+[M::worker_pipeline::2947.529*2.28] mapped 333334 sequences
+[M::worker_pipeline::2948.084*2.28] mapped 333334 sequences
+[M::worker_pipeline::2948.613*2.28] mapped 333334 sequences
+[M::worker_pipeline::2949.135*2.28] mapped 333334 sequences
+[M::worker_pipeline::2949.682*2.28] mapped 333334 sequences
+[M::worker_pipeline::2950.237*2.28] mapped 333334 sequences
+[M::worker_pipeline::2950.763*2.28] mapped 333334 sequences
+[M::worker_pipeline::2951.289*2.28] mapped 333334 sequences
+[M::worker_pipeline::2951.802*2.28] mapped 333334 sequences
+[M::worker_pipeline::2952.262*2.28] mapped 304768 sequences
+[M::mm_idx_gen::3010.479*2.26] collected minimizers
+[M::mm_idx_gen::3015.646*2.27] sorted minimizers
+[M::main::3015.646*2.27] loaded/built the index for 244554 target sequence(s)
+[M::mm_mapopt_update::3015.646*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 244554
+[M::mm_idx_stat::3020.654*2.27] distinct minimizers: 443782368 (76.32% are singletons); average occurrences: 1.487; average spacing: 6.079; total length: 4010517384
+[M::worker_pipeline::3021.663*2.27] mapped 333334 sequences
+[M::worker_pipeline::3022.199*2.27] mapped 333334 sequences
+[M::worker_pipeline::3022.726*2.27] mapped 333334 sequences
+[M::worker_pipeline::3023.252*2.27] mapped 333334 sequences
+[M::worker_pipeline::3023.779*2.27] mapped 333334 sequences
+[M::worker_pipeline::3024.307*2.27] mapped 333334 sequences
+[M::worker_pipeline::3024.861*2.28] mapped 333334 sequences
+[M::worker_pipeline::3025.409*2.28] mapped 333334 sequences
+[M::worker_pipeline::3025.937*2.28] mapped 333334 sequences
+[M::worker_pipeline::3026.498*2.28] mapped 333334 sequences
+[M::worker_pipeline::3027.046*2.28] mapped 333334 sequences
+[M::worker_pipeline::3027.603*2.28] mapped 333334 sequences
+[M::worker_pipeline::3028.157*2.28] mapped 333334 sequences
+[M::worker_pipeline::3028.679*2.28] mapped 333334 sequences
+[M::worker_pipeline::3029.227*2.28] mapped 333334 sequences
+[M::worker_pipeline::3029.753*2.28] mapped 333334 sequences
+[M::worker_pipeline::3030.287*2.28] mapped 333334 sequences
+[M::worker_pipeline::3030.843*2.28] mapped 333334 sequences
+[M::worker_pipeline::3031.355*2.28] mapped 333334 sequences
+[M::worker_pipeline::3031.824*2.28] mapped 304768 sequences
+[M::mm_idx_gen::3090.321*2.26] collected minimizers
+[M::mm_idx_gen::3094.687*2.27] sorted minimizers
+[M::main::3094.688*2.27] loaded/built the index for 251605 target sequence(s)
+[M::mm_mapopt_update::3094.688*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 251605
+[M::mm_idx_stat::3100.042*2.27] distinct minimizers: 540743856 (87.33% are singletons); average occurrences: 1.237; average spacing: 6.036; total length: 4036141453
+[M::worker_pipeline::3101.086*2.27] mapped 333334 sequences
+[M::worker_pipeline::3101.618*2.27] mapped 333334 sequences
+[M::worker_pipeline::3102.138*2.27] mapped 333334 sequences
+[M::worker_pipeline::3102.658*2.27] mapped 333334 sequences
+[M::worker_pipeline::3103.205*2.27] mapped 333334 sequences
+[M::worker_pipeline::3103.725*2.27] mapped 333334 sequences
+[M::worker_pipeline::3104.277*2.27] mapped 333334 sequences
+[M::worker_pipeline::3104.806*2.27] mapped 333334 sequences
+[M::worker_pipeline::3105.328*2.27] mapped 333334 sequences
+[M::worker_pipeline::3105.886*2.27] mapped 333334 sequences
+[M::worker_pipeline::3106.409*2.28] mapped 333334 sequences
+[M::worker_pipeline::3106.941*2.28] mapped 333334 sequences
+[M::worker_pipeline::3107.467*2.28] mapped 333334 sequences
+[M::worker_pipeline::3108.006*2.28] mapped 333334 sequences
+[M::worker_pipeline::3108.532*2.28] mapped 333334 sequences
+[M::worker_pipeline::3109.062*2.28] mapped 333334 sequences
+[M::worker_pipeline::3109.588*2.28] mapped 333334 sequences
+[M::worker_pipeline::3110.142*2.28] mapped 333334 sequences
+[M::worker_pipeline::3110.660*2.28] mapped 333334 sequences
+[M::worker_pipeline::3111.155*2.28] mapped 304768 sequences
+[M::mm_idx_gen::3169.874*2.26] collected minimizers
+[M::mm_idx_gen::3174.877*2.27] sorted minimizers
+[M::main::3174.877*2.27] loaded/built the index for 477652 target sequence(s)
+[M::mm_mapopt_update::3174.877*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 477652
+[M::mm_idx_stat::3180.017*2.27] distinct minimizers: 468967351 (84.05% are singletons); average occurrences: 1.429; average spacing: 6.032; total length: 4043762550
+[M::worker_pipeline::3180.983*2.27] mapped 333334 sequences
+[M::worker_pipeline::3181.512*2.27] mapped 333334 sequences
+[M::worker_pipeline::3182.033*2.27] mapped 333334 sequences
+[M::worker_pipeline::3182.587*2.27] mapped 333334 sequences
+[M::worker_pipeline::3183.116*2.27] mapped 333334 sequences
+[M::worker_pipeline::3183.644*2.27] mapped 333334 sequences
+[M::worker_pipeline::3184.175*2.27] mapped 333334 sequences
+[M::worker_pipeline::3184.701*2.27] mapped 333334 sequences
+[M::worker_pipeline::3185.247*2.27] mapped 333334 sequences
+[M::worker_pipeline::3185.771*2.27] mapped 333334 sequences
+[M::worker_pipeline::3186.318*2.27] mapped 333334 sequences
+[M::worker_pipeline::3186.873*2.27] mapped 333334 sequences
+[M::worker_pipeline::3187.423*2.28] mapped 333334 sequences
+[M::worker_pipeline::3187.953*2.28] mapped 333334 sequences
+[M::worker_pipeline::3188.497*2.28] mapped 333334 sequences
+[M::worker_pipeline::3189.030*2.28] mapped 333334 sequences
+[M::worker_pipeline::3189.584*2.28] mapped 333334 sequences
+[M::worker_pipeline::3190.122*2.28] mapped 333334 sequences
+[M::worker_pipeline::3190.623*2.28] mapped 333334 sequences
+[M::worker_pipeline::3191.083*2.28] mapped 304768 sequences
+[M::mm_idx_gen::3249.144*2.26] collected minimizers
+[M::mm_idx_gen::3253.998*2.27] sorted minimizers
+[M::main::3253.998*2.27] loaded/built the index for 161948 target sequence(s)
+[M::mm_mapopt_update::3253.998*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 161948
+[M::mm_idx_stat::3259.172*2.27] distinct minimizers: 466022103 (84.88% are singletons); average occurrences: 1.435; average spacing: 6.022; total length: 4028212059
+[M::worker_pipeline::3260.253*2.27] mapped 333334 sequences
+[M::worker_pipeline::3260.797*2.27] mapped 333334 sequences
+[M::worker_pipeline::3261.337*2.27] mapped 333334 sequences
+[M::worker_pipeline::3261.868*2.27] mapped 333334 sequences
+[M::worker_pipeline::3262.395*2.27] mapped 333334 sequences
+[M::worker_pipeline::3262.919*2.27] mapped 333334 sequences
+[M::worker_pipeline::3263.446*2.27] mapped 333334 sequences
+[M::worker_pipeline::3263.991*2.27] mapped 333334 sequences
+[M::worker_pipeline::3264.549*2.27] mapped 333334 sequences
+[M::worker_pipeline::3265.109*2.27] mapped 333334 sequences
+[M::worker_pipeline::3265.634*2.27] mapped 333334 sequences
+[M::worker_pipeline::3266.158*2.27] mapped 333334 sequences
+[M::worker_pipeline::3266.684*2.27] mapped 333334 sequences
+[M::worker_pipeline::3267.211*2.28] mapped 333334 sequences
+[M::worker_pipeline::3267.765*2.28] mapped 333334 sequences
+[M::worker_pipeline::3268.293*2.28] mapped 333334 sequences
+[M::worker_pipeline::3268.819*2.28] mapped 333334 sequences
+[M::worker_pipeline::3269.345*2.28] mapped 333334 sequences
+[M::worker_pipeline::3269.856*2.28] mapped 333334 sequences
+[M::worker_pipeline::3270.321*2.28] mapped 304768 sequences
+[M::mm_idx_gen::3329.637*2.26] collected minimizers
+[M::mm_idx_gen::3334.624*2.27] sorted minimizers
+[M::main::3334.624*2.27] loaded/built the index for 192098 target sequence(s)
+[M::mm_mapopt_update::3334.624*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 192098
+[M::mm_idx_stat::3339.814*2.27] distinct minimizers: 477530834 (83.63% are singletons); average occurrences: 1.407; average spacing: 6.022; total length: 4046103175
+[M::worker_pipeline::3340.804*2.27] mapped 333334 sequences
+[M::worker_pipeline::3341.325*2.27] mapped 333334 sequences
+[M::worker_pipeline::3341.852*2.27] mapped 333334 sequences
+[M::worker_pipeline::3342.373*2.27] mapped 333334 sequences
+[M::worker_pipeline::3342.929*2.27] mapped 333334 sequences
+[M::worker_pipeline::3343.457*2.27] mapped 333334 sequences
+[M::worker_pipeline::3343.979*2.27] mapped 333334 sequences
+[M::worker_pipeline::3344.521*2.27] mapped 333334 sequences
+[M::worker_pipeline::3345.046*2.27] mapped 333334 sequences
+[M::worker_pipeline::3345.594*2.27] mapped 333334 sequences
+[M::worker_pipeline::3346.148*2.27] mapped 333334 sequences
+[M::worker_pipeline::3346.666*2.27] mapped 333334 sequences
+[M::worker_pipeline::3347.207*2.27] mapped 333334 sequences
+[M::worker_pipeline::3347.734*2.27] mapped 333334 sequences
+[M::worker_pipeline::3348.285*2.27] mapped 333334 sequences
+[M::worker_pipeline::3348.840*2.28] mapped 333334 sequences
+[M::worker_pipeline::3349.365*2.28] mapped 333334 sequences
+[M::worker_pipeline::3349.887*2.28] mapped 333334 sequences
+[M::worker_pipeline::3350.405*2.28] mapped 333334 sequences
+[M::worker_pipeline::3350.868*2.28] mapped 304768 sequences
+[M::mm_idx_gen::3408.893*2.26] collected minimizers
+[M::mm_idx_gen::3413.893*2.27] sorted minimizers
+[M::main::3413.893*2.27] loaded/built the index for 164332 target sequence(s)
+[M::mm_mapopt_update::3413.893*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 164332
+[M::mm_idx_stat::3418.783*2.27] distinct minimizers: 425512856 (77.03% are singletons); average occurrences: 1.573; average spacing: 6.042; total length: 4043306725
+[M::worker_pipeline::3419.754*2.27] mapped 333334 sequences
+[M::worker_pipeline::3420.298*2.27] mapped 333334 sequences
+[M::worker_pipeline::3420.821*2.27] mapped 333334 sequences
+[M::worker_pipeline::3421.374*2.27] mapped 333334 sequences
+[M::worker_pipeline::3421.899*2.27] mapped 333334 sequences
+[M::worker_pipeline::3422.418*2.27] mapped 333334 sequences
+[M::worker_pipeline::3422.976*2.27] mapped 333334 sequences
+[M::worker_pipeline::3423.496*2.27] mapped 333334 sequences
+[M::worker_pipeline::3424.021*2.27] mapped 333334 sequences
+[M::worker_pipeline::3424.539*2.27] mapped 333334 sequences
+[M::worker_pipeline::3425.106*2.27] mapped 333334 sequences
+[M::worker_pipeline::3425.629*2.27] mapped 333334 sequences
+[M::worker_pipeline::3426.154*2.27] mapped 333334 sequences
+[M::worker_pipeline::3426.680*2.27] mapped 333334 sequences
+[M::worker_pipeline::3427.208*2.27] mapped 333334 sequences
+[M::worker_pipeline::3427.737*2.28] mapped 333334 sequences
+[M::worker_pipeline::3428.262*2.28] mapped 333334 sequences
+[M::worker_pipeline::3428.818*2.28] mapped 333334 sequences
+[M::worker_pipeline::3429.329*2.28] mapped 333334 sequences
+[M::worker_pipeline::3429.785*2.28] mapped 304768 sequences
+[M::mm_idx_gen::3487.488*2.26] collected minimizers
+[M::mm_idx_gen::3492.516*2.27] sorted minimizers
+[M::main::3492.516*2.27] loaded/built the index for 198888 target sequence(s)
+[M::mm_mapopt_update::3492.516*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 198888
+[M::mm_idx_stat::3497.415*2.27] distinct minimizers: 424704500 (76.29% are singletons); average occurrences: 1.556; average spacing: 6.059; total length: 4004161514
+[M::worker_pipeline::3498.391*2.27] mapped 333334 sequences
+[M::worker_pipeline::3498.941*2.27] mapped 333334 sequences
+[M::worker_pipeline::3499.461*2.27] mapped 333334 sequences
+[M::worker_pipeline::3499.982*2.27] mapped 333334 sequences
+[M::worker_pipeline::3500.528*2.27] mapped 333334 sequences
+[M::worker_pipeline::3501.052*2.27] mapped 333334 sequences
+[M::worker_pipeline::3501.575*2.27] mapped 333334 sequences
+[M::worker_pipeline::3502.121*2.27] mapped 333334 sequences
+[M::worker_pipeline::3502.675*2.27] mapped 333334 sequences
+[M::worker_pipeline::3503.198*2.27] mapped 333334 sequences
+[M::worker_pipeline::3503.755*2.27] mapped 333334 sequences
+[M::worker_pipeline::3504.305*2.27] mapped 333334 sequences
+[M::worker_pipeline::3504.859*2.27] mapped 333334 sequences
+[M::worker_pipeline::3505.407*2.27] mapped 333334 sequences
+[M::worker_pipeline::3505.931*2.27] mapped 333334 sequences
+[M::worker_pipeline::3506.478*2.27] mapped 333334 sequences
+[M::worker_pipeline::3507.004*2.28] mapped 333334 sequences
+[M::worker_pipeline::3507.521*2.28] mapped 333334 sequences
+[M::worker_pipeline::3508.024*2.28] mapped 333334 sequences
+[M::worker_pipeline::3508.487*2.27] mapped 304768 sequences
+[M::mm_idx_gen::3566.325*2.26] collected minimizers
+[M::mm_idx_gen::3570.746*2.27] sorted minimizers
+[M::main::3570.746*2.27] loaded/built the index for 193461 target sequence(s)
+[M::mm_mapopt_update::3570.746*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 193461
+[M::mm_idx_stat::3573.442*2.27] distinct minimizers: 410124178 (75.90% are singletons); average occurrences: 1.612; average spacing: 6.065; total length: 4008603491
+[M::worker_pipeline::3574.463*2.27] mapped 333334 sequences
+[M::worker_pipeline::3574.997*2.27] mapped 333334 sequences
+[M::worker_pipeline::3575.524*2.27] mapped 333334 sequences
+[M::worker_pipeline::3576.078*2.27] mapped 333334 sequences
+[M::worker_pipeline::3576.623*2.27] mapped 333334 sequences
+[M::worker_pipeline::3577.174*2.27] mapped 333334 sequences
+[M::worker_pipeline::3577.713*2.27] mapped 333334 sequences
+[M::worker_pipeline::3578.245*2.27] mapped 333334 sequences
+[M::worker_pipeline::3578.775*2.27] mapped 333334 sequences
+[M::worker_pipeline::3579.331*2.27] mapped 333334 sequences
+[M::worker_pipeline::3579.859*2.27] mapped 333334 sequences
+[M::worker_pipeline::3580.388*2.27] mapped 333334 sequences
+[M::worker_pipeline::3580.910*2.27] mapped 333334 sequences
+[M::worker_pipeline::3581.457*2.28] mapped 333334 sequences
+[M::worker_pipeline::3581.998*2.28] mapped 333334 sequences
+[M::worker_pipeline::3582.522*2.28] mapped 333334 sequences
+[M::worker_pipeline::3583.048*2.28] mapped 333334 sequences
+[M::worker_pipeline::3583.570*2.28] mapped 333334 sequences
+[M::worker_pipeline::3584.079*2.28] mapped 333334 sequences
+[M::worker_pipeline::3584.642*2.28] mapped 304768 sequences
+[M::mm_idx_gen::3642.492*2.26] collected minimizers
+[M::mm_idx_gen::3647.500*2.27] sorted minimizers
+[M::main::3647.500*2.27] loaded/built the index for 130714 target sequence(s)
+[M::mm_mapopt_update::3647.500*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 130714
+[M::mm_idx_stat::3652.930*2.27] distinct minimizers: 518513878 (88.73% are singletons); average occurrences: 1.296; average spacing: 6.015; total length: 4042609458
+[M::worker_pipeline::3653.915*2.27] mapped 333334 sequences
+[M::worker_pipeline::3654.459*2.27] mapped 333334 sequences
+[M::worker_pipeline::3654.993*2.27] mapped 333334 sequences
+[M::worker_pipeline::3655.531*2.27] mapped 333334 sequences
+[M::worker_pipeline::3656.063*2.27] mapped 333334 sequences
+[M::worker_pipeline::3656.613*2.27] mapped 333334 sequences
+[M::worker_pipeline::3657.173*2.27] mapped 333334 sequences
+[M::worker_pipeline::3657.698*2.27] mapped 333334 sequences
+[M::worker_pipeline::3658.247*2.27] mapped 333334 sequences
+[M::worker_pipeline::3658.806*2.27] mapped 333334 sequences
+[M::worker_pipeline::3659.329*2.27] mapped 333334 sequences
+[M::worker_pipeline::3659.850*2.27] mapped 333334 sequences
+[M::worker_pipeline::3660.401*2.28] mapped 333334 sequences
+[M::worker_pipeline::3660.925*2.28] mapped 333334 sequences
+[M::worker_pipeline::3661.481*2.28] mapped 333334 sequences
+[M::worker_pipeline::3662.029*2.28] mapped 333334 sequences
+[M::worker_pipeline::3662.559*2.28] mapped 333334 sequences
+[M::worker_pipeline::3663.101*2.28] mapped 333334 sequences
+[M::worker_pipeline::3663.613*2.28] mapped 333334 sequences
+[M::worker_pipeline::3664.107*2.28] mapped 304768 sequences
+[M::mm_idx_gen::3722.130*2.26] collected minimizers
+[M::mm_idx_gen::3726.974*2.27] sorted minimizers
+[M::main::3726.974*2.27] loaded/built the index for 189734 target sequence(s)
+[M::mm_mapopt_update::3726.974*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 189734
+[M::mm_idx_stat::3732.236*2.27] distinct minimizers: 473670256 (86.91% are singletons); average occurrences: 1.406; average spacing: 6.047; total length: 4027556594
+[M::worker_pipeline::3733.204*2.27] mapped 333334 sequences
+[M::worker_pipeline::3733.756*2.27] mapped 333334 sequences
+[M::worker_pipeline::3734.297*2.27] mapped 333334 sequences
+[M::worker_pipeline::3734.821*2.27] mapped 333334 sequences
+[M::worker_pipeline::3735.379*2.27] mapped 333334 sequences
+[M::worker_pipeline::3735.908*2.27] mapped 333334 sequences
+[M::worker_pipeline::3736.433*2.27] mapped 333334 sequences
+[M::worker_pipeline::3736.988*2.27] mapped 333334 sequences
+[M::worker_pipeline::3737.513*2.27] mapped 333334 sequences
+[M::worker_pipeline::3738.065*2.27] mapped 333334 sequences
+[M::worker_pipeline::3738.618*2.27] mapped 333334 sequences
+[M::worker_pipeline::3739.178*2.27] mapped 333334 sequences
+[M::worker_pipeline::3739.729*2.27] mapped 333334 sequences
+[M::worker_pipeline::3740.283*2.28] mapped 333334 sequences
+[M::worker_pipeline::3740.809*2.28] mapped 333334 sequences
+[M::worker_pipeline::3741.333*2.28] mapped 333334 sequences
+[M::worker_pipeline::3741.859*2.28] mapped 333334 sequences
+[M::worker_pipeline::3742.384*2.28] mapped 333334 sequences
+[M::worker_pipeline::3742.895*2.28] mapped 333334 sequences
+[M::worker_pipeline::3743.357*2.28] mapped 304768 sequences
+[M::mm_idx_gen::3801.252*2.26] collected minimizers
+[M::mm_idx_gen::3805.966*2.27] sorted minimizers
+[M::main::3805.966*2.27] loaded/built the index for 151790 target sequence(s)
+[M::mm_mapopt_update::3805.966*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 151790
+[M::mm_idx_stat::3811.305*2.27] distinct minimizers: 535414358 (88.52% are singletons); average occurrences: 1.247; average spacing: 6.039; total length: 4031937318
+[M::worker_pipeline::3812.278*2.27] mapped 333334 sequences
+[M::worker_pipeline::3812.808*2.27] mapped 333334 sequences
+[M::worker_pipeline::3813.331*2.27] mapped 333334 sequences
+[M::worker_pipeline::3813.856*2.27] mapped 333334 sequences
+[M::worker_pipeline::3814.409*2.27] mapped 333334 sequences
+[M::worker_pipeline::3814.934*2.27] mapped 333334 sequences
+[M::worker_pipeline::3815.461*2.27] mapped 333334 sequences
+[M::worker_pipeline::3816.003*2.27] mapped 333334 sequences
+[M::worker_pipeline::3816.531*2.27] mapped 333334 sequences
+[M::worker_pipeline::3817.055*2.27] mapped 333334 sequences
+[M::worker_pipeline::3817.602*2.27] mapped 333334 sequences
+[M::worker_pipeline::3818.131*2.27] mapped 333334 sequences
+[M::worker_pipeline::3818.660*2.27] mapped 333334 sequences
+[M::worker_pipeline::3819.186*2.27] mapped 333334 sequences
+[M::worker_pipeline::3819.713*2.27] mapped 333334 sequences
+[M::worker_pipeline::3820.269*2.28] mapped 333334 sequences
+[M::worker_pipeline::3820.798*2.28] mapped 333334 sequences
+[M::worker_pipeline::3821.322*2.28] mapped 333334 sequences
+[M::worker_pipeline::3821.827*2.28] mapped 333334 sequences
+[M::worker_pipeline::3822.295*2.28] mapped 304768 sequences
+[M::mm_idx_gen::3878.353*2.26] collected minimizers
+[M::mm_idx_gen::3883.087*2.27] sorted minimizers
+[M::main::3883.087*2.27] loaded/built the index for 171122 target sequence(s)
+[M::mm_mapopt_update::3883.087*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 171122
+[M::mm_idx_stat::3888.405*2.27] distinct minimizers: 490226113 (89.69% are singletons); average occurrences: 1.339; average spacing: 6.138; total length: 4028053471
+[M::worker_pipeline::3889.605*2.27] mapped 333334 sequences
+[M::worker_pipeline::3890.115*2.27] mapped 333334 sequences
+[M::worker_pipeline::3890.634*2.27] mapped 333334 sequences
+[M::worker_pipeline::3891.176*2.27] mapped 333334 sequences
+[M::worker_pipeline::3891.684*2.27] mapped 333334 sequences
+[M::worker_pipeline::3892.226*2.27] mapped 333334 sequences
+[M::worker_pipeline::3892.752*2.27] mapped 333334 sequences
+[M::worker_pipeline::3893.290*2.27] mapped 333334 sequences
+[M::worker_pipeline::3893.864*2.27] mapped 333334 sequences
+[M::worker_pipeline::3894.389*2.27] mapped 333334 sequences
+[M::worker_pipeline::3894.899*2.27] mapped 333334 sequences
+[M::worker_pipeline::3895.462*2.27] mapped 333334 sequences
+[M::worker_pipeline::3895.990*2.27] mapped 333334 sequences
+[M::worker_pipeline::3896.520*2.27] mapped 333334 sequences
+[M::worker_pipeline::3897.060*2.27] mapped 333334 sequences
+[M::worker_pipeline::3897.589*2.28] mapped 333334 sequences
+[M::worker_pipeline::3898.095*2.28] mapped 333334 sequences
+[M::worker_pipeline::3898.653*2.28] mapped 333334 sequences
+[M::worker_pipeline::3899.166*2.28] mapped 333334 sequences
+[M::worker_pipeline::3899.611*2.28] mapped 304768 sequences
+[M::mm_idx_gen::3957.129*2.26] collected minimizers
+[M::mm_idx_gen::3961.382*2.27] sorted minimizers
+[M::main::3961.382*2.27] loaded/built the index for 155302 target sequence(s)
+[M::mm_mapopt_update::3961.382*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 155302
+[M::mm_idx_stat::3966.731*2.27] distinct minimizers: 544322593 (88.80% are singletons); average occurrences: 1.225; average spacing: 6.036; total length: 4023642376
+[M::worker_pipeline::3967.747*2.27] mapped 333334 sequences
+[M::worker_pipeline::3968.341*2.27] mapped 333334 sequences
+[M::worker_pipeline::3968.887*2.27] mapped 333334 sequences
+[M::worker_pipeline::3969.414*2.27] mapped 333334 sequences
+[M::worker_pipeline::3969.953*2.27] mapped 333334 sequences
+[M::worker_pipeline::3970.475*2.27] mapped 333334 sequences
+[M::worker_pipeline::3971.022*2.27] mapped 333334 sequences
+[M::worker_pipeline::3971.559*2.27] mapped 333334 sequences
+[M::worker_pipeline::3972.114*2.27] mapped 333334 sequences
+[M::worker_pipeline::3972.656*2.27] mapped 333334 sequences
+[M::worker_pipeline::3973.179*2.27] mapped 333334 sequences
+[M::worker_pipeline::3973.727*2.27] mapped 333334 sequences
+[M::worker_pipeline::3974.278*2.27] mapped 333334 sequences
+[M::worker_pipeline::3974.804*2.27] mapped 333334 sequences
+[M::worker_pipeline::3975.326*2.27] mapped 333334 sequences
+[M::worker_pipeline::3975.875*2.27] mapped 333334 sequences
+[M::worker_pipeline::3976.430*2.27] mapped 333334 sequences
+[M::worker_pipeline::3976.954*2.27] mapped 333334 sequences
+[M::worker_pipeline::3977.460*2.27] mapped 333334 sequences
+[M::worker_pipeline::3977.916*2.27] mapped 304768 sequences
+[M::mm_idx_gen::4036.053*2.26] collected minimizers
+[M::mm_idx_gen::4040.305*2.27] sorted minimizers
+[M::main::4040.305*2.27] loaded/built the index for 231179 target sequence(s)
+[M::mm_mapopt_update::4040.305*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 231179
+[M::mm_idx_stat::4045.697*2.27] distinct minimizers: 607232826 (93.50% are singletons); average occurrences: 1.098; average spacing: 6.060; total length: 4039152083
+[M::worker_pipeline::4046.699*2.27] mapped 333334 sequences
+[M::worker_pipeline::4047.228*2.27] mapped 333334 sequences
+[M::worker_pipeline::4047.783*2.27] mapped 333334 sequences
+[M::worker_pipeline::4048.309*2.27] mapped 333334 sequences
+[M::worker_pipeline::4048.834*2.27] mapped 333334 sequences
+[M::worker_pipeline::4049.372*2.27] mapped 333334 sequences
+[M::worker_pipeline::4049.901*2.27] mapped 333334 sequences
+[M::worker_pipeline::4050.454*2.27] mapped 333334 sequences
+[M::worker_pipeline::4050.998*2.27] mapped 333334 sequences
+[M::worker_pipeline::4051.527*2.27] mapped 333334 sequences
+[M::worker_pipeline::4052.054*2.27] mapped 333334 sequences
+[M::worker_pipeline::4052.577*2.27] mapped 333334 sequences
+[M::worker_pipeline::4053.106*2.27] mapped 333334 sequences
+[M::worker_pipeline::4053.661*2.27] mapped 333334 sequences
+[M::worker_pipeline::4054.186*2.27] mapped 333334 sequences
+[M::worker_pipeline::4054.734*2.27] mapped 333334 sequences
+[M::worker_pipeline::4055.265*2.27] mapped 333334 sequences
+[M::worker_pipeline::4055.788*2.27] mapped 333334 sequences
+[M::worker_pipeline::4056.295*2.27] mapped 333334 sequences
+[M::worker_pipeline::4056.761*2.27] mapped 304768 sequences
+[M::mm_idx_gen::4115.282*2.26] collected minimizers
+[M::mm_idx_gen::4120.170*2.27] sorted minimizers
+[M::main::4120.170*2.27] loaded/built the index for 231261 target sequence(s)
+[M::mm_mapopt_update::4120.170*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 231261
+[M::mm_idx_stat::4125.508*2.27] distinct minimizers: 526532630 (88.44% are singletons); average occurrences: 1.272; average spacing: 6.021; total length: 4031414149
+[M::worker_pipeline::4126.494*2.27] mapped 333334 sequences
+[M::worker_pipeline::4127.030*2.27] mapped 333334 sequences
+[M::worker_pipeline::4127.579*2.27] mapped 333334 sequences
+[M::worker_pipeline::4128.131*2.27] mapped 333334 sequences
+[M::worker_pipeline::4128.678*2.27] mapped 333334 sequences
+[M::worker_pipeline::4129.202*2.27] mapped 333334 sequences
+[M::worker_pipeline::4129.738*2.27] mapped 333334 sequences
+[M::worker_pipeline::4130.281*2.27] mapped 333334 sequences
+[M::worker_pipeline::4130.838*2.27] mapped 333334 sequences
+[M::worker_pipeline::4131.393*2.27] mapped 333334 sequences
+[M::worker_pipeline::4131.942*2.27] mapped 333334 sequences
+[M::worker_pipeline::4132.485*2.27] mapped 333334 sequences
+[M::worker_pipeline::4133.008*2.27] mapped 333334 sequences
+[M::worker_pipeline::4133.532*2.27] mapped 333334 sequences
+[M::worker_pipeline::4134.089*2.27] mapped 333334 sequences
+[M::worker_pipeline::4134.644*2.27] mapped 333334 sequences
+[M::worker_pipeline::4135.170*2.27] mapped 333334 sequences
+[M::worker_pipeline::4135.712*2.27] mapped 333334 sequences
+[M::worker_pipeline::4136.218*2.27] mapped 333334 sequences
+[M::worker_pipeline::4136.682*2.27] mapped 304768 sequences
+[M::mm_idx_gen::4194.602*2.26] collected minimizers
+[M::mm_idx_gen::4199.575*2.27] sorted minimizers
+[M::main::4199.575*2.27] loaded/built the index for 337926 target sequence(s)
+[M::mm_mapopt_update::4199.575*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 337926
+[M::mm_idx_stat::4204.681*2.27] distinct minimizers: 479726969 (81.15% are singletons); average occurrences: 1.393; average spacing: 6.016; total length: 4020938777
+[M::worker_pipeline::4205.644*2.27] mapped 333334 sequences
+[M::worker_pipeline::4206.167*2.27] mapped 333334 sequences
+[M::worker_pipeline::4206.714*2.27] mapped 333334 sequences
+[M::worker_pipeline::4207.243*2.27] mapped 333334 sequences
+[M::worker_pipeline::4207.767*2.27] mapped 333334 sequences
+[M::worker_pipeline::4208.321*2.27] mapped 333334 sequences
+[M::worker_pipeline::4208.867*2.27] mapped 333334 sequences
+[M::worker_pipeline::4209.414*2.27] mapped 333334 sequences
+[M::worker_pipeline::4209.958*2.27] mapped 333334 sequences
+[M::worker_pipeline::4210.484*2.27] mapped 333334 sequences
+[M::worker_pipeline::4211.033*2.27] mapped 333334 sequences
+[M::worker_pipeline::4211.557*2.27] mapped 333334 sequences
+[M::worker_pipeline::4212.113*2.27] mapped 333334 sequences
+[M::worker_pipeline::4212.638*2.27] mapped 333334 sequences
+[M::worker_pipeline::4213.163*2.27] mapped 333334 sequences
+[M::worker_pipeline::4213.705*2.27] mapped 333334 sequences
+[M::worker_pipeline::4214.234*2.27] mapped 333334 sequences
+[M::worker_pipeline::4214.758*2.27] mapped 333334 sequences
+[M::worker_pipeline::4215.260*2.27] mapped 333334 sequences
+[M::worker_pipeline::4215.716*2.27] mapped 304768 sequences
+[M::mm_idx_gen::4273.138*2.26] collected minimizers
+[M::mm_idx_gen::4277.414*2.27] sorted minimizers
+[M::main::4277.414*2.27] loaded/built the index for 468284 target sequence(s)
+[M::mm_mapopt_update::4277.414*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 468284
+[M::mm_idx_stat::4282.820*2.27] distinct minimizers: 540397775 (90.50% are singletons); average occurrences: 1.212; average spacing: 6.110; total length: 4002748249
+[M::worker_pipeline::4283.773*2.27] mapped 333334 sequences
+[M::worker_pipeline::4284.327*2.27] mapped 333334 sequences
+[M::worker_pipeline::4284.885*2.27] mapped 333334 sequences
+[M::worker_pipeline::4285.408*2.27] mapped 333334 sequences
+[M::worker_pipeline::4285.935*2.27] mapped 333334 sequences
+[M::worker_pipeline::4286.474*2.27] mapped 333334 sequences
+[M::worker_pipeline::4287.036*2.27] mapped 333334 sequences
+[M::worker_pipeline::4287.565*2.27] mapped 333334 sequences
+[M::worker_pipeline::4288.091*2.27] mapped 333334 sequences
+[M::worker_pipeline::4288.618*2.27] mapped 333334 sequences
+[M::worker_pipeline::4289.145*2.27] mapped 333334 sequences
+[M::worker_pipeline::4289.699*2.27] mapped 333334 sequences
+[M::worker_pipeline::4290.253*2.27] mapped 333334 sequences
+[M::worker_pipeline::4290.785*2.27] mapped 333334 sequences
+[M::worker_pipeline::4291.310*2.27] mapped 333334 sequences
+[M::worker_pipeline::4291.837*2.27] mapped 333334 sequences
+[M::worker_pipeline::4292.367*2.27] mapped 333334 sequences
+[M::worker_pipeline::4292.915*2.27] mapped 333334 sequences
+[M::worker_pipeline::4293.417*2.27] mapped 333334 sequences
+[M::worker_pipeline::4293.876*2.27] mapped 304768 sequences
+[M::mm_idx_gen::4297.647*2.27] collected minimizers
+[M::mm_idx_gen::4297.894*2.27] sorted minimizers
+[M::main::4297.894*2.27] loaded/built the index for 8911 target sequence(s)
+[M::mm_mapopt_update::4297.894*2.27] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 8911
+[M::mm_idx_stat::4298.220*2.27] distinct minimizers: 28875481 (84.69% are singletons); average occurrences: 1.199; average spacing: 6.068; total length: 210075796
+[M::worker_pipeline::4299.236*2.27] mapped 333334 sequences
+[M::worker_pipeline::4299.756*2.27] mapped 333334 sequences
+[M::worker_pipeline::4300.281*2.27] mapped 333334 sequences
+[M::worker_pipeline::4300.797*2.27] mapped 333334 sequences
+[M::worker_pipeline::4301.325*2.27] mapped 333334 sequences
+[M::worker_pipeline::4301.846*2.27] mapped 333334 sequences
+[M::worker_pipeline::4302.399*2.27] mapped 333334 sequences
+[M::worker_pipeline::4302.924*2.27] mapped 333334 sequences
+[M::worker_pipeline::4303.475*2.27] mapped 333334 sequences
+[M::worker_pipeline::4304.028*2.27] mapped 333334 sequences
+[M::worker_pipeline::4304.565*2.27] mapped 333334 sequences
+[M::worker_pipeline::4305.119*2.27] mapped 333334 sequences
+[M::worker_pipeline::4305.658*2.28] mapped 333334 sequences
+[M::worker_pipeline::4306.212*2.28] mapped 333334 sequences
+[M::worker_pipeline::4306.742*2.28] mapped 333334 sequences
+[M::worker_pipeline::4307.300*2.28] mapped 333334 sequences
+[M::worker_pipeline::4307.824*2.28] mapped 333334 sequences
+[M::worker_pipeline::4308.356*2.28] mapped 333334 sequences
+[M::worker_pipeline::4308.863*2.28] mapped 333334 sequences
+[M::worker_pipeline::4309.355*2.28] mapped 304768 sequences
+[M::main] Version: 2.18-r1015
+[M::main] CMD: minimap2 -ax sr -t 8 -2 -n1 --secondary=yes /home/ugrads/cqm5886/work/CSE566finalproject/github_repos/profilers/Metalign/data/xitdr_9e/cmashed_db.fna /home/ugrads/cqm5886/work/CSE566finalproject/data/simulated_data/camisim_out/viruses/2021.04.13_11.56.31_sample_0/reads/anonymous_reads.fq
+[M::main] Real time: 4309.416 sec; CPU: 9806.971 sec; Peak RSS: 44.450 GB
+[02:11:56] Reading dbinfo file...
+[02:12:33] Computing abundances for input file: /home/ugrads/cqm5886/work/CSE566finalproject/data/simulated_data/camisim_out/viruses/2021.04.13_11.56.31_sample_0/reads/anonymous_reads.fq
+[02:13:43] Processed 100000 read hits.
+[02:13:44] Processed 200000 read hits.
+[02:13:46] Processed 300000 read hits.
+[02:13:47] Processed 400000 read hits.
+[02:13:49] Processed 500000 read hits.
+[02:13:50] Processed 600000 read hits.
+[02:13:52] Processed 700000 read hits.
+[02:13:54] Processed 800000 read hits.
+[02:13:55] Processed 900000 read hits.
+[02:13:57] Processed 1000000 read hits.
+[02:13:58] Processed 1100000 read hits.
+[02:14:03] Processed 1200000 read hits.
+[02:14:04] Processed 1300000 read hits.
+[02:14:06] Processed 1400000 read hits.
+[02:14:07] Processed 1500000 read hits.
+[02:14:09] Processed 1600000 read hits.
+[02:14:11] Processed 1700000 read hits.
+[02:14:12] Processed 1800000 read hits.
+[02:14:14] Processed 1900000 read hits.
+[02:14:15] Processed 2000000 read hits.
+[02:14:17] Processed 2100000 read hits.
+[02:14:18] Processed 2200000 read hits.
+[02:14:20] Processed 2300000 read hits.
+[02:14:21] Processed 2400000 read hits.
+[02:14:23] Processed 2500000 read hits.
+[02:14:25] Processed 2600000 read hits.
+[02:14:26] Processed 2700000 read hits.
+[02:14:28] Processed 2800000 read hits.
+[02:14:29] Processed 2900000 read hits.
+[02:14:31] Processed 3000000 read hits.
+[02:14:32] Processed 3100000 read hits.
+[02:14:34] Processed 3200000 read hits.
+[02:14:35] Processed 3300000 read hits.
+[02:55:10] Processed 3400000 read hits.
+[03:24:24] Assigning multimapped reads...
+[03:24:25] Compiling and writing results...
+	Command being timed: "/bin/bash /home/ugrads/cqm5886/work/CSE566finalproject/sh_scripts/run_Metaglin.sh /home/ugrads/cqm5886/work/CSE566finalproject/data/simulated_data/camisim_out/viruses/2021.04.13_11.56.31_sample_0/reads/anonymous_reads.fq virus /home/ugrads/cqm5886/work/CSE566finalproject/data/run_data/Metalign/simulated_data/original_virus 0"
+	User time (seconds): 11514.17
+	System time (seconds): 6953.39
+	Percent of CPU this job got: 150%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:24:35
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 46608872
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 101962
+	Minor (reclaiming a frame) page faults: 435760488
+	Voluntary context switches: 32498253
+	Involuntary context switches: 289215
+	Swaps: 0
+	File system inputs: 642054856
+	File system outputs: 441389512
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

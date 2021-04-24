@@ -1,0 +1,25 @@
+You selected 8 threads.
+time:331253 ms
+	Command being timed: "./MetaBinG2 /home/ugrads/cqm5886/work/CSE566finalproject/data/mock_data/virus/fastq/combined.fasta /home/ugrads/cqm5886/work/CSE566finalproject/github_repos/profilers/MetaBinG2/reference_database/db_virus 8 viruses.out"
+	User time (seconds): 2200.64
+	System time (seconds): 9.88
+	Percent of CPU this job got: 666%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:31.47
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3256392
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 47
+	Minor (reclaiming a frame) page faults: 781949
+	Voluntary context switches: 106818
+	Involuntary context switches: 3510
+	Swaps: 0
+	File system inputs: 11320
+	File system outputs: 11382696
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,0 +1,758 @@
+645134	Spizellomyces punctatus
+27334	Penicillium expansum
+51453	Trichoderma reesei
+324770	Kwoniella dejecticola
+1043004	Aureobasidium namibiae CBS 147.97
+5218	Agaricomycetes
+1380566	Pochonia chlamydosporia 170
+114155	Dichomitus squalens
+253628	Verruconis
+113604	Tetrapisispora
+33188	Uncinocarpus reesii
+40424	Hymenochaetaceae
+61458	Coniosporium
+245174	Wallemia
+5456	Glomerellaceae
+590646	[Candida] tenuis ATCC 10573
+4903	Phaffomycetaceae
+759272	Chaetomium thermophilum var. thermophilum DSM 1495
+653667	Schizosaccharomyces cryophilus OY26
+1160497	Aspergillus glaucus CBS 516.65
+930090	Bipolaris oryzae ATCC 44560
+149040	Phialocephala scopiformis
+4959	Debaryomyces hansenii
+86056	Rhinocladiella mackenziei
+763406	Pichia membranifaciens NRRL Y-2026
+5475	Candida
+5334	Schizophyllum commune
+89940	Cladophialophora bantiana
+339724	Histoplasma capsulatum NAm1
+569365	Cladophialophora immunda
+5140	Sordariaceae
+1276143	Metarhizium majus ARSEF 297
+5057	Aspergillus clavatus
+344612	Aspergillus clavatus NRRL 1
+1003335	Kluyveromyces marxianus DMKU3-1042
+80635	Coniophora
+364710	Endocarpon
+5181	Helotiaceae
+502779	Paracoccidioides lutzii Pb01
+644223	Komagataella phaffii GS115
+31870	Colletotrichum graminicola
+698492	Saitoella complicata NRRL Y-17804
+4967	Eurotiomycetes
+80637	Coniophora puteana
+72741	Anthracocystis
+984486	Babjeviella inositovora NRRL Y-12698
+76774	Malassezia
+27335	Plectosphaerellaceae
+481877	Enterocytozoon bieneusi H348
+174685	Ordospora colligata
+5324	Trametes
+1182541	Capronia coronata CBS 617.96
+174684	Ordospora
+1408163	Rasamsonia emersonii CBS 393.64
+4953	Zygosaccharomyces
+515849	Podospora anserina
+284813	Encephalitozoon cuniculi
+65418	Togniniaceae
+1299270	Wallemia ichthyophaga EXF-994
+4891	Saccharomycetes
+5244	Pucciniomycetes
+92637	Metarhizium acridum
+1196433	Xylonomycetaceae
+36048	Tuberaceae
+80884	Colletotrichum higginsianum
+4972	Tremellomycetes
+5206	Cryptococcus
+86049	Cladophialophora carrionii
+1460663	Paraphaeosphaeria sporulosa
+502780	Paracoccidioides brasiliensis Pb18
+76773	Malasseziaceae
+1408658	Pneumocystis carinii B80
+665079	Sclerotinia sclerotiorum 1980 UF-70
+5552	Trichosporonaceae
+1071383	Kazachstania naganishii CBS 8797
+426418	Pyrenophora tritici-repentis Pt-1C-BFP
+5340	Agaricus
+561896	Postia placenta Mad-698-R
+340170	Spathaspora
+330879	Aspergillus fumigatus Af293
+1442369	Rhinocladiella mackenziei CBS 650.93
+5554	Cutaneotrichosporon
+5021	Leptosphaeriaceae
+515849	Podospora anserina S mat+
+89924	Kwoniella
+1287681	Eutypa lata UCREL1
+341663	Aspergillus terreus NIH2624
+1028729	Fusarium pseudograminearum CS3096
+1069680	Pneumocystis murina B123
+41063	Penicilliopsis zonata
+460519	Komagataella phaffii
+379508	Lodderomyces elongisporus NRRL YB-4239
+38033	Chaetomium globosum
+254056	Fonsecaea monophora
+46583	Candida tanzawaensis clade
+1182543	Cladophialophora psammophila CBS 110553
+47063	Punctulariaceae
+1296122	Kwoniella mangroviensis CBS 8507
+36779	Gaeumannomyces tritici
+5260	Melampsora
+5581	Cordycipitaceae
+690307	Aspergillus aculeatus ATCC 16872
+692275	Sphaerulina musiva
+65420	Phaeoacremonium
+45130	Bipolaris sorokiniana
+665024	Bipolaris maydis ATCC 48331
+84753	Moesziomyces antarcticus
+5267	Ustilaginales
+27971	Enterocytozoon
+1186058	Trichosporon asahii var. asahii CBS 2479
+5305	Phanerochaetaceae
+5230	Auricularia
+1664694	Phialophora attae
+655844	Metarhizium robertsii ARSEF 23
+4927	Wickerhamomyces
+5186	Pezizales
+5297	Puccinia graminis
+13684	Parastagonospora
+984485	Hyphopichia burtonii NRRL Y-1933
+5499	Mycosphaerellaceae
+1001064	Rhodotorula toruloides
+84751	Anthracocystis flocculosa
+27970	Enterocytozoonidae
+5053	Aspergillus
+1442371	Fonsecaea multimorphosa CBS 102226
+45286	Eremothecium sinecaudum
+1382522	Kuraishia capsulata CBS 1993
+80634	Coniophoraceae
+4950	Torulaspora delbrueckii
+674271	Phycomyces blakesleeanus
+430498	Dactylellina haptotyla
+80602	Serpula
+36016	Cyberlindnera
+5037	Histoplasma
+1650735	Metarhizium majus
+1296121	Kwoniella dejecticola CBS 10117
+5061	Aspergillus niger
+82105	Cladophialophora
+5094	Trichocomaceae
+5032	Exobasidiomycetes
+284812	Schizosaccharomyces pombe
+1485682	Mitosporidium daphniae
+1182542	Capronia epimyces CBS 606.96
+756982	Arthrobotrys oligospora
+36911	Clavispora lusitaniae
+28985	Kluyveromyces lactis
+4929	Meyerozyma
+332952	Aspergillus flavus NRRL3357
+1041607	Wickerhamomyces ciferrii
+41734	Aspergillus nidulans
+1217826	Xylona heveae
+27342	Hymenochaetales
+4952	Yarrowia
+759273	Colletotrichum higginsianum IMI 349063
+1365824	Kalmanozyma brasiliensis
+698440	Marssonina brunnea
+65412	Togniniales
+214684	Cryptococcus neoformans var. neoformans JEC21
+29898	Rhodotorula graminis
+61459	Coniosporium apollinis
+5587	Rhinocladiella
+526221	Verticillium alfalfae VaMs.102
+219597	Cyphellophoraceae
+665079	Sclerotinia sclerotiorum
+5161	Grosmannia
+983958	Zymoseptoria tritici
+34446	Marasmiaceae
+284591	Yarrowia lipolytica CLIB122
+27319	Metschnikowiaceae
+644352	Gaeumannomyces tritici R3-111a-1
+1295528	Tsuchiyaea wingfieldii CBS 7118
+36913	Lodderomyces
+294746	Meyerozyma guilliermondii
+5606	Saitoella complicata
+113608	Tetrapisispora phaffii
+226301	Naumovozyma castellii
+27288	Naumovozyma
+4975	Cryptococcaceae
+5417	Trichosporonales
+426428	Fusarium oxysporum f. sp. lycopersici 4287
+55193	Malasseziomycetes
+453459	Kwoniella pini
+5262	Pucciniaceae
+4899	Schizosaccharomyces octosporus
+240176	Coprinopsis cinerea
+597362	Agaricus bisporus var. burnettii JB137-S8
+84755	Kalmanozyma
+5597	Scedosporium
+398673	Trichoderma gamsii
+1328760	Xylona heveae TC161
+29850	Magnaporthaceae
+4828	Mucorales
+586132	Nematocida
+441959	Talaromyces stipitatus ATCC 10500
+747525	Heterobasidion irregulare
+5269	Ustilago
+125369	Paraphaeosphaeria
+41413	Aspergillus glaucus
+879819	Cutaneotrichosporon oleaginosum
+114497	Isaria fumosorosea
+1381753	Moniliophthora roreri MCA 2997
+5476	Candida albicans
+5149	Chaetomiaceae
+45285	Eremothecium cymbalariae
+578457	Serpula lacrymans var. lacrymans S7.9
+36778	Gaeumannomyces
+45354	Clavispora/Candida clade
+73501	Cordyceps militaris
+4911	Kluyveromyces marxianus
+869754	Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993
+717982	Auricularia subglabra
+5044	Sordariomycetes
+13348	Orbiliomycetes
+45134	Neofusicoccum
+1367422	Fonsecaea erecta
+322104	Scheffersomyces stipitis CBS 6054
+721885	Stereum hirsutum FP-91666 SS1
+383855	Pseudocercospora fijiensis CIRAD86
+367110	Neurospora crassa
+148960	Wallemiales
+500485	Penicillium rubens Wisconsin 54-1255
+4894	Schizosaccharomycetes
+694068	Fomitiporia mediterranea MF3/22
+364733	Endocarpon pusillum
+104341	Postia placenta
+983966	Cyberlindnera jadinii NRRL Y-1542
+283643	Cryptococcus neoformans var. neoformans B-3501A
+5422	Dothideales
+1397361	Sporothrix schenckii 1099-18
+5270	Ustilago maydis
+47021	Orbiliaceae
+5346	Psathyrellaceae
+881290	Nematocida parisii ERTm1
+500485	Penicillium rubens
+1286976	Phaeoacremonium minimum UCRPA7
+28564	Talaromyces stipitatus
+5460	Colletotrichum
+13562	Bondarzewiaceae
+114154	Dichomitus
+40125	Bipolaris victoriae
+1168221	Coniosporium apollinis CBS 100218
+109760	Spizellomyces
+430998	Baudoinia
+5543	Trichoderma
+5618	Tsuchiyaea
+54195	Ascoidea rubescens
+656061	Tuber melanosporum Mel28
+4932	Saccharomyces cerevisiae
+342668	Pseudogymnoascus verrucosus
+653667	Schizosaccharomyces cryophilus
+5350	Coprinopsis
+27974	Nosematidae
+85982	Serpula lacrymans
+113226	Pseudocercospora
+4910	Kluyveromyces
+97095	Eutypa
+1209926	Colletotrichum orchidophilum
+149546	Histoplasma capsulatum
+710243	Colletotrichum fioriniae
+573826	Candida dubliniensis CD36
+109871	Batrachochytrium dendrobatidis
+77020	Malassezia pachydermatis
+1279043	Cladophialophora carrionii CBS 160.54
+1284197	Dactylellina haptotyla CBS 200.50
+5644	Stereaceae
+4923	Ogataea
+240176	Coprinopsis cinerea okayama7#130
+42364	Diatrypaceae
+165795	Mixiaceae
+27289	Naumovozyma dairenensis
+5151	Ophiostomatales
+208960	Fomitiporia mediterranea
+1073090	Penicilliopsis zonata CBS 506.65
+242507	Magnaporthe oryzae
+5478	Nakaseomyces/Candida clade
+36910	Clavispora
+578456	Tremella mesenterica
+60186	Rhizophydiales
+1276141	Metarhizium brunneum ARSEF 3297
+5551	Trichophyton
+5259	Melampsoraceae
+45234	Cordyceps
+42067	Pneumocystis
+858893	Exophiala dermatitidis NIH/UT8656
+5483	Pseudozyma
+83235	Postia
+1182543	Cladophialophora psammophila
+58839	Encephalitozoon intestinalis
+690307	Aspergillus aculeatus
+4914	Lachancea
+35719	Thielavia
+5062	Aspergillus oryzae
+324769	Kwoniella bestiolae
+5147	Sordaria macrospora
+983644	Cordyceps militaris CM01
+5645	Stereum
+58627	Debaryomyces fabryi
+984486	Babjeviella inositovora
+1217823	Xylona
+1071380	Tetrapisispora blattae CBS 6284
+4922	Komagataella
+930089	Bipolaris zeicola
+5553	Trichosporon
+948595	Vavraia culicis subsp. floridensis
+36630	Aspergillus fischeri
+36033	Vanderwaltozyma
+70790	Nectria haematococca
+4958	Debaryomyces
+573729	Thermothelomyces thermophila ATCC 42464
+717646	Baudoinia panamericana UAMH 10762
+29905	Colletotrichum gloeosporioides
+4810	Chytridiomycetes
+101028	Fusarium pseudograminearum
+498019	[Candida] auris
+1130832	Rhodotorula toruloides NP11
+1245769	Lachancea lanzarotensis
+5180	Sclerotinia
+148303	Magnaporthe
+29882	Laccaria
+5508	Fusarium oxysporum
+563466	Scedosporium apiospermum
+40559	Botrytis cinerea
+5317	Polyporaceae
+294746	Meyerozyma guilliermondii ATCC 6260
+37840	Pestalotiopsis
+1442368	Fonsecaea pedrosoi CBS 271.37
+284593	[Candida] glabrata
+5333	Schizophyllum
+4754	Pneumocystidomycetes
+50375	Sympoventuriaceae
+5473	Capnodiales
+763407	Phycomyces blakesleeanus NRRL 1555(-)
+418459	Puccinia graminis f. sp. tritici CRL 75-36-700-3
+43229	Capronia coronata
+70110	Penicilliopsis
+4827	Mucoromycota
+665912	Bipolaris sorokiniana ND90Pr
+284592	Debaryomyces hansenii CBS767
+37727	Talaromyces marneffei
+33196	Botrytis
+33203	Purpureocillium lilacinum
+535722	Nannizzia gypsea CBS 118893
+5146	Sordaria
+45151	Pyrenophora tritici-repentis
+27308	Ascoideaceae
+500148	Metarhizium brunneum
+42399	Vittaforma corneae
+655827	Metarhizium acridum CQMa 102
+1344418	Ascoidea rubescens DSM 1968
+4919	Pichia
+747676	Melampsora larici-populina 98AG31
+5579	Aureobasidium
+5141	Neurospora
+5507	Fusarium oxysporum species complex
+306902	Clavispora lusitaniae ATCC 42720
+5296	Puccinia
+663202	Trichophyton verrucosum HKI 0517
+367775	Cryptococcus gattii WM276
+332648	Botrytis cinerea B05.10
+5583	Chaetothyriales
+4999	Kockovaella
+336722	Zymoseptoria tritici IPO323
+599838	Fibroporia
+29908	Sporothrix schenckii
+45518	Yamadazyma/Candida clade
+93612	Setosphaeria turcica
+40127	Neurospora tetrasperma
+174683	Ordosporidae
+27973	Encephalitozoon hellem
+1296100	Kwoniella bestiolae CBS 10118
+324777	Marssonina
+559292	Saccharomyces cerevisiae S288C
+29849	Magnaporthales
+103449	Vavraia culicis
+5320	Agaricales
+425265	Malassezia globosa
+4897	Schizosaccharomyces
+871575	Ogataea parapolymorpha DL-1
+167346	Fomitiporia
+117187	Fusarium verticillioides
+930091	Bipolaris victoriae FI3
+242507	Magnaporthe oryzae 70-15
+573729	Thermothelomyces thermophila
+1229662	Pestalotiopsis fici W106-1
+367110	Neurospora crassa OR74A
+5529	Metarhizium
+747525	Heterobasidion irregulare TC 32-1
+1263415	Endocarpon pusillum Z07020
+1071382	Kazachstania africana CBS 2517
+36914	Lodderomyces elongisporus
+1064592	Naumovozyma castellii CBS 4309
+321614	Parastagonospora nodorum
+5550	Arthrodermataceae
+212818	Exophiala mesophila
+393283	Pestalotiopsis fici
+1182545	Exophiala aquamarina CBS 119918
+5219	Auriculariales
+1071379	Tetrapisispora blattae
+334819	Fusarium verticillioides 7600
+984487	Candida tanzawaensis NRRL Y-17324
+5002	Sporidiobolaceae
+5179	Sclerotiniaceae
+5488	Trichomonascaceae
+4920	Debaryomycetaceae
+29883	Laccaria bicolor
+931890	Eremothecium cymbalariae DBVPG#7215
+5455	Glomerellales
+34349	Mixiales
+5281	Tilletiariaceae
+5001	Sporidiobolales
+5128	Fusarium
+85947	Didymosphaeriaceae
+5152	Ophiostomataceae
+5217	Tremella
+2706	Eukaryota
+486041	Laccaria bicolor S238N-H82
+42398	Vittaforma
+1442370	Cladophialophora bantiana CBS 173.52
+34392	Microsporum
+40492	Stereum hirsutum
+1230383	Malassezia sympodialis ATCC 42132
+554155	Arthroderma otae CBS 113480
+1445577	Colletotrichum fioriniae PJ7
+62704	Phialocephala
+983966	Cyberlindnera jadinii
+5020	Phaeosphaeriaceae
+432096	Kazachstania africana
+1136231	Candida orthopsilosis Co 90-125
+36651	Penicillium digitatum
+4892	Saccharomycetales
+441960	Talaromyces marneffei ATCC 18224
+1220924	Cyphellophora europaea CBS 101466
+452589	Trichoderma atroviride IMI 206040
+402676	Schizosaccharomyces japonicus yFS275
+4816	Spizellomycetaceae
+35724	Botryosphaeriales
+861557	Pyrenophora teres f. teres 0-1
+4836	Phycomycetaceae
+717740	Hyphopichia burtonii
+1299270	Wallemia ichthyophaga
+683960	Wickerhamomyces anomalus NRRL Y-366-8
+64571	Lobosporangium transversale
+1287680	Neofusicoccum parvum UCRNP2
+4893	Saccharomycetaceae
+284813	Encephalitozoon cuniculi GB-M1
+1485682	Mitosporidium
+1509407	Aspergillus nomius NRRL 13137
+993615	Vittaforma corneae ATCC 50505
+27320	Metschnikowia
+985895	Leptosphaeria maculans JN3
+5139	Sordariales
+63401	Nannizzia
+671987	Setosphaeria turcica Et28A
+5325	Trametes versicolor
+1072389	Marssonina brunnea f. sp. 'multigermtubi' MB_m1
+41061	Aspergillus nomius
+237631	Ustilago maydis 521
+5052	Aspergillaceae
+57162	Fusarium solani species complex
+5023	Venturiales
+871575	Ogataea parapolymorpha
+202698	Punctularia strigosozonata
+223192	Phaeoacremonium minimum
+227321	Aspergillus nidulans FGSC A4
+5016	Pleosporaceae
+5341	Agaricus bisporus
+236234	Diplodia corticola
+37769	Cryptococcus gattii species complex
+5286	Rhodotorula
+5042	Eurotiales
+27322	Metschnikowia bicuspidata
+4815	Spizellomycetales
+4999	Kockovaella imperatae
+683960	Wickerhamomyces anomalus
+246410	Coccidioides immitis RS
+5039	Blastomyces
+45609	Babjeviella
+29010	Ascoidea
+221103	Moniliophthora roreri
+1261141	Alternaria alternata
+4837	Phycomyces
+33187	Uncinocarpus
+650164	Phanerochaete carnosa HHB-10118-sp
+45535	Sugiyamaella
+6035	Encephalitozoon
+5605	Saitoella
+1441469	Talaromyces atroroseus
+665024	Bipolaris maydis
+4924	Scheffersomyces
+4970	Basidiomycota
+64687	Pseudogymnoascus
+101851	Glarea
+4854	Mortierellales
+5227	Auriculariaceae
+858893	Exophiala dermatitidis
+294747	Candida tropicalis MYA-3404
+4968	Onygenales
+5036	Ajellomycetaceae
+40410	Cryptococcus neoformans
+5127	Nectriaceae
+82508	Trichosporon asahii
+381046	Lachancea thermotolerans
+4761	Chytridiomycota
+655863	Grosmannia clavigera kw1407
+47233	Arthrobotrys
+470704	Cladophialophora yegresii
+63417	Trichophyton verrucosum
+5017	Bipolaris
+64571	Lobosporangium
+1408163	Rasamsonia emersonii
+526221	Verticillium alfalfae
+5500	Coccidioides
+5046	Hypocreales
+36460	Sporocadaceae
+55194	Malasseziales
+383855	Pseudocercospora fijiensis
+5306	Phanerochaete
+146291	Verrucariales
+5339	Agaricaceae
+4956	Zygosaccharomyces rouxii
+1408657	Pneumocystis jirovecii RU7
+717944	Trametes versicolor FP-101664 SS1
+5332	Schizophyllaceae
+1080349	Saccharomyces eubayanus
+1081104	Isaria fumosorosea ARSEF 2679
+1296096	Kwoniella pini CBS 10737
+510951	Neurospora tetrasperma FGSC 2508
+5258	Pucciniales
+5268	Ustilaginaceae
+4855	Mortierellaceae
+215243	Exophiala oligosperma
+5970	Exophiala
+578460	Nosema ceranae BRL01
+4998	Cuniculitremaceae
+586133	Nematocida parisii
+5354	Russulales
+27977	Nosema
+13349	Orbiliales
+1037660	Tilletiaria
+1178016	Encephalitozoon romaleae SJ-2008
+1277687	Anthracocystis flocculosa PF-1
+5014	Dothideomycetes
+4753	Ascomycota
+5360	Gloeophyllales
+226991	Cyphellophora
+348802	Exophiala xenobiotica
+771870	Sordaria macrospora k-hell
+229533	Fusarium graminearum PH-1
+5144	Lasiosphaeriaceae
+4973	Tremellales
+157291	Kuraishia
+284811	Eremothecium gossypii
+599839	Fibroporia radiculosa
+5073	Penicillium
+42068	Pneumocystis jirovecii
+97096	Eutypa lata
+331117	Aspergillus fischeri NRRL 181
+13563	Heterobasidion annosum species complex
+5047	Clavicipitaceae
+764103	Mixia
+684364	Batrachochytrium dendrobatidis JAM81
+671144	Wallemia mellicola CBS 633.66
+5157	Microascales
+336963	Uncinocarpus reesii 1704
+402676	Schizosaccharomyces japonicus
+1170230	Penicillium digitatum Pd1
+1354746	Ordospora colligata OC4
+40354	Fonsecaea
+284591	Yarrowia lipolytica
+732165	Dichomitus squalens LYAD-421 SS1
+658429	Pseudogymnoascus destructans 20631-21
+5076	Penicillium chrysogenum species complex
+100474	Batrachochytrium
+33178	Aspergillus terreus
+43265	Isaria
+37994	Beauveria
+1033840	Exophiala aquamarina
+306901	Chaetomium globosum CBS 148.51
+588726	Kazachstania naganishii
+38946	Paracoccidioides
+930089	Bipolaris zeicola 26-R-13
+5482	Candida tropicalis
+133746	Punctularia
+5303	Polyporales
+692275	Sphaerulina musiva SO2202
+5304	Corticiales
+5145	Podospora
+321614	Parastagonospora nodorum SN15
+5468	Xylariales
+237561	Candida albicans SC5314
+78579	Thermothelomyces
+63261	Moesziomyces
+5173	Sporothrix
+33179	Onygenaceae
+655819	Beauveria bassiana ARSEF 2860
+109264	Aspergillus bombycis
+62131	Teratosphaeriaceae
+226899	Grosmannia clavigera
+235443	Cryptococcus neoformans var. grubii H99
+4926	Pichia membranifaciens
+645133	Colletotrichum graminicola M1.001
+39416	Tuber melanosporum
+1213859	Colletotrichum gloeosporioides Nara gc5
+5059	Aspergillus flavus
+856822	Fonsecaea nubica
+5027	Pyrenophora
+132164	Pochonia
+5501	Coccidioides immitis
+53396	Dermateaceae
+5100	Leotiomycetes
+578456	Tremella mesenterica DSM 1558
+568076	Metarhizium robertsii
+33169	Eremothecium
+4895	Schizosaccharomycetales
+5362	Gloeophyllaceae
+5106	Verticillium
+253628	Verruconis gallopava
+27337	Verticillium dahliae
+336722	Zymoseptoria
+63400	Trichophyton benhamiae
+263815	Pneumocystis murina
+510516	Aspergillus oryzae RIB40
+436907	Vanderwaltozyma polyspora
+39952	Setosphaeria
+502779	Paracoccidioides lutzii
+1835702	Penicillium arizonense
+5215	Tremellaceae
+146292	Verrucariaceae
+756982	Arthrobotrys oligospora ATCC 24927
+40443	Gloeophyllum
+38082	Pneumocystidaceae
+231932	Phanerochaete carnosa
+66735	Diplodia
+47234	Dactylellina
+35725	Botryosphaeriaceae
+29875	Trichoderma virens
+6033	Unikaryonidae
+5015	Pleosporales
+1182544	Cladophialophora yegresii CBS 114405
+35235	Vavraia
+41122	Aspergillus fumigatus
+27293	Kazachstania
+1213351	Pichia kudriavzevii
+498257	Verticillium dahliae VdLs.17
+63577	Trichoderma atroviride
+5150	Chaetomium
+35720	Thielavia terrestris
+148959	Wallemiomycetes
+176275	Beauveria bassiana
+876142	Encephalitozoon intestinalis ATCC 50506
+1116229	Glarea lozoyensis ATCC 20868
+5207	Cryptococcus neoformans species complex
+45596	[Candida] tenuis
+327079	Pseudozyma hubeiensis
+431241	Trichoderma reesei QM6a
+1037660	Tilletiaria anomala UBC 951
+317047	Kuraishia capsulata
+209285	Chaetomium thermophilum
+5129	Hypocreaceae
+101852	Glarea lozoyensis
+280754	Pochonia chlamydosporia
+4996	Microbotryomycetes
+655981	Pseudogymnoascus destructans
+42069	Pneumocystis carinii
+293227	Cyphellophora europaea
+460523	Ogataea polymorpha
+45548	Hyphopichia
+101162	Bipolaris oryzae
+4930	Saccharomyces
+40220	Xylonomycetales
+34348	Mixiomycetes
+764103	Mixia osmundae IAM 14324
+42374	Candida dubliniensis
+43220	Capronia
+4896	Schizosaccharomycetaceae
+222929	Coccidioides posadasii C735 delta SOWgp
+619300	Spathaspora passalidarum NRRL Y-27907
+741275	Punctularia strigosozonata HHB-11173 SS5
+425265	Malassezia globosa CBS 7966
+153609	Moniliophthora
+1295533	Cryptococcus amylolentus CBS 6039
+413071	Trichoderma virens Gv29-8
+5518	Fusarium graminearum
+1071378	Naumovozyma dairenensis CBS 421
+559561	Aureobasidium namibiae
+76777	Malassezia sympodialis
+796027	Sugiyamaella lignohabitans
+1365824	Kalmanozyma brasiliensis GHG001
+278711	Trichophyton rubrum
+717646	Baudoinia panamericana
+5351	Tricholomataceae
+310453	Neofusicoccum parvum
+578458	Schizophyllum commune H4-8
+199306	Coccidioides posadasii
+1305764	Pseudozyma hubeiensis SY62
+31281	Enterocytozoon bieneusi
+1071381	Tetrapisispora phaffii CBS 4417
+225342	Leptosphaeria maculans
+29909	Ophiocordycipitaceae
+670483	Gloeophyllum trabeum ATCC 11539
+5185	Pezizomycetes
+559295	Lachancea thermotolerans CBS 6340
+284811	Eremothecium gossypii ATCC 10895
+68825	Rasamsonia
+717982	Auricularia subglabra TFB-10046 SS5
+619300	Spathaspora passalidarum
+671144	Wallemia mellicola
+80594	Serpulaceae
+436907	Vanderwaltozyma polyspora DSM 70294
+85929	Sphaerulina
+104669	Cryptococcus amylolentus
+571949	Encephalitozoon romaleae
+578459	Rhodotorula graminis WP1
+121759	Paracoccidioides brasiliensis
+4948	Torulaspora
+5280	Georgefischeriales
+322104	Scheffersomyces stipitis
+5022	Leptosphaeria maculans species complex
+40219	Xylonomycetes
+4951	Dipodascaceae
+936046	Agaricus bisporus var. bisporus H97
+425011	Aspergillus niger CBS 513.88
+5257	Ustilaginomycetes
+1042127	Aureobasidium subglaciale
+5368	Boletales
+5600	Phialophora
+5178	Helotiales
+5599	Alternaria alternata group
+63402	Nannizzia gypsea
+42665	Fusarium fujikuroi species complex
+578455	Thielavia terrestris NRRL 8126
+559298	Blastomyces gilchristii
+559305	Trichophyton rubrum CBS 118892
+1043005	Aureobasidium subglaciale EXF-2481
+5095	Talaromyces
+33203	Purpureocillium
+979981	Fonsecaea multimorphosa
+4909	Pichiaceae
+91928	Exophiala spinifera
+741705	Coniophora puteana RWD-64-598 SS2
+5619	Tsuchiyaea wingfieldii
+40302	Nosema ceranae
+660122	Nectria haematococca mpVI 77-13-4
+36049	Tuber
+5593	Microascaceae
+43228	Capronia epimyces
+53485	Pyrenophora teres
+5584	Herpotrichiellaceae
+559298	Blastomyces gilchristii SLH14081
+663331	Trichophyton benhamiae CBS 112371
+907965	Encephalitozoon hellem ATCC 50504
+104355	Gloeophyllum trabeum
+40355	Fonsecaea pedrosoi
+273371	Candida orthopsilosis
+203908	Melampsora larici-populina
+35232	Pleistophoridae
+34379	Pseudeurotiaceae
+483514	Schizosaccharomyces octosporus yFS286

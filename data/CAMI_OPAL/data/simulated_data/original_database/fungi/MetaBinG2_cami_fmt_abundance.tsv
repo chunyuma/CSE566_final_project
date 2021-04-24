@@ -1,0 +1,101 @@
+@SampleID:simulated_fungi
+@Version:0.9.1
+@Ranks: superkingdom|phylum|class|order|family|genus|species|strain
+
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE	_CAMI_genomeID	_CAMI_OTU
+2759	superkingdom	2759	Eukaryota	81.59461
+2	superkingdom	2	Bacteria	18.40539
+2836	phylum	2759|2836	Eukaryota|Bacillariophyta	18.91047
+4890	phylum	2759|4890	Eukaryota|Ascomycota	52.43810
+201174	phylum	2|201174	Bacteria|Actinobacteria	6.84883
+5204	phylum	2759|5204	Eukaryota|Basidiomycota	5.46882
+5794	phylum	2759|5794	Eukaryota|Apicomplexa	4.77721
+203682	phylum	2|203682	Bacteria|Planctomycetes	6.06142
+976	phylum	2|976	Bacteria|Bacteroidetes	4.63374
+203691	phylum	2|203691	Bacteria|Spirochaetes	0.05457
+1224	phylum	2|1224	Bacteria|Proteobacteria	0.80684
+33849	class	2759|2836|33849	Eukaryota|Bacillariophyta|Bacillariophyceae	9.30694
+4891	class	2759|4890|4891	Eukaryota|Ascomycota|Saccharomycetes	19.67286
+147550	class	2759|4890|147550	Eukaryota|Ascomycota|Sordariomycetes	6.01458
+33836	class	2759|2836|33836	Eukaryota|Bacillariophyta|Coscinodiscophyceae	9.60353
+1760	class	2|201174|1760	Bacteria|Actinobacteria|Actinomycetia	4.21346
+5257	class	2759|5204|5257	Eukaryota|Basidiomycota|Ustilaginomycetes	5.46882
+147545	class	2759|4890|147545	Eukaryota|Ascomycota|Eurotiomycetes	19.24702
+1280412	class	2759|5794|1280412	Eukaryota|Apicomplexa|Conoidasida	4.77721
+203683	class	2|203682|203683	Bacteria|Planctomycetes|Planctomycetia	6.06142
+84998	class	2|201174|84998	Bacteria|Actinobacteria|Coriobacteriia	2.63536
+147541	class	2759|4890|147541	Eukaryota|Ascomycota|Dothideomycetes	7.50364
+200643	class	2|976|200643	Bacteria|Bacteroidetes|Bacteroidia	4.63374
+203692	class	2|203691|203692	Bacteria|Spirochaetes|Spirochaetia	0.05457
+28211	class	2|1224|28211	Bacteria|Proteobacteria|Alphaproteobacteria	0.80684
+38748	order	2759|2836|33849|38748	Eukaryota|Bacillariophyta|Bacillariophyceae|Naviculales	9.30694
+4892	order	2759|4890|4891|4892	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales	19.67286
+1028384	order	2759|4890|147550|1028384	Eukaryota|Ascomycota|Sordariomycetes|Glomerellales	6.00299
+33847	order	2759|2836|33836|33847	Eukaryota|Bacillariophyta|Coscinodiscophyceae|Thalassiosirales	9.60353
+85006	order	2|201174|1760|85006	Bacteria|Actinobacteria|Actinomycetia|Micrococcales	4.21346
+5267	order	2759|5204|5257|5267	Eukaryota|Basidiomycota|Ustilaginomycetes|Ustilaginales	5.46882
+5042	order	2759|4890|147545|5042	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales	19.24702
+75739	order	2759|5794|1280412|75739	Eukaryota|Apicomplexa|Conoidasida|Eucoccidiorida	4.77721
+112	order	2|203682|203683|112	Bacteria|Planctomycetes|Planctomycetia|Planctomycetales	6.06142
+84999	order	2|201174|84998|84999	Bacteria|Actinobacteria|Coriobacteriia|Coriobacteriales	2.63536
+2726947	order	2759|4890|147541|2726947	Eukaryota|Ascomycota|Dothideomycetes|Mycosphaerellales	7.50364
+171549	order	2|976|200643|171549	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales	4.63374
+136	order	2|203691|203692|136	Bacteria|Spirochaetes|Spirochaetia|Spirochaetales	0.05457
+766	order	2|1224|28211|766	Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales	0.80684
+5125	order	2759|4890|147550|5125	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales	0.01159
+38749	family	2759|2836|33849|38748|38749	Eukaryota|Bacillariophyta|Bacillariophyceae|Naviculales|Phaeodactylaceae	9.30694
+1156497	family	2759|4890|4891|4892|1156497	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Pichiaceae	8.76735
+681950	family	2759|4890|147550|1028384|681950	Eukaryota|Ascomycota|Sordariomycetes|Glomerellales|Glomerellaceae	6.00299
+29202	family	2759|2836|33836|33847|29202	Eukaryota|Bacillariophyta|Coscinodiscophyceae|Thalassiosirales|Thalassiosiraceae	9.60353
+85022	family	2|201174|1760|85006|85022	Bacteria|Actinobacteria|Actinomycetia|Micrococcales|Jonesiaceae	4.21346
+5268	family	2759|5204|5257|5267|5268	Eukaryota|Basidiomycota|Ustilaginomycetes|Ustilaginales|Ustilaginaceae	5.46882
+1131492	family	2759|4890|147545|5042|1131492	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae	19.24702
+5809	family	2759|5794|1280412|75739|5809	Eukaryota|Apicomplexa|Conoidasida|Eucoccidiorida|Sarcocystidae	4.77721
+126	family	2|203682|203683|112|126	Bacteria|Planctomycetes|Planctomycetia|Planctomycetales|Planctomycetaceae	6.06142
+766764	family	2759|4890|4891|4892|766764	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae	5.02512
+1643824	family	2|201174|84998|84999|1643824	Bacteria|Actinobacteria|Coriobacteriia|Coriobacteriales|Atopobiaceae	2.63536
+93133	family	2759|4890|147541|2726947|93133	Eukaryota|Ascomycota|Dothideomycetes|Mycosphaerellales|Mycosphaerellaceae	7.50364
+34353	family	2759|4890|4891|4892|34353	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae	5.88038
+171551	family	2|976|200643|171549|171551	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae	4.63374
+137	family	2|203691|203692|136|137	Bacteria|Spirochaetes|Spirochaetia|Spirochaetales|Spirochaetaceae	0.05457
+942	family	2|1224|28211|766|942	Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Anaplasmataceae	0.80684
+110618	family	2759|4890|147550|5125|110618	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales|Nectriaceae	0.01159
+4893	family	2759|4890|4891|4892|4893	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae	0.00002
+2849	genus	2759|2836|33849|38748|38749|2849	Eukaryota|Bacillariophyta|Bacillariophyceae|Naviculales|Phaeodactylaceae|Phaeodactylum	9.30694
+461281	genus	2759|4890|4891|4892|1156497|461281	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Pichiaceae|Ogataea	8.76735
+5455	genus	2759|4890|147550|1028384|681950|5455	Eukaryota|Ascomycota|Sordariomycetes|Glomerellales|Glomerellaceae|Colletotrichum	6.00299
+35127	genus	2759|2836|33836|33847|29202|35127	Eukaryota|Bacillariophyta|Coscinodiscophyceae|Thalassiosirales|Thalassiosiraceae|Thalassiosira	9.60353
+43673	genus	2|201174|1760|85006|85022|43673	Bacteria|Actinobacteria|Actinomycetia|Micrococcales|Jonesiaceae|Jonesia	4.21346
+5269	genus	2759|5204|5257|5267|5268|5269	Eukaryota|Basidiomycota|Ustilaginomycetes|Ustilaginales|Ustilaginaceae|Ustilago	5.46882
+5052	genus	2759|4890|147545|5042|1131492|5052	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Aspergillus	19.24702
+29175	genus	2759|5794|1280412|75739|5809|29175	Eukaryota|Apicomplexa|Conoidasida|Eucoccidiorida|Sarcocystidae|Neospora	4.77637
+1649480	genus	2|203682|203683|112|126|1649480	Bacteria|Planctomycetes|Planctomycetia|Planctomycetales|Planctomycetaceae|Planctopirus	6.06142
+766733	genus	2759|4890|4891|4892|766764|766733	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Scheffersomyces	5.02512
+133925	genus	2|201174|84998|84999|1643824|133925	Bacteria|Actinobacteria|Coriobacteriia|Coriobacteriales|Atopobiaceae|Olsenella	2.63536
+1047167	genus	2759|4890|147541|2726947|93133|1047167	Eukaryota|Ascomycota|Dothideomycetes|Mycosphaerellales|Mycosphaerellaceae|Zymoseptoria	7.50364
+4951	genus	2759|4890|4891|4892|34353|4951	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae|Yarrowia	5.88038
+836	genus	2|976|200643|171549|171551|836	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Porphyromonas	4.63374
+399320	genus	2|203691|203692|136|137|399320	Bacteria|Spirochaetes|Spirochaetia|Spirochaetales|Spirochaetaceae|Sphaerochaeta	0.05457
+768	genus	2|1224|28211|766|942|768	Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Anaplasmataceae|Anaplasma	0.80684
+5506	genus	2759|4890|147550|5125|110618|5506	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales|Nectriaceae|Fusarium	0.01159
+5810	genus	2759|5794|1280412|75739|5809|5810	Eukaryota|Apicomplexa|Conoidasida|Eucoccidiorida|Sarcocystidae|Toxoplasma	0.00085
+4948	genus	2759|4890|4891|4892|4893|4948	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Torulaspora	0.00002
+2850	species	2759|2836|33849|38748|38749|2849|2850	Eukaryota|Bacillariophyta|Bacillariophyceae|Naviculales|Phaeodactylaceae|Phaeodactylum|Phaeodactylum tricornutum	9.30694
+1005962	species	2759|4890|4891|4892|1156497|461281|1005962	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Pichiaceae|Ogataea|Ogataea parapolymorpha	8.76735
+80884	species	2759|4890|147550|1028384|681950|5455|80884	Eukaryota|Ascomycota|Sordariomycetes|Glomerellales|Glomerellaceae|Colletotrichum|Colletotrichum higginsianum	6.00299
+35128	species	2759|2836|33836|33847|29202|35127|35128	Eukaryota|Bacillariophyta|Coscinodiscophyceae|Thalassiosirales|Thalassiosiraceae|Thalassiosira|Thalassiosira pseudonana	9.60353
+43674	species	2|201174|1760|85006|85022|43673|43674	Bacteria|Actinobacteria|Actinomycetia|Micrococcales|Jonesiaceae|Jonesia|Jonesia denitrificans	4.21346
+5270	species	2759|5204|5257|5267|5268|5269|5270	Eukaryota|Basidiomycota|Ustilaginomycetes|Ustilaginales|Ustilaginaceae|Ustilago|Ustilago maydis	5.46882
+746128	species	2759|4890|147545|5042|1131492|5052|746128	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Aspergillus|Aspergillus fumigatus	19.24702
+29176	species	2759|5794|1280412|75739|5809|29175|29176	Eukaryota|Apicomplexa|Conoidasida|Eucoccidiorida|Sarcocystidae|Neospora|Neospora caninum	4.77637
+120	species	2|203682|203683|112|126|1649480|120	Bacteria|Planctomycetes|Planctomycetia|Planctomycetales|Planctomycetaceae|Planctopirus|Planctopirus limnophila	6.06142
+4924	species	2759|4890|4891|4892|766764|766733|4924	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Scheffersomyces|Scheffersomyces stipitis	5.02512
+712411	species	2|201174|84998|84999|1643824|133925|712411	Bacteria|Actinobacteria|Coriobacteriia|Coriobacteriales|Atopobiaceae|Olsenella|Olsenella sp. oral taxon 807	2.63536
+1047171	species	2759|4890|147541|2726947|93133|1047167|1047171	Eukaryota|Ascomycota|Dothideomycetes|Mycosphaerellales|Mycosphaerellaceae|Zymoseptoria|Zymoseptoria tritici	7.50364
+4952	species	2759|4890|4891|4892|34353|4951|4952	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae|Yarrowia|Yarrowia lipolytica	5.88038
+28123	species	2|976|200643|171549|171551|836|28123	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Porphyromonas|Porphyromonas asaccharolytica	4.63374
+1131703	species	2|203691|203692|136|137|399320|1131703	Bacteria|Spirochaetes|Spirochaetia|Spirochaetales|Spirochaetaceae|Sphaerochaeta|Sphaerochaeta globosa	0.05457
+769	species	2|1224|28211|766|942|768|769	Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Anaplasmataceae|Anaplasma|Anaplasma centrale	0.80684
+5518	species	2759|4890|147550|5125|110618|5506|569360	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales|Nectriaceae|Fusarium|Fusarium sambucinum species complex	0.01159
+5811	species	2759|5794|1280412|75739|5809|5810|5811	Eukaryota|Apicomplexa|Conoidasida|Eucoccidiorida|Sarcocystidae|Toxoplasma|Toxoplasma gondii	0.00085
+4950	species	2759|4890|4891|4892|4893|4948|4950	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Torulaspora|Torulaspora delbrueckii	0.00002

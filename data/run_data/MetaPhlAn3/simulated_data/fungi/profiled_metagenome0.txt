@@ -1,0 +1,11 @@
+#mpa_v30_CHOCOPhlAn_201901
+#/home/ugrads/cqm5886/miniconda3/envs/cse566finalproject/bin/metaphlan /home/ugrads/cqm5886/work/CSE566finalproject/data/simulated_data/camisim_out/fungi/2021.04.13_12.12.10_sample_0/reads/anonymous_reads.fq --input_type fastq --CAMI_format_output --unknown_estimation --nproc 8 --output_file /home/ugrads/cqm5886/work/CSE566finalproject/data/run_data/MetaPhlAn3/simulated_data/fungi/profiled_metagenome0.txt
+@SampleID:Metaphlan_Analysis
+
+                           @Version:0.10.0
+
+                           @Ranks:superkingdom|phylum|class|order|family|genus|species|strain
+
+                           @@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+UNKNOWN	-1	100.0	

@@ -1,0 +1,42 @@
+@SampleID:metabing2_simulated_fungi
+@Version:MetaBinG2
+@Ranks: superkingdom|phylum|class|order|family|genus|species|strain
+
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE	_CAMI_genomeID	_CAMI_OTU
+2759	superkingdom	2759	Eukaryota	100.00000
+4890	phylum	2759|4890	Eukaryota|Ascomycota	97.08473
+5204	phylum	2759|5204	Eukaryota|Basidiomycota	2.91527
+147545	class	2759|4890|147545	Eukaryota|Ascomycota|Eurotiomycetes	30.79024
+4891	class	2759|4890|4891	Eukaryota|Ascomycota|Saccharomycetes	35.42545
+5257	class	2759|5204|5257	Eukaryota|Basidiomycota|Ustilaginomycetes	2.91527
+147541	class	2759|4890|147541	Eukaryota|Ascomycota|Dothideomycetes	30.86904
+34395	order	2759|4890|147545|34395	Eukaryota|Ascomycota|Eurotiomycetes|Chaetothyriales	20.87178
+4892	order	2759|4890|4891|4892	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales	35.42545
+5042	order	2759|4890|147545|5042	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales	9.91846
+5267	order	2759|5204|5257|5267	Eukaryota|Basidiomycota|Ustilaginomycetes|Ustilaginales	2.91527
+451869	order	2759|4890|147541|451869	Eukaryota|Ascomycota|Dothideomycetes|Botryosphaeriales	14.08865
+92860	order	2759|4890|147541|92860	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales	16.78038
+43219	family	2759|4890|147545|34395|43219	Eukaryota|Ascomycota|Eurotiomycetes|Chaetothyriales|Herpotrichiellaceae	20.87178
+115784	family	2759|4890|4891|4892|115784	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Phaffomycetaceae	35.42545
+28568	family	2759|4890|147545|5042|28568	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Trichocomaceae	9.91846
+5268	family	2759|5204|5257|5267|5268	Eukaryota|Basidiomycota|Ustilaginomycetes|Ustilaginales|Ustilaginaceae	2.91527
+45131	family	2759|4890|147541|451869|45131	Eukaryota|Ascomycota|Dothideomycetes|Botryosphaeriales|Botryosphaeriaceae	14.08865
+28556	family	2759|4890|147541|92860|28556	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales|Pleosporaceae	16.78038
+40354	genus	2759|4890|147545|34395|43219|40354	Eukaryota|Ascomycota|Eurotiomycetes|Chaetothyriales|Herpotrichiellaceae|Fonsecaea	20.87178
+604195	genus	2759|4890|4891|4892|115784|604195	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Phaffomycetaceae|Cyberlindnera	35.42545
+1132856	genus	2759|4890|147545|5042|28568|1132856	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Trichocomaceae|Rasamsonia	9.91846
+1392992	genus	2759|5204|5257|5267|5268|1392992	Eukaryota|Basidiomycota|Ustilaginomycetes|Ustilaginales|Ustilaginaceae|Anthracocystis	2.91527
+407951	genus	2759|4890|147541|451869|45131|407951	Eukaryota|Ascomycota|Dothideomycetes|Botryosphaeriales|Botryosphaeriaceae|Neofusicoccum	14.08865
+5027	genus	2759|4890|147541|92860|28556|5027	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales|Pleosporaceae|Pyrenophora	16.78038
+979981	species	2759|4890|147545|34395|43219|40354|979981	Eukaryota|Ascomycota|Eurotiomycetes|Chaetothyriales|Herpotrichiellaceae|Fonsecaea|Fonsecaea multimorphosa	20.87178
+4903	species	2759|4890|4891|4892|115784|604195|4903	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Phaffomycetaceae|Cyberlindnera|Cyberlindnera jadinii	35.42545
+68825	species	2759|4890|147545|5042|28568|1132856|68825	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Trichocomaceae|Rasamsonia|Rasamsonia emersonii	9.91846
+84751	species	2759|5204|5257|5267|5268|1392992|84751	Eukaryota|Basidiomycota|Ustilaginomycetes|Ustilaginales|Ustilaginaceae|Anthracocystis|Anthracocystis flocculosa	2.91527
+310453	species	2759|4890|147541|451869|45131|407951|310453	Eukaryota|Ascomycota|Dothideomycetes|Botryosphaeriales|Botryosphaeriaceae|Neofusicoccum|Neofusicoccum parvum	14.08865
+53485	species	2759|4890|147541|92860|28556|5027|53485	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales|Pleosporaceae|Pyrenophora|Pyrenophora teres	16.78038
+1442371	strain	2759|4890|147545|34395|43219|40354|979981|1442371	Eukaryota|Ascomycota|Eurotiomycetes|Chaetothyriales|Herpotrichiellaceae|Fonsecaea|Fonsecaea multimorphosa|Fonsecaea multimorphosa CBS 102226	20.87178
+983966	strain	2759|4890|4891|4892|115784|604195|4903|983966	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Phaffomycetaceae|Cyberlindnera|Cyberlindnera jadinii|Cyberlindnera jadinii NRRL Y-1542	35.42545
+1408163	strain	2759|4890|147545|5042|28568|1132856|68825|1408163	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Trichocomaceae|Rasamsonia|Rasamsonia emersonii|Rasamsonia emersonii CBS 393.64	9.91846
+1277687	strain	2759|5204|5257|5267|5268|1392992|84751|1277687	Eukaryota|Basidiomycota|Ustilaginomycetes|Ustilaginales|Ustilaginaceae|Anthracocystis|Anthracocystis flocculosa|Anthracocystis flocculosa PF-1	2.91527
+1287680	strain	2759|4890|147541|451869|45131|407951|310453|1287680	Eukaryota|Ascomycota|Dothideomycetes|Botryosphaeriales|Botryosphaeriaceae|Neofusicoccum|Neofusicoccum parvum|Neofusicoccum parvum UCRNP2	14.08865
+861557	strain	2759|4890|147541|92860|28556|5027|53485|861557	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales|Pleosporaceae|Pyrenophora|Pyrenophora teres|Pyrenophora teres f. teres 0-1	16.78038

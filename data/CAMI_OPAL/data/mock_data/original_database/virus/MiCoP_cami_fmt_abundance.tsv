@@ -1,0 +1,142 @@
+@SampleID:mock_viruses
+@Version:0.9.1
+@Ranks: superkingdom|phylum|class|order|family|genus|species|strain
+
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE	_CAMI_genomeID	_CAMI_OTU
+10239	superkingdom	10239	Viruses	100.00000000000001
+	phylum	10239|	Viruses|ssDNA viruses	83.621414229679
+	phylum	10239|	Viruses|dsDNA viruses, no RNA stage	16.137962090241153
+	phylum	10239|	Viruses|unclassified bacterial viruses	0.24020949631786181
+	phylum	10239|	Viruses|ssRNA viruses	0.00041418376194761534
+	class	10239||	Viruses|ssDNA viruses|Unclassified	83.621414229679
+	class	10239||	Viruses|dsDNA viruses, no RNA stage|Caudovirales	16.13785180511215
+	class	10239||	Viruses|unclassified bacterial viruses|Unclassified	0.24020949631786181
+	class	10239||	Viruses|ssRNA viruses|Picornavirales	0.0003710482224112598
+	class	10239||	Viruses|dsDNA viruses, no RNA stage|Unclassified	0.00010271060660347731
+	class	10239||	Viruses|ssRNA viruses|Unclassified	4.3135539536355574e-05
+	class	10239||	Viruses|dsDNA viruses, no RNA stage|Herpesvirales	7.57452240312158e-06
+10841	order	10239|||10841	Viruses|ssDNA viruses|Unclassified|Microviridae	83.62134602324532
+10699	order	10239|||10699	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae	6.663808767972293
+10662	order	10239|||10662	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae	6.314819096159663
+10730	order	10239|||10730	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae	3.1555218350472747
+	order	10239|||	Viruses|unclassified bacterial viruses|Unclassified|Unclassified	0.24020949631786181
+	order	10239|||	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Unclassified	0.003702105932914381
+12058	order	10239|||12058	Viruses|ssRNA viruses|Picornavirales|Picornaviridae	0.0003710482224112598
+10240	order	10239|||10240	Viruses|dsDNA viruses, no RNA stage|Unclassified|Poxviridae	7.861456558005053e-05
+10842	order	10239|||10842	Viruses|ssDNA viruses|Unclassified|unclassified Microviridae	6.820643367647093e-05
+11050	order	10239|||11050	Viruses|ssRNA viruses|Unclassified|Flaviviridae	4.3135539536355574e-05
+	order	10239|||	Viruses|dsDNA viruses, no RNA stage|Unclassified|Unclassified	2.409604102342679e-05
+10401	order	10239|||10401	Viruses|dsDNA viruses, no RNA stage|Herpesvirales|Alloherpesviridae	4.501232917377462e-06
+10292	order	10239|||10292	Viruses|dsDNA viruses, no RNA stage|Herpesvirales|Herpesviridae	3.073289485744118e-06
+10844	family	10239|||10841|10844	Viruses|ssDNA viruses|Unclassified|Microviridae|Bullavirinae	83.62134602324532
+	family	10239|||10699|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified	6.663808767972293
+	family	10239|||10662|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified	6.314755820253768
+	family	10239|||10730|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Unclassified	3.1555153018475286
+	family	10239||||	Viruses|unclassified bacterial viruses|Unclassified|Unclassified|Unclassified	0.24020949631786181
+	family	10239||||	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Unclassified|Unclassified	0.003702105932914381
+	family	10239|||12058|	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified	0.0003710482224112598
+40070	family	10239|||10240|40070	Viruses|dsDNA viruses, no RNA stage|Unclassified|Poxviridae|unclassified Chordopoxvirinae	7.388706030505145e-05
+	family	10239|||10842|	Viruses|ssDNA viruses|Unclassified|unclassified Microviridae|Unclassified	6.820643367647093e-05
+10663	family	10239|||10662|10663	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Tevenvirinae	6.32759058954399e-05
+	family	10239|||11050|	Viruses|ssRNA viruses|Unclassified|Flaviviridae|Unclassified	4.3135539536355574e-05
+	family	10239||||	Viruses|dsDNA viruses, no RNA stage|Unclassified|Unclassified|Unclassified	2.409604102342679e-05
+	family	10239|||10730|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Sepvirinae	6.533199746040231e-06
+10241	family	10239|||10240|10241	Viruses|dsDNA viruses, no RNA stage|Unclassified|Poxviridae|Chordopoxvirinae	4.727505274999077e-06
+	family	10239|||10401|	Viruses|dsDNA viruses, no RNA stage|Herpesvirales|Alloherpesviridae|Unclassified	4.501232917377462e-06
+10355	family	10239|||10292|10355	Viruses|dsDNA viruses, no RNA stage|Herpesvirales|Herpesviridae|Gammaherpesvirinae	3.073289485744118e-06
+338111	genus	10239|||10841|10844|338111	Viruses|ssDNA viruses|Unclassified|Microviridae|Bullavirinae|unclassified Phix174microvirus	70.32709240941035
+10849	genus	10239|||10841|10844|10849	Viruses|ssDNA viruses|Unclassified|Microviridae|Bullavirinae|Alpha3microvirus	13.294048286392004
+	genus	10239|||10662||	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified	6.314755820253768
+1327976	genus	10239|||10699||1327976	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Cba181virus	4.903771831804127
+	genus	10239|||10730||	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Unclassified|Unclassified	3.1555153018475286
+	genus	10239|||10699||	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Unclassified	1.5638020484926964
+	genus	10239|||||	Viruses|unclassified bacterial viruses|Unclassified|Unclassified|Unclassified|Unclassified	0.24020949631786181
+756282	genus	10239|||10699||756282	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Cbastvirus	0.19622632495692868
+	genus	10239|||||	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Unclassified|Unclassified|Unclassified	0.003702105932914381
+12103	genus	10239|||12058||12103	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Cardiovirus	0.0003710482224112598
+338109	genus	10239|||10841|10844|338109	Viruses|ssDNA viruses|Unclassified|Microviridae|Bullavirinae|unclassified Alpha3microvirus	0.00020532744297430692
+	genus	10239|||10240|40070|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Poxviridae|unclassified Chordopoxvirinae|Unclassified	7.388706030505145e-05
+10843	genus	10239|||10842||10843	Viruses|ssDNA viruses|Unclassified|unclassified Microviridae|Unclassified|Microvirus	6.820643367647093e-05
+10664	genus	10239|||10662|10663|10664	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Tevenvirinae|T4virus	6.32759058954399e-05
+11102	genus	10239|||11050||11102	Viruses|ssRNA viruses|Unclassified|Flaviviridae|Unclassified|Hepacivirus	4.3135539536355574e-05
+	genus	10239|||||	Viruses|dsDNA viruses, no RNA stage|Unclassified|Unclassified|Unclassified|Unclassified	2.409604102342679e-05
+10701	genus	10239|||10699||10701	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Lambdavirus	8.562718540596913e-06
+	genus	10239|||10730||	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Sepvirinae|Tl2011virus	6.533199746040231e-06
+	genus	10239|||10240|10241|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Poxviridae|Chordopoxvirinae|Centapoxvirus	4.727505274999077e-06
+172653	genus	10239|||10401||172653	Viruses|dsDNA viruses, no RNA stage|Herpesvirales|Alloherpesviridae|Unclassified|Ictalurivirus	3.094102295054844e-06
+10398	genus	10239|||10292|10355|10398	Viruses|dsDNA viruses, no RNA stage|Herpesvirales|Herpesviridae|Gammaherpesvirinae|Macavirus	3.073289485744118e-06
+150286	genus	10239|||10401||150286	Viruses|dsDNA viruses, no RNA stage|Herpesvirales|Alloherpesviridae|Unclassified|Cyprinivirus	1.407130622322618e-06
+338112	species	10239|||10841|10844|338111|338112	Viruses|ssDNA viruses|Unclassified|Microviridae|Bullavirinae|unclassified Phix174microvirus|Enterobacteria phage phiX174 sensu lato	70.32709240941035
+10849	species	10239|||10841|10844|10849|10849	Viruses|ssDNA viruses|Unclassified|Microviridae|Bullavirinae|Alpha3microvirus|Enterobacteria phage alpha3	13.293298631203093
+756279	species	10239|||10662|||756279	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Cellulophaga phage phiSM	6.2785224617524245
+1327983	strain	10239|||10699||1327976|1327983	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Cba181virus|Cellulophaga phage phi18:3	4.897400918725762
+877240	species	10239|||10699|||877240	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Unclassified|Pseudoalteromonas phage H105/1	1.5635567886996427
+1327977	strain	10239|||10730|||1327977	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Unclassified|Unclassified|Cellulophaga phage phi38:1	1.4092128497303673
+1918192	strain	10239|||10730|||1918192	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Unclassified|Unclassified|Cellulophaga phage phi18:2	1.0676608234851659
+1316739	species	10239|||10730|||1316739	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Unclassified|Unclassified|Pseudoalteromonas phage RIO-1	0.5855797864475785
+1874539	species	10239||||||1874539	Viruses|unclassified bacterial viruses|Unclassified|Unclassified|Unclassified|Unclassified|Pseudoalteromonas phage BS5	0.24020949631786181
+1327984	species	10239|||10699||756282|1327984	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Cbastvirus|Cellulophaga phage phiST	0.19622632495692868
+1327985	strain	10239|||10730|||1327985	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Unclassified|Unclassified|Cellulophaga phage phi46:3	0.07186978130791864
+1654919	species	10239|||10662|||1654919	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Pseudoalteromonas phage H101	0.03605454818151381
+1328030	strain	10239|||10730|||1328030	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Unclassified|Unclassified|Cellulophaga phage phi13:2	0.014197714536597463
+1327970	strain	10239|||10730|||1327970	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Unclassified|Unclassified|Cellulophaga phage phi19:1	0.006984299676427195
+1327987	strain	10239|||10699||1327976|1327987	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Cba181virus|Cellulophaga phage phi12a:1	0.005771127061737026
+1636200	species	10239||||||1636200	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Unclassified|Unclassified|Unclassified|Pseudoalteromonas phage H103	0.003702105932914381
+10845	species	10239|||10841|10844|10849|10845	Viruses|ssDNA viruses|Unclassified|Microviridae|Bullavirinae|Alpha3microvirus|Enterobacteria phage St-1	0.0007496551889098041
+1918525	strain	10239|||10699||1327976|1918525	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Cba181virus|Cellulophaga phage phi17:2_18	0.0005997860166272375
+12104	species	10239|||12058||12103|12104	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Cardiovirus|Encephalomyocarditis virus	0.0003710482224112598
+1667322	species	10239|||10699|||1667322	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Unclassified|Pseudoalteromonas phage Pq0	0.00023626068201037747
+384643	species	10239|||10841|10844|338109|384643	Viruses|ssDNA viruses|Unclassified|Microviridae|Bullavirinae|unclassified Alpha3microvirus|Enterobacteria phage WA13 sensu lato	0.00020532744297430692
+754075	species	10239|||10662|||754075	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Vibrio phage 11895-B1	0.00011825239324562327
+67082	species	10239|||10240|40070||67082	Viruses|dsDNA viruses, no RNA stage|Unclassified|Poxviridae|unclassified Chordopoxvirinae|Unclassified|BeAn 58058 virus	7.388706030505145e-05
+10848	species	10239|||10842||10843|10848	Viruses|ssDNA viruses|Unclassified|unclassified Microviridae|Unclassified|Microvirus|Enterobacteria phage phiK	6.820643367647093e-05
+1863008	species	10239|||10662|10663|10664|1863008	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Tevenvirinae|T4virus|Shigella phage SHFML-11	6.32759058954399e-05
+31655	species	10239|||11050||11102|31655	Viruses|ssRNA viruses|Unclassified|Flaviviridae|Unclassified|Hepacivirus|Hepatitis C virus genotype 6	4.3135539536355574e-05
+979525	species	10239|||10662|||979525	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Vibrio phage ICP1	4.2864307143196105e-05
+1407493	species	10239|||10662|||1407493	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Shigella phage SfIV	1.0445922195684678e-05
+1647458	species	10239|||10730|||1647458	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Unclassified|Unclassified|Salmonella phage SEN22	1.0046663473221526e-05
+1003177	species	10239||||||1003177	Viruses|dsDNA viruses, no RNA stage|Unclassified|Unclassified|Unclassified|Unclassified|Vibrio phage qdvp001	9.246759911297846e-06
+10713	species	10239|||10699|||10713	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Unclassified|Enterobacteria phage phi80	8.999111043467637e-06
+1325731	species	10239||||||1325731	Viruses|dsDNA viruses, no RNA stage|Unclassified|Unclassified|Unclassified|Unclassified|Flavobacterium phage 6H	8.840499268935065e-06
+10710	species	10239|||10699||10701|10710	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Lambdavirus|Escherichia virus Lambda	8.562718540596913e-06
+1660365	species	10239|||10730|||1660365	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Sepvirinae|Tl2011virus|Escherichia phage PA2	6.533199746040231e-06
+573172	species	10239||||||573172	Viruses|dsDNA viruses, no RNA stage|Unclassified|Unclassified|Unclassified|Unclassified|Vibrio phage eugene 12A10	6.00878184319388e-06
+694060	species	10239|||10662|||694060	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Staphylococcus phage SA1	5.6388393265043e-06
+1076255	species	10239|||10240|10241||1076255	Viruses|dsDNA viruses, no RNA stage|Unclassified|Poxviridae|Chordopoxvirinae|Centapoxvirus|Yokapox virus	4.727505274999077e-06
+766178	species	10239|||10401||172653|766178	Viruses|dsDNA viruses, no RNA stage|Herpesvirales|Alloherpesviridae|Unclassified|Ictalurivirus|Ictalurid herpesvirus 1	3.094102295054844e-06
+10398	species	10239|||10292|10355|10398|10398	Viruses|dsDNA viruses, no RNA stage|Herpesvirales|Herpesviridae|Gammaherpesvirinae|Macavirus|Ovine gammaherpesvirus 2	3.073289485744118e-06
+1335230	species	10239|||10662|||1335230	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Pseudomonas phage PaBG	1.6088579201749112e-06
+180230	species	10239|||10401||150286|180230	Viruses|dsDNA viruses, no RNA stage|Herpesvirales|Alloherpesviridae|Unclassified|Cyprinivirus|Cyprinid herpesvirus 3	1.407130622322618e-06
+	strain	10239|||10841|10844|338111|338112|	Viruses|ssDNA viruses|Unclassified|Microviridae|Bullavirinae|unclassified Phix174microvirus|Enterobacteria phage phiX174 sensu lato|Unclassified	70.32709240941035
+	strain	10239|||10841|10844|10849|10849|	Viruses|ssDNA viruses|Unclassified|Microviridae|Bullavirinae|Alpha3microvirus|Enterobacteria phage alpha3|Unclassified	13.293298631203093
+	strain	10239|||10662|||756279|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Cellulophaga phage phiSM|Unclassified	6.2785224617524245
+	strain	10239|||10699|||877240|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Unclassified|Pseudoalteromonas phage H105/1|Unclassified	1.5635567886996427
+	strain	10239|||10730|||1316739|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Unclassified|Unclassified|Pseudoalteromonas phage RIO-1|Unclassified	0.5855797864475785
+	strain	10239||||||1874539|	Viruses|unclassified bacterial viruses|Unclassified|Unclassified|Unclassified|Unclassified|Pseudoalteromonas phage BS5|Unclassified	0.24020949631786181
+	strain	10239|||10699||756282|1327984|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Cbastvirus|Cellulophaga phage phiST|Unclassified	0.19622632495692868
+	strain	10239|||10662|||1654919|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Pseudoalteromonas phage H101|Unclassified	0.03605454818151381
+	strain	10239||||||1636200|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Unclassified|Unclassified|Unclassified|Pseudoalteromonas phage H103|Unclassified	0.003702105932914381
+	strain	10239|||10841|10844|10849|10845|	Viruses|ssDNA viruses|Unclassified|Microviridae|Bullavirinae|Alpha3microvirus|Enterobacteria phage St-1|Unclassified	0.0007496551889098041
+	strain	10239|||12058||12103|12104|	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Cardiovirus|Encephalomyocarditis virus|Unclassified	0.0003710482224112598
+	strain	10239|||10699|||1667322|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Unclassified|Pseudoalteromonas phage Pq0|Unclassified	0.00023626068201037747
+	strain	10239|||10841|10844|338109|384643|	Viruses|ssDNA viruses|Unclassified|Microviridae|Bullavirinae|unclassified Alpha3microvirus|Enterobacteria phage WA13 sensu lato|Unclassified	0.00020532744297430692
+	strain	10239|||10662|||754075|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Vibrio phage 11895-B1|Unclassified	0.00011825239324562327
+	strain	10239|||10240|40070||67082|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Poxviridae|unclassified Chordopoxvirinae|Unclassified|BeAn 58058 virus|Unclassified	7.388706030505145e-05
+	strain	10239|||10842||10843|10848|	Viruses|ssDNA viruses|Unclassified|unclassified Microviridae|Unclassified|Microvirus|Enterobacteria phage phiK|Unclassified	6.820643367647093e-05
+	strain	10239|||10662|10663|10664|1863008|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Tevenvirinae|T4virus|Shigella phage SHFML-11|Unclassified	6.32759058954399e-05
+	strain	10239|||11050||11102|31655|	Viruses|ssRNA viruses|Unclassified|Flaviviridae|Unclassified|Hepacivirus|Hepatitis C virus genotype 6|Unclassified	4.3135539536355574e-05
+	strain	10239|||10662|||979525|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Vibrio phage ICP1|Unclassified	4.2864307143196105e-05
+	strain	10239|||10662|||1407493|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Shigella phage SfIV|Unclassified	1.0445922195684678e-05
+	strain	10239|||10730|||1647458|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Unclassified|Unclassified|Salmonella phage SEN22|Unclassified	1.0046663473221526e-05
+	strain	10239||||||1003177|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Unclassified|Unclassified|Unclassified|Vibrio phage qdvp001|Unclassified	9.246759911297846e-06
+	strain	10239|||10699|||10713|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Unclassified|Enterobacteria phage phi80|Unclassified	8.999111043467637e-06
+	strain	10239||||||1325731|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Unclassified|Unclassified|Unclassified|Flavobacterium phage 6H|Unclassified	8.840499268935065e-06
+	strain	10239|||10699||10701|10710|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Siphoviridae|Unclassified|Lambdavirus|Escherichia virus Lambda|Unclassified	8.562718540596913e-06
+	strain	10239|||10730|||1660365|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Podoviridae|Sepvirinae|Tl2011virus|Escherichia phage PA2|Unclassified	6.533199746040231e-06
+	strain	10239||||||573172|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Unclassified|Unclassified|Unclassified|Vibrio phage eugene 12A10|Unclassified	6.00878184319388e-06
+	strain	10239|||10662|||694060|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Staphylococcus phage SA1|Unclassified	5.6388393265043e-06
+	strain	10239|||10240|10241||1076255|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Poxviridae|Chordopoxvirinae|Centapoxvirus|Yokapox virus|Unclassified	4.727505274999077e-06
+	strain	10239|||10401||172653|766178|	Viruses|dsDNA viruses, no RNA stage|Herpesvirales|Alloherpesviridae|Unclassified|Ictalurivirus|Ictalurid herpesvirus 1|Unclassified	3.094102295054844e-06
+	strain	10239|||10292|10355|10398|10398|	Viruses|dsDNA viruses, no RNA stage|Herpesvirales|Herpesviridae|Gammaherpesvirinae|Macavirus|Ovine gammaherpesvirus 2|Unclassified	3.073289485744118e-06
+	strain	10239|||10662|||1335230|	Viruses|dsDNA viruses, no RNA stage|Caudovirales|Myoviridae|Unclassified|Unclassified|Pseudomonas phage PaBG|Unclassified	1.6088579201749112e-06
+	strain	10239|||10401||150286|180230|	Viruses|dsDNA viruses, no RNA stage|Herpesvirales|Alloherpesviridae|Unclassified|Cyprinivirus|Cyprinid herpesvirus 3|Unclassified	1.407130622322618e-06

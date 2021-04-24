@@ -1,0 +1,276 @@
+@SampleID:mock_fungi
+@Version:0.9.1
+@Ranks: superkingdom|phylum|class|order|family|genus|species|strain
+
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE	_CAMI_genomeID	_CAMI_OTU
+2	superkingdom	2	Bacteria	11.92188
+2759	superkingdom	2759	Eukaryota	87.97387
+10239	superkingdom	10239	Viruses	0.10425
+2836	phylum	2759|2836	Eukaryota|Bacillariophyta	1.24106
+4890	phylum	2759|4890	Eukaryota|Ascomycota	34.50621
+5204	phylum	2759|5204	Eukaryota|Basidiomycota	29.46683
+1224	phylum	2|1224	Bacteria|Proteobacteria	12.48540
+1239	phylum	2|1239	Bacteria|Firmicutes	1.00917
+6656	phylum	2759|6656	Eukaryota|Arthropoda	0.11304
+35493	phylum	2759|35493	Eukaryota|Streptophyta	9.97937
+6073	phylum	2759|6073	Eukaryota|Cnidaria	0.14856
+5878	phylum	2759|5878	Eukaryota|Ciliophora	0.14788
+2732412	phylum	10239|2732412	Viruses|Phixviricota	0.16119
+3041	phylum	2759|3041	Eukaryota|Chlorophyta	4.53428
+1913637	phylum	2759|1913637	Eukaryota|Mucoromycota	5.63088
+4761	phylum	2759|4761	Eukaryota|Chytridiomycota	0.49246
+2608109	phylum	2759|2608109	Eukaryota|Haptista	0.08367
+28216	class	2|1224|28216	Bacteria|Proteobacteria|Betaproteobacteria	0.06433
+147541	class	2759|4890|147541	Eukaryota|Ascomycota|Dothideomycetes	6.19725
+147548	class	2759|4890|147548	Eukaryota|Ascomycota|Leotiomycetes	0.14250
+451435	class	2759|4761|451435	Eukaryota|Chytridiomycota|Chytridiomycetes	0.25275
+162481	class	2759|5204|162481	Eukaryota|Basidiomycota|Microbotryomycetes	0.09710
+91061	class	2|1239|91061	Bacteria|Firmicutes|Bacilli	0.34039
+1236	class	2|1224|1236	Bacteria|Proteobacteria|Gammaproteobacteria	3.15095
+155619	class	2759|5204|155619	Eukaryota|Basidiomycota|Agaricomycetes	8.70984
+214506	class	2759|1913637|214506	Eukaryota|Mucoromycota|Glomeromycetes	1.83813
+3398	class	2759|35493|3398	Eukaryota|Streptophyta|Magnoliopsida	5.10966
+33836	class	2759|2836|33836	Eukaryota|Bacillariophyta|Coscinodiscophyceae	0.59208
+6658	class	2759|6656|6658	Eukaryota|Arthropoda|Branchiopoda	0.05749
+4891	class	2759|4890|4891	Eukaryota|Ascomycota|Saccharomycetes	3.27084
+147545	class	2759|4890|147545	Eukaryota|Ascomycota|Eurotiomycetes	2.29297
+6101	class	2759|6073|6101	Eukaryota|Cnidaria|Anthozoa	0.07625
+147549	class	2759|4890|147549	Eukaryota|Ascomycota|Pezizomycetes	0.07292
+33829	class	2759|5878|33829	Eukaryota|Ciliophora|Spirotrichea	0.07589
+452283	class	2759|5204|452283	Eukaryota|Basidiomycota|Exobasidiomycetes	0.04820
+2732413	class	10239|2732412|2732413	Viruses|Phixviricota|Malgrandaviricetes	0.08273
+75966	class	2759|3041|75966	Eukaryota|Chlorophyta|Trebouxiophyceae	0.28220
+155616	class	2759|5204|155616	Eukaryota|Basidiomycota|Tremellomycetes	0.04189
+2830	class	2759|2608109|2830	Eukaryota|Haptista|Haptophyta	0.04294
+162484	class	2759|5204|162484	Eukaryota|Basidiomycota|Pucciniomycetes	0.20069
+3166	class	2759|3041|3166	Eukaryota|Chlorophyta|Chlorophyceae	2.02041
+4892	order	2759|4890|4891|4892	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales	13.29718
+4143	order	2759|35493|3398|4143	Eukaryota|Streptophyta|Magnoliopsida|Lamiales	0.20878
+5178	order	2759|4890|147548|5178	Eukaryota|Ascomycota|Leotiomycetes|Helotiales	0.54012
+3646	order	2759|35493|3398|3646	Eukaryota|Streptophyta|Magnoliopsida|Malpighiales	0.14251
+5185	order	2759|4890|147549|5185	Eukaryota|Ascomycota|Pezizomycetes|Pezizales	0.16817
+5234	order	2759|5204|155616|5234	Eukaryota|Basidiomycota|Tremellomycetes|Tremellales	0.17030
+38820	order	2759|35493|3398|38820	Eukaryota|Streptophyta|Magnoliopsida|Poales	0.48811
+693921	order	2759|5878|33829|693921	Eukaryota|Ciliophora|Spirotrichea|Sporadotrichida	0.18028
+3502	order	2759|35493|3398|3502	Eukaryota|Streptophyta|Magnoliopsida|Fagales	0.51732
+5042	order	2759|4890|147545|5042	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales	8.54580
+92860	order	2759|4890|147541|92860	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales	12.54614
+186826	order	2|1239|91061|186826	Bacteria|Firmicutes|Bacilli|Lactobacillales	0.70758
+91347	order	2|1224|1236|91347	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales	5.69767
+5338	order	2759|5204|155619|5338	Eukaryota|Basidiomycota|Agaricomycetes|Agaricales	3.41390
+4069	order	2759|35493|3398|4069	Eukaryota|Streptophyta|Magnoliopsida|Solanales	4.30461
+5303	order	2759|5204|155619|5303	Eukaryota|Basidiomycota|Agaricomycetes|Polyporales	0.78026
+33847	order	2759|2836|33836|33847	Eukaryota|Bacillariophyta|Coscinodiscophyceae|Thalassiosirales	2.40705
+84337	order	2759|6656|6658|84337	Eukaryota|Arthropoda|Branchiopoda|Diplostraca	0.23372
+452342	order	2759|5204|155619|452342	Eukaryota|Basidiomycota|Agaricomycetes|Russulales	0.21306
+231212	order	2759|5204|162481|231212	Eukaryota|Basidiomycota|Microbotryomycetes|Leucosporidiales	0.36270
+32003	order	2|1224|28216|32003	Bacteria|Proteobacteria|Betaproteobacteria|Nitrosomonadales	0.23158
+2714148	order	2759|4890|147541|2714148	Eukaryota|Ascomycota|Dothideomycetes|Lineolatales	7.98216
+6103	order	2759|6073|6101|6103	Eukaryota|Cnidaria|Anthozoa|Actiniaria	0.30997
+452334	order	2759|5204|155619|452334	Eukaryota|Basidiomycota|Agaricomycetes|Atheliales	16.04483
+135623	order	2|1224|1236|135623	Bacteria|Proteobacteria|Gammaproteobacteria|Vibrionales	1.57619
+72025	order	2759|35493|3398|72025	Eukaryota|Streptophyta|Magnoliopsida|Fabales	0.33776
+232378	order	2759|35493|3398|232378	Eukaryota|Streptophyta|Magnoliopsida|Proteales	0.16817
+5404	order	2759|5204|452283|5404	Eukaryota|Basidiomycota|Exobasidiomycetes|Exobasidiales	0.19596
+2732414	order	10239|2732412|2732413|2732414	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales	0.33633
+35460	order	2759|3041|75966|35460	Eukaryota|Chlorophyta|Trebouxiophyceae|Chlorellales	1.14723
+36750	order	2759|1913637|214506|36750	Eukaryota|Mucoromycota|Glomeromycetes|Glomerales	2.13271
+4618	order	2759|35493|3398|4618	Eukaryota|Streptophyta|Magnoliopsida|Zingiberales	1.56978
+73020	order	2759|2608109|2830|73020	Eukaryota|Haptista|Haptophyta|Isochrysidales	0.17458
+73496	order	2759|35493|3398|73496	Eukaryota|Streptophyta|Magnoliopsida|Asparagales	0.17315
+214509	order	2759|1913637|214506|214509	Eukaryota|Mucoromycota|Glomeromycetes|Diversisporales	2.14340
+714581	order	2759|4890|147541|714581	Eukaryota|Ascomycota|Dothideomycetes|Trypetheliales	1.00971
+721927	order	2759|5204|155619|721927	Eukaryota|Basidiomycota|Agaricomycetes|Jaapiales	0.51162
+5258	order	2759|5204|162484|5258	Eukaryota|Basidiomycota|Pucciniomycetes|Pucciniales	0.81589
+3042	order	2759|3041|3166|3042	Eukaryota|Chlorophyta|Chlorophyceae|Chlamydomonadales	8.21374
+1300	family	2|1239|91061|186826|1300	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae	0.90322
+543	family	2|1224|1236|91347|543	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae	7.68942
+10841	family	10239|2732412|2732413|2732414|10841	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae	0.45498
+4747	family	2759|35493|3398|73496|4747	Eukaryota|Streptophyta|Magnoliopsida|Asparagales|Orchidaceae	0.23424
+28556	family	2759|4890|147541|92860|28556	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales|Pleosporaceae	6.13650
+3803	family	2759|35493|3398|72025|3803	Eukaryota|Streptophyta|Magnoliopsida|Fabales|Fabaceae	0.26701
+1131492	family	2759|4890|147545|5042|1131492	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae	5.44631
+2028212	family	2759|5204|155619|5303|2028212	Eukaryota|Basidiomycota|Agaricomycetes|Polyporales|Laetiporaceae	0.32099
+3503	family	2759|35493|3398|3502|3503	Eukaryota|Streptophyta|Magnoliopsida|Fagales|Fagaceae	0.68826
+29202	family	2759|2836|33836|33847|29202	Eukaryota|Bacillariophyta|Coscinodiscophyceae|Thalassiosirales|Thalassiosiraceae	3.25622
+77658	family	2759|6656|6658|84337|77658	Eukaryota|Arthropoda|Branchiopoda|Diplostraca|Daphniidae	0.31618
+40420	family	2759|5204|155619|452342|40420	Eukaryota|Basidiomycota|Agaricomycetes|Russulales|Bondarzewiaceae	0.28822
+1163720	family	2759|5204|162481|231212|1163720	Eukaryota|Basidiomycota|Microbotryomycetes|Leucosporidiales|Leucosporidiaceae	0.49065
+147546	family	2759|4890|147545|5042|147546	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Elaphomycetaceae	0.56777
+2714149	family	2759|4890|147541|2714148|2714149	Eukaryota|Ascomycota|Dothideomycetes|Lineolatales|Lineolataceae	10.79815
+45349	family	2759|6073|6101|6103|45349	Eukaryota|Cnidaria|Anthozoa|Actiniaria|Edwardsiidae	0.41932
+80628	family	2759|5204|155619|452334|80628	Eukaryota|Basidiomycota|Agaricomycetes|Atheliales|Atheliaceae	21.70522
+5189	family	2759|4890|147549|5185|5189	Eukaryota|Ascomycota|Pezizomycetes|Pezizales|Ascobolaceae	0.17351
+641	family	2|1224|1236|135623|641	Bacteria|Proteobacteria|Gammaproteobacteria|Vibrionales|Vibrionaceae	2.13225
+57506	family	2759|5878|33829|693921|57506	Eukaryota|Ciliophora|Spirotrichea|Sporadotrichida|Oxytrichidae	0.17351
+4429	family	2759|35493|3398|232378|4429	Eukaryota|Streptophyta|Magnoliopsida|Proteales|Nelumbonaceae	0.22749
+190068	family	2759|5204|452283|5404|190068	Eukaryota|Basidiomycota|Exobasidiomycetes|Exobasidiales|Brachybasidiaceae	0.26509
+35461	family	2759|3041|75966|35460|35461	Eukaryota|Chlorophyta|Trebouxiophyceae|Chlorellales|Chlorellaceae	1.55196
+4070	family	2759|35493|3398|4069|4070	Eukaryota|Streptophyta|Magnoliopsida|Solanales|Solanaceae	5.40679
+36751	family	2759|1913637|214506|36750|36751	Eukaryota|Mucoromycota|Glomeromycetes|Glomerales|Glomeraceae	2.88510
+290882	family	2759|4890|147541|92860|290882	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales|Massarinaceae	0.17447
+4637	family	2759|35493|3398|4618|4637	Eukaryota|Streptophyta|Magnoliopsida|Zingiberales|Musaceae	2.12358
+418966	family	2759|2608109|2830|73020|418966	Eukaryota|Haptista|Haptophyta|Isochrysidales|Noelaerhabdaceae	0.23617
+36753	family	2759|1913637|214506|214509|36753	Eukaryota|Mucoromycota|Glomeromycetes|Diversisporales|Gigasporaceae	2.89956
+5215	family	2759|5204|155616|5234|5215	Eukaryota|Basidiomycota|Tremellomycetes|Tremellales|Tremellaceae	0.20339
+4118	family	2759|35493|3398|4069|4118	Eukaryota|Streptophyta|Magnoliopsida|Solanales|Convolvulaceae	0.40679
+766764	family	2759|4890|4891|4892|766764	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae	0.29497
+115784	family	2759|4890|4891|4892|115784	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Phaffomycetaceae	0.66320
+396331	family	2759|5204|155619|5303|396331	Eukaryota|Basidiomycota|Agaricomycetes|Polyporales|Phanerochaetaceae	0.23135
+104366	family	2759|5204|155619|5338|104366	Eukaryota|Basidiomycota|Agaricomycetes|Agaricales|Pleurotaceae	1.18373
+271822	family	2759|4890|147541|714581|271822	Eukaryota|Ascomycota|Dothideomycetes|Trypetheliales|Trypetheliaceae	1.36591
+4609	family	2759|35493|3398|38820|4609	Eukaryota|Streptophyta|Magnoliopsida|Poales|Cyperaceae	0.57259
+721929	family	2759|5204|155619|721927|721929	Eukaryota|Basidiomycota|Agaricomycetes|Jaapiales|Jaapiaceae	0.69211
+5262	family	2759|5204|162484|5258|5262	Eukaryota|Basidiomycota|Pucciniomycetes|Pucciniales|Pucciniaceae	1.10372
+34450	family	2759|5204|155619|5338|34450	Eukaryota|Basidiomycota|Agaricomycetes|Agaricales|Cortinariaceae	3.25140
+29827	family	2759|4890|4891|4892|29827	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Lipomycetaceae	0.18411
+2028216	family	2759|5204|155619|5303|2028216	Eukaryota|Basidiomycota|Agaricomycetes|Polyporales|Grifolaceae	0.50318
+3065	family	2759|3041|3166|3042|3065	Eukaryota|Chlorophyta|Chlorophyceae|Chlamydomonadales|Volvocaceae	11.11143
+35127	genus	2759|2836|33836|33847|29202|35127	Eukaryota|Bacillariophyta|Coscinodiscophyceae|Thalassiosirales|Thalassiosiraceae|Thalassiosira	1.68155
+570	genus	2|1224|1236|91347|543|570	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella	7.21001
+1910954	genus	10239|2732412|2732413|2732414|10841|1910954	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Sinsheimervirus	0.41818
+5052	genus	2759|4890|147545|5042|1131492|5052	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Aspergillus	5.04074
+5320	genus	2759|5204|155619|5338|104366|5320	Eukaryota|Basidiomycota|Agaricomycetes|Agaricales|Pleurotaceae|Pleurotus	1.20265
+4071	genus	2759|35493|3398|4069|4070|4071	Eukaryota|Streptophyta|Magnoliopsida|Solanales|Solanaceae|Capsicum	3.33862
+81055	genus	2759|5204|155619|5303|2028212|81055	Eukaryota|Basidiomycota|Agaricomycetes|Polyporales|Laetiporaceae|Wolfiporia	0.32613
+21019	genus	2759|35493|3398|3502|3503|21019	Eukaryota|Streptophyta|Magnoliopsida|Fagales|Fagaceae|Castanea	0.69926
+6668	genus	2759|6656|6658|84337|77658|6668	Eukaryota|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia	0.32123
+13562	genus	2759|5204|155619|452342|40420|13562	Eukaryota|Basidiomycota|Agaricomycetes|Russulales|Bondarzewiaceae|Heterobasidion	0.29283
+5277	genus	2759|5204|162481|231212|1163720|5277	Eukaryota|Basidiomycota|Microbotryomycetes|Leucosporidiales|Leucosporidiaceae|Leucosporidium	0.49849
+36046	genus	2759|4890|147545|5042|147546|36046	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Elaphomycetaceae|Elaphomyces	0.57684
+578092	genus	2759|4890|147541|2714148|2714149|578092	Eukaryota|Ascomycota|Dothideomycetes|Lineolatales|Lineolataceae|Lineolata	10.97074
+45350	genus	2759|6073|6101|6103|45349|45350	Eukaryota|Cnidaria|Anthozoa|Actiniaria|Edwardsiidae|Nematostella	0.42602
+56747	genus	2759|5204|155619|452334|80628|56747	Eukaryota|Basidiomycota|Agaricomycetes|Atheliales|Atheliaceae|Fibularhizoctonia	22.05214
+5190	genus	2759|4890|147549|5185|5189|5190	Eukaryota|Ascomycota|Pezizomycetes|Pezizales|Ascobolaceae|Ascobolus	0.17628
+662	genus	2|1224|1236|135623|641|662	Bacteria|Proteobacteria|Gammaproteobacteria|Vibrionales|Vibrionaceae|Vibrio	2.16633
+5948	genus	2759|5878|33829|693921|57506|5948	Eukaryota|Ciliophora|Spirotrichea|Sporadotrichida|Oxytrichidae|Stylonychia	0.17628
+1357	genus	2|1239|91061|186826|1300|1357	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Lactococcus	0.91668
+4430	genus	2759|35493|3398|232378|4429|4430	Eukaryota|Streptophyta|Magnoliopsida|Proteales|Nelumbonaceae|Nelumbo	0.23113
+215251	genus	2759|5204|452283|5404|190068|215251	Eukaryota|Basidiomycota|Exobasidiomycetes|Exobasidiales|Brachybasidiaceae|Meira	0.26932
+3071	genus	2759|3041|75966|35460|35461|3071	Eukaryota|Chlorophyta|Trebouxiophyceae|Chlorellales|Chlorellaceae|Chlorella	1.57676
+1129544	genus	2759|1913637|214506|36750|36751|1129544	Eukaryota|Mucoromycota|Glomeromycetes|Glomerales|Glomeraceae|Rhizophagus	2.93121
+147557	genus	2759|4890|147541|92860|290882|147557	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales|Massarinaceae|Byssothecium	0.17726
+4640	genus	2759|35493|3398|4618|4637|4640	Eukaryota|Streptophyta|Magnoliopsida|Zingiberales|Musaceae|Musa	2.15752
+5605	genus	2759|4890||||5605	Eukaryota|Ascomycota||||Saitoella	2.10561
+2902	genus	2759|2608109|2830|73020|418966|2902	Eukaryota|Haptista|Haptophyta|Isochrysidales|Noelaerhabdaceae|Emiliania	0.23994
+4873	genus	2759|1913637|214506|214509|36753|4873	Eukaryota|Mucoromycota|Glomeromycetes|Diversisporales|Gigasporaceae|Gigaspora	2.94590
+105767	genus	2759|5204|155616|5234|5215|105767	Eukaryota|Basidiomycota|Tremellomycetes|Tremellales|Tremellaceae|Tremella	0.20664
+4128	genus	2759|35493|3398|4069|4118|4128	Eukaryota|Streptophyta|Magnoliopsida|Solanales|Convolvulaceae|Cuscuta	0.41329
+766748	genus	2759|4890|4891|4892|766764|766748	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Babjeviella	0.29968
+599737	genus	2759|4890|4891|4892|115784|599737	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Phaffomycetaceae|Wickerhamomyces	0.67380
+5305	genus	2759|5204|155619|5303|396331|5305	Eukaryota|Basidiomycota|Agaricomycetes|Polyporales|Phanerochaetaceae|Phanerochaete	0.23505
+5027	genus	2759|4890|147541|92860|28556|5027	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales|Pleosporaceae|Pyrenophora	6.13370
+1929940	genus	2759|4890|147541|714581|271822|1929940	Eukaryota|Ascomycota|Dothideomycetes|Trypetheliales|Trypetheliaceae|Viridothelium	1.38775
+388809	genus	2759|4761|451435|||388809	Eukaryota|Chytridiomycota|Chytridiomycetes|||Blyttiomyces	1.39166
+13398	genus	2759|35493|3398|38820|4609|13398	Eukaryota|Streptophyta|Magnoliopsida|Poales|Cyperaceae|Carex	0.58174
+202696	genus	2759|5204|155619|721927|721929|202696	Eukaryota|Basidiomycota|Agaricomycetes|Jaapiales|Jaapiaceae|Jaapia	0.70318
+5296	genus	2759|5204|162484|5258|5262|5296	Eukaryota|Basidiomycota|Pucciniomycetes|Pucciniales|Pucciniaceae|Puccinia	1.12136
+34451	genus	2759|5204|155619|5338|34450|34451	Eukaryota|Basidiomycota|Agaricomycetes|Agaricales|Cortinariaceae|Cortinarius	3.30337
+590	genus	2|1224|1236|91347|543|590	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Salmonella	0.26638
+13000	genus	2759|4890|147548|5178||13000	Eukaryota|Ascomycota|Leotiomycetes|Helotiales||Chalara	0.16943
+29828	genus	2759|4890|4891|4892|29827|29828	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Lipomycetaceae|Lipomyces	0.18706
+5626	genus	2759|5204|155619|5303|2028216|5626	Eukaryota|Basidiomycota|Agaricomycetes|Polyporales|Grifolaceae|Grifola	0.51122
+3066	genus	2759|3041|3166|3042|3065|3066	Eukaryota|Chlorophyta|Chlorophyceae|Chlamydomonadales|Volvocaceae|Volvox	11.28903
+60419	species	2759|35493|3398|3502|3503|21019|60419	Eukaryota|Streptophyta|Magnoliopsida|Fagales|Fagaceae|Castanea|Castanea mollissima	0.72220
+159749	species	2759|2836|33836|33847|29202|35127|159749	Eukaryota|Bacillariophyta|Coscinodiscophyceae|Thalassiosirales|Thalassiosiraceae|Thalassiosira|Thalassiosira oceanica	1.68007
+6669	species	2759|6656|6658|84337|77658|6668|6669	Eukaryota|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia|Daphnia pulex	0.33177
+106004	species	2759|5204|162481|231212|1163720|5277|106004	Eukaryota|Basidiomycota|Microbotryomycetes|Leucosporidiales|Leucosporidiaceae|Leucosporidium|Leucosporidium creatinivorum	0.51484
+2026761	species	2|1224|28216|32003|||2026761	Bacteria|Proteobacteria|Betaproteobacteria|Nitrosomonadales|||Nitrosomonadales bacterium	0.32873
+519963	species	2759|4890|147545|5042|147546|36046|519963	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Elaphomycetaceae|Elaphomyces|Elaphomyces granulatus	0.59576
+578093	species	2759|4890|147541|2714148|2714149|578092|578093	Eukaryota|Ascomycota|Dothideomycetes|Lineolatales|Lineolataceae|Lineolata|Lineolata rhizophorae	11.33060
+45351	species	2759|6073|6101|6103|45349|45350|45351	Eukaryota|Cnidaria|Anthozoa|Actiniaria|Edwardsiidae|Nematostella|Nematostella vectensis	0.43999
+436010	species	2759|5204|155619|452334|80628|56747|436010	Eukaryota|Basidiomycota|Agaricomycetes|Atheliales|Atheliaceae|Fibularhizoctonia|Fibularhizoctonia sp. CBS 109695	22.77550
+55601	species	2|1224|1236|135623|641|662|55601	Bacteria|Proteobacteria|Gammaproteobacteria|Vibrionales|Vibrionaceae|Vibrio|Vibrio anguillarum	2.23739
+573	species	2|1224|1236|91347|543|570|573	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella|Klebsiella pneumoniae	7.42022
+5949	species	2759|5878|33829|693921|57506|5948|5949	Eukaryota|Ciliophora|Spirotrichea|Sporadotrichida|Oxytrichidae|Stylonychia|Stylonychia lemnae	0.18207
+1358	species	2|1239|91061|186826|1300|1357|1358	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Lactococcus|Lactococcus lactis	0.94675
+4432	species	2759|35493|3398|232378|4429|4430|4432	Eukaryota|Streptophyta|Magnoliopsida|Proteales|Nelumbonaceae|Nelumbo|Nelumbo nucifera	0.23871
+1280837	species	2759|5204|452283|5404|190068|215251|1280837	Eukaryota|Basidiomycota|Exobasidiomycetes|Exobasidiales|Brachybasidiaceae|Meira|Meira miltonrushii	0.27816
+554065	species	2759|3041|75966|35460|35461|3071|554065	Eukaryota|Chlorophyta|Trebouxiophyceae|Chlorellales|Chlorellaceae|Chlorella|Chlorella variabilis	1.62848
+33114	species	2759|35493|3398|4069|4070|4071|33114	Eukaryota|Streptophyta|Magnoliopsida|Solanales|Solanaceae|Capsicum|Capsicum baccatum	2.22526
+147558	species	2759|4890|147541|92860|290882|147557|147558	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales|Massarinaceae|Byssothecium|Byssothecium circinans	0.18308
+52838	species	2759|35493|3398|4618|4637|4640|52838	Eukaryota|Streptophyta|Magnoliopsida|Zingiberales|Musaceae|Musa|Musa balbisiana	2.22829
+44941	species	2759|1913637|214506|214509|36753|4873|44941	Eukaryota|Mucoromycota|Glomeromycetes|Diversisporales|Gigasporaceae|Gigaspora|Gigaspora rosea	3.04253
+132261	species	2759|35493|3398|4069|4118|4128|132261	Eukaryota|Streptophyta|Magnoliopsida|Solanales|Convolvulaceae|Cuscuta|Cuscuta campestris	0.33480
+1873369	species	2759|4890|147545|5042|1131492|5052|1873369	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Aspergillus|Aspergillus hancockii	1.97239
+1048519	species	2759|4890|147541|714581|271822|1929940|1048519	Eukaryota|Ascomycota|Dothideomycetes|Trypetheliales|Trypetheliaceae|Viridothelium|Viridothelium virens	1.43327
+5323	species	2759|5204|155619|5338|104366|5320|5323	Eukaryota|Basidiomycota|Agaricomycetes|Agaricales|Pleurotaceae|Pleurotus|Pleurotus eryngii	0.39347
+388810	species	2759|4761|451435|||388809|388810	Eukaryota|Chytridiomycota|Chytridiomycetes|||Blyttiomyces|Blyttiomyces helicus	1.43731
+544730	species	2759|35493|3398|38820|4609|13398|544730	Eukaryota|Streptophyta|Magnoliopsida|Poales|Cyperaceae|Carex|Carex littledalei	0.60082
+27349	species	2759|5204|162484|5258|5262|5296|27349	Eukaryota|Basidiomycota|Pucciniomycetes|Pucciniales|Pucciniaceae|Puccinia|Puccinia sorghi	1.15814
+171480	species	2759|5204|155619|5338|34450|34451|171480	Eukaryota|Basidiomycota|Agaricomycetes|Agaricales|Cortinariaceae|Cortinarius|Cortinarius glaucopus	3.41172
+28901	species	2|1224|1236|91347|543|590|28901	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Salmonella|Salmonella enterica	0.27512
+80379	species	2759|35493|3398|4069|4070|4071|80379	Eukaryota|Streptophyta|Magnoliopsida|Solanales|Solanaceae|Capsicum|Capsicum chinense	0.94978
+5627	species	2759|5204|155619|5303|2028216|5626|5627	Eukaryota|Basidiomycota|Agaricomycetes|Polyporales|Grifolaceae|Grifola|Grifola frondosa	0.52799
+81056	species	2759|5204|155619|5303|2028212|81055|81056	Eukaryota|Basidiomycota|Agaricomycetes|Polyporales|Laetiporaceae|Wolfiporia|Wolfiporia cocos	0.33682
+984962	species	2759|5204|155619|452342|40420|13562|984962	Eukaryota|Basidiomycota|Agaricomycetes|Russulales|Bondarzewiaceae|Heterobasidion|Heterobasidion irregulare	0.30243
+5191	species	2759|4890|147549|5185|5189|5190|5191	Eukaryota|Ascomycota|Pezizomycetes|Pezizales|Ascobolaceae|Ascobolus|Ascobolus immersus	0.18207
+588596	species	2759|1913637|214506|36750|36751|1129544|588596	Eukaryota|Mucoromycota|Glomeromycetes|Glomerales|Glomeraceae|Rhizophagus|Rhizophagus irregularis	3.02736
+5606	species	2759|4890||||5605|5606	Eukaryota|Ascomycota||||Saitoella|Saitoella complicata	2.17468
+2903	species	2759|2608109|2830|73020|418966|2902|2903	Eukaryota|Haptista|Haptophyta|Isochrysidales|Noelaerhabdaceae|Emiliania|Emiliania huxleyi	0.24781
+5217	species	2759|5204|155616|5234|5215|105767|5217	Eukaryota|Basidiomycota|Tremellomycetes|Tremellales|Tremellaceae|Tremella|Tremella mesenterica	0.21342
+138278	species	2759|4890|147545|5042|1131492|5052|138278	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Aspergillus|Aspergillus ochraceoroseus	0.50574
+45609	species	2759|4890|4891|4892|766764|766748|45609	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Babjeviella|Babjeviella inositovora	0.30951
+4927	species	2759|4890|4891|4892|115784|599737|4927	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Phaffomycetaceae|Wickerhamomyces|Wickerhamomyces anomalus	0.69590
+231932	species	2759|5204|155619|5303|396331|5305|231932	Eukaryota|Basidiomycota|Agaricomycetes|Polyporales|Phanerochaetaceae|Phanerochaete|Phanerochaete carnosa	0.24276
+53485	species	2759|4890|147541|92860|28556|5027|53485	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales|Pleosporaceae|Pyrenophora|Pyrenophora teres	6.33490
+202697	species	2759|5204|155619|721927|721929|202696|202697	Eukaryota|Basidiomycota|Agaricomycetes|Jaapiales|Jaapiaceae|Jaapia|Jaapia argillacea	0.72624
+5322	species	2759|5204|155619|5338|104366|5320|5322	Eukaryota|Basidiomycota|Agaricomycetes|Agaricales|Pleurotaceae|Pleurotus|Pleurotus ostreatus	0.84762
+112123	species	2759|4890|147548|5178||13000|112123	Eukaryota|Ascomycota|Leotiomycetes|Helotiales||Chalara|Chalara longipes	0.17499
+29829	species	2759|4890|4891|4892|29827|29828|29829	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Lipomycetaceae|Lipomyces|Lipomyces starkeyi	0.19319
+3067	species	2759|3041|3166|3042|3065|3066|3067	Eukaryota|Chlorophyta|Chlorophyceae|Chlamydomonadales|Volvocaceae|Volvox|Volvox carteri	11.65933
+6657	strain	2759|6656||||||6657	Eukaryota|Arthropoda||||||Crustacea	0.00310
+742152	strain	2759|5204|155619|5303|2028212|81055|81056|742152	Eukaryota|Basidiomycota|Agaricomycetes|Polyporales|Laetiporaceae|Wolfiporia|Wolfiporia cocos|Wolfiporia cocos MD-104 SS10	0.34403
+1437201	strain	2759|35493|3398|||||1437201	Eukaryota|Streptophyta|Magnoliopsida|||||Pentapetalae	2.09106
+716546	strain	2759|4890||||||716546	Eukaryota|Ascomycota||||||leotiomyceta	8.45516
+716545	strain	2759|4890||||||716545	Eukaryota|Ascomycota||||||saccharomyceta	5.56135
+747525	strain	2759|5204|155619|452342|40420|13562|984962|747525	Eukaryota|Basidiomycota|Agaricomycetes|Russulales|Bondarzewiaceae|Heterobasidion|Heterobasidion irregulare|Heterobasidion irregulare TC 32-1	0.30891
+1437197	strain	2759|35493|3398|||||1437197	Eukaryota|Streptophyta|Magnoliopsida|||||Petrosaviidae	0.00620
+451868	strain	2759|4890|147541|||||451868	Eukaryota|Ascomycota|Dothideomycetes|||||Pleosporomycetidae	1.30278
+451864	strain	2759|||||||451864	Eukaryota|||||||Dikarya	11.53699
+33317	strain	2759|||||||33317	Eukaryota|||||||Protostomia	0.01136
+1160509	strain	2759|4890|147549|5185|5189|5190|5191|1160509	Eukaryota|Ascomycota|Pezizomycetes|Pezizales|Ascobolaceae|Ascobolus|Ascobolus immersus|Ascobolus immersus RN42	0.18596
+33090	strain	2759|||||||33090	Eukaryota|||||||Viridiplantae	1.31105
+2231393	strain	2759|35493|3398|72025|3803|||2231393	Eukaryota|Streptophyta|Magnoliopsida|Fabales|Fabaceae|||50 kb inversion clade	0.20353
+715340	strain	2759|4890|147541|92860||||715340	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales||||Pleosporineae	0.07748
+29000	strain	2759|5204||||||29000	Eukaryota|Basidiomycota||||||Pucciniomycotina	0.02996
+2696291	strain	2759|||||||2696291	Eukaryota|||||||Ochrophyta	0.00103
+147538	strain	2759|4890||||||147538	Eukaryota|Ascomycota||||||Pezizomycotina	2.09726
+747089	strain	2759|1913637|214506|36750|36751|1129544|588596|747089	Eukaryota|Mucoromycota|Glomeromycetes|Glomerales|Glomeraceae|Rhizophagus|Rhizophagus irregularis|Rhizophagus irregularis DAOM 181602=DAOM 197198	3.09217
+33634	strain	2759|||||||33634	Eukaryota|||||||Stramenopiles	0.00620
+71275	strain	2759|35493|3398|||||71275	Eukaryota|Streptophyta|Magnoliopsida|||||rosids	0.28928
+71274	strain	2759|35493|3398|||||71274	Eukaryota|Streptophyta|Magnoliopsida|||||asterids	0.14464
+355688	strain	2759|5204|155619|||||355688	Eukaryota|Basidiomycota|Agaricomycetes|||||Agaricomycetes incertae sedis	0.02893
+698492	strain	2759|4890||||5605|5606|698492	Eukaryota|Ascomycota||||Saitoella|Saitoella complicata|Saitoella complicata NRRL Y-17804	2.22124
+3193	strain	2759|35493||||||3193	Eukaryota|Streptophyta||||||Embryophyta	0.04752
+112252	strain	2759|||||||112252	Eukaryota|||||||Fungi incertae sedis	0.39362
+4734	strain	2759|35493|3398|||||4734	Eukaryota|Streptophyta|Magnoliopsida|||||commelinids	0.00620
+33154	strain	2759|||||||33154	Eukaryota|||||||Opisthokonta	1.70157
+280463	strain	2759|2608109|2830|73020|418966|2902|2903|280463	Eukaryota|Haptista|Haptophyta|Isochrysidales|Noelaerhabdaceae|Emiliania|Emiliania huxleyi|Emiliania huxleyi CCMP1516	0.25312
+4751	strain	2759|||||||4751	Eukaryota|||||||Fungi	19.71630
+578456	strain	2759|5204|155616|5234|5215|105767|5217|578456	Eukaryota|Basidiomycota|Tremellomycetes|Tremellales|Tremellaceae|Tremella|Tremella mesenterica|Tremella mesenterica DSM 1558	0.21799
+1255046	strain	2759|4890|147541|92860||||1255046	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales||||Massarineae	0.14774
+159639	strain	2759|4890|147548|5178||||159639	Eukaryota|Ascomycota|Leotiomycetes|Helotiales||||Helotiales incertae sedis	0.13327
+1392256	strain	2759|4890|147545|5042|1131492|5052|138278|1392256	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Aspergillus|Aspergillus ochraceoroseus|Aspergillus ochraceoroseus IBT 24754	0.51657
+131221	strain	2759|35493||||||131221	Eukaryota|Streptophyta||||||Streptophytina	0.02376
+1824901	strain	2759|35493|3398|4069|4118|4128||1824901	Eukaryota|Streptophyta|Magnoliopsida|Solanales|Convolvulaceae|Cuscuta||Cuscuta sect. Cleistogrammica	0.09402
+984486	strain	2759|4890|4891|4892|766764|766748|45609|984486	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Babjeviella|Babjeviella inositovora|Babjeviella inositovora NRRL Y-12698	0.31614
+2692248	strain	2759|3041||||||2692248	Eukaryota|Chlorophyta||||||core chlorophytes	0.14464
+683960	strain	2759|4890|4891|4892|115784|599737|4927|683960	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Phaffomycetaceae|Wickerhamomyces|Wickerhamomyces anomalus|Wickerhamomyces anomalus NRRL Y-366-8	0.71080
+5302	strain	2759|5204||||||5302	Eukaryota|Basidiomycota||||||Agaricomycotina	2.46195
+6072	strain	2759|||||||6072	Eukaryota|||||||Eumetazoa	0.07439
+91835	strain	2759|35493|3398|||||91835	Eukaryota|Streptophyta|Magnoliopsida|||||fabids	0.23349
+1910950	strain	10239|2732412|2732413|2732414|10841|||1910950	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|||Bullavirinae	0.04442
+650164	strain	2759|5204|155619|5303|396331|5305|231932|650164	Eukaryota|Basidiomycota|Agaricomycetes|Polyporales|Phanerochaetaceae|Phanerochaete|Phanerochaete carnosa|Phanerochaete carnosa HHB-10118-sp	0.24795
+97479	strain	2759|4890|147541|92860|28556|5027|53485|97479	Eukaryota|Ascomycota|Dothideomycetes|Pleosporales|Pleosporaceae|Pyrenophora|Pyrenophora teres|Pyrenophora teres f. teres	6.47051
+933084	strain	2759|5204|155619|721927|721929|202696|202697|933084	Eukaryota|Basidiomycota|Agaricomycetes|Jaapiales|Jaapiaceae|Jaapia|Jaapia argillacea|Jaapia argillacea MUCL 33604	0.74179
+715989	strain	2759|4890||||||715989	Eukaryota|Ascomycota||||||sordariomyceta	0.17977
+1137138	strain	2759|5204|155619|5338|104366|5320|5322|1137138	Eukaryota|Basidiomycota|Agaricomycetes|Agaricales|Pleurotaceae|Pleurotus|Pleurotus ostreatus|Pleurotus ostreatus PC15	0.86577
+1437183	strain	2759|35493|3398|||||1437183	Eukaryota|Streptophyta|Magnoliopsida|||||Mesangiospermae	12.17133
+452333	strain	2759|5204|155619|||||452333	Eukaryota|Basidiomycota|Agaricomycetes|||||Agaricomycetidae	0.01653
+91888	strain	2759|35493|3398|||||91888	Eukaryota|Streptophyta|Magnoliopsida|||||lamiids	0.26035
+159987	strain	2759|4890|147541|||||159987	Eukaryota|Ascomycota|Dothideomycetes|||||Dothideomycetes incertae sedis	0.18286
+1783272	strain	2|||||||1783272	Bacteria|||||||Terrabacteria group	0.03099
+1379296	strain	2759|4890|147548|5178||13000|112123|1379296	Eukaryota|Ascomycota|Leotiomycetes|Helotiales||Chalara|Chalara longipes|Chalara longipes BDJ	0.17873
+675824	strain	2759|4890|4891|4892|29827|29828|29829|675824	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Lipomycetaceae|Lipomyces|Lipomyces starkeyi|Lipomyces starkeyi NRRL Y-11557	0.19733
+3068	strain	2759|3041|3166|3042|3065|3066|3067|3068	Eukaryota|Chlorophyta|Chlorophyceae|Chlamydomonadales|Volvocaceae|Volvox|Volvox carteri|Volvox carteri f. nagariensis	11.90892

@@ -1,0 +1,107 @@
+#mpa_v30_CHOCOPhlAn_201901
+#/home/ugrads/cqm5886/miniconda3/envs/cse566finalproject/bin/metaphlan /home/ugrads/cqm5886/work/CSE566finalproject/data/simulated_data/camisim_out/viruses/2021.04.13_11.56.31_sample_0/reads/anonymous_reads.fq --input_type fastq --add_viruses --CAMI_format_output --unknown_estimation --nproc 8 --output_file /home/ugrads/cqm5886/work/CSE566finalproject/data/run_data/MetaPhlAn3/simulated_data/virus/profiled_metagenome0.txt
+@SampleID:Metaphlan_Analysis
+
+                           @Version:0.10.0
+
+                           @Ranks:superkingdom|phylum|class|order|family|genus|species|strain
+
+                           @@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+10239	superkingdom	10239	Viruses	100.0
+	phylum	10239|	Viruses|	96.26815
+2497569	phylum	10239|2497569	Viruses|Negarnaviricota	3.73185
+	class	10239||	Viruses||	96.26815
+2497574	class	10239|2497569|2497574	Viruses|Negarnaviricota|Monjiviricetes	2.94208
+2497576	class	10239|2497569|2497576	Viruses|Negarnaviricota|Ellioviricetes	0.53808
+2497577	class	10239|2497569|2497577	Viruses|Negarnaviricota|Insthoviricetes	0.25169
+	order	10239|||	Viruses|||	96.03707
+11157	order	10239|2497569|2497574|11157	Viruses|Negarnaviricota|Monjiviricetes|Mononegavirales	2.94208
+1980410	order	10239|2497569|2497576|1980410	Viruses|Negarnaviricota|Ellioviricetes|Bunyavirales	0.53808
+2499411	order	10239|2497569|2497577|2499411	Viruses|Negarnaviricota|Insthoviricetes|Articulavirales	0.25169
+2169561	order	10239|||2169561	Viruses|||Ortervirales	0.12851
+464095	order	10239|||464095	Viruses|||Picornavirales	0.10258
+10880	family	10239||||10880	Viruses||||Reoviridae	66.71698
+151340	family	10239||||151340	Viruses||||Papillomaviridae	14.37229
+10486	family	10239||||10486	Viruses||||Iridoviridae	11.37049
+11270	family	10239|2497569|2497574|11157|11270	Viruses|Negarnaviricota|Monjiviricetes|Mononegavirales|Rhabdoviridae	2.19025
+151341	family	10239||||151341	Viruses||||Polyomaviridae	1.66511
+10780	family	10239||||10780	Viruses||||Parvoviridae	1.02982
+11158	family	10239|2497569|2497574|11157|11158	Viruses|Negarnaviricota|Monjiviricetes|Mononegavirales|Paramyxoviridae	0.75182
+11617	family	10239|2497569|2497576|1980410|11617	Viruses|Negarnaviricota|Ellioviricetes|Bunyavirales|Arenaviridae	0.53808
+549779	family	10239||||549779	Viruses||||Mimiviridae	0.39181
+11308	family	10239|2497569|2497577|2499411|11308	Viruses|Negarnaviricota|Insthoviricetes|Articulavirales|Orthomyxoviridae	0.25169
+39729	family	10239||||39729	Viruses||||Potyviridae	0.21032
+11632	family	10239|||2169561|11632	Viruses|||Ortervirales|Retroviridae	0.12851
+10508	family	10239||||10508	Viruses||||Adenoviridae	0.11833
+10811	family	10239||||10811	Viruses||||Geminiviridae	0.10809
+	family	10239|||464095|	Viruses|||Picornavirales|	0.08205
+11989	family	10239||||11989	Viruses||||Leviviridae	0.05383
+12058	family	10239|||464095|12058	Viruses|||Picornavirales|Picornaviridae	0.02053
+10892	genus	10239||||10880|10892	Viruses||||Reoviridae|Orbivirus	65.6796
+10491	genus	10239||||10486|10491	Viruses||||Iridoviridae|Chloriridovirus	11.22261
+333750	genus	10239||||151340|333750	Viruses||||Papillomaviridae|Alphapapillomavirus	9.37579
+934804	genus	10239||||151340|934804	Viruses||||Papillomaviridae|Dyoiotapapillomavirus	3.7126
+1308858	genus	10239|2497569|2497574|11157|11270|1308858	Viruses|Negarnaviricota|Monjiviricetes|Mononegavirales|Rhabdoviridae|Sigmavirus	2.19025
+1891714	genus	10239||||151341|1891714	Viruses||||Polyomaviridae|Betapolyomavirus	1.66511
+10912	genus	10239||||10880|10912	Viruses||||Reoviridae|Rotavirus	1.03222
+1507401	genus	10239||||10780|1507401	Viruses||||Parvoviridae|Bocaparvovirus	0.86242
+260963	genus	10239|2497569|2497574|11157|11158|260963	Viruses|Negarnaviricota|Monjiviricetes|Mononegavirales|Paramyxoviridae|Avulavirus	0.63089
+1653395	genus	10239|2497569|2497576|1980410|11617|1653395	Viruses|Negarnaviricota|Ellioviricetes|Bunyavirales|Arenaviridae|Reptarenavirus	0.53808
+325462	genus	10239||||151340|325462	Viruses||||Papillomaviridae|Lambdapapillomavirus	0.42121
+315393	genus	10239||||549779|315393	Viruses||||Mimiviridae|Mimivirus	0.39181
+334211	genus	10239||||151340|334211	Viruses||||Papillomaviridae|Pipapillomavirus	0.32286
+197913	genus	10239|2497569|2497577|2499411|11308|197913	Viruses|Negarnaviricota|Insthoviricetes|Articulavirales|Orthomyxoviridae|Gammainfluenzavirus	0.25169
+333922	genus	10239||||151340|333922	Viruses||||Papillomaviridae|Betapapillomavirus	0.21727
+137757	genus	10239||||39729|137757	Viruses||||Potyviridae|Ipomovirus	0.21032
+935635	genus	10239||||151340|935635	Viruses||||Papillomaviridae|Sigmapapillomavirus	0.17069
+1511888	genus	10239||||10780|1511888	Viruses||||Parvoviridae|Copiparvovirus	0.16372
+334202	genus	10239||||151340|334202	Viruses||||Papillomaviridae|Mupapillomavirus	0.15187
+10487	genus	10239||||10486|10487	Viruses||||Iridoviridae|Iridovirus	0.14788
+	genus	10239|2497569|2497574|11157|11158|	Viruses|Negarnaviricota|Monjiviricetes|Mononegavirales|Paramyxoviridae|	0.12094
+10552	genus	10239||||10508|10552	Viruses||||Adenoviridae|Aviadenovirus	0.11739
+10812	genus	10239||||10811|10812	Viruses||||Geminiviridae|Mastrevirus	0.10809
+11646	genus	10239|||2169561|11632|11646	Viruses|||Ortervirales|Retroviridae|Lentivirus	0.09009
+	genus	10239|||464095||	Viruses|||Picornavirales||	0.08205
+12008	genus	10239||||11989|12008	Viruses||||Leviviridae|Allolevivirus	0.05383
+153057	genus	10239|||2169561|11632|153057	Viruses|||Ortervirales|Retroviridae|Alpharetrovirus	0.02843
+194960	genus	10239|||464095|12058|194960	Viruses|||Picornavirales|Picornaviridae|Kobuvirus	0.02053
+153135	genus	10239|||2169561|11632|153135	Viruses|||Ortervirales|Retroviridae|Gammaretrovirus	0.00998
+699182	genus	10239||||10880|699182	Viruses||||Reoviridae|Mimoreovirus	0.00517
+	genus	10239||||10780|	Viruses||||Parvoviridae|	0.00368
+10509	genus	10239||||10508|10509	Viruses||||Adenoviridae|Mastadenovirus	0.00095
+204269	species	10239||||10880|10892|204269	Viruses||||Reoviridae|Orbivirus|Great_Island_virus	65.6796
+345201	species	10239||||10486|10491|345201	Viruses||||Iridoviridae|Chloriridovirus|Invertebrate_iridescent_virus_3	11.22261
+337043	species	10239||||151340|333750|337043	Viruses||||Papillomaviridae|Alphapapillomavirus|Alphapapillomavirus_4	9.37579
+1233177	species	10239||||151340|934804|1233177	Viruses||||Papillomaviridae|Dyoiotapapillomavirus|Dyoiotapapillomavirus_1	3.7126
+1094373	species	10239|2497569|2497574|11157|11270|1308858|1094373	Viruses|Negarnaviricota|Monjiviricetes|Mononegavirales|Rhabdoviridae|Sigmavirus|Drosophila_melanogaster_sigmavirus	2.19025
+1891762	species	10239||||151341|1891714|1891762	Viruses||||Polyomaviridae|Betapolyomavirus|Human_polyomavirus_1	1.66511
+335100	species	10239||||10880|10912|335100	Viruses||||Reoviridae|Rotavirus|Rotavirus_D	1.03222
+1511868	species	10239||||10780|1507401|1511868	Viruses||||Parvoviridae|Bocaparvovirus|Carnivore_bocaparvovirus_3	0.86242
+28274	species	10239|2497569|2497574|11157|11158|260963|28274	Viruses|Negarnaviricota|Monjiviricetes|Mononegavirales|Paramyxoviridae|Avulavirus|Avian_avulavirus_4	0.63089
+2170177	species	10239|2497569|2497576|1980410|11617|1653395|2170177	Viruses|Negarnaviricota|Ellioviricetes|Bunyavirales|Arenaviridae|Reptarenavirus|Golden_reptarenavirus	0.53808
+1513272	species	10239||||151340|325462|1513272	Viruses||||Papillomaviridae|Lambdapapillomavirus|Lambdapapillomavirus_5	0.42121
+212035	species	10239||||549779|315393|212035	Viruses||||Mimiviridae|Mimivirus|Acanthamoeba_polyphaga_mimivirus	0.39181
+1176145	species	10239||||151340|334211|1176145	Viruses||||Papillomaviridae|Pipapillomavirus|Pipapillomavirus_2	0.32286
+11552	species	10239|2497569|2497577|2499411|11308|197913|11552	Viruses|Negarnaviricota|Insthoviricetes|Articulavirales|Orthomyxoviridae|Gammainfluenzavirus|Influenza_C_virus	0.25169
+334207	species	10239||||151340|333922|334207	Viruses||||Papillomaviridae|Betapapillomavirus|Betapapillomavirus_3	0.21727
+41459	species	10239||||39729|137757|41459	Viruses||||Potyviridae|Ipomovirus|Sweet_potato_mild_mottle_virus	0.21032
+1176147	species	10239||||151340|935635|1176147	Viruses||||Papillomaviridae|Sigmapapillomavirus|Sigmapapillomavirus_1	0.17069
+1511889	species	10239||||10780|1511888|1511889	Viruses||||Parvoviridae|Copiparvovirus|Ungulate_copiparvovirus_1	0.16372
+334204	species	10239||||151340|334202|334204	Viruses||||Papillomaviridae|Mupapillomavirus|Mupapillomavirus_2	0.15187
+322067	species	10239|2497569|2497574|11157|11158||322067	Viruses|Negarnaviricota|Monjiviricetes|Mononegavirales|Paramyxoviridae||J_virus	0.12094
+1193420	species	10239||||10508|10552|1193420	Viruses||||Adenoviridae|Aviadenovirus|Goose_aviadenovirus_A	0.11739
+71548	species	10239||||10811|10812|71548	Viruses||||Geminiviridae|Mastrevirus|Sugarcane_streak_Egypt_virus	0.10809
+11723	species	10239|||2169561|11632|11646|11723	Viruses|||Ortervirales|Retroviridae|Lentivirus|Simian_immunodeficiency_virus	0.09009
+439015	species	10239|||464095|||439015	Viruses|||Picornavirales|||Marine_RNA_virus_JP_A	0.08205
+345195	species	10239||||10486|10487|345195	Viruses||||Iridoviridae|Iridovirus|Invertebrate_iridescent_virus_9	0.07828
+1301279	species	10239||||10486|10487|1301279	Viruses||||Iridoviridae|Iridovirus|Invertebrate_iridovirus_22	0.0696
+39803	species	10239||||11989|12008|39803	Viruses||||Leviviridae|Allolevivirus|Escherichia_virus_Qbeta	0.05383
+11867	species	10239|||2169561|11632|153057|11867	Viruses|||Ortervirales|Retroviridae|Alpharetrovirus|Avian_myelocytomatosis_virus	0.02144
+1298633	species	10239|||464095|12058|194960|1298633	Viruses|||Picornavirales|Picornaviridae|Kobuvirus|Aichivirus_C	0.02053
+11788	species	10239|||2169561|11632|153135|11788	Viruses|||Ortervirales|Retroviridae|Gammaretrovirus|Abelson_murine_leukemia_virus	0.00998
+338781	species	10239||||10880|699182|338781	Viruses||||Reoviridae|Mimoreovirus|Micromonas_pusilla_reovirus	0.00517
+11958	species	10239|||2169561|11632|153057|11958	Viruses|||Ortervirales|Retroviridae|Alpharetrovirus|Avian_carcinoma_virus	0.00373
+1979758	species	10239||||10780||1979758	Viruses||||Parvoviridae||Orthopteran_densovirus_1	0.00368
+11885	species	10239|||2169561|11632|153057|11885	Viruses|||Ortervirales|Retroviridae|Alpharetrovirus|Fujinami_sarcoma_virus	0.00327
+1146877	species	10239||||10508|10509|1146877	Viruses||||Adenoviridae|Mastadenovirus|Bat_mastadenovirus_A	0.00095

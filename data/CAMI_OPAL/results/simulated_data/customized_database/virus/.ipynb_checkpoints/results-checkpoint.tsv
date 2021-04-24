@@ -1,0 +1,562 @@
+tool	rank	metric	sample	value
+Gold standard	superkingdom	Bray-Curtis distance	simulated_virus	0.0
+Gold standard	phylum	Bray-Curtis distance	simulated_virus	0.0
+Gold standard	class	Bray-Curtis distance	simulated_virus	0.0
+Gold standard	order	Bray-Curtis distance	simulated_virus	0.0
+Gold standard	family	Bray-Curtis distance	simulated_virus	0.0
+Gold standard	genus	Bray-Curtis distance	simulated_virus	0.0
+Gold standard	species	Bray-Curtis distance	simulated_virus	0.0
+Gold standard	strain	Bray-Curtis distance	simulated_virus	0.0
+Gold standard	superkingdom	Shannon diversity	simulated_virus	0.0
+Gold standard	superkingdom	Shannon equitability	simulated_virus	0.0
+Gold standard	phylum	Shannon diversity	simulated_virus	1.4421835526741065
+Gold standard	phylum	Shannon equitability	simulated_virus	0.6263323588179921
+Gold standard	class	Shannon diversity	simulated_virus	1.6875612440455685
+Gold standard	class	Shannon equitability	simulated_virus	0.6086590594952379
+Gold standard	order	Shannon diversity	simulated_virus	1.7532628768122493
+Gold standard	order	Shannon equitability	simulated_virus	0.5852535262546221
+Gold standard	family	Shannon diversity	simulated_virus	1.9759864047197933
+Gold standard	family	Shannon equitability	simulated_virus	0.5651314547396658
+Gold standard	genus	Shannon diversity	simulated_virus	2.274836367044713
+Gold standard	genus	Shannon equitability	simulated_virus	0.5372647959078892
+Gold standard	species	Shannon diversity	simulated_virus	2.2943326929350345
+Gold standard	species	Shannon equitability	simulated_virus	0.5235779889561952
+Gold standard	strain	Shannon diversity	simulated_virus	2.2999865593790614
+Gold standard	strain	Shannon equitability	simulated_virus	0.5219271821791057
+Gold standard	superkingdom	True positives	simulated_virus	1.0
+Gold standard	superkingdom	False negatives	simulated_virus	0.0
+Gold standard	superkingdom	False positives	simulated_virus	0.0
+Gold standard	superkingdom	Completeness	simulated_virus	1.0
+Gold standard	superkingdom	Purity	simulated_virus	1.0
+Gold standard	superkingdom	F1 score	simulated_virus	1.0
+Gold standard	superkingdom	Jaccard index	simulated_virus	1.0
+Gold standard	superkingdom	Taxon counts	simulated_virus	1.0
+Gold standard	phylum	True positives	simulated_virus	10.0
+Gold standard	phylum	False negatives	simulated_virus	0.0
+Gold standard	phylum	False positives	simulated_virus	0.0
+Gold standard	phylum	Completeness	simulated_virus	1.0
+Gold standard	phylum	Purity	simulated_virus	1.0
+Gold standard	phylum	F1 score	simulated_virus	1.0
+Gold standard	phylum	Jaccard index	simulated_virus	1.0
+Gold standard	phylum	Taxon counts	simulated_virus	10.0
+Gold standard	class	True positives	simulated_virus	16.0
+Gold standard	class	False negatives	simulated_virus	0.0
+Gold standard	class	False positives	simulated_virus	0.0
+Gold standard	class	Completeness	simulated_virus	1.0
+Gold standard	class	Purity	simulated_virus	1.0
+Gold standard	class	F1 score	simulated_virus	1.0
+Gold standard	class	Jaccard index	simulated_virus	1.0
+Gold standard	class	Taxon counts	simulated_virus	16.0
+Gold standard	order	True positives	simulated_virus	20.0
+Gold standard	order	False negatives	simulated_virus	0.0
+Gold standard	order	False positives	simulated_virus	0.0
+Gold standard	order	Completeness	simulated_virus	1.0
+Gold standard	order	Purity	simulated_virus	1.0
+Gold standard	order	F1 score	simulated_virus	1.0
+Gold standard	order	Jaccard index	simulated_virus	1.0
+Gold standard	order	Taxon counts	simulated_virus	20.0
+Gold standard	family	True positives	simulated_virus	33.0
+Gold standard	family	False negatives	simulated_virus	0.0
+Gold standard	family	False positives	simulated_virus	0.0
+Gold standard	family	Completeness	simulated_virus	1.0
+Gold standard	family	Purity	simulated_virus	1.0
+Gold standard	family	F1 score	simulated_virus	1.0
+Gold standard	family	Jaccard index	simulated_virus	1.0
+Gold standard	family	Taxon counts	simulated_virus	33.0
+Gold standard	genus	True positives	simulated_virus	69.0
+Gold standard	genus	False negatives	simulated_virus	0.0
+Gold standard	genus	False positives	simulated_virus	0.0
+Gold standard	genus	Completeness	simulated_virus	1.0
+Gold standard	genus	Purity	simulated_virus	1.0
+Gold standard	genus	F1 score	simulated_virus	1.0
+Gold standard	genus	Jaccard index	simulated_virus	1.0
+Gold standard	genus	Taxon counts	simulated_virus	69.0
+Gold standard	species	True positives	simulated_virus	80.0
+Gold standard	species	False negatives	simulated_virus	0.0
+Gold standard	species	False positives	simulated_virus	0.0
+Gold standard	species	Completeness	simulated_virus	1.0
+Gold standard	species	Purity	simulated_virus	1.0
+Gold standard	species	F1 score	simulated_virus	1.0
+Gold standard	species	Jaccard index	simulated_virus	1.0
+Gold standard	species	Taxon counts	simulated_virus	80.0
+Gold standard	strain	True positives	simulated_virus	82.0
+Gold standard	strain	False negatives	simulated_virus	0.0
+Gold standard	strain	False positives	simulated_virus	0.0
+Gold standard	strain	Completeness	simulated_virus	1.0
+Gold standard	strain	Purity	simulated_virus	1.0
+Gold standard	strain	F1 score	simulated_virus	1.0
+Gold standard	strain	Jaccard index	simulated_virus	1.0
+Gold standard	strain	Taxon counts	simulated_virus	82.0
+Gold standard	superkingdom	L1 norm error	simulated_virus	0.0
+Gold standard	phylum	L1 norm error	simulated_virus	0.0
+Gold standard	class	L1 norm error	simulated_virus	0.0
+Gold standard	order	L1 norm error	simulated_virus	0.0
+Gold standard	family	L1 norm error	simulated_virus	0.0
+Gold standard	genus	L1 norm error	simulated_virus	0.0
+Gold standard	species	L1 norm error	simulated_virus	0.0
+Gold standard	strain	L1 norm error	simulated_virus	0.0
+Gold standard	na	Weighted UniFrac error	simulated_virus	0.0
+Gold standard	na	Unweighted UniFrac error	simulated_virus	0.0
+MiCoP	superkingdom	Bray-Curtis distance	simulated_virus	0.0
+MiCoP	phylum	Bray-Curtis distance	simulated_virus	1.0
+MiCoP	order	Bray-Curtis distance	simulated_virus	1.0
+MiCoP	family	Bray-Curtis distance	simulated_virus	1.0
+MiCoP	genus	Bray-Curtis distance	simulated_virus	0.8766967212863993
+MiCoP	species	Bray-Curtis distance	simulated_virus	1.0
+MiCoP	strain	Bray-Curtis distance	simulated_virus	1.0
+MiCoP	superkingdom	Shannon diversity	simulated_virus	0.0
+MiCoP	superkingdom	Shannon equitability	simulated_virus	0.0
+MiCoP	phylum	Shannon diversity	simulated_virus	-5.5649655623160905
+MiCoP	phylum	Shannon equitability	simulated_virus	0.0
+MiCoP	order	Shannon diversity	simulated_virus	2.1133790193188866
+MiCoP	order	Shannon equitability	simulated_virus	0.648654511815743
+MiCoP	family	Shannon diversity	simulated_virus	0.48836379474314534
+MiCoP	family	Shannon equitability	simulated_virus	0.27256102346904154
+MiCoP	genus	Shannon diversity	simulated_virus	2.4743782903227594
+MiCoP	genus	Shannon equitability	simulated_virus	0.6174625807110713
+MiCoP	species	Shannon diversity	simulated_virus	2.5782798044079684
+MiCoP	species	Shannon equitability	simulated_virus	0.5900699336535744
+MiCoP	strain	Shannon diversity	simulated_virus	0.02600125964182936
+MiCoP	strain	Shannon equitability	simulated_virus	0.0
+MiCoP	superkingdom	True positives	simulated_virus	1.0
+MiCoP	superkingdom	False negatives	simulated_virus	0.0
+MiCoP	superkingdom	False positives	simulated_virus	0.0
+MiCoP	superkingdom	Completeness	simulated_virus	1.0
+MiCoP	superkingdom	Purity	simulated_virus	1.0
+MiCoP	superkingdom	F1 score	simulated_virus	1.0
+MiCoP	superkingdom	Jaccard index	simulated_virus	1.0
+MiCoP	superkingdom	Taxon counts	simulated_virus	1.0
+MiCoP	phylum	True positives	simulated_virus	0.0
+MiCoP	phylum	False negatives	simulated_virus	10.0
+MiCoP	phylum	False positives	simulated_virus	1.0
+MiCoP	phylum	Completeness	simulated_virus	0.0
+MiCoP	phylum	Purity	simulated_virus	0.0
+MiCoP	phylum	Jaccard index	simulated_virus	0.0
+MiCoP	phylum	Taxon counts	simulated_virus	1.0
+MiCoP	class	True positives	simulated_virus	0.0
+MiCoP	class	False negatives	simulated_virus	16.0
+MiCoP	class	False positives	simulated_virus	0.0
+MiCoP	class	Completeness	simulated_virus	0.0
+MiCoP	class	Purity	simulated_virus	0.0
+MiCoP	class	Jaccard index	simulated_virus	0.0
+MiCoP	class	Taxon counts	simulated_virus	0.0
+MiCoP	order	True positives	simulated_virus	0.0
+MiCoP	order	False negatives	simulated_virus	20.0
+MiCoP	order	False positives	simulated_virus	26.0
+MiCoP	order	Completeness	simulated_virus	0.0
+MiCoP	order	Purity	simulated_virus	0.0
+MiCoP	order	Jaccard index	simulated_virus	0.0
+MiCoP	order	Taxon counts	simulated_virus	26.0
+MiCoP	family	True positives	simulated_virus	0.0
+MiCoP	family	False negatives	simulated_virus	33.0
+MiCoP	family	False positives	simulated_virus	6.0
+MiCoP	family	Completeness	simulated_virus	0.0
+MiCoP	family	Purity	simulated_virus	0.0
+MiCoP	family	Jaccard index	simulated_virus	0.0
+MiCoP	family	Taxon counts	simulated_virus	6.0
+MiCoP	genus	True positives	simulated_virus	15.0
+MiCoP	genus	False negatives	simulated_virus	54.0
+MiCoP	genus	False positives	simulated_virus	40.0
+MiCoP	genus	Completeness	simulated_virus	0.21739130434782608
+MiCoP	genus	Purity	simulated_virus	0.2727272727272727
+MiCoP	genus	F1 score	simulated_virus	0.24193548387096772
+MiCoP	genus	Jaccard index	simulated_virus	0.13761467889908258
+MiCoP	genus	Taxon counts	simulated_virus	55.0
+MiCoP	species	True positives	simulated_virus	0.0
+MiCoP	species	False negatives	simulated_virus	80.0
+MiCoP	species	False positives	simulated_virus	79.0
+MiCoP	species	Completeness	simulated_virus	0.0
+MiCoP	species	Purity	simulated_virus	0.0
+MiCoP	species	Jaccard index	simulated_virus	0.0
+MiCoP	species	Taxon counts	simulated_virus	79.0
+MiCoP	strain	True positives	simulated_virus	0.0
+MiCoP	strain	False negatives	simulated_virus	82.0
+MiCoP	strain	False positives	simulated_virus	1.0
+MiCoP	strain	Completeness	simulated_virus	0.0
+MiCoP	strain	Purity	simulated_virus	0.0
+MiCoP	strain	Jaccard index	simulated_virus	0.0
+MiCoP	strain	Taxon counts	simulated_virus	1.0
+MiCoP	superkingdom	L1 norm error	simulated_virus	0.0
+MiCoP	phylum	L1 norm error	simulated_virus	5.008289807970431
+MiCoP	order	L1 norm error	simulated_virus	1.922018206430546
+MiCoP	family	L1 norm error	simulated_virus	1.2019602666157603
+MiCoP	genus	L1 norm error	simulated_virus	1.6986825893329867
+MiCoP	species	L1 norm error	simulated_virus	1.9203689384656923
+MiCoP	strain	L1 norm error	simulated_virus	1.0048872292288742
+MiCoP	na	Weighted UniFrac error	simulated_virus	13.252000414055436
+MiCoP	na	Unweighted UniFrac error	simulated_virus	773.0273091977832
+Metalign	superkingdom	Bray-Curtis distance	simulated_virus	0.0003509231038248284
+Metalign	order	Bray-Curtis distance	simulated_virus	0.8799998007200212
+Metalign	family	Bray-Curtis distance	simulated_virus	0.6716546182846441
+Metalign	genus	Bray-Curtis distance	simulated_virus	0.6960465087203348
+Metalign	species	Bray-Curtis distance	simulated_virus	0.7016472229281643
+Metalign	strain	Bray-Curtis distance	simulated_virus	0.8601833152244888
+Metalign	superkingdom	Shannon diversity	simulated_virus	0.0007013538211402052
+Metalign	superkingdom	Shannon equitability	simulated_virus	0.0
+Metalign	order	Shannon diversity	simulated_virus	0.25077111929361623
+Metalign	order	Shannon equitability	simulated_virus	0.13995802650991773
+Metalign	family	Shannon diversity	simulated_virus	1.4744099625400662
+Metalign	family	Shannon equitability	simulated_virus	0.4424728308355069
+Metalign	genus	Shannon diversity	simulated_virus	1.6232925667858167
+Metalign	genus	Shannon equitability	simulated_virus	0.39487773656423236
+Metalign	species	Shannon diversity	simulated_virus	1.7381373092445709
+Metalign	species	Shannon equitability	simulated_virus	0.3933469123502221
+Metalign	strain	Shannon diversity	simulated_virus	1.7381373092445709
+Metalign	strain	Shannon equitability	simulated_virus	0.3933469123502221
+Metalign	superkingdom	True positives	simulated_virus	1.0
+Metalign	superkingdom	False negatives	simulated_virus	0.0
+Metalign	superkingdom	False positives	simulated_virus	0.0
+Metalign	superkingdom	Completeness	simulated_virus	1.0
+Metalign	superkingdom	Purity	simulated_virus	1.0
+Metalign	superkingdom	F1 score	simulated_virus	1.0
+Metalign	superkingdom	Jaccard index	simulated_virus	1.0
+Metalign	superkingdom	Taxon counts	simulated_virus	1.0
+Metalign	phylum	True positives	simulated_virus	0.0
+Metalign	phylum	False negatives	simulated_virus	10.0
+Metalign	phylum	False positives	simulated_virus	0.0
+Metalign	phylum	Completeness	simulated_virus	0.0
+Metalign	phylum	Purity	simulated_virus	0.0
+Metalign	phylum	Jaccard index	simulated_virus	0.0
+Metalign	phylum	Taxon counts	simulated_virus	0.0
+Metalign	class	True positives	simulated_virus	0.0
+Metalign	class	False negatives	simulated_virus	16.0
+Metalign	class	False positives	simulated_virus	0.0
+Metalign	class	Completeness	simulated_virus	0.0
+Metalign	class	Purity	simulated_virus	0.0
+Metalign	class	Jaccard index	simulated_virus	0.0
+Metalign	class	Taxon counts	simulated_virus	0.0
+Metalign	order	True positives	simulated_virus	6.0
+Metalign	order	False negatives	simulated_virus	14.0
+Metalign	order	False positives	simulated_virus	0.0
+Metalign	order	Completeness	simulated_virus	0.3
+Metalign	order	Purity	simulated_virus	1.0
+Metalign	order	F1 score	simulated_virus	0.4615384615384615
+Metalign	order	Jaccard index	simulated_virus	0.3
+Metalign	order	Taxon counts	simulated_virus	6.0
+Metalign	family	True positives	simulated_virus	28.0
+Metalign	family	False negatives	simulated_virus	5.0
+Metalign	family	False positives	simulated_virus	0.0
+Metalign	family	Completeness	simulated_virus	0.8484848484848485
+Metalign	family	Purity	simulated_virus	1.0
+Metalign	family	F1 score	simulated_virus	0.9180327868852458
+Metalign	family	Jaccard index	simulated_virus	0.8484848484848485
+Metalign	family	Taxon counts	simulated_virus	28.0
+Metalign	genus	True positives	simulated_virus	54.0
+Metalign	genus	False negatives	simulated_virus	15.0
+Metalign	genus	False positives	simulated_virus	7.0
+Metalign	genus	Completeness	simulated_virus	0.782608695652174
+Metalign	genus	Purity	simulated_virus	0.8852459016393442
+Metalign	genus	F1 score	simulated_virus	0.8307692307692308
+Metalign	genus	Jaccard index	simulated_virus	0.7105263157894737
+Metalign	genus	Taxon counts	simulated_virus	61.0
+Metalign	species	True positives	simulated_virus	60.0
+Metalign	species	False negatives	simulated_virus	20.0
+Metalign	species	False positives	simulated_virus	23.0
+Metalign	species	Completeness	simulated_virus	0.75
+Metalign	species	Purity	simulated_virus	0.7228915662650602
+Metalign	species	F1 score	simulated_virus	0.7361963190184048
+Metalign	species	Jaccard index	simulated_virus	0.5825242718446602
+Metalign	species	Taxon counts	simulated_virus	83.0
+Metalign	strain	True positives	simulated_virus	52.0
+Metalign	strain	False negatives	simulated_virus	30.0
+Metalign	strain	False positives	simulated_virus	31.0
+Metalign	strain	Completeness	simulated_virus	0.6341463414634146
+Metalign	strain	Purity	simulated_virus	0.6265060240963856
+Metalign	strain	F1 score	simulated_virus	0.6303030303030304
+Metalign	strain	Jaccard index	simulated_virus	0.46017699115044247
+Metalign	strain	Taxon counts	simulated_virus	83.0
+Metalign	superkingdom	L1 norm error	simulated_virus	0.0007016000000000134
+Metalign	order	L1 norm error	simulated_virus	0.9361700999999999
+Metalign	family	L1 norm error	simulated_virus	1.3312347000000002
+Metalign	genus	L1 norm error	simulated_virus	1.3806734
+Metalign	species	L1 norm error	simulated_virus	1.4028021000000004
+Metalign	strain	L1 norm error	simulated_virus	1.7197638999999996
+Metalign	na	Weighted UniFrac error	simulated_virus	9.83810917876703
+Metalign	na	Unweighted UniFrac error	simulated_virus	216.99999720014037
+MetaBinG2	superkingdom	Bray-Curtis distance	simulated_virus	0.0
+MetaBinG2	phylum	Bray-Curtis distance	simulated_virus	0.8508996972090114
+MetaBinG2	class	Bray-Curtis distance	simulated_virus	0.8508996192133099
+MetaBinG2	order	Bray-Curtis distance	simulated_virus	0.8508996192133101
+MetaBinG2	family	Bray-Curtis distance	simulated_virus	0.8548133040373048
+MetaBinG2	genus	Bray-Curtis distance	simulated_virus	0.8548132300823539
+MetaBinG2	species	Bray-Curtis distance	simulated_virus	0.8583483070825849
+MetaBinG2	strain	Bray-Curtis distance	simulated_virus	1.0
+MetaBinG2	superkingdom	Shannon diversity	simulated_virus	0.0
+MetaBinG2	superkingdom	Shannon equitability	simulated_virus	0.0
+MetaBinG2	phylum	Shannon diversity	simulated_virus	0.5166142291019703
+MetaBinG2	phylum	Shannon equitability	simulated_virus	0.26548719598012915
+MetaBinG2	class	Shannon diversity	simulated_virus	0.5273807168950123
+MetaBinG2	class	Shannon equitability	simulated_virus	0.2536165149749669
+MetaBinG2	order	Shannon diversity	simulated_virus	1.322537430881932
+MetaBinG2	order	Shannon equitability	simulated_virus	0.5743707083425263
+MetaBinG2	family	Shannon diversity	simulated_virus	1.4753519823991819
+MetaBinG2	family	Shannon equitability	simulated_virus	0.6152695654124334
+MetaBinG2	genus	Shannon diversity	simulated_virus	1.597331229069021
+MetaBinG2	genus	Shannon equitability	simulated_virus	0.6428133745810117
+MetaBinG2	species	Shannon diversity	simulated_virus	2.0953952194364502
+MetaBinG2	species	Shannon equitability	simulated_virus	0.7737652790127739
+MetaBinG2	strain	Shannon diversity	simulated_virus	0.2023456212150787
+MetaBinG2	strain	Shannon equitability	simulated_virus	0.14596151213629535
+MetaBinG2	superkingdom	True positives	simulated_virus	1.0
+MetaBinG2	superkingdom	False negatives	simulated_virus	0.0
+MetaBinG2	superkingdom	False positives	simulated_virus	0.0
+MetaBinG2	superkingdom	Completeness	simulated_virus	1.0
+MetaBinG2	superkingdom	Purity	simulated_virus	1.0
+MetaBinG2	superkingdom	F1 score	simulated_virus	1.0
+MetaBinG2	superkingdom	Jaccard index	simulated_virus	1.0
+MetaBinG2	superkingdom	Taxon counts	simulated_virus	1.0
+MetaBinG2	phylum	True positives	simulated_virus	6.0
+MetaBinG2	phylum	False negatives	simulated_virus	4.0
+MetaBinG2	phylum	False positives	simulated_virus	1.0
+MetaBinG2	phylum	Completeness	simulated_virus	0.6
+MetaBinG2	phylum	Purity	simulated_virus	0.8571428571428571
+MetaBinG2	phylum	F1 score	simulated_virus	0.7058823529411764
+MetaBinG2	phylum	Jaccard index	simulated_virus	0.5454545454545454
+MetaBinG2	phylum	Taxon counts	simulated_virus	7.0
+MetaBinG2	class	True positives	simulated_virus	7.0
+MetaBinG2	class	False negatives	simulated_virus	9.0
+MetaBinG2	class	False positives	simulated_virus	1.0
+MetaBinG2	class	Completeness	simulated_virus	0.4375
+MetaBinG2	class	Purity	simulated_virus	0.875
+MetaBinG2	class	F1 score	simulated_virus	0.5833333333333334
+MetaBinG2	class	Jaccard index	simulated_virus	0.4117647058823529
+MetaBinG2	class	Taxon counts	simulated_virus	8.0
+MetaBinG2	order	True positives	simulated_virus	8.0
+MetaBinG2	order	False negatives	simulated_virus	12.0
+MetaBinG2	order	False positives	simulated_virus	2.0
+MetaBinG2	order	Completeness	simulated_virus	0.4
+MetaBinG2	order	Purity	simulated_virus	0.8
+MetaBinG2	order	F1 score	simulated_virus	0.5333333333333333
+MetaBinG2	order	Jaccard index	simulated_virus	0.36363636363636365
+MetaBinG2	order	Taxon counts	simulated_virus	10.0
+MetaBinG2	family	True positives	simulated_virus	8.0
+MetaBinG2	family	False negatives	simulated_virus	25.0
+MetaBinG2	family	False positives	simulated_virus	3.0
+MetaBinG2	family	Completeness	simulated_virus	0.24242424242424243
+MetaBinG2	family	Purity	simulated_virus	0.7272727272727273
+MetaBinG2	family	F1 score	simulated_virus	0.36363636363636365
+MetaBinG2	family	Jaccard index	simulated_virus	0.2222222222222222
+MetaBinG2	family	Taxon counts	simulated_virus	11.0
+MetaBinG2	genus	True positives	simulated_virus	8.0
+MetaBinG2	genus	False negatives	simulated_virus	61.0
+MetaBinG2	genus	False positives	simulated_virus	4.0
+MetaBinG2	genus	Completeness	simulated_virus	0.11594202898550725
+MetaBinG2	genus	Purity	simulated_virus	0.6666666666666666
+MetaBinG2	genus	F1 score	simulated_virus	0.19753086419753088
+MetaBinG2	genus	Jaccard index	simulated_virus	0.1095890410958904
+MetaBinG2	genus	Taxon counts	simulated_virus	12.0
+MetaBinG2	species	True positives	simulated_virus	8.0
+MetaBinG2	species	False negatives	simulated_virus	72.0
+MetaBinG2	species	False positives	simulated_virus	7.0
+MetaBinG2	species	Completeness	simulated_virus	0.1
+MetaBinG2	species	Purity	simulated_virus	0.5333333333333333
+MetaBinG2	species	F1 score	simulated_virus	0.16842105263157897
+MetaBinG2	species	Jaccard index	simulated_virus	0.09195402298850575
+MetaBinG2	species	Taxon counts	simulated_virus	15.0
+MetaBinG2	strain	True positives	simulated_virus	0.0
+MetaBinG2	strain	False negatives	simulated_virus	82.0
+MetaBinG2	strain	False positives	simulated_virus	4.0
+MetaBinG2	strain	Completeness	simulated_virus	0.0
+MetaBinG2	strain	Purity	simulated_virus	0.0
+MetaBinG2	strain	Jaccard index	simulated_virus	0.0
+MetaBinG2	strain	Taxon counts	simulated_virus	4.0
+MetaBinG2	superkingdom	L1 norm error	simulated_virus	0.0
+MetaBinG2	phylum	L1 norm error	simulated_virus	1.6266213000000003
+MetaBinG2	class	L1 norm error	simulated_virus	1.6266202999999992
+MetaBinG2	order	L1 norm error	simulated_virus	1.6266202999999997
+MetaBinG2	family	L1 norm error	simulated_virus	1.6781510999999998
+MetaBinG2	genus	L1 norm error	simulated_virus	1.6781500999999996
+MetaBinG2	species	L1 norm error	simulated_virus	1.7166967000000006
+MetaBinG2	strain	L1 norm error	simulated_virus	1.0507591999999994
+MetaBinG2	na	Weighted UniFrac error	simulated_virus	11.34232340000001
+MetaBinG2	na	Unweighted UniFrac error	simulated_virus	680.9999651
+MetaPhlAn3	superkingdom	Bray-Curtis distance	simulated_virus	0.0
+MetaPhlAn3	phylum	Bray-Curtis distance	simulated_virus	0.9809887587697459
+MetaPhlAn3	class	Bray-Curtis distance	simulated_virus	0.929804394696518
+MetaPhlAn3	order	Bray-Curtis distance	simulated_virus	0.9255148036406048
+MetaPhlAn3	family	Bray-Curtis distance	simulated_virus	0.3590395869509598
+MetaPhlAn3	genus	Bray-Curtis distance	simulated_virus	0.3805299422979081
+MetaPhlAn3	species	Bray-Curtis distance	simulated_virus	0.3879201918119712
+MetaPhlAn3	superkingdom	Shannon diversity	simulated_virus	0.0
+MetaPhlAn3	superkingdom	Shannon equitability	simulated_virus	0.0
+MetaPhlAn3	phylum	Shannon diversity	simulated_virus	-2.9414757830698965
+MetaPhlAn3	phylum	Shannon equitability	simulated_virus	-4.24365252512992
+MetaPhlAn3	class	Shannon diversity	simulated_virus	0.14691651110764478
+MetaPhlAn3	class	Shannon equitability	simulated_virus	0.13372917144933574
+MetaPhlAn3	order	Shannon diversity	simulated_virus	0.16253116275489654
+MetaPhlAn3	order	Shannon equitability	simulated_virus	0.10098628937421127
+MetaPhlAn3	family	Shannon diversity	simulated_virus	1.139362696868294
+MetaPhlAn3	family	Shannon equitability	simulated_virus	0.41093822813644076
+MetaPhlAn3	genus	Shannon diversity	simulated_virus	1.3427018024202009
+MetaPhlAn3	genus	Shannon equitability	simulated_virus	0.3987477994844291
+MetaPhlAn3	species	Shannon diversity	simulated_virus	1.3582622467669865
+MetaPhlAn3	species	Shannon equitability	simulated_virus	0.38203355150493495
+MetaPhlAn3	superkingdom	True positives	simulated_virus	1.0
+MetaPhlAn3	superkingdom	False negatives	simulated_virus	0.0
+MetaPhlAn3	superkingdom	False positives	simulated_virus	0.0
+MetaPhlAn3	superkingdom	Completeness	simulated_virus	1.0
+MetaPhlAn3	superkingdom	Purity	simulated_virus	1.0
+MetaPhlAn3	superkingdom	F1 score	simulated_virus	1.0
+MetaPhlAn3	superkingdom	Jaccard index	simulated_virus	1.0
+MetaPhlAn3	superkingdom	Taxon counts	simulated_virus	1.0
+MetaPhlAn3	phylum	True positives	simulated_virus	1.0
+MetaPhlAn3	phylum	False negatives	simulated_virus	9.0
+MetaPhlAn3	phylum	False positives	simulated_virus	1.0
+MetaPhlAn3	phylum	Completeness	simulated_virus	0.1
+MetaPhlAn3	phylum	Purity	simulated_virus	0.5
+MetaPhlAn3	phylum	F1 score	simulated_virus	0.16666666666666669
+MetaPhlAn3	phylum	Jaccard index	simulated_virus	0.09090909090909091
+MetaPhlAn3	phylum	Taxon counts	simulated_virus	2.0
+MetaPhlAn3	class	True positives	simulated_virus	3.0
+MetaPhlAn3	class	False negatives	simulated_virus	13.0
+MetaPhlAn3	class	False positives	simulated_virus	0.0
+MetaPhlAn3	class	Completeness	simulated_virus	0.1875
+MetaPhlAn3	class	Purity	simulated_virus	1.0
+MetaPhlAn3	class	F1 score	simulated_virus	0.3157894736842105
+MetaPhlAn3	class	Jaccard index	simulated_virus	0.1875
+MetaPhlAn3	class	Taxon counts	simulated_virus	3.0
+MetaPhlAn3	order	True positives	simulated_virus	5.0
+MetaPhlAn3	order	False negatives	simulated_virus	15.0
+MetaPhlAn3	order	False positives	simulated_virus	0.0
+MetaPhlAn3	order	Completeness	simulated_virus	0.25
+MetaPhlAn3	order	Purity	simulated_virus	1.0
+MetaPhlAn3	order	F1 score	simulated_virus	0.4
+MetaPhlAn3	order	Jaccard index	simulated_virus	0.25
+MetaPhlAn3	order	Taxon counts	simulated_virus	5.0
+MetaPhlAn3	family	True positives	simulated_virus	16.0
+MetaPhlAn3	family	False negatives	simulated_virus	17.0
+MetaPhlAn3	family	False positives	simulated_virus	0.0
+MetaPhlAn3	family	Completeness	simulated_virus	0.48484848484848486
+MetaPhlAn3	family	Purity	simulated_virus	1.0
+MetaPhlAn3	family	F1 score	simulated_virus	0.653061224489796
+MetaPhlAn3	family	Jaccard index	simulated_virus	0.48484848484848486
+MetaPhlAn3	family	Taxon counts	simulated_virus	16.0
+MetaPhlAn3	genus	True positives	simulated_virus	27.0
+MetaPhlAn3	genus	False negatives	simulated_virus	42.0
+MetaPhlAn3	genus	False positives	simulated_virus	2.0
+MetaPhlAn3	genus	Completeness	simulated_virus	0.391304347826087
+MetaPhlAn3	genus	Purity	simulated_virus	0.9310344827586207
+MetaPhlAn3	genus	F1 score	simulated_virus	0.5510204081632654
+MetaPhlAn3	genus	Jaccard index	simulated_virus	0.38028169014084506
+MetaPhlAn3	genus	Taxon counts	simulated_virus	29.0
+MetaPhlAn3	species	True positives	simulated_virus	24.0
+MetaPhlAn3	species	False negatives	simulated_virus	56.0
+MetaPhlAn3	species	False positives	simulated_virus	11.0
+MetaPhlAn3	species	Completeness	simulated_virus	0.3
+MetaPhlAn3	species	Purity	simulated_virus	0.6857142857142857
+MetaPhlAn3	species	F1 score	simulated_virus	0.41739130434782606
+MetaPhlAn3	species	Jaccard index	simulated_virus	0.26373626373626374
+MetaPhlAn3	species	Taxon counts	simulated_virus	35.0
+MetaPhlAn3	strain	True positives	simulated_virus	0.0
+MetaPhlAn3	strain	False negatives	simulated_virus	82.0
+MetaPhlAn3	strain	False positives	simulated_virus	0.0
+MetaPhlAn3	strain	Completeness	simulated_virus	0.0
+MetaPhlAn3	strain	Purity	simulated_virus	0.0
+MetaPhlAn3	strain	Jaccard index	simulated_virus	0.0
+MetaPhlAn3	strain	Taxon counts	simulated_virus	0.0
+MetaPhlAn3	superkingdom	L1 norm error	simulated_virus	0.0
+MetaPhlAn3	phylum	L1 norm error	simulated_virus	3.8513034
+MetaPhlAn3	class	L1 norm error	simulated_virus	0.9645033
+MetaPhlAn3	order	L1 norm error	simulated_virus	0.9621923999999998
+MetaPhlAn3	family	L1 norm error	simulated_virus	0.7177852999999998
+MetaPhlAn3	genus	L1 norm error	simulated_virus	0.7602738999999998
+MetaPhlAn3	species	L1 norm error	simulated_virus	0.7758404999999994
+MetaPhlAn3	na	Weighted UniFrac error	simulated_virus	8.25597090000001
+MetaPhlAn3	na	Unweighted UniFrac error	simulated_virus	523.8885871000002
+Diamond+Megan	superkingdom	Bray-Curtis distance	simulated_virus	0.0
+Diamond+Megan	phylum	Bray-Curtis distance	simulated_virus	0.7113181443409279
+Diamond+Megan	class	Bray-Curtis distance	simulated_virus	0.7122974155428762
+Diamond+Megan	order	Bray-Curtis distance	simulated_virus	0.7669999999999998
+Diamond+Megan	family	Bray-Curtis distance	simulated_virus	0.722726377273623
+Diamond+Megan	genus	Bray-Curtis distance	simulated_virus	0.6605130376408735
+Diamond+Megan	species	Bray-Curtis distance	simulated_virus	0.7597934
+Diamond+Megan	strain	Bray-Curtis distance	simulated_virus	1.0
+Diamond+Megan	superkingdom	Shannon diversity	simulated_virus	0.0
+Diamond+Megan	superkingdom	Shannon equitability	simulated_virus	0.0
+Diamond+Megan	phylum	Shannon diversity	simulated_virus	0.8169146764769714
+Diamond+Megan	phylum	Shannon equitability	simulated_virus	0.39285291752757956
+Diamond+Megan	class	Shannon diversity	simulated_virus	0.9153302091125524
+Diamond+Megan	class	Shannon equitability	simulated_virus	0.3683559739319156
+Diamond+Megan	order	Shannon diversity	simulated_virus	1.1352624953731514
+Diamond+Megan	order	Shannon equitability	simulated_virus	0.41921766993502757
+Diamond+Megan	family	Shannon diversity	simulated_virus	1.3429066983941649
+Diamond+Megan	family	Shannon equitability	simulated_virus	0.41719742278320143
+Diamond+Megan	genus	Shannon diversity	simulated_virus	1.7266740920804042
+Diamond+Megan	genus	Shannon equitability	simulated_virus	0.461965413859513
+Diamond+Megan	species	Shannon diversity	simulated_virus	1.510771922900438
+Diamond+Megan	species	Shannon equitability	simulated_virus	0.390259229278855
+Diamond+Megan	strain	Shannon diversity	simulated_virus	3.5063620936087188
+Diamond+Megan	strain	Shannon equitability	simulated_virus	0.8635417575130214
+Diamond+Megan	superkingdom	True positives	simulated_virus	1.0
+Diamond+Megan	superkingdom	False negatives	simulated_virus	0.0
+Diamond+Megan	superkingdom	False positives	simulated_virus	0.0
+Diamond+Megan	superkingdom	Completeness	simulated_virus	1.0
+Diamond+Megan	superkingdom	Purity	simulated_virus	1.0
+Diamond+Megan	superkingdom	F1 score	simulated_virus	1.0
+Diamond+Megan	superkingdom	Jaccard index	simulated_virus	1.0
+Diamond+Megan	superkingdom	Taxon counts	simulated_virus	1.0
+Diamond+Megan	phylum	True positives	simulated_virus	8.0
+Diamond+Megan	phylum	False negatives	simulated_virus	2.0
+Diamond+Megan	phylum	False positives	simulated_virus	0.0
+Diamond+Megan	phylum	Completeness	simulated_virus	0.8
+Diamond+Megan	phylum	Purity	simulated_virus	1.0
+Diamond+Megan	phylum	F1 score	simulated_virus	0.888888888888889
+Diamond+Megan	phylum	Jaccard index	simulated_virus	0.8
+Diamond+Megan	phylum	Taxon counts	simulated_virus	8.0
+Diamond+Megan	class	True positives	simulated_virus	12.0
+Diamond+Megan	class	False negatives	simulated_virus	4.0
+Diamond+Megan	class	False positives	simulated_virus	0.0
+Diamond+Megan	class	Completeness	simulated_virus	0.75
+Diamond+Megan	class	Purity	simulated_virus	1.0
+Diamond+Megan	class	F1 score	simulated_virus	0.8571428571428571
+Diamond+Megan	class	Jaccard index	simulated_virus	0.75
+Diamond+Megan	class	Taxon counts	simulated_virus	12.0
+Diamond+Megan	order	True positives	simulated_virus	15.0
+Diamond+Megan	order	False negatives	simulated_virus	5.0
+Diamond+Megan	order	False positives	simulated_virus	0.0
+Diamond+Megan	order	Completeness	simulated_virus	0.75
+Diamond+Megan	order	Purity	simulated_virus	1.0
+Diamond+Megan	order	F1 score	simulated_virus	0.8571428571428571
+Diamond+Megan	order	Jaccard index	simulated_virus	0.75
+Diamond+Megan	order	Taxon counts	simulated_virus	15.0
+Diamond+Megan	family	True positives	simulated_virus	25.0
+Diamond+Megan	family	False negatives	simulated_virus	8.0
+Diamond+Megan	family	False positives	simulated_virus	0.0
+Diamond+Megan	family	Completeness	simulated_virus	0.7575757575757576
+Diamond+Megan	family	Purity	simulated_virus	1.0
+Diamond+Megan	family	F1 score	simulated_virus	0.8620689655172413
+Diamond+Megan	family	Jaccard index	simulated_virus	0.7575757575757576
+Diamond+Megan	family	Taxon counts	simulated_virus	25.0
+Diamond+Megan	genus	True positives	simulated_virus	42.0
+Diamond+Megan	genus	False negatives	simulated_virus	27.0
+Diamond+Megan	genus	False positives	simulated_virus	0.0
+Diamond+Megan	genus	Completeness	simulated_virus	0.6086956521739131
+Diamond+Megan	genus	Purity	simulated_virus	1.0
+Diamond+Megan	genus	F1 score	simulated_virus	0.7567567567567568
+Diamond+Megan	genus	Jaccard index	simulated_virus	0.6086956521739131
+Diamond+Megan	genus	Taxon counts	simulated_virus	42.0
+Diamond+Megan	species	True positives	simulated_virus	41.0
+Diamond+Megan	species	False negatives	simulated_virus	39.0
+Diamond+Megan	species	False positives	simulated_virus	7.0
+Diamond+Megan	species	Completeness	simulated_virus	0.5125
+Diamond+Megan	species	Purity	simulated_virus	0.8541666666666666
+Diamond+Megan	species	F1 score	simulated_virus	0.6406249999999999
+Diamond+Megan	species	Jaccard index	simulated_virus	0.47126436781609193
+Diamond+Megan	species	Taxon counts	simulated_virus	48.0
+Diamond+Megan	strain	True positives	simulated_virus	0.0
+Diamond+Megan	strain	False negatives	simulated_virus	82.0
+Diamond+Megan	strain	False positives	simulated_virus	58.0
+Diamond+Megan	strain	Completeness	simulated_virus	0.0
+Diamond+Megan	strain	Purity	simulated_virus	0.0
+Diamond+Megan	strain	Jaccard index	simulated_virus	0.0
+Diamond+Megan	strain	Taxon counts	simulated_virus	58.0
+Diamond+Megan	superkingdom	L1 norm error	simulated_virus	0.0
+Diamond+Megan	phylum	L1 norm error	simulated_virus	1.422637
+Diamond+Megan	class	L1 norm error	simulated_virus	1.4161820999999997
+Diamond+Megan	order	L1 norm error	simulated_virus	1.534
+Diamond+Megan	family	L1 norm error	simulated_virus	1.4454542000000004
+Diamond+Megan	genus	L1 norm error	simulated_virus	1.3210269999999997
+Diamond+Megan	species	L1 norm error	simulated_virus	1.5195868000000003
+Diamond+Megan	strain	L1 norm error	simulated_virus	2.0000007999999996
+Diamond+Megan	na	Weighted UniFrac error	simulated_virus	10.856552100000007
+Diamond+Megan	na	Unweighted UniFrac error	simulated_virus	493.27225009999984

@@ -1,0 +1,23 @@
+	Command being timed: "/bin/bash /home/ugrads/cqm5886/work/CSE566finalproject/sh_scripts/run_metaphlan3.sh /home/ugrads/cqm5886/work/CSE566finalproject/data/mock_data/virus/fastq/MCB-S2_ATTCAGAA-TATAGCCT_L002_R1_001_t_paired.fastq /home/ugrads/cqm5886/work/CSE566finalproject/data/mock_data/virus/fastq/MCB-S2_ATTCAGAA-TATAGCCT_L002_R2_001_t_paired.fastq virus /home/ugrads/cqm5886/work/CSE566finalproject/data/run_data/MetaPhlAn3/mock_data/original_virus 0"
+	User time (seconds): 1982.02
+	System time (seconds): 305.78
+	Percent of CPU this job got: 709%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:22.48
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2667124
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 439
+	Minor (reclaiming a frame) page faults: 1281800
+	Voluntary context switches: 1108070
+	Involuntary context switches: 1138165
+	Swaps: 0
+	File system inputs: 5620824
+	File system outputs: 24296
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

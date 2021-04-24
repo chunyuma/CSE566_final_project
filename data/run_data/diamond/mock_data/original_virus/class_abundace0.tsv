@@ -1,0 +1,116 @@
+@SampleID:mock_viruses
+@Version:Diamond+Megan
+@Ranks: superkingdom|phylum|class|order|family|genus|species|strain
+
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE	_CAMI_genomeID	_CAMI_OTU
+2	superkingdom	2	Bacteria	36.54312
+2759	superkingdom	2759	Eukaryota	0.06685
+10239	superkingdom	10239	Viruses	63.39003
+4890	phylum	2759|4890	Eukaryota|Ascomycota	0.03043
+1224	phylum	2|1224	Bacteria|Proteobacteria	8.02233
+976	phylum	2|976	Bacteria|Bacteroidetes	20.30124
+201174	phylum	2|201174	Bacteria|Actinobacteria	0.03039
+1239	phylum	2|1239	Bacteria|Firmicutes	0.19398
+2732412	phylum	10239|2732412	Viruses|Phixviricota	6.36807
+2731618	phylum	10239|2731618	Viruses|Uroviricota	65.05356
+91061	class	2|1239|91061	Bacteria|Firmicutes|Bacilli	0.12613
+1236	class	2|1224|1236	Bacteria|Proteobacteria|Gammaproteobacteria	6.60081
+1760	class	2|201174|1760	Bacteria|Actinobacteria|Actinomycetia	0.03229
+117743	class	2|976|117743	Bacteria|Bacteroidetes|Flavobacteriia	11.49816
+2732413	class	10239|2732412|2732413	Viruses|Phixviricota|Malgrandaviricetes	7.28537
+2731619	class	10239|2731618|2731619	Viruses|Uroviricota|Caudoviricetes	74.42429
+4891	class	2759|4890|4891	Eukaryota|Ascomycota|Saccharomycetes	0.03295
+4892	order	2759|4890|4891|4892	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales	0.05063
+135622	order	2|1224|1236|135622	Bacteria|Proteobacteria|Gammaproteobacteria|Alteromonadales	7.89279
+135623	order	2|1224|1236|135623	Bacteria|Proteobacteria|Gammaproteobacteria|Vibrionales	0.06445
+200644	order	2|976|117743|200644	Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales	12.98515
+186826	order	2|1239|91061|186826	Bacteria|Firmicutes|Bacilli|Lactobacillales	0.09722
+91347	order	2|1224|1236|91347	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales	0.57745
+72274	order	2|1224|1236|72274	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales	0.04545
+28883	order	10239|2731618|2731619|28883	Viruses|Uroviricota|Caudoviricetes|Caudovirales	67.09222
+2732414	order	10239|2732412|2732413|2732414	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales	11.19464
+641	family	2|1224|1236|135623|641	Bacteria|Proteobacteria|Gammaproteobacteria|Vibrionales|Vibrionaceae	0.09684
+49546	family	2|976|117743|200644|49546	Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae	19.22795
+543	family	2|1224|1236|91347|543	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae	0.77981
+10662	family	10239|2731618|2731619|28883|10662	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae	30.14486
+10699	family	10239|2731618|2731619|28883|10699	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae	17.64175
+10841	family	10239|2732412|2732413|2732414|10841	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae	8.82197
+267888	family	2|1224|1236|135622|267888	Bacteria|Proteobacteria|Gammaproteobacteria|Alteromonadales|Pseudoalteromonadaceae	9.45047
+10744	family	10239|2731618|2731619|28883|10744	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Podoviridae	13.66708
+34365	family	2759|4890|4891|4892|34365	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycodaceae	0.07471
+81852	family	2|1239|91061|186826|81852	Bacteria|Firmicutes|Bacilli|Lactobacillales|Enterococcaceae	0.09456
+1910954	genus	10239|2732412|2732413|2732414|10841|1910954	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Sinsheimervirus	6.04529
+570	genus	2|1224|1236|91347|543|570	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella	0.37858
+1910951	genus	10239|2732412|2732413|2732414|10841|1910951	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Alphatrevirus	12.26617
+1350	genus	2|1239|91061|186826|81852|1350	Bacteria|Firmicutes|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus	0.22568
+104264	genus	2|976|117743|200644|49546|104264	Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Cellulophaga	29.39893
+1918017	genus	10239|2731618|2731619|28883|10699|1918017	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Helsingorvirus	30.05439
+53246	genus	2|1224|1236|135622|267888|53246	Bacteria|Proteobacteria|Gammaproteobacteria|Alteromonadales|Pseudoalteromonadaceae|Pseudoalteromonas	17.63323
+1918718	genus	10239|2731618|2731619|28883|10699|1918718	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Cbastvirus	2.16380
+36034	genus	2759|4890|4891|4892|34365|36034	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycodaceae|Saccharomycodes	0.17830
+2733126	genus	10239|2731618|2731619|28883|10662|2733126	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae|Qingdaovirus	0.31829
+590	genus	2|1224|1236|91347|543|590	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Salmonella	1.33733
+2608295	species	10239|2732412|2732413|2732414|10841|1910954|2608295	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Sinsheimervirus|Shigella phage SGF3	0.34887
+1328030	species	10239|2731618|2731619|28883|10744||1328030	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Podoviridae||Cellulophaga phage phi13:2	0.17824
+754075	species	10239|2731618|2731619|28883|10662||754075	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae||Vibrio phage 11895-B1	0.12300
+2562234	species	10239|2732412|2732413|2732414|10841|1910951|2562234	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Alphatrevirus|Escherichia phage Lilleven	0.54265
+1654919	species	10239|2731618|2731619|28883|10662||1654919	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae||Pseudoalteromonas phage H101	0.80140
+1357706	species	10239|2731618|2731619|28883|10744||1357706	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Podoviridae||Pseudoalteromonas phage HP1	0.64898
+2023998	species	10239|2731618|2731619|28883|10662||2023998	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae||Pseudoalteromonas phage SL20	4.81586
+388384	species	2|1224|1236|135622|267888|53246|388384	Bacteria|Proteobacteria|Gammaproteobacteria|Alteromonadales|Pseudoalteromonadaceae|Pseudoalteromonas|Pseudoalteromonas sp. BSi20652	0.33504
+756281	species	10239|2731618|2731619|28883|10662||756281	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae||Cellulophaga phage phi47:1	0.53546
+2686362	species	2|976|117743|200644|49546|104264|2686362	Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Cellulophaga|Cellulophaga sp. L1A9	0.08126
+756280	species	10239|2731618|2731619|28883|10662||756280	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae||Cellulophaga phage phiSM	0.74828
+76594	species	2|976|117743|200644|49546|104264|76594	Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Cellulophaga|Cellulophaga baltica	1.92777
+877240	species	10239|2731618|2731619|28883|10699||877240	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae||Pseudoalteromonas phage H105/1	2.57095
+1458860	species	10239|2731618|2731619|28883|10662||1458860	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae||Shewanella sp. phage 1/40	0.14705
+1872678	species	2|1224|1236|135622|267888|53246|1872678	Bacteria|Proteobacteria|Gammaproteobacteria|Alteromonadales|Pseudoalteromonadaceae|Pseudoalteromonas|Pseudoalteromonas fuliginea	0.06047
+2591644	species	10239||||||2591644	Viruses||||||Prokaryotic dsDNA virus sp.	0.09572
+756279	species	10239|2731618|2731619|28883|10662||756279	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae||Cellulophaga phage phi3:1	3.18161
+573	species	2|1224|1236|91347|543|570|573	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella|Klebsiella pneumoniae	0.14017
+36035	species	2759|4890|4891|4892|34365|36034|36035	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycodaceae|Saccharomycodes|Saccharomycodes ludwigii	0.06903
+1352	species	2|1239|91061|186826|81852|1350|1352	Bacteria|Firmicutes|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus|Enterococcus faecium	0.07925
+2760928	species	2|1224|1236|135622|267888|53246|2760928	Bacteria|Proteobacteria|Gammaproteobacteria|Alteromonadales|Pseudoalteromonadaceae|Pseudoalteromonas|Pseudoalteromonas sp. SR45-5	0.19002
+1913046	species	10239|2731618|2731619|28883|10662||1913046	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae||Pseudoalteromonas phage PH357	0.49794
+1856120	species	10239|2731618|2731619|28883|10699||1856120	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae||Pseudoalteromonas phage vB_PspS-H40/1	0.06438
+1327985	species	10239|2731618|2731619|28883|10744||1327985	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Podoviridae||Cellulophaga phage phi46:3	0.05906
+28901	species	2|1224|1236|91347|543|590|28901	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Salmonella|Salmonella enterica	0.51778
+1327999	species	10239|2731618|2731619|28883|10662||1327999	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae||Cellulophaga phage phi38:2	0.65187
+1327973	species	10239|2731618|2731619|28883|10662||1327973	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae||Cellulophaga phage phi3ST:2	0.71310
+1327971	species	10239|2731618|2731619|28883|10744||1327971	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Podoviridae||Cellulophaga phage phi19:3	0.05671
+1874539	species	10239|2731618|2731619|28883|10699||1874539	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae||Pseudoalteromonas phage BS5	0.76626
+1327983	species	10239|2731618|2731619|28883|10744||1327983	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Podoviridae||Cellulophaga phage phi18:3	1.49603
+1918720	species	10239|2731618|2731619|28883|10699|1918718|1918720	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Cbastvirus|Cellulophaga virus ST	0.83777
+1945589	species	10239|2732412|2732413|2732414|10841|1910951|1945589	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Alphatrevirus|Escherichia virus alpha3	0.73174
+2734135	species	10239|2731618|2731619|28883|10662|2733126|2734135	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae|Qingdaovirus|Pseudoalteromonas virus J2-1	0.12323
+1918192	species	10239|2731618|2731619|28883|10699|1918017|1918192	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Helsingorvirus|Cellulophaga virus Cba181	2.01582
+1918194	species	10239|2731618|2731619|28883|10699|1918017|1918194	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Helsingorvirus|Cellulophaga virus Cba171	0.47483
+1918193	species	10239|2731618|2731619|28883|10699|1918017|1918193	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Helsingorvirus|Cellulophaga virus Cba121	0.47496
+194690	strain	2|1224|1236|135622|267888|53246||194690	Bacteria|Proteobacteria|Gammaproteobacteria|Alteromonadales|Pseudoalteromonadaceae|Pseudoalteromonas||unclassified Pseudoalteromonas	4.06555
+33154	strain	2759|||||||33154	Eukaryota|||||||Opisthokonta	0.22245
+1978007	strain	10239|2731618|2731619|28883|10744|||1978007	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Podoviridae|||crAss-like viruses	27.73129
+716545	strain	2759|4890||||||716545	Eukaryota|Ascomycota||||||saccharomyceta	0.01167
+12429	strain	10239|||||||12429	Viruses|||||||unclassified viruses	0.00058
+2634405	strain	2|976|117743|200644|49546|104264||2634405	Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Cellulophaga||unclassified Cellulophaga	0.11056
+4751	strain	2759|||||||4751	Eukaryota|||||||Fungi	0.00017
+196895	strain	10239|2731618|2731619|28883|10744|||196895	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Podoviridae|||unclassified Podoviridae	3.59938
+196894	strain	10239|2731618|2731619|28883|10699|||196894	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|||unclassified Siphoviridae	1.22227
+451864	strain	2759|||||||451864	Eukaryota|||||||Dikarya	0.00170
+1910975	strain	10239|2732412|2732413|2732414|10841|1910954||1910975	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Sinsheimervirus||unclassified Sinsheimervirus	0.03957
+196896	strain	10239|2731618|2731619|28883|10662|||196896	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae|||unclassified Myoviridae	47.57239
+1910962	strain	10239|2732412|2732413|2732414|10841|1910951||1910962	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Alphatrevirus||unclassified Alphatrevirus	0.00008
+756282	strain	10239|2731618|2731619|28883|10699|1918718|1918720|756282	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Cbastvirus|Cellulophaga virus ST|Cellulophaga phage phiST	1.86081
+1910950	strain	10239|2732412|2732413|2732414|10841|||1910950	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|||Bullavirinae	0.46688
+2204151	strain	10239|||||||2204151	Viruses|||||||unclassified DNA viruses	0.00008
+10849	strain	10239|2732412|2732413|2732414|10841|1910951|1945589|10849	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Alphatrevirus|Escherichia virus alpha3|Escherichia phage alpha3	2.25388
+2041340	strain	10239|2731618|2731619|28883|10662|2733126|2734135|2041340	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae|Qingdaovirus|Pseudoalteromonas virus J2-1|Pseudoalteromonas phage J2-1	0.37958
+2731342	strain	10239|||||||2731342	Viruses|||||||Monodnaviria	0.00087
+1327992	strain	10239|2731618|2731619|28883|10699|1918718|1918720|1327992	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Cbastvirus|Cellulophaga virus ST|Cellulophaga phage phi13:1	0.71967
+1327995	strain	10239|2731618|2731619|28883|10699|1918017|1918192|1327995	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Helsingorvirus|Cellulophaga virus Cba181|Cellulophaga phage phi18:2	0.33206
+68336	strain	2|||||||68336	Bacteria|||||||Bacteroidetes/Chlorobi group	0.02078
+1783272	strain	2|||||||1783272	Bacteria|||||||Terrabacteria group	0.07770
+1327980	strain	10239|2731618|2731619|28883|10699|1918017|1918194|1327980	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Helsingorvirus|Cellulophaga virus Cba171|Cellulophaga phage phi17:1	1.46256
+1327982	strain	10239|2731618|2731619|28883|10699|1918017|1918192|1327982	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Helsingorvirus|Cellulophaga virus Cba181|Cellulophaga phage phi18:1	5.87702
+1327976	strain	10239|2731618|2731619|28883|10699|1918017|1918193|1327976	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Helsingorvirus|Cellulophaga virus Cba121|Cellulophaga phage phi12:1	1.46297
+1348585	strain	2|976|117743|200644|49546|104264|76594|1348585	Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Cellulophaga|Cellulophaga baltica|Cellulophaga baltica NN016038	0.50045
+1783270	strain	2|||||||1783270	Bacteria|||||||FCB group	0.00704

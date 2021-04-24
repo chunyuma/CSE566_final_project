@@ -1,0 +1,45 @@
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 40000 sequences (10000000 bp)...
+[M::process] read 40000 sequences (10000000 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 433, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (478, 478, 478)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (478, 478)
+[M::mem_pestat] mean and std.dev: (478.00, 0.00)
+[M::mem_pestat] low and high boundaries for proper pairs: (478, 478)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[mem_sam_pe] paired reads have different names: "SRR4070107.1.1", "SRR4070107.1.2"
+
+Reading sam file /home/ugrads/cqm5886/work/CSE566finalproject/data/run_data/MiCoP/mock_data/fungi/alignments0.sam
+Done reading sam file.
+Deleting clades with insufficient evidence...
+Done deleting clades.
+Assigning multimapped reads...
+Multimapped reads assigned.
+Writing clade abundances...
+Done.
+	Command being timed: "/bin/bash /home/ugrads/cqm5886/work/CSE566finalproject/sh_scripts/run_MiCoP.sh /home/ugrads/cqm5886/work/CSE566finalproject/data/mock_data/fungi/mock-24/fastq/mock-forward-read.fastq /home/ugrads/cqm5886/work/CSE566finalproject/data/mock_data/fungi/mock-24/fastq/mock-reverse-read.fastq fungi /home/ugrads/cqm5886/work/CSE566finalproject/data/run_data/MiCoP/mock_data/fungi 0"
+	User time (seconds): 45.30
+	System time (seconds): 15.09
+	Percent of CPU this job got: 89%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:07.67
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 12594040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 3162296
+	Voluntary context switches: 9782
+	Involuntary context switches: 311
+	Swaps: 0
+	File system inputs: 24633520
+	File system outputs: 4264
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

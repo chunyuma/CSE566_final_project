@@ -1,0 +1,349 @@
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE
+10239	superkingdom	10239	Viruses	100.0
+	phylum	10239|	Viruses|ssRNA viruses	46.08022334174449
+	phylum	10239|	Viruses|dsDNA viruses, no RNA stage	29.779689441990335
+	phylum	10239|	Viruses|dsRNA viruses	15.428395519854446
+	phylum	10239|	Viruses|ssDNA viruses	4.917779404677677
+	phylum	10239|	Viruses|unclassified RNA viruses	3.372740244445038
+	phylum	10239|	Viruses|Retro-transcribing viruses	0.232759383120044
+	phylum	10239|	Viruses|Unclassified	0.14965362968772525
+	phylum	10239|	Viruses|unclassified viruses	0.03875903448024393
+	class	10239||	Viruses|dsDNA viruses, no RNA stage|Unclassified	29.779689441990335
+	class	10239||	Viruses|ssRNA viruses|Unclassified	27.92527086538839
+	class	10239||	Viruses|dsRNA viruses|Unclassified	15.428395519854446
+	class	10239||	Viruses|ssRNA viruses|Mononegavirales	7.680900468155231
+	class	10239||	Viruses|ssDNA viruses|Unclassified	4.917779404677677
+	class	10239||	Viruses|ssRNA viruses|Nidovirales	4.749064084507143
+	class	10239||	Viruses|unclassified RNA viruses|Unclassified	3.372740244445038
+	class	10239||	Viruses|ssRNA viruses|Bunyavirales	2.169363412242943
+	class	10239||	Viruses|ssRNA viruses|unassigned Mononegavirales	2.1285452158225167
+	class	10239||	Viruses|ssRNA viruses|Picornavirales	1.2333337964082445
+	class	10239||	Viruses|Retro-transcribing viruses|Unclassified	0.232759383120044
+	class	10239||	Viruses|ssRNA viruses|Tymovirales	0.19374549922001524
+	class	10239||	Viruses|Unclassified|Unclassified	0.14965362968772525
+	class	10239||	Viruses|unclassified viruses|Unclassified	0.03875903448024393
+11617	order	10239|||11617	Viruses|ssRNA viruses|Unclassified|Arenaviridae	24.184775639886425
+10880	order	10239|||10880	Viruses|dsRNA viruses|Unclassified|Reoviridae	15.428395519854446
+10559	order	10239|||10559	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae	15.077163282342633
+10486	order	10239|||10486	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae	11.386875787125483
+11270	order	10239|||11270	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae	6.6048779131326185
+11046	order	10239|||11046	Viruses|ssRNA viruses|Nidovirales|Arteriviridae	4.4465725687320194
+10780	order	10239|||10780	Viruses|ssDNA viruses|Unclassified|Parvoviridae	4.038434743606386
+	order	10239|||	Viruses|unclassified RNA viruses|Unclassified|Unclassified	3.372740244445038
+11050	order	10239|||11050	Viruses|ssRNA viruses|Unclassified|Flaviviridae	3.0373144162068666
+	order	10239|||	Viruses|ssRNA viruses|unassigned Mononegavirales|Unclassified	2.1285452158225167
+10572	order	10239|||10572	Viruses|dsDNA viruses, no RNA stage|Unclassified|Polyomaviridae	1.8605761704225494
+12058	order	10239|||12058	Viruses|ssRNA viruses|Picornavirales|Picornaviridae	1.1445623464535792
+	order	10239|||	Viruses|ssRNA viruses|Bunyavirales|Phenuiviridae	1.0835048586630853
+10508	order	10239|||10508	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae	1.0629024427194074
+11158	order	10239|||11158	Viruses|ssRNA viruses|Mononegavirales|Paramyxoviridae	0.873369791267581
+10811	order	10239|||10811	Viruses|ssDNA viruses|Unclassified|Geminiviridae	0.6129268418946268
+	order	10239|||	Viruses|ssRNA viruses|Bunyavirales|unclassified Peribunyaviridae	0.42582982799203006
+	order	10239|||	Viruses|ssRNA viruses|Bunyavirales|Peribunyaviridae	0.4208959277367509
+11974	order	10239|||11974	Viruses|ssRNA viruses|Unclassified|Caliciviridae	0.36596186897578653
+212035	order	10239|||212035	Viruses|dsDNA viruses, no RNA stage|Unclassified|Mimiviridae	0.3315643567828903
+11118	order	10239|||11118	Viruses|ssRNA viruses|Nidovirales|Coronaviridae	0.302491515775124
+12618	order	10239|||12618	Viruses|ssDNA viruses|Unclassified|Circoviridae	0.26641781917666385
+11632	order	10239|||11632	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae	0.232759383120044
+12195	order	10239|||12195	Viruses|ssRNA viruses|Unclassified|Potyviridae	0.22849422149661064
+	order	10239|||	Viruses|ssRNA viruses|Bunyavirales|Hantaviridae	0.22816639165728506
+12163	order	10239|||12163	Viruses|ssRNA viruses|Tymovirales|Betaflexiviridae	0.19374549922001524
+1391025	order	10239|||1391025	Viruses|Unclassified|Unclassified|Genomoviridae	0.14965362968772525
+32611	order	10239|||32611	Viruses|ssRNA viruses|Mononegavirales|unclassified Paramyxoviridae	0.1257430100872739
+	order	10239|||	Viruses|ssRNA viruses|Picornavirales|Unclassified	0.08877144995466522
+12455	order	10239|||12455	Viruses|ssRNA viruses|Mononegavirales|Bornaviridae	0.07690975366775821
+554168	order	10239|||554168	Viruses|dsDNA viruses, no RNA stage|Unclassified|unclassified Mimiviridae	0.06060740259737092
+11989	order	10239|||11989	Viruses|ssRNA viruses|Unclassified|Leviviridae	0.06011418079761886
+11308	order	10239|||11308	Viruses|ssRNA viruses|Unclassified|Orthomyxoviridae	0.04861053802507933
+	order	10239|||	Viruses|unclassified viruses|Unclassified|Unclassified	0.03875903448024393
+	order	10239|||	Viruses|ssRNA viruses|Bunyavirales|Nairoviridae	0.010966406193792268
+	family	10239|||11617|	Viruses|ssRNA viruses|Unclassified|Arenaviridae|Unclassified	24.184775639886425
+10892	family	10239|||10880|10892	Viruses|dsRNA viruses|Unclassified|Reoviridae|Sedoreovirinae	15.428395519854446
+	family	10239|||10559|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified	15.077163282342633
+	family	10239|||10486|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae|Betairidovirinae	11.386875787125483
+	family	10239|||11270|	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified	6.6048779131326185
+	family	10239|||11046|	Viruses|ssRNA viruses|Nidovirales|Arteriviridae|Unclassified	4.4465725687320194
+	family	10239||||	Viruses|unclassified RNA viruses|Unclassified|Unclassified|Unclassified	3.372740244445038
+	family	10239|||11050|	Viruses|ssRNA viruses|Unclassified|Flaviviridae|Unclassified	3.0373144162068666
+10806	family	10239|||10780|10806	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Densovirinae	2.5377031471078273
+	family	10239||||	Viruses|ssRNA viruses|unassigned Mononegavirales|Unclassified|Unclassified	2.1285452158225167
+	family	10239|||10572|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Polyomaviridae|Unclassified	1.8605761704225494
+10783	family	10239|||10780|10783	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae	1.5007315964985586
+	family	10239|||12058|	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified	1.1445623464535792
+	family	10239||||	Viruses|ssRNA viruses|Bunyavirales|Phenuiviridae|Unclassified	1.0835048586630853
+	family	10239|||10508|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified	1.0629024427194074
+	family	10239|||11158|	Viruses|ssRNA viruses|Mononegavirales|Paramyxoviridae|Unclassified	0.873369791267581
+	family	10239|||10811|	Viruses|ssDNA viruses|Unclassified|Geminiviridae|Unclassified	0.6129268418946268
+	family	10239||||	Viruses|ssRNA viruses|Bunyavirales|unclassified Peribunyaviridae|Unclassified	0.42582982799203006
+	family	10239||||	Viruses|ssRNA viruses|Bunyavirales|Peribunyaviridae|Unclassified	0.4208959277367509
+	family	10239|||11974|	Viruses|ssRNA viruses|Unclassified|Caliciviridae|Unclassified	0.36596186897578653
+	family	10239|||212035|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Mimiviridae|Unclassified	0.3315643567828903
+11120	family	10239|||11118|11120	Viruses|ssRNA viruses|Nidovirales|Coronaviridae|Coronavirinae	0.302491515775124
+	family	10239|||12618|	Viruses|ssDNA viruses|Unclassified|Circoviridae|Unclassified	0.26641781917666385
+11636	family	10239|||11632|11636	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae	0.232759383120044
+	family	10239|||12195|	Viruses|ssRNA viruses|Unclassified|Potyviridae|Unclassified	0.22849422149661064
+	family	10239||||	Viruses|ssRNA viruses|Bunyavirales|Hantaviridae|Unclassified	0.22816639165728506
+12164	family	10239|||12163|12164	Viruses|ssRNA viruses|Tymovirales|Betaflexiviridae|Quinvirinae	0.19374549922001524
+	family	10239|||1391025|	Viruses|Unclassified|Unclassified|Genomoviridae|Unclassified	0.14965362968772525
+	family	10239|||32611|	Viruses|ssRNA viruses|Mononegavirales|unclassified Paramyxoviridae|Unclassified	0.1257430100872739
+	family	10239||||	Viruses|ssRNA viruses|Picornavirales|Unclassified|Unclassified	0.08877144995466522
+	family	10239|||12455|	Viruses|ssRNA viruses|Mononegavirales|Bornaviridae|Unclassified	0.07690975366775821
+	family	10239|||554168|	Viruses|dsDNA viruses, no RNA stage|Unclassified|unclassified Mimiviridae|Unclassified	0.06060740259737092
+	family	10239|||11989|	Viruses|ssRNA viruses|Unclassified|Leviviridae|Unclassified	0.06011418079761886
+	family	10239|||11308|	Viruses|ssRNA viruses|Unclassified|Orthomyxoviridae|Unclassified	0.04861053802507933
+	family	10239||||	Viruses|unclassified viruses|Unclassified|Unclassified|Unclassified	0.03875903448024393
+	family	10239||||	Viruses|ssRNA viruses|Bunyavirales|Nairoviridae|Unclassified	0.010966406193792268
+1223561	genus	10239|||11617||1223561	Viruses|ssRNA viruses|Unclassified|Arenaviridae|Unclassified|Reptarenavirus	24.184775639886425
+10893	genus	10239|||10880|10892|10893	Viruses|dsRNA viruses|Unclassified|Reoviridae|Sedoreovirinae|Orbivirus	15.23317935782826
+10491	genus	10239|||10486||10491	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae|Betairidovirinae|Chloriridovirus	11.237139431760912
+10570	genus	10239|||10559||10570	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Alphapapillomavirus	9.370633330042482
+	genus	10239|||11046||	Viruses|ssRNA viruses|Nidovirales|Arteriviridae|Unclassified|Unclassified	4.4465725687320194
+940834	genus	10239|||10559||940834	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Dyorhopapillomavirus	3.453226407753967
+	genus	10239|||||	Viruses|unclassified RNA viruses|Unclassified|Unclassified|Unclassified|Unclassified	3.372740244445038
+11051	genus	10239|||11050||11051	Viruses|ssRNA viruses|Unclassified|Flaviviridae|Unclassified|Flavivirus	3.0373144162068666
+11271	genus	10239|||11270||11271	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Vesiculovirus	2.500526192853242
+666363	genus	10239|||11270||666363	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Sigmavirus	2.2255286454621435
+	genus	10239|||||	Viruses|ssRNA viruses|unassigned Mononegavirales|Unclassified|Unclassified|Unclassified	2.1285452158225167
+	genus	10239|||10572||	Viruses|dsDNA viruses, no RNA stage|Unclassified|Polyomaviridae|Unclassified|Unclassified	1.8605761704225494
+12524	genus	10239|||10780|10806|12524	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Densovirinae|Ambidensovirus	1.465756226068353
+11287	genus	10239|||11270||11287	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Novirhabdovirus	1.1694907160846282
+28292	genus	10239|||||28292	Viruses|ssRNA viruses|Bunyavirales|Phenuiviridae|Unclassified|unclassified Phlebovirus	1.0764750766006412
+797418	genus	10239|||10780|10806|797418	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Densovirinae|Hepandensovirus	1.0679193311779713
+10568	genus	10239|||10559||10568	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Pipapillomavirus	0.9787799669699999
+10784	genus	10239|||10780|10783|10784	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|Bocaparvovirus	0.934406472173519
+10509	genus	10239|||10508||10509	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Mastadenovirus	0.9087808179169262
+1293536	genus	10239|||12058||1293536	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Avisivirus	0.72366971232101
+11176	genus	10239|||11158||11176	Viruses|ssRNA viruses|Mononegavirales|Paramyxoviridae|Unclassified|Avulavirus	0.6568369582197289
+10814	genus	10239|||10811||10814	Viruses|ssDNA viruses|Unclassified|Geminiviridae|Unclassified|Begomovirus	0.48862292288747633
+	genus	10239|||||	Viruses|ssRNA viruses|Bunyavirales|unclassified Peribunyaviridae|Unclassified|Unclassified	0.42582982799203006
+35258	genus	10239|||10559||35258	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Lambdapapillomavirus	0.42155598766416474
+11572	genus	10239|||||11572	Viruses|ssRNA viruses|Bunyavirales|Peribunyaviridae|Unclassified|Orthobunyavirus	0.4208959277367509
+315393	genus	10239|||212035||315393	Viruses|dsDNA viruses, no RNA stage|Unclassified|Mimiviridae|Unclassified|Mimivirus	0.3315643567828903
+11121	genus	10239|||11118|11120|11121	Viruses|ssRNA viruses|Nidovirales|Coronaviridae|Coronavirinae|Gammacoronavirus	0.302491515775124
+	genus	10239|||12618||	Viruses|ssDNA viruses|Unclassified|Circoviridae|Unclassified|Unclassified	0.26641781917666385
+526413	genus	10239|||10559||526413	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|unclassified Dyoiotapapillomavirus	0.26576798908583493
+	genus	10239|||11270||	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Hapavirus	0.26151847069354484
+	genus	10239|||11270||	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Almendravirus	0.23804537356112024
+41459	genus	10239|||12195||41459	Viruses|ssRNA viruses|Unclassified|Potyviridae|Unclassified|Ipomovirus	0.22849422149661064
+	genus	10239|||||	Viruses|ssRNA viruses|Bunyavirales|Hantaviridae|Unclassified|Orthohantavirus	0.22816639165728506
+11161	genus	10239|||11158||11161	Viruses|ssRNA viruses|Mononegavirales|Paramyxoviridae|Unclassified|Rubulavirus	0.2165328330478521
+10579	genus	10239|||10559||10579	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Betapapillomavirus	0.2147075657418385
+11305	genus	10239|||11270||11305	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Cytorhabdovirus	0.20976851447794054
+12103	genus	10239|||12058||12103	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Cardiovirus	0.20684074169511887
+10803	genus	10239|||10780|10783|10803	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|Dependoparvovirus	0.20606294777240108
+33754	genus	10239|||11974||33754	Viruses|ssRNA viruses|Unclassified|Caliciviridae|Unclassified|Sapovirus	0.19635280049185735
+10912	genus	10239|||10880|10892|10912	Viruses|dsRNA viruses|Unclassified|Reoviridae|Sedoreovirinae|Rotavirus	0.19396092654241656
+48069	genus	10239|||12163|12164|48069	Viruses|ssRNA viruses|Tymovirales|Betaflexiviridae|Quinvirinae|unclassified Carlavirus	0.19374549922001524
+172296	genus	10239|||10780|10783|172296	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|Copiparvovirus	0.17514152798809335
+291590	genus	10239|||10559||291590	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Sigmapapillomavirus	0.17413322600924355
+11983	genus	10239|||11974||11983	Viruses|ssRNA viruses|Unclassified|Caliciviridae|Unclassified|Norovirus	0.1696090684839292
+10583	genus	10239|||10559||10583	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Mupapillomavirus	0.15118322137991466
+10487	genus	10239|||10486||10487	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae|Betairidovirinae|Iridovirus	0.1497363553645723
+398065	genus	10239|||12058||398065	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Avihepatovirus	0.14693602378921658
+	genus	10239|||1391025||	Viruses|Unclassified|Unclassified|Genomoviridae|Unclassified|Gemyvongvirus	0.1261335057968828
+	genus	10239|||32611||	Viruses|ssRNA viruses|Mononegavirales|unclassified Paramyxoviridae|Unclassified|Unclassified	0.1257430100872739
+10812	genus	10239|||10811||10812	Viruses|ssDNA viruses|Unclassified|Geminiviridae|Unclassified|Mastrevirus	0.12430391900715039
+1193420	genus	10239|||10508||1193420	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Goose aviadenovirus A	0.12239108171557461
+11652	genus	10239|||11632|11636|11652	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae|Primate lentivirus group	0.10113758564278956
+10785	genus	10239|||10780|10783|10785	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|unclassified Protoparvovirus	0.0948452937985689
+289365	genus	10239|||10780|10783|289365	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|Tetraparvovirus	0.09027535476597595
+	genus	10239|||||	Viruses|ssRNA viruses|Picornavirales|Unclassified|Unclassified|Unclassified	0.08877144995466522
+11859	genus	10239|||11632|11636|11859	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae|Alpharetrovirus	0.08268148259064961
+186458	genus	10239|||12455||186458	Viruses|ssRNA viruses|Mononegavirales|Bornaviridae|Unclassified|Bornavirus	0.07690975366775821
+72149	genus	10239|||12058||72149	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Kobuvirus	0.06711586864823377
+	genus	10239|||554168||	Viruses|dsDNA viruses, no RNA stage|Unclassified|unclassified Mimiviridae|Unclassified|Unclassified	0.06060740259737092
+12008	genus	10239|||11989||12008	Viruses|ssRNA viruses|Unclassified|Leviviridae|Unclassified|Allolevivirus	0.06011418079761886
+11764	genus	10239|||11632|11636|11764	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae|Gammaretrovirus	0.048940314886604816
+11552	genus	10239|||11308||11552	Viruses|ssRNA viruses|Unclassified|Orthomyxoviridae|Unclassified|Influenzavirus C	0.04861053802507933
+1352235	genus	10239|||10559||1352235	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Dyosigmapapillomavirus	0.047175587695187954
+	genus	10239|||||	Viruses|unclassified viruses|Unclassified|Unclassified|Unclassified|Unclassified	0.03875903448024393
+1391026	genus	10239|||1391025||1391026	Viruses|Unclassified|Unclassified|Genomoviridae|Unclassified|Gemycircularvirus	0.02352012389084245
+10510	genus	10239|||10508||10510	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Bovine mastadenovirus B	0.018502172086286947
+45370	genus	10239|||10508||45370	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Porcine mastadenovirus C	0.013228371000619365
+	genus	10239|||||	Viruses|ssRNA viruses|Bunyavirales|Nairoviridae|Unclassified|Orthonairovirus	0.010966406193792268
+11584	genus	10239|||||11584	Viruses|ssRNA viruses|Bunyavirales|Phenuiviridae|Unclassified|Phlebovirus	0.007029782062444023
+	genus	10239|||10780|10806|	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Densovirinae|Unclassified	0.0040275898615030345
+338781	genus	10239|||10880|10892|338781	Viruses|dsRNA viruses|Unclassified|Reoviridae|Sedoreovirinae|Mimoreovirus	0.0012552354837696033
+1303019	species	10239|||11617||1223561|1303019	Viruses|ssRNA viruses|Unclassified|Arenaviridae|Unclassified|Reptarenavirus|ROUT virus	24.18456149852065
+40064	species	10239|||10880|10892|10893|40064	Viruses|dsRNA viruses|Unclassified|Reoviridae|Sedoreovirinae|Orbivirus|Great Island virus	15.23317935782826
+113377	species	10239|||10486||10491|113377	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae|Betairidovirinae|Chloriridovirus|Invertebrate iridescent virus 3	11.237139431760912
+10584	species	10239|||10559||10570|10584	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Alphapapillomavirus|Alphapapillomavirus 4	9.370633330042482
+1658615	species	10239|||11046|||1658615	Viruses|ssRNA viruses|Nidovirales|Arteriviridae|Unclassified|Unclassified|Pebjah virus	3.5673920667531953
+940834	species	10239|||10559||940834|940834	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Dyorhopapillomavirus|Equus caballus papillomavirus 3	3.453226407753967
+673515	species	10239|||11050||11051|673515	Viruses|ssRNA viruses|Unclassified|Flaviviridae|Unclassified|Flavivirus|Mosquito flavivirus	3.0373144162068666
+666363	species	10239|||11270||666363|666363	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Sigmavirus|Drosophila melanogaster sigmavirus AP30	2.2255286454621435
+1046251	species	10239|||11270||11271|1046251	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Vesiculovirus|Maraba virus	2.1571911358587115
+10630	species	10239|||10572|||10630	Viruses|dsDNA viruses, no RNA stage|Unclassified|Polyomaviridae|Unclassified|Unclassified|Human polyomavirus 1	1.8605761704225494
+1922884	species	10239||||||1922884	Viruses|unclassified RNA viruses|Unclassified|Unclassified|Unclassified|Unclassified|Hubei diptera virus 3	1.5892677433532303
+1923772	species	10239||||||1923772	Viruses|unclassified RNA viruses|Unclassified|Unclassified|Unclassified|Unclassified|Xinzhou nematode virus 4	1.5810868986977344
+97344	species	10239|||10780|10806|12524|97344	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Densovirinae|Ambidensovirus|Periplaneta fuliginosa densovirus	1.465756226068353
+1608091	species	10239||||||1608091	Viruses|ssRNA viruses|unassigned Mononegavirales|Unclassified|Unclassified|Unclassified|Wenzhou Crab Virus 1	1.3991501619592848
+11290	species	10239|||11270||11287|11290	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Novirhabdovirus|Infectious hematopoietic necrosis virus	1.1694907160846282
+797418	species	10239|||10780|10806|797418|797418	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Densovirinae|Hepandensovirus|Fenneropenaeus chinensis hepandensovirus	1.0679193311779713
+763552	species	10239|||10559||10568|763552	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Pipapillomavirus|Mus musculus papillomavirus type 1	0.9756370159114326
+1174530	species	10239|||10780|10783|10784|1174530	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|Bocaparvovirus|Feline bocavirus	0.934406472173519
+1216928	species	10239|||||28292|1216928	Viruses|ssRNA viruses|Bunyavirales|Phenuiviridae|Unclassified|unclassified Phlebovirus|Heartland virus	0.8829172363676985
+1737586	species	10239|||11046|||1737586	Viruses|ssRNA viruses|Nidovirales|Arteriviridae|Unclassified|Unclassified|Free State vervet virus	0.8791805019788238
+1788433	species	10239|||10508||10509|1788433	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Mastadenovirus|Bat mastadenovirus WIV11	0.7496771938016121
+1608058	species	10239||||||1608058	Viruses|ssRNA viruses|unassigned Mononegavirales|Unclassified|Unclassified|Unclassified|Lishi Spider Virus 2	0.7293950538632318
+1534545	species	10239|||12058||1293536|1534545	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Avisivirus|Chicken picornavirus 2	0.72366971232101
+28274	species	10239|||11158||11176|28274	Viruses|ssRNA viruses|Mononegavirales|Paramyxoviridae|Unclassified|Avulavirus|Avian avulavirus 4	0.6568369582197289
+508750	strain	10239|||10811||10814|508750	Viruses|ssDNA viruses|Unclassified|Geminiviridae|Unclassified|Begomovirus|Kenaf leaf curl virus-[India:Bahraich:2007]	0.48862292288747633
+1608068	species	10239||||||1608068	Viruses|ssRNA viruses|Bunyavirales|unclassified Peribunyaviridae|Unclassified|Unclassified|Shayang Spider Virus 1	0.42582982799203006
+1104917	species	10239|||10559||35258|1104917	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Lambdapapillomavirus|Crocuta crocuta papillomavirus 1	0.42155598766416474
+198833	species	10239|||11270||11271|198833	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Vesiculovirus|Vesicular stomatitis Alagoas virus	0.34333505699453054
+1461100	species	10239|||212035||315393|1461100	Viruses|dsDNA viruses, no RNA stage|Unclassified|Mimiviridae|Unclassified|Mimivirus|Acanthamoeba polyphaga mimivirus	0.3315643567828903
+11152	species	10239|||11118|11120|11121|11152	Viruses|ssRNA viruses|Nidovirales|Coronaviridae|Coronavirinae|Gammacoronavirus|Turkey coronavirus	0.302491515775124
+11577	species	10239|||||11572|11577	Viruses|ssRNA viruses|Bunyavirales|Peribunyaviridae|Unclassified|Orthobunyavirus|La Crosse virus	0.2727416793991362
+1572239	species	10239|||12618|||1572239	Viruses|ssDNA viruses|Unclassified|Circoviridae|Unclassified|Unclassified|Bat circovirus POA/2012/VI	0.26641781917666385
+526413	species	10239|||10559||526413|526413	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|unclassified Dyoiotapapillomavirus|Equine papillomavirus 2	0.26576798908583493
+1272946	species	10239|||11270|||1272946	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Hapavirus|La Joya virus	0.24668735268214995
+1479613	species	10239|||11270|||1479613	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Almendravirus|Puerto Almendras virus	0.23804537356112024
+652105	species	10239|||12195||41459|652105	Viruses|ssRNA viruses|Unclassified|Potyviridae|Unclassified|Ipomovirus|Sweet potato mild mottle virus	0.22849422149661064
+660955	species	10239||||||660955	Viruses|ssRNA viruses|Bunyavirales|Hantaviridae|Unclassified|Orthohantavirus|Nova virus	0.22816639165728506
+798073	species	10239|||11158||11161|798073	Viruses|ssRNA viruses|Mononegavirales|Paramyxoviridae|Unclassified|Rubulavirus|Tuhoko virus 2	0.2165328330478521
+10616	species	10239|||10559||10579|10616	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Betapapillomavirus|Human papillomavirus type 49	0.2147075657418385
+32612	species	10239|||11270||11305|32612	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Cytorhabdovirus|Lettuce necrotic yellows virus	0.20976851447794054
+434309	species	10239|||12058||12103|434309	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Cardiovirus|Saffold virus	0.20684074169511887
+256548	species	10239|||10780|10783|10803|256548	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|Dependoparvovirus|Bovine adeno-associated virus	0.20606294777240108
+106333	species	10239|||11974||33754|106333	Viruses|ssRNA viruses|Unclassified|Caliciviridae|Unclassified|Sapovirus|Porcine enteric sapovirus	0.19635280049185735
+884200	species	10239|||10880|10892|10912|884200	Viruses|dsRNA viruses|Unclassified|Reoviridae|Sedoreovirinae|Rotavirus|Rotavirus D chicken/05V0049/DEU/2005	0.19396092654241656
+165250	species	10239|||12163|12164|48069|165250	Viruses|ssRNA viruses|Tymovirales|Betaflexiviridae|Quinvirinae|unclassified Carlavirus|Alfalfa latent virus	0.19374549922001524
+172296	species	10239|||10780|10783|172296|172296	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|Copiparvovirus|Bovine parvovirus - 2	0.17514152798809335
+291590	species	10239|||10559||291590|291590	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Sigmapapillomavirus|Erethizon dorsatum papillomavirus 1	0.17413322600924355
+206156	species	10239|||11974||11983|206156	Viruses|ssRNA viruses|Unclassified|Caliciviridae|Unclassified|Norovirus|Norovirus GIII	0.1696090684839292
+1926501	species	10239|||||28292|1926501	Viruses|ssRNA viruses|Bunyavirales|Phenuiviridae|Unclassified|unclassified Phlebovirus|Tapara virus	0.15526107304054657
+28311	species	10239|||10559||10583|28311	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Mupapillomavirus|Human papillomavirus type 63	0.15118322137991466
+1495866	species	10239|||||11572|1495866	Viruses|ssRNA viruses|Bunyavirales|Peribunyaviridae|Unclassified|Orthobunyavirus|Cat Que virus	0.14815424833761467
+398066	species	10239|||12058||398065|398066	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Avihepatovirus|Duck hepatitis A virus 1	0.14693602378921658
+1923510	species	10239||||||1923510	Viruses|unclassified RNA viruses|Unclassified|Unclassified|Unclassified|Unclassified|Wenling nido-like virus 1	0.13511433596800235
+1707330	species	10239|||1391025|||1707330	Viruses|Unclassified|Unclassified|Genomoviridae|Unclassified|Gemyvongvirus|Human plasma-associated gemycircularvirus	0.1261335057968828
+322067	species	10239|||32611|||322067	Viruses|ssRNA viruses|Mononegavirales|unclassified Paramyxoviridae|Unclassified|Unclassified|J-virus	0.1257430100872739
+268785	species	10239|||10811||10812|268785	Viruses|ssDNA viruses|Unclassified|Geminiviridae|Unclassified|Mastrevirus|Sugarcane streak Egypt virus - [Giza]	0.12430391900715039
+1193422	species	10239|||10508||1193420|1193422	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Goose aviadenovirus A|Goose adenovirus 4	0.12239108171557461
+159122	species	10239|||11632|11636|11652|159122	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae|Primate lentivirus group|Simian immunodeficiency virus SIV-mnd 2	0.10113758564278956
+1472911	species	10239|||10780|10783|10785|1472911	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|unclassified Protoparvovirus|Porcine parvovirus 6	0.0948452937985689
+494651	species	10239|||10780|10783|289365|494651	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|Tetraparvovirus|Ungulate tetraparvovirus 1	0.09027535476597595
+439015	species	10239||||||439015	Viruses|ssRNA viruses|Picornavirales|Unclassified|Unclassified|Unclassified|Marine RNA virus JP-A	0.08877144995466522
+363745	species	10239|||11632|11636|11859|363745	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae|Alpharetrovirus|Avian leukosis virus - RSA	0.08079072309337917
+68347	species	10239|||10486||10487|68347	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae|Betairidovirinae|Iridovirus|Wiseana iridescent virus	0.0774723078659347
+1715293	species	10239|||12455||186458|1715293	Viruses|ssRNA viruses|Mononegavirales|Bornaviridae|Unclassified|Bornavirus|Aquatic bird bornavirus 1	0.07690975366775821
+1788436	species	10239|||10508||10509|1788436	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Mastadenovirus|Bat mastadenovirus WIV9	0.07311621233393076
+10489	species	10239|||10486||10487|10489	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae|Betairidovirinae|Iridovirus|Invertebrate iridescent virus 22	0.07021593641058642
+1923187	species	10239||||||1923187	Viruses|unclassified RNA viruses|Unclassified|Unclassified|Unclassified|Unclassified|Hubei rhabdo-like virus 3	0.06727126642607094
+569195	species	10239|||12058||72149|569195	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Kobuvirus|Porcine kobuvirus swine/S-1-HUN/2007/Hungary	0.06711586864823377
+1128151	species	10239|||554168|||1128151	Viruses|dsDNA viruses, no RNA stage|Unclassified|unclassified Mimiviridae|Unclassified|Unclassified|Mimivirus terra2	0.06060740259737092
+12032	species	10239|||11989||12008|12032	Viruses|ssRNA viruses|Unclassified|Leviviridae|Unclassified|Allolevivirus|Escherichia virus Qbeta	0.06011418079761886
+1788432	species	10239|||10508||10509|1788432	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Mastadenovirus|Bat mastadenovirus WIV10	0.055270390556012024
+11803	species	10239|||11632|11636|11764|11803	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae|Gammaretrovirus|Moloney murine sarcoma virus	0.048940314886604816
+11553	species	10239|||11308||11552|11553	Viruses|ssRNA viruses|Unclassified|Orthomyxoviridae|Unclassified|Influenzavirus C|Influenza C virus (C/Ann Arbor/1/50)	0.04861053802507933
+1352235	species	10239|||10559||1352235|1352235	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Dyosigmapapillomavirus|Castor canadensis papillomavirus 1	0.047175587695187954
+1843757	species	10239||||||1843757	Viruses|unclassified viruses|Unclassified|Unclassified|Unclassified|Unclassified|Sheep faeces associated smacovirus 2	0.03875903448024393
+904722	species	10239|||||28292|904722	Viruses|ssRNA viruses|Bunyavirales|Phenuiviridae|Unclassified|unclassified Phlebovirus|Anhanga virus	0.038296767192396206
+1843742	species	10239|||1391025||1391026|1843742	Viruses|Unclassified|Unclassified|Genomoviridae|Unclassified|Gemycircularvirus|Faeces associated gemycircularvirus 22	0.02352012389084245
+	species	10239|||10508||10510|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Bovine mastadenovirus B|Bovine adenovirus 3	0.018502172086286947
+10510	species	10239|||10508||10509|10510	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Mastadenovirus|Bovine mastadenovirus B	0.01721729902473924
+318845	species	10239|||11270|||318845	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Hapavirus|Parry Creek virus	0.014831118011394896
+45370	species	10239|||10508||10509|45370	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Mastadenovirus|Porcine mastadenovirus C	0.01349972220063207
+	species	10239|||10508||45370|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Porcine mastadenovirus C|Porcine adenovirus 5	0.013228371000619365
+248053	species	10239||||||248053	Viruses|ssRNA viruses|Bunyavirales|Nairoviridae|Unclassified|Orthonairovirus|Farallon virus	0.010966406193792268
+992212	species	10239|||||11584|992212	Viruses|ssRNA viruses|Bunyavirales|Phenuiviridae|Unclassified|Phlebovirus|SFTS virus HB29	0.007029782062444023
+1404345	species	10239|||10780|10806||1404345	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Densovirinae|Unclassified|Acheta domestica mini ambidensovirus	0.0040275898615030345
+10568	species	10239|||10559||10568|10568	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Pipapillomavirus|Micromys minutus papillomavirus 1	0.0031429510585672827
+1301279	species	10239|||10486||10487|1301279	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae|Betairidovirinae|Iridovirus|Invertebrate iridovirus 22	0.0019645127615549557
+11913	species	10239|||11632|11636|11859|11913	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae|Alpharetrovirus|Avian leukemia virus	0.001772949825533672
+649596	species	10239|||10880|10892|338781|649596	Viruses|dsRNA viruses|Unclassified|Reoviridae|Sedoreovirinae|Mimoreovirus|Micromonas pusilla reovirus	0.0012552354837696033
+1382279	species	10239|||11617||1223561|1382279	Viruses|ssRNA viruses|Unclassified|Arenaviridae|Unclassified|Reptarenavirus|University of Helsinki virus	0.00021414136577352542
+11886	species	10239|||11632|11636|11859|11886	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae|Alpharetrovirus|Rous sarcoma virus	0.00011780967173677659
+71775	species	10239|||10486||10487|71775	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae|Betairidovirinae|Iridovirus|Invertebrate iridescent virus 30	8.359832649623532e-05
+	strain	10239|||11617||1223561|1303019|	Viruses|ssRNA viruses|Unclassified|Arenaviridae|Unclassified|Reptarenavirus|ROUT virus|Unclassified	24.18456149852065
+	strain	10239|||10880|10892|10893|40064|	Viruses|dsRNA viruses|Unclassified|Reoviridae|Sedoreovirinae|Orbivirus|Great Island virus|Unclassified	15.23317935782826
+	strain	10239|||10486||10491|113377|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae|Betairidovirinae|Chloriridovirus|Invertebrate iridescent virus 3|Unclassified	11.237139431760912
+	strain	10239|||10559||10570|10584|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Alphapapillomavirus|Alphapapillomavirus 4|Unclassified	9.370633330042482
+	strain	10239|||11046|||1658615|	Viruses|ssRNA viruses|Nidovirales|Arteriviridae|Unclassified|Unclassified|Pebjah virus|Unclassified	3.5673920667531953
+	strain	10239|||10559||940834|940834|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Dyorhopapillomavirus|Equus caballus papillomavirus 3|Unclassified	3.453226407753967
+	strain	10239|||11050||11051|673515|	Viruses|ssRNA viruses|Unclassified|Flaviviridae|Unclassified|Flavivirus|Mosquito flavivirus|Unclassified	3.0373144162068666
+	strain	10239|||11270||666363|666363|	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Sigmavirus|Drosophila melanogaster sigmavirus AP30|Unclassified	2.2255286454621435
+	strain	10239|||11270||11271|1046251|	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Vesiculovirus|Maraba virus|Unclassified	2.1571911358587115
+	strain	10239|||10572|||10630|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Polyomaviridae|Unclassified|Unclassified|Human polyomavirus 1|Unclassified	1.8605761704225494
+	strain	10239||||||1922884|	Viruses|unclassified RNA viruses|Unclassified|Unclassified|Unclassified|Unclassified|Hubei diptera virus 3|Unclassified	1.5892677433532303
+	strain	10239||||||1923772|	Viruses|unclassified RNA viruses|Unclassified|Unclassified|Unclassified|Unclassified|Xinzhou nematode virus 4|Unclassified	1.5810868986977344
+	strain	10239|||10780|10806|12524|97344|	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Densovirinae|Ambidensovirus|Periplaneta fuliginosa densovirus|Unclassified	1.465756226068353
+	strain	10239||||||1608091|	Viruses|ssRNA viruses|unassigned Mononegavirales|Unclassified|Unclassified|Unclassified|Wenzhou Crab Virus 1|Unclassified	1.3991501619592848
+	strain	10239|||11270||11287|11290|	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Novirhabdovirus|Infectious hematopoietic necrosis virus|Unclassified	1.1694907160846282
+	strain	10239|||10780|10806|797418|797418|	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Densovirinae|Hepandensovirus|Fenneropenaeus chinensis hepandensovirus|Unclassified	1.0679193311779713
+	strain	10239|||10559||10568|763552|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Pipapillomavirus|Mus musculus papillomavirus type 1|Unclassified	0.9756370159114326
+	strain	10239|||10780|10783|10784|1174530|	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|Bocaparvovirus|Feline bocavirus|Unclassified	0.934406472173519
+	strain	10239|||||28292|1216928|	Viruses|ssRNA viruses|Bunyavirales|Phenuiviridae|Unclassified|unclassified Phlebovirus|Heartland virus|Unclassified	0.8829172363676985
+	strain	10239|||11046|||1737586|	Viruses|ssRNA viruses|Nidovirales|Arteriviridae|Unclassified|Unclassified|Free State vervet virus|Unclassified	0.8791805019788238
+	strain	10239|||10508||10509|1788433|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Mastadenovirus|Bat mastadenovirus WIV11|Unclassified	0.7496771938016121
+	strain	10239||||||1608058|	Viruses|ssRNA viruses|unassigned Mononegavirales|Unclassified|Unclassified|Unclassified|Lishi Spider Virus 2|Unclassified	0.7293950538632318
+	strain	10239|||12058||1293536|1534545|	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Avisivirus|Chicken picornavirus 2|Unclassified	0.72366971232101
+	strain	10239|||11158||11176|28274|	Viruses|ssRNA viruses|Mononegavirales|Paramyxoviridae|Unclassified|Avulavirus|Avian avulavirus 4|Unclassified	0.6568369582197289
+	strain	10239||||||1608068|	Viruses|ssRNA viruses|Bunyavirales|unclassified Peribunyaviridae|Unclassified|Unclassified|Shayang Spider Virus 1|Unclassified	0.42582982799203006
+	strain	10239|||10559||35258|1104917|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Lambdapapillomavirus|Crocuta crocuta papillomavirus 1|Unclassified	0.42155598766416474
+	strain	10239|||11270||11271|198833|	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Vesiculovirus|Vesicular stomatitis Alagoas virus|Unclassified	0.34333505699453054
+	strain	10239|||212035||315393|1461100|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Mimiviridae|Unclassified|Mimivirus|Acanthamoeba polyphaga mimivirus|Unclassified	0.3315643567828903
+	strain	10239|||11118|11120|11121|11152|	Viruses|ssRNA viruses|Nidovirales|Coronaviridae|Coronavirinae|Gammacoronavirus|Turkey coronavirus|Unclassified	0.302491515775124
+	strain	10239|||||11572|11577|	Viruses|ssRNA viruses|Bunyavirales|Peribunyaviridae|Unclassified|Orthobunyavirus|La Crosse virus|Unclassified	0.2727416793991362
+	strain	10239|||12618|||1572239|	Viruses|ssDNA viruses|Unclassified|Circoviridae|Unclassified|Unclassified|Bat circovirus POA/2012/VI|Unclassified	0.26641781917666385
+	strain	10239|||10559||526413|526413|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|unclassified Dyoiotapapillomavirus|Equine papillomavirus 2|Unclassified	0.26576798908583493
+	strain	10239|||11270|||1272946|	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Hapavirus|La Joya virus|Unclassified	0.24668735268214995
+	strain	10239|||11270|||1479613|	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Almendravirus|Puerto Almendras virus|Unclassified	0.23804537356112024
+	strain	10239|||12195||41459|652105|	Viruses|ssRNA viruses|Unclassified|Potyviridae|Unclassified|Ipomovirus|Sweet potato mild mottle virus|Unclassified	0.22849422149661064
+	strain	10239||||||660955|	Viruses|ssRNA viruses|Bunyavirales|Hantaviridae|Unclassified|Orthohantavirus|Nova virus|Unclassified	0.22816639165728506
+	strain	10239|||11158||11161|798073|	Viruses|ssRNA viruses|Mononegavirales|Paramyxoviridae|Unclassified|Rubulavirus|Tuhoko virus 2|Unclassified	0.2165328330478521
+	strain	10239|||10559||10579|10616|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Betapapillomavirus|Human papillomavirus type 49|Unclassified	0.2147075657418385
+	strain	10239|||11270||11305|32612|	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Cytorhabdovirus|Lettuce necrotic yellows virus|Unclassified	0.20976851447794054
+	strain	10239|||12058||12103|434309|	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Cardiovirus|Saffold virus|Unclassified	0.20684074169511887
+	strain	10239|||10780|10783|10803|256548|	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|Dependoparvovirus|Bovine adeno-associated virus|Unclassified	0.20606294777240108
+	strain	10239|||11974||33754|106333|	Viruses|ssRNA viruses|Unclassified|Caliciviridae|Unclassified|Sapovirus|Porcine enteric sapovirus|Unclassified	0.19635280049185735
+	strain	10239|||10880|10892|10912|884200|	Viruses|dsRNA viruses|Unclassified|Reoviridae|Sedoreovirinae|Rotavirus|Rotavirus D chicken/05V0049/DEU/2005|Unclassified	0.19396092654241656
+	strain	10239|||12163|12164|48069|165250|	Viruses|ssRNA viruses|Tymovirales|Betaflexiviridae|Quinvirinae|unclassified Carlavirus|Alfalfa latent virus|Unclassified	0.19374549922001524
+	strain	10239|||10780|10783|172296|172296|	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|Copiparvovirus|Bovine parvovirus - 2|Unclassified	0.17514152798809335
+	strain	10239|||10559||291590|291590|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Sigmapapillomavirus|Erethizon dorsatum papillomavirus 1|Unclassified	0.17413322600924355
+	strain	10239|||11974||11983|206156|	Viruses|ssRNA viruses|Unclassified|Caliciviridae|Unclassified|Norovirus|Norovirus GIII|Unclassified	0.1696090684839292
+	strain	10239|||||28292|1926501|	Viruses|ssRNA viruses|Bunyavirales|Phenuiviridae|Unclassified|unclassified Phlebovirus|Tapara virus|Unclassified	0.15526107304054657
+	strain	10239|||10559||10583|28311|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Mupapillomavirus|Human papillomavirus type 63|Unclassified	0.15118322137991466
+	strain	10239|||||11572|1495866|	Viruses|ssRNA viruses|Bunyavirales|Peribunyaviridae|Unclassified|Orthobunyavirus|Cat Que virus|Unclassified	0.14815424833761467
+	strain	10239|||12058||398065|398066|	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Avihepatovirus|Duck hepatitis A virus 1|Unclassified	0.14693602378921658
+	strain	10239||||||1923510|	Viruses|unclassified RNA viruses|Unclassified|Unclassified|Unclassified|Unclassified|Wenling nido-like virus 1|Unclassified	0.13511433596800235
+	strain	10239|||1391025|||1707330|	Viruses|Unclassified|Unclassified|Genomoviridae|Unclassified|Gemyvongvirus|Human plasma-associated gemycircularvirus|Unclassified	0.1261335057968828
+	strain	10239|||32611|||322067|	Viruses|ssRNA viruses|Mononegavirales|unclassified Paramyxoviridae|Unclassified|Unclassified|J-virus|Unclassified	0.1257430100872739
+	strain	10239|||10811||10812|268785|	Viruses|ssDNA viruses|Unclassified|Geminiviridae|Unclassified|Mastrevirus|Sugarcane streak Egypt virus - [Giza]|Unclassified	0.12430391900715039
+	strain	10239|||10508||1193420|1193422|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Goose aviadenovirus A|Goose adenovirus 4|Unclassified	0.12239108171557461
+	strain	10239|||11632|11636|11652|159122|	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae|Primate lentivirus group|Simian immunodeficiency virus SIV-mnd 2|Unclassified	0.10113758564278956
+	strain	10239|||10780|10783|10785|1472911|	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|unclassified Protoparvovirus|Porcine parvovirus 6|Unclassified	0.0948452937985689
+	strain	10239|||10780|10783|289365|494651|	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Parvovirinae|Tetraparvovirus|Ungulate tetraparvovirus 1|Unclassified	0.09027535476597595
+	strain	10239||||||439015|	Viruses|ssRNA viruses|Picornavirales|Unclassified|Unclassified|Unclassified|Marine RNA virus JP-A|Unclassified	0.08877144995466522
+	strain	10239|||11632|11636|11859|363745|	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae|Alpharetrovirus|Avian leukosis virus - RSA|Unclassified	0.08079072309337917
+	strain	10239|||10486||10487|68347|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae|Betairidovirinae|Iridovirus|Wiseana iridescent virus|Unclassified	0.0774723078659347
+	strain	10239|||12455||186458|1715293|	Viruses|ssRNA viruses|Mononegavirales|Bornaviridae|Unclassified|Bornavirus|Aquatic bird bornavirus 1|Unclassified	0.07690975366775821
+	strain	10239|||10508||10509|1788436|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Mastadenovirus|Bat mastadenovirus WIV9|Unclassified	0.07311621233393076
+	strain	10239|||10486||10487|10489|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae|Betairidovirinae|Iridovirus|Invertebrate iridescent virus 22|Unclassified	0.07021593641058642
+	strain	10239||||||1923187|	Viruses|unclassified RNA viruses|Unclassified|Unclassified|Unclassified|Unclassified|Hubei rhabdo-like virus 3|Unclassified	0.06727126642607094
+	strain	10239|||12058||72149|569195|	Viruses|ssRNA viruses|Picornavirales|Picornaviridae|Unclassified|Kobuvirus|Porcine kobuvirus swine/S-1-HUN/2007/Hungary|Unclassified	0.06711586864823377
+	strain	10239|||554168|||1128151|	Viruses|dsDNA viruses, no RNA stage|Unclassified|unclassified Mimiviridae|Unclassified|Unclassified|Mimivirus terra2|Unclassified	0.06060740259737092
+	strain	10239|||11989||12008|12032|	Viruses|ssRNA viruses|Unclassified|Leviviridae|Unclassified|Allolevivirus|Escherichia virus Qbeta|Unclassified	0.06011418079761886
+	strain	10239|||10508||10509|1788432|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Mastadenovirus|Bat mastadenovirus WIV10|Unclassified	0.055270390556012024
+	strain	10239|||11632|11636|11764|11803|	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae|Gammaretrovirus|Moloney murine sarcoma virus|Unclassified	0.048940314886604816
+	strain	10239|||11308||11552|11553|	Viruses|ssRNA viruses|Unclassified|Orthomyxoviridae|Unclassified|Influenzavirus C|Influenza C virus (C/Ann Arbor/1/50)|Unclassified	0.04861053802507933
+	strain	10239|||10559||1352235|1352235|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Dyosigmapapillomavirus|Castor canadensis papillomavirus 1|Unclassified	0.047175587695187954
+	strain	10239||||||1843757|	Viruses|unclassified viruses|Unclassified|Unclassified|Unclassified|Unclassified|Sheep faeces associated smacovirus 2|Unclassified	0.03875903448024393
+	strain	10239|||||28292|904722|	Viruses|ssRNA viruses|Bunyavirales|Phenuiviridae|Unclassified|unclassified Phlebovirus|Anhanga virus|Unclassified	0.038296767192396206
+	strain	10239|||1391025||1391026|1843742|	Viruses|Unclassified|Unclassified|Genomoviridae|Unclassified|Gemycircularvirus|Faeces associated gemycircularvirus 22|Unclassified	0.02352012389084245
+	strain	10239|||10508||10510||	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Bovine mastadenovirus B|Bovine adenovirus 3|Unclassified	0.018502172086286947
+	strain	10239|||10508||10509|10510|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Mastadenovirus|Bovine mastadenovirus B|Unclassified	0.01721729902473924
+	strain	10239|||11270|||318845|	Viruses|ssRNA viruses|Mononegavirales|Rhabdoviridae|Unclassified|Hapavirus|Parry Creek virus|Unclassified	0.014831118011394896
+	strain	10239|||10508||10509|45370|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Mastadenovirus|Porcine mastadenovirus C|Unclassified	0.01349972220063207
+	strain	10239|||10508||45370||	Viruses|dsDNA viruses, no RNA stage|Unclassified|Adenoviridae|Unclassified|Porcine mastadenovirus C|Porcine adenovirus 5|Unclassified	0.013228371000619365
+	strain	10239||||||248053|	Viruses|ssRNA viruses|Bunyavirales|Nairoviridae|Unclassified|Orthonairovirus|Farallon virus|Unclassified	0.010966406193792268
+	strain	10239|||||11584|992212|	Viruses|ssRNA viruses|Bunyavirales|Phenuiviridae|Unclassified|Phlebovirus|SFTS virus HB29|Unclassified	0.007029782062444023
+	strain	10239|||10780|10806||1404345|	Viruses|ssDNA viruses|Unclassified|Parvoviridae|Densovirinae|Unclassified|Acheta domestica mini ambidensovirus|Unclassified	0.0040275898615030345
+	strain	10239|||10559||10568|10568|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Papillomaviridae|Unclassified|Pipapillomavirus|Micromys minutus papillomavirus 1|Unclassified	0.0031429510585672827
+	strain	10239|||10486||10487|1301279|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae|Betairidovirinae|Iridovirus|Invertebrate iridovirus 22|Unclassified	0.0019645127615549557
+	strain	10239|||11632|11636|11859|11913|	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae|Alpharetrovirus|Avian leukemia virus|Unclassified	0.001772949825533672
+	strain	10239|||10880|10892|338781|649596|	Viruses|dsRNA viruses|Unclassified|Reoviridae|Sedoreovirinae|Mimoreovirus|Micromonas pusilla reovirus|Unclassified	0.0012552354837696033
+	strain	10239|||11617||1223561|1382279|	Viruses|ssRNA viruses|Unclassified|Arenaviridae|Unclassified|Reptarenavirus|University of Helsinki virus|Unclassified	0.00021414136577352542
+	strain	10239|||11632|11636|11859|11886|	Viruses|Retro-transcribing viruses|Unclassified|Retroviridae|Orthoretrovirinae|Alpharetrovirus|Rous sarcoma virus|Unclassified	0.00011780967173677659
+	strain	10239|||10486||10487|71775|	Viruses|dsDNA viruses, no RNA stage|Unclassified|Iridoviridae|Betairidovirinae|Iridovirus|Invertebrate iridescent virus 30|Unclassified	8.359832649623532e-05

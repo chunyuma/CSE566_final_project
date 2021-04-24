@@ -1,0 +1,190 @@
+*****************
+
+********** Used parameters: **********
+No. of input files           : 1
+Output file name             : /home/ugrads/cqm5886/work/CSE566finalproject/github_repos/profilers/Metalign/data/fungi/173103vs/reads_60mers
+No. of working directories   : 1
+Input format                 : FASTQ
+
+k-mer length                 : 60
+Max. k-mer length            : 256
+Signature length             : 9
+Min. count threshold         : 2
+Max. count threshold         : 1000000000
+Max. counter value           : 3
+Both strands                 : true
+RAM only mode                : false
+
+******* Stage 1 configuration: *******
+
+No. of bins                  : 512
+Bin part size                : 65536
+Input buffer size            : 16777216
+
+No. of readers               : 1
+No. of splitters             : 7
+
+Max. mem. size               : 12000MB
+Max. mem. per storer         :  6128MB
+Max. mem. for single package :    23MB
+
+Max. mem. for PMM (bin parts):  9428MB
+Max. mem. for PMM (FASTQ)    :  1751MB
+Max. mem. for PMM (reads)    :     7MB
+Max. mem. for PMM (b. reader):   805MB
+
+Stage 1: 0%Stage 1: 12%Stage 1: 25%Stage 1: 38%Stage 1: 51%Stage 1: 63%Stage 1: 76%Stage 1: 89%Stage 1: 100%
+
+******* Stage 2 configuration: *******
+No. of threads               : 8
+
+Max. mem. for 2nd stage      :  9438MB
+
+Stage 2: 0%Stage 2: 1%Stage 2: 2%Stage 2: 3%Stage 2: 4%Stage 2: 5%Stage 2: 6%Stage 2: 7%Stage 2: 8%Stage 2: 9%Stage 2: 10%Stage 2: 11%Stage 2: 12%Stage 2: 13%Stage 2: 14%Stage 2: 15%Stage 2: 16%Stage 2: 17%Stage 2: 18%Stage 2: 19%Stage 2: 20%Stage 2: 21%Stage 2: 22%Stage 2: 23%Stage 2: 24%Stage 2: 25%Stage 2: 26%Stage 2: 27%Stage 2: 28%Stage 2: 29%Stage 2: 30%Stage 2: 31%Stage 2: 32%Stage 2: 33%Stage 2: 34%Stage 2: 35%Stage 2: 36%Stage 2: 37%Stage 2: 38%Stage 2: 39%Stage 2: 40%Stage 2: 41%Stage 2: 42%Stage 2: 43%Stage 2: 44%Stage 2: 45%Stage 2: 46%Stage 2: 47%Stage 2: 48%Stage 2: 49%Stage 2: 50%Stage 2: 51%Stage 2: 52%Stage 2: 53%Stage 2: 54%Stage 2: 55%Stage 2: 56%Stage 2: 57%Stage 2: 58%Stage 2: 59%Stage 2: 60%Stage 2: 61%Stage 2: 62%Stage 2: 63%Stage 2: 64%Stage 2: 65%Stage 2: 66%Stage 2: 67%Stage 2: 68%Stage 2: 69%Stage 2: 70%Stage 2: 71%Stage 2: 72%Stage 2: 73%Stage 2: 74%Stage 2: 75%Stage 2: 76%Stage 2: 77%Stage 2: 78%Stage 2: 79%Stage 2: 80%Stage 2: 81%Stage 2: 82%Stage 2: 83%Stage 2: 84%Stage 2: 85%Stage 2: 86%Stage 2: 87%Stage 2: 88%Stage 2: 89%Stage 2: 90%Stage 2: 91%Stage 2: 92%Stage 2: 93%Stage 2: 94%Stage 2: 95%Stage 2: 96%Stage 2: 97%Stage 2: 98%Stage 2: 99%Stage 2: 100%
+1st stage: 6.27051s
+2nd stage: 16.9652s
+Total    : 23.2357s
+Tmp size : 594MB
+
+Stats:
+   No. of k-mers below min. threshold :    438686433
+   No. of k-mers above max. threshold :            0
+   No. of unique k-mers               :    456781079
+   No. of unique counted k-mers       :     18094646
+   Total no. of k-mers                :    602884239
+   Total no. of reads                 :      6625118
+   Total no. of super-k-mers          :     27531024
+in1: 0% in1: 0% in2: 0% in1: 1% in2: 0% in1: 1% in2: 15% in1: 99% in2: 15% in1: 99% in2: 32% in1: 99% in2: 37% in1: 99% in2: 53% in1: 99% in2: 58% in1: 99% in2: 62% in1: 99% in2: 78% in1: 99% in2: 94% in1: 99% in2: 97% in1: 99% in2: 98% in1: 99% in2: 99% in1: 100% in2: 99% Reading in sketches
+Finished reading in sketches
+Time: 0.268534
+Reading in/creating ternary search tree
+Finished reading in/creating ternary search tree
+Time: 0.011305
+Start streaming
+Read in 620 sequences
+Finished streaming
+Time: 0.021393
+Forming hit matrix
+Finished forming hit matrix
+Time: 0.010267
+Computing containment indicies
+Finished computing containment indicies
+Time: 0.028506
+Exporting results
+[M::mm_idx_gen::56.986*1.54] collected minimizers
+[M::mm_idx_gen::61.734*2.02] sorted minimizers
+[WARNING][1;31m For a multi-part index, no @SQ lines will be outputted. Please use --split-prefix.[0m
+[M::main::61.734*2.02] loaded/built the index for 44940 target sequence(s)
+[M::mm_mapopt_update::61.734*2.02] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 44940
+[M::mm_idx_stat::67.355*1.94] distinct minimizers: 576222461 (93.82% are singletons); average occurrences: 1.137; average spacing: 6.150; total length: 4029123619
+[M::worker_pipeline::70.253*2.19] mapped 333334 sequences
+[M::worker_pipeline::72.000*2.27] mapped 333334 sequences
+[M::worker_pipeline::73.714*2.33] mapped 333334 sequences
+[M::worker_pipeline::75.416*2.39] mapped 333334 sequences
+[M::worker_pipeline::77.152*2.45] mapped 333334 sequences
+[M::worker_pipeline::78.865*2.50] mapped 333334 sequences
+[M::worker_pipeline::80.562*2.55] mapped 333334 sequences
+[M::worker_pipeline::82.289*2.61] mapped 333334 sequences
+[M::worker_pipeline::84.001*2.65] mapped 333334 sequences
+[M::worker_pipeline::85.724*2.70] mapped 333334 sequences
+[M::worker_pipeline::87.458*2.74] mapped 333334 sequences
+[M::worker_pipeline::89.165*2.79] mapped 333334 sequences
+[M::worker_pipeline::90.886*2.83] mapped 333334 sequences
+[M::worker_pipeline::92.606*2.87] mapped 333334 sequences
+[M::worker_pipeline::94.326*2.91] mapped 333334 sequences
+[M::worker_pipeline::96.042*2.94] mapped 333334 sequences
+[M::worker_pipeline::97.753*2.98] mapped 333334 sequences
+[M::worker_pipeline::99.464*3.00] mapped 333334 sequences
+[M::worker_pipeline::101.164*2.96] mapped 333334 sequences
+[M::worker_pipeline::102.737*2.93] mapped 291772 sequences
+[M::mm_idx_gen::144.858*2.51] collected minimizers
+[M::mm_idx_gen::148.573*2.65] sorted minimizers
+[M::main::148.573*2.65] loaded/built the index for 21096 target sequence(s)
+[M::mm_mapopt_update::148.573*2.65] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 21096
+[M::mm_idx_stat::153.565*2.59] distinct minimizers: 447312365 (95.67% are singletons); average occurrences: 1.079; average spacing: 6.036; total length: 2914138150
+[M::worker_pipeline::155.004*2.64] mapped 333334 sequences
+[M::worker_pipeline::155.734*2.66] mapped 333334 sequences
+[M::worker_pipeline::156.485*2.67] mapped 333334 sequences
+[M::worker_pipeline::157.208*2.68] mapped 333334 sequences
+[M::worker_pipeline::157.954*2.70] mapped 333334 sequences
+[M::worker_pipeline::158.669*2.71] mapped 333334 sequences
+[M::worker_pipeline::159.397*2.72] mapped 333334 sequences
+[M::worker_pipeline::160.147*2.74] mapped 333334 sequences
+[M::worker_pipeline::160.881*2.75] mapped 333334 sequences
+[M::worker_pipeline::161.622*2.76] mapped 333334 sequences
+[M::worker_pipeline::162.351*2.77] mapped 333334 sequences
+[M::worker_pipeline::163.082*2.79] mapped 333334 sequences
+[M::worker_pipeline::163.800*2.80] mapped 333334 sequences
+[M::worker_pipeline::164.529*2.81] mapped 333334 sequences
+[M::worker_pipeline::165.268*2.82] mapped 333334 sequences
+[M::worker_pipeline::166.001*2.84] mapped 333334 sequences
+[M::worker_pipeline::166.734*2.85] mapped 333334 sequences
+[M::worker_pipeline::167.461*2.86] mapped 333334 sequences
+[M::worker_pipeline::168.204*2.85] mapped 333334 sequences
+[M::worker_pipeline::168.859*2.84] mapped 291772 sequences
+[M::main] Version: 2.18-r1015
+[M::main] CMD: minimap2 -ax sr -t 8 -2 -n1 --secondary=yes /home/ugrads/cqm5886/work/CSE566finalproject/github_repos/profilers/Metalign/data/fungi/173103vs/cmashed_db.fna /home/ugrads/cqm5886/work/CSE566finalproject/data/simulated_data/camisim_out/fungi/2021.04.13_12.12.10_sample_0/reads/anonymous_reads.fq
+[M::main] Real time: 169.316 sec; CPU: 479.617 sec; Peak RSS: 33.577 GB
+[00:01:07] Reading dbinfo file...
+[00:01:07] Computing abundances for input file: /home/ugrads/cqm5886/work/CSE566finalproject/data/simulated_data/camisim_out/fungi/2021.04.13_12.12.10_sample_0/reads/anonymous_reads.fq
+[00:02:17] Processed 100000 read hits.
+[00:02:18] Processed 200000 read hits.
+[00:02:19] Processed 300000 read hits.
+[00:02:20] Processed 400000 read hits.
+[00:02:21] Processed 500000 read hits.
+[00:02:22] Processed 600000 read hits.
+[00:02:23] Processed 700000 read hits.
+[00:02:24] Processed 800000 read hits.
+[00:02:25] Processed 900000 read hits.
+[00:02:26] Processed 1000000 read hits.
+[00:02:27] Processed 1100000 read hits.
+[00:02:28] Processed 1200000 read hits.
+[00:02:29] Processed 1300000 read hits.
+[00:02:30] Processed 1400000 read hits.
+[00:02:31] Processed 1500000 read hits.
+[00:02:32] Processed 1600000 read hits.
+[00:02:33] Processed 1700000 read hits.
+[00:02:34] Processed 1800000 read hits.
+[00:02:35] Processed 1900000 read hits.
+[00:02:36] Processed 2000000 read hits.
+[00:02:37] Processed 2100000 read hits.
+[00:02:38] Processed 2200000 read hits.
+[00:02:39] Processed 2300000 read hits.
+[00:02:41] Processed 2400000 read hits.
+[00:02:42] Processed 2500000 read hits.
+[00:02:43] Processed 2600000 read hits.
+[00:02:44] Processed 2700000 read hits.
+[00:02:45] Processed 2800000 read hits.
+[00:02:46] Processed 2900000 read hits.
+[00:02:47] Processed 3000000 read hits.
+[00:02:48] Processed 3100000 read hits.
+[00:02:49] Processed 3200000 read hits.
+[00:03:43] Processed 3300000 read hits.
+[00:03:49] Processed 3400000 read hits.
+[00:03:57] Assigning multimapped reads...
+[00:03:57] Compiling and writing results...
+	Command being timed: "/bin/bash /home/ugrads/cqm5886/work/CSE566finalproject/sh_scripts/run_Metaglin.sh /home/ugrads/cqm5886/work/CSE566finalproject/data/simulated_data/camisim_out/fungi/2021.04.13_12.12.10_sample_0/reads/anonymous_reads.fq fungi /home/ugrads/cqm5886/work/CSE566finalproject/data/run_data/Metalign/simulated_data/fungi 0"
+	User time (seconds): 703.93
+	System time (seconds): 42.73
+	Percent of CPU this job got: 313%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:58.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 35207716
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 17
+	Minor (reclaiming a frame) page faults: 19904460
+	Voluntary context switches: 1270674
+	Involuntary context switches: 55616
+	Swaps: 0
+	File system inputs: 4113576
+	File system outputs: 15558568
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

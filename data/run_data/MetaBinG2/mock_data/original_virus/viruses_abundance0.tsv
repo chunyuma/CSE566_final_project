@@ -1,0 +1,96 @@
+@SampleID:simulated_viruses
+@Version:0.9.1
+@Ranks: superkingdom|phylum|class|order|family|genus|species|strain
+
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE	_CAMI_genomeID	_CAMI_OTU
+10239	superkingdom	10239	Viruses	91.93187
+2731618	phylum	10239|2731618	Viruses|Uroviricota	58.77187
+2732412	phylum	10239|2732412	Viruses|Phixviricota	17.25917
+2732007	phylum	10239|2732007	Viruses|Nucleocytoviricota	14.79671
+2731361	phylum	10239|2731361	Viruses|Peploviricota	0.01755
+2731619	class	10239|2731618|2731619	Viruses|Uroviricota|Caudoviricetes	58.77187
+2732413	class	10239|2732412|2732413	Viruses|Phixviricota|Malgrandaviricetes	17.25917
+2732525	class	10239|2732007|2732525	Viruses|Nucleocytoviricota|Pokkesviricetes	14.79598
+2731363	class	10239|2731361|2731363	Viruses|Peploviricota|Herviviricetes	0.01755
+2732523	class	10239|2732007|2732523	Viruses|Nucleocytoviricota|Megaviricetes	0.00074
+28883	order	10239|2731618|2731619|28883	Viruses|Uroviricota|Caudoviricetes|Caudovirales	58.77187
+2732414	order	10239|2732412|2732413|2732414	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales	17.25917
+2732526	order	10239|2732007|2732525|2732526	Viruses|Nucleocytoviricota|Pokkesviricetes|Asfuvirales	10.76161
+2732527	order	10239|2732007|2732525|2732527	Viruses|Nucleocytoviricota|Pokkesviricetes|Chitovirales	4.03436
+548681	order	10239|2731361|2731363|548681	Viruses|Peploviricota|Herviviricetes|Herpesvirales	0.01755
+2732554	order	10239|2732007|2732523|2732554	Viruses|Nucleocytoviricota|Megaviricetes|Imitervirales	0.00074
+10662	family	10239|2731618|2731619|28883|10662	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae	30.88188
+10841	family	10239|2732412|2732413|2732414|10841	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae	17.25917
+137992	family	10239|2732007|2732525|2732526|137992	Viruses|Nucleocytoviricota|Pokkesviricetes|Asfuvirales|Asfarviridae	10.76161
+10699	family	10239|2731618|2731619|28883|10699	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae	16.88676
+10240	family	10239|2732007|2732525|2732527|10240	Viruses|Nucleocytoviricota|Pokkesviricetes|Chitovirales|Poxviridae	4.03436
+10744	family	10239|2731618|2731619|28883|10744	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Podoviridae	8.09368
+2560065	family	10239|2731618|2731619|28883|2560065	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Herelleviridae	2.88921
+10442	family	10239||||10442	Viruses||||Baculoviridae	1.08654
+10292	family	10239|2731361|2731363|548681|10292	Viruses|Peploviricota|Herviviricetes|Herpesvirales|Herpesviridae	0.01755
+2731643	family	10239|2731618|2731619|28883|2731643	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Autographiviridae	0.01807
+2731690	family	10239|2731618|2731619|28883|2731690	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Demerecviridae	0.00227
+549779	family	10239|2732007|2732523|2732554|549779	Viruses|Nucleocytoviricota|Megaviricetes|Imitervirales|Mimiviridae	0.00074
+10482	family	10239||||10482	Viruses||||Polydnaviridae	0.00003
+1910954	genus	10239|2732412|2732413|2732414|10841|1910954	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Sinsheimervirus	13.87552
+2733093	genus	10239|2731618|2731619|28883|10662|2733093	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae|Aurunvirus	18.34053
+39743	genus	10239|2732007|2732525|2732526|137992|39743	Viruses|Nucleocytoviricota|Pokkesviricetes|Asfuvirales|Asfarviridae|Asfivirus	10.76161
+10260	genus	10239|2732007|2732525|2732527|10240|10260	Viruses|Nucleocytoviricota|Pokkesviricetes|Chitovirales|Poxviridae|Avipoxvirus	4.03436
+2733124	genus	10239|2731618|2731619|28883|10662|2733124	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae|Phapecoctavirus	3.81690
+2560160	genus	10239|2731618|2731619|28883|2560065|2560160	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Herelleviridae|Kochikohdavirus	2.88921
+2560245	genus	10239|2731618|2731619|28883|10699|2560245	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Unahavirus	3.64681
+1910951	genus	10239|2732412|2732413|2732414|10841|1910951	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Alphatrevirus	3.38364
+1623299	genus	10239|2731618|2731619|28883|10699|1623299	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Phifelvirus	1.28852
+558017	genus	10239||||10442|558017	Viruses||||Baculoviridae|Betabaculovirus	1.08654
+10319	genus	10239|2731361|2731363|548681|10292|10319	Viruses|Peploviricota|Herviviricetes|Herpesvirales|Herpesviridae|Varicellovirus	0.01755
+2731933	genus	10239|2731618|2731619|28883|2731643|2731933	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Autographiviridae|Cheungvirus	0.01568
+187218	genus	10239|2731618|2731619|28883|2731690|187218	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Demerecviridae|Tequintavirus	0.00227
+2731985	genus	10239|2731618|2731619|28883|2731643|2731985	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Autographiviridae|Tritonvirus	0.00239
+2733176	genus	10239|2731618|2731619|28883|10699|2733176	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Franklinbayvirus	0.00018
+315393	genus	10239|2732007|2732523|2732554|549779|315393	Viruses|Nucleocytoviricota|Megaviricetes|Imitervirales|Mimiviridae|Mimivirus	0.00074
+10485	genus	10239||||10482|10485	Viruses||||Polydnaviridae|Bracovirus	0.00003
+1623302	genus	10239|2731618|2731619|28883|10699|1623302	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Saphexavirus	0.00011
+2731981	genus	10239|2731618|2731619|28883|2731643|2731981	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Autographiviridae|Tangaroavirus	0.00001
+948870	species	10239|2731618|2731619|28883|10662||948870	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae||Enterobacteria phage phi92	8.72444
+10847	species	10239|2732412|2732413|2732414|10841|1910954|10847	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Sinsheimervirus|Escherichia virus phiX174	13.87552
+10497	species	10239|2732007|2732525|2732526|137992|39743|10497	Viruses|Nucleocytoviricota|Pokkesviricetes|Asfuvirales|Asfarviridae|Asfivirus|African swine fever virus	10.76161
+663241	species	10239|2731618|2731619|28883|10699||663241	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae||Enterococcus phage phiEf11	6.92060
+10261	species	10239|2732007|2732525|2732527|10240|10260|10261	Viruses|Nucleocytoviricota|Pokkesviricetes|Chitovirales|Poxviridae|Avipoxvirus|Fowlpox virus	4.03436
+12336	species	10239|2731618|2731619|28883|10699||12336	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae||Clostridium phage c-st	4.60516
+1300004	species	10239|2731618|2731619|28883|10744||1300004	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Podoviridae||Alteromonas phage vB_AmaP_AD45-P1	8.09368
+56947	species	10239||||10442|558017|56947	Viruses||||Baculoviridae|Betabaculovirus|Choristoneura fumiferana granulovirus	0.85326
+673839	species	10239|2731618|2731619|28883|10699||673839	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae||Enterococcus phage phiFL4A	0.38489
+294631	species	10239|2731618|2731619|28883|10699||294631	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae||Flavobacterium phage 11b	0.04019
+10331	species	10239|2731361|2731363|548681|10292|10319|10331	Viruses|Peploviricota|Herviviricetes|Herpesvirales|Herpesviridae|Varicellovirus|Equid alphaherpesvirus 4	0.01755
+10726	species	10239|2731618|2731619|28883|2731690|187218|10726	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Demerecviridae|Tequintavirus|Escherichia virus T5	0.00227
+1445858	species	10239|2731618|2731619|28883|10699||1445858	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae||Enterococcus phage IME-EFm1	0.00029
+212035	species	10239|2732007|2732523|2732554|549779|315393|212035	Viruses|Nucleocytoviricota|Megaviricetes|Imitervirales|Mimiviridae|Mimivirus|Acanthamoeba polyphaga mimivirus	0.00074
+39640	species	10239||||10482|10485|39640	Viruses||||Polydnaviridae|Bracovirus|Cotesia congregata bracovirus	0.00003
+35254	species	10239||||10442|558017|35254	Viruses||||Baculoviridae|Betabaculovirus|Cryptophlebia leucotreta granulovirus	0.00005
+1747287	species	10239|2731618|2731619|28883|10699|1623302|1747287	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Saphexavirus|Enterococcus phage vB_EfaS_IME198	0.00011
+2734088	species	10239|2731618|2731619|28883|10662|2733093|2734088	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae|Aurunvirus|Synechococcus virus STIM5	18.34053
+2734131	species	10239|2731618|2731619|28883|10662|2733124|2734131	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae|Phapecoctavirus|Escherichia virus phAPEC8	3.81690
+2560419	species	10239|2731618|2731619|28883|2560065|2560160|2560419	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Herelleviridae|Kochikohdavirus|Enterococcus virus EF24C	2.88921
+2560472	species	10239|2731618|2731619|28883|10699|2560245|2560472	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Unahavirus|Flavobacterium virus 6H	3.64681
+1945589	species	10239|2732412|2732413|2732414|10841|1910951|1945589	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Alphatrevirus|Escherichia virus alpha3	3.38364
+1633151	species	10239|2731618|2731619|28883|10699|1623299|1633151	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Phifelvirus|Enterococcus virus FL3	1.28551
+1986289	species	10239||||10442|558017|1986289	Viruses||||Baculoviridae|Betabaculovirus|Clostera anastomosis granulovirus A	0.23323
+2733897	species	10239|2731618|2731619|28883|2731643|2731933|2733897	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Autographiviridae|Cheungvirus|Prochlorococcus virus NATL1A7	0.01568
+1633149	species	10239|2731618|2731619|28883|10699|1623299|1633149	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Phifelvirus|Enterococcus virus FL1	0.00247
+2733967	species	10239|2731618|2731619|28883|2731643|2731985|2733967	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Autographiviridae|Tritonvirus|Synechococcus virus PSSP2	0.00239
+1633150	species	10239|2731618|2731619|28883|10699|1623299|1633150	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Phifelvirus|Enterococcus virus FL2	0.00054
+2734235	species	10239|2731618|2731619|28883|10699|2733176|2734235	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Franklinbayvirus|Colwellia virus 9A	0.00018
+2733963	species	10239|2731618|2731619|28883|2731643|2731981|2733963	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Autographiviridae|Tangaroavirus|Prochlorococcus virus NATL2A133	0.00001
+1137745	strain	10239|2731618|2731619|28883|10662|2733093|2734088|1137745	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae|Aurunvirus|Synechococcus virus STIM5|Cyanophage S-TIM5	18.34053
+1229753	strain	10239|2731618|2731619|28883|10662|2733124|2734131|1229753	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Myoviridae|Phapecoctavirus|Escherichia virus phAPEC8|Escherichia phage phAPEC8	3.81690
+442493	strain	10239|2731618|2731619|28883|2560065|2560160|2560419|442493	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Herelleviridae|Kochikohdavirus|Enterococcus virus EF24C|Enterococcus phage EF24C	2.88921
+1325731	strain	10239|2731618|2731619|28883|10699|2560245|2560472|1325731	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Unahavirus|Flavobacterium virus 6H|Flavobacterium phage 6H	3.64681
+10849	strain	10239|2732412|2732413|2732414|10841|1910951|1945589|10849	Viruses|Phixviricota|Malgrandaviricetes|Petitvirales|Microviridae|Alphatrevirus|Escherichia virus alpha3|Escherichia phage alpha3	3.38364
+673837	strain	10239|2731618|2731619|28883|10699|1623299|1633151|673837	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Phifelvirus|Enterococcus virus FL3|Enterococcus phage phiFL3A	1.28551
+1986291	strain	10239||||10442|558017|1986289|1986291	Viruses||||Baculoviridae|Betabaculovirus|Clostera anastomosis granulovirus A|Clostera anastomosis granulovirus Henan	0.23323
+445693	strain	10239|2731618|2731619|28883|2731643|2731933|2733897|445693	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Autographiviridae|Cheungvirus|Prochlorococcus virus NATL1A7|Cyanophage NATL1A-7	0.01568
+673832	strain	10239|2731618|2731619|28883|10699|1623299|1633149|673832	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Phifelvirus|Enterococcus virus FL1|Enterococcus phage phiFL1A	0.00247
+444876	strain	10239|2731618|2731619|28883|2731643|2731985|2733967|444876	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Autographiviridae|Tritonvirus|Synechococcus virus PSSP2|Cyanophage P-SSP2	0.00239
+673835	strain	10239|2731618|2731619|28883|10699|1623299|1633150|673835	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Phifelvirus|Enterococcus virus FL2|Enterococcus phage phiFL2A	0.00054
+765765	strain	10239|2731618|2731619|28883|10699|2733176|2734235|765765	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Siphoviridae|Franklinbayvirus|Colwellia virus 9A|Colwellia phage 9A	0.00018
+445692	strain	10239|2731618|2731619|28883|2731643|2731981|2733963|445692	Viruses|Uroviricota|Caudoviricetes|Caudovirales|Autographiviridae|Tangaroavirus|Prochlorococcus virus NATL2A133|Cyanophage NATL2A-133	0.00001

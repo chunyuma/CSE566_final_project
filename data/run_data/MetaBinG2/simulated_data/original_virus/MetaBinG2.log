@@ -1,0 +1,25 @@
+You selected 8 threads.
+time:200795 ms
+	Command being timed: "./MetaBinG2 /home/ugrads/cqm5886/work/CSE566finalproject/data/simulated_data/camisim_out/viruses/2021.04.13_11.56.31_sample_0/reads/anonymous_reads.fa /home/ugrads/cqm5886/work/CSE566finalproject/github_repos/profilers/MetaBinG2/reference_database/db_virus 8 viruses.out"
+	User time (seconds): 1214.74
+	System time (seconds): 6.70
+	Percent of CPU this job got: 607%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:21.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3246652
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 779458
+	Voluntary context switches: 90239
+	Involuntary context switches: 8256
+	Swaps: 0
+	File system inputs: 2417600
+	File system outputs: 4807064
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
